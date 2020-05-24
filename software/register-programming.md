@@ -6,8 +6,7 @@
 
 Typical programmers, especially those brought up through a CS education, generally focus on programming at the algorithmic level. However, to make functions work at this level, low-level support routines such as device drivers for hardware must be functional. Embedded systems programming seeks to get this stuff out of the way, and is more frequently taught in electrical and computer engineering courses. An example of what one might see in a low-level driver is shown below:
 
-```text
-
+```bash
 // Enable OC1-OC4 as output compare, preload enabled, active then inactive when counting up
 // ("PWM mode 1")
 TIM4->CCMR1 = (uint16_t)0x6868;
