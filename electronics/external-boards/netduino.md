@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Netduino is a 32-bit open-source (ref) microcontroller platform created by
+  The Netduino is a 32-bit open-source microcontroller platform created by
   Secret Labs. It is principally programmed in C# using the .NET Micro
   Framework.
 ---

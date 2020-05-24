@@ -10,7 +10,7 @@
   * [Arduino](electronics/external-boards/arduino.md)
   * [Beagleboard](electronics/external-boards/beagleboard.md)
   * [Leaflabs Maple](electronics/external-boards/leaflabs-maple.md)
-  * [Meadow](electronics/external-boards/meadow.md)
+  * [Meadow F7 Micro](electronics/external-boards/meadow.md)
   * [Netduino](electronics/external-boards/netduino.md)
   * [ODROID-XU](electronics/external-boards/odroid-xu.md)
   * [Pandaboard](electronics/external-boards/pandaboard.md)
