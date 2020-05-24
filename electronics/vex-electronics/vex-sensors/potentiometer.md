@@ -1,3 +1,7 @@
+---
+description: The VEX Potentiometer helps track the rotations of shafts
+---
+
 # Potentiometer
 
 ![](https://phabricator.purduesigbots.com/file/data/ftan5koigk6lnucqdhx7/PHID-FILE-k3c33rkyjx5xmpmwbgiq/vex_potentiometer.jpg)

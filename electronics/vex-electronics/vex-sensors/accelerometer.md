@@ -1,7 +1,5 @@
 ---
-description: >-
-  An accelerometer, most of which are based from the solid-state piezoelectric
-  principle.
+description: An Accelerometer measures proper acceleration.
 ---
 
 # Accelerometer

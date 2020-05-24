@@ -1,3 +1,7 @@
+---
+description: The VEX Gyro returns the rate of rotation around the veritcal axis.
+---
+
 # Gyroscope
 
 ![](https://phabricator.purduesigbots.com/file/data/p7jm7bskc4bq23bdhvxn/PHID-FILE-w3fvfl5l6ijotesvazfz/vex_gyro.jpg)

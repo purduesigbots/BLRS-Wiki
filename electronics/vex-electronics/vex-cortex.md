@@ -1,20 +1,24 @@
+---
+description: The VEX Cortex is the older microcontroller that was used in VRC and VEXU
+---
+
 # VEX Cortex
 
 [![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)
 
-The **VEX Cortex** is the older microcontroller legal for use in the VEX Robotics Competition College Challenge. It is a 32-bit ARM Cortex-M3 processor with support for [PROS](/w/wiki/cs/pros/), [Easyc](/w/wiki/cs/easyc/), and [Robotc](/w/wiki/cs/robotc/). It features ten motor outputs which can deliver up to 8 A _combined_ of current \(12 A with a [VEX Power Expander](/w/wiki/ee/power_expander/)\), twelve digital inputs/outputs, eight analog inputs, and three communication interfaces.
+The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32-bit ARM Cortex-M3 processor with support for [PROS](../../software/vex-programming-software/pros/), [Easyc](../../software/vex-programming-software/easyc.md), and [Robotc](../../software/vex-programming-software/robotc.md). It features ten motor outputs which can deliver up to 8 A _combined_ of current \(12 A with a [VEX Power Expander](../power-expander.md)\), twelve digital inputs/outputs, eight analog inputs, and three communication interfaces.
 
 ### Features
 
 * Well-shielded against environmental hazards
 * Input pins carry short-circuit and ESD protection
-* Compatible with the standard line of [VEX Sensors](/w/vex_sensors/) and [VEX Motors](/w/vex_motor/)
+* Compatible with the standard line of [VEX Sensors](vex-sensors/) and [VEX Motors](motors.md)
 * Only microcontroller which is allowed to directly interface with actuators on the robot
 * High-speed, 32-bit ARM Cortex-M3 platform
-* Wireless communication and code download using [VEXnet](/w/vexnet/)
+* Wireless communication and code download using [VEXnet](vexnet.md)
 * Programmable in PROS, EasyC, or RobotC
 * Digital and analog pins are 5-volt tolerant
-* Code debugging \([RobotC](/w/robotc/#Debugging) only\)
+* Code debugging \([RobotC](../../software/vex-programming-software/robotc.md) only\)
 
 ### Shortcomings
 

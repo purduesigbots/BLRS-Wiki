@@ -4,7 +4,7 @@ description: >-
   regards to some issues/features of the VEX V5 electronics system.
 ---
 
-# V5 Electronics Observations
+# V5 Electronics Observations and Issues
 
 ## **Motor Current Rate Limiting**
 

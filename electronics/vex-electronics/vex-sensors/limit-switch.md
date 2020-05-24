@@ -1,3 +1,7 @@
+---
+description: The Limit Switch is a sensor that returns a value when it is pressed.
+---
+
 # Limit Switch
 
 ![](https://phabricator.purduesigbots.com/file/data/e6uhtyrngcdmk4rf26js/PHID-FILE-vb2juqo4kc7k2gsoeeea/limit_switch-300x300.jpg)

@@ -1,3 +1,7 @@
+---
+description: The V5 Inertial Sensor is a combination of an Accelerometer and Gyroscope.
+---
+
 # V5 Inertial Sensor \(IMU\)
 
 ![](../../../.gitbook/assets/276-4855.jpg)

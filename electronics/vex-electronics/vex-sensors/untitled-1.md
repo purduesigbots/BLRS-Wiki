@@ -1,3 +1,7 @@
+---
+description: The VEX Ultrasonic Sensor helps determine how far away an object is.
+---
+
 # Ultrasonic
 
 ![](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic_range_finder2-300x300.jpg)

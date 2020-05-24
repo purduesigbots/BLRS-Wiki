@@ -1,3 +1,7 @@
+---
+description: The Line Tracker can track "lines" and other objects using infrared LEDs
+---
+
 # Line Tracker
 
 ![](../../../.gitbook/assets/line-tracker.jpg)

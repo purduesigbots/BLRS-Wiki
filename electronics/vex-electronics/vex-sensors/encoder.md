@@ -1,3 +1,7 @@
+---
+description: The VEX Encoder helps to determine the rotation of a shaft.
+---
+
 # Encoder
 
 ![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)
