@@ -20,7 +20,7 @@
 * [I2C](electronics/i2c.md)
 * [Jitter](electronics/jitter.md)
 * [Wiring Guide](electronics/wiring-guide.md)
-* [Legacy Cortex Wiring Guide](electronics/general-vex-electronics-information-and-legacy-wiring-guide.md)
+* [Legacy Cortex Wiring Guide](electronics/legacy-wiring-guide.md)
 * [Line Noise](electronics/line-noise.md)
 * [List of Tools](electronics/list-of-tools.md)
 * [Motor Controller](electronics/motor-controller.md)
