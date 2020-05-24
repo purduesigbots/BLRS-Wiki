@@ -1,5 +1,5 @@
 ---
-description: VEX Made Electronic Sensors for the V5 Brain and Cortex
+description: VEX made electronic sensors for the V5 Brain and Cortex.
 ---
 
 # VEX Sensors
