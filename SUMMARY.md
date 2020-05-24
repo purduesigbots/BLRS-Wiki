@@ -58,6 +58,7 @@
 
 ## Software
 
+* [Autonomous Control](software/autonomous-control.md)
 * [Autoformatting](software/autoformatting.md)
 * [Bit Mask](software/bit-mask.md)
 * [Bit Shift](software/bit-shift.md)
