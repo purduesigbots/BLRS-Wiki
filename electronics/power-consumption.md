@@ -14,7 +14,7 @@ While typically applied in the context of electricity use for VEX applications, 
 
 A heat sink is used to safely operate devices with high **power consumption**
 
-Microcontrollers and general purpose computing devices such as the [Netduino](external-boards/untitled-2.md) and [PandaBoard](external-boards/pandaboard.md) consume electrical power while operating. Most of this power is turned into heat, primarily through gate leakage and switching transients. Power consumption for these devices can range from a few milliwatts to 5-10 watts. Embedded microcontrollers such as the [V5 Brain](vex-electronics/vex-v5-brain/) and [LeafLabs Maple](external-boards/leaflabs-maple.md) consume negligible quantities of power compared to a single actuator, even in run mode.
+Microcontrollers and general purpose computing devices such as the [Netduino](external-boards/netduino.md) and [PandaBoard](external-boards/pandaboard.md) consume electrical power while operating. Most of this power is turned into heat, primarily through gate leakage and switching transients. Power consumption for these devices can range from a few milliwatts to 5-10 watts. Embedded microcontrollers such as the [V5 Brain](vex-electronics/vex-v5-brain/) and [LeafLabs Maple](external-boards/leaflabs-maple.md) consume negligible quantities of power compared to a single actuator, even in run mode.
 
 The VEX platform typically operates on 7.2 V nominal. This works well for devices with 3.3 V and 5 V core voltages, as a step-down now ultimately satisfies all power conversion needs. The table shown below illustrates the power consumption of some common additional computational hardware and the voltage required for supply:
 

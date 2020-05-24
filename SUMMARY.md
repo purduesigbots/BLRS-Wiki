@@ -11,7 +11,7 @@
   * [Beagleboard](electronics/external-boards/beagleboard.md)
   * [Leaflabs Maple](electronics/external-boards/leaflabs-maple.md)
   * [Meadow](electronics/external-boards/meadow.md)
-  * [Netduino](electronics/external-boards/untitled-2.md)
+  * [Netduino](electronics/external-boards/netduino.md)
   * [ODROID-XU](electronics/external-boards/odroid-xu.md)
   * [Pandaboard](electronics/external-boards/pandaboard.md)
   * [LattePanda](electronics/external-boards/lattepanda.md)
