@@ -1,6 +1,6 @@
 # Embedded Programming Tips
 
-By no means is this guide meant to be an _exhaustive_ list of all considerations when programming on an embedded system. However, these are some of the most important rules and conditions to keep in mind when writing low-level code running _"on the metal"_, along with what may be found in [Code Style](https://phabricator.purduesigbots.com/w/code_style/) and [Debugging](https://phabricator.purduesigbots.com/w/debugging/):
+By no means is this guide meant to be an _exhaustive_ list of all considerations when programming on an embedded system. However, these are some of the most important rules and conditions to keep in mind when writing low-level code running _"on the metal"_, along with what may be found in [Code Style](code-styling-guide.md) and [Debugging](debugging.md):
 
 **Hardware:**
 
@@ -24,7 +24,7 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 
 **Bit-shifts and bit-masks**:
 
-1. Can a multiply or divide instruction be replaced with a [bit shift](https://phabricator.purduesigbots.com/w/bit_shift/)?
+1. Can a multiply or divide instruction be replaced with a [bit shift](bit-shift.md)?
 2. Does each bit mask have the correct polarity?
 3. Is the order of operations \(\| and & evaluate _after_ == for example\) respected?
 4. Do bit shifts properly account for a signed or unsigned variable?
