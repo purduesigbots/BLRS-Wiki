@@ -6,9 +6,9 @@ description: >-
 
 # Line Noise
 
-[![](https://phabricator.purduesigbots.com/file/data/ay5mibti56thhgp53m76/PHID-FILE-47i334uvtbaky6svgfbq/electrical_line_noise.jpg)](https://phabricator.purduesigbots.com/file/data/ay5mibti56thhgp53m76/PHID-FILE-47i334uvtbaky6svgfbq/electrical_line_noise.jpg)
+![  A noisy power supply signal caused by a running motor.](https://phabricator.purduesigbots.com/file/data/ay5mibti56thhgp53m76/PHID-FILE-47i334uvtbaky6svgfbq/electrical_line_noise.jpg)
 
- A noisy power supply signal caused by a running motor. Some noise is generally unavoidable, but many sources of significant noise can be identified and isolated. It is also possible to reduce noise when processing a signal using Fourier analysis.
+ Some noise is generally unavoidable, but many sources of significant noise can be identified and isolated. It is also possible to reduce noise when processing a signal using Fourier analysis.
 
 Noise from a seemingly unimportant signal can be emitted through the generation of electromagnetic waves, which can induce fluctuations in nearly sensitive signals. Analog sensors and other sensitive electronics are the most vulnerable inputs to noise; digital signals are more tolerant due to the use of a Schmitt trigger on most digital inputs.
 

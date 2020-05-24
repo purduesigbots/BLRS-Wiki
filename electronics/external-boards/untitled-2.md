@@ -11,7 +11,7 @@ description: >-
 The Netduino has reached end of life and is no longer sold or supported. The Netduino has been superseded by the [Meadow](meadow.md).
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/a3rlibpxcczl67zkkf4a/PHID-FILE-ekxjc5b35w25n4i5apdy/processor_netduino.jpg)](https://phabricator.purduesigbots.com/file/data/a3rlibpxcczl67zkkf4a/PHID-FILE-ekxjc5b35w25n4i5apdy/processor_netduino.jpg)
+![](https://phabricator.purduesigbots.com/file/data/a3rlibpxcczl67zkkf4a/PHID-FILE-ekxjc5b35w25n4i5apdy/processor_netduino.jpg)
 
 ## Features
 

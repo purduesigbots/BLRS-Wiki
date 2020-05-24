@@ -10,7 +10,7 @@ description: >-
 This article is only relevant for old VEX Cortex system, which is no longer competitive.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/etrlal4uipuwqzvaacuf/PHID-FILE-qlxacu4e34tv6ajfqnyf/vex_motor_controller.jpg)](https://phabricator.purduesigbots.com/file/data/etrlal4uipuwqzvaacuf/PHID-FILE-qlxacu4e34tv6ajfqnyf/vex_motor_controller.jpg)
+![](https://phabricator.purduesigbots.com/file/data/etrlal4uipuwqzvaacuf/PHID-FILE-qlxacu4e34tv6ajfqnyf/vex_motor_controller.jpg)
 
 A motor controller is not required for the [VEX Cortex](vex-electronics/vex-cortex.md) ports 1 and 10.
 

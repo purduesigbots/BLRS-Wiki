@@ -6,7 +6,7 @@ description: >-
 
 # ODROID-XU
 
-[![](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor_odroidxu.jpg)](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor_odroidxu.jpg)
+![](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor_odroidxu.jpg)
 
 | **Architecture:** 32-bit [Cortex-A15](http://www.arm.com/products/processors/cortex-a/cortex-a15.php/) |
 | :--- |

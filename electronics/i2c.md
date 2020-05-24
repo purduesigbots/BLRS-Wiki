@@ -9,9 +9,7 @@ description: >-
 
 ## Operation
 
-[![](https://phabricator.purduesigbots.com/file/data/vmca3t6sqjoypy6xlnbs/PHID-FILE-ycw35eq5wsb3g32mcx5s/i2c_timing.png)](https://phabricator.purduesigbots.com/file/data/vmca3t6sqjoypy6xlnbs/PHID-FILE-ycw35eq5wsb3g32mcx5s/i2c_timing.png)
-
- A typical **I2C** transaction showing both data reads and data writes
+![ A typical I2C transaction showing both data reads and data writes](https://phabricator.purduesigbots.com/file/data/vmca3t6sqjoypy6xlnbs/PHID-FILE-ycw35eq5wsb3g32mcx5s/i2c_timing.png)
 
 An I2C bus consists of two wires: **SDA** \(**s**erial **da**ta\) and **SCL** \(**s**erial **cl**ock\). The clock line allows for synchronous transmission, so I2C can achieve higher transmission speeds than an equivalent [UART](uart.md) and does not require clock recovery. However, I2C peripherals are less common and harder to implement than a simple serial interface.
 

@@ -8,7 +8,7 @@ description: The LeafLabs Maple is a 32-bit microcontroller platform created by 
 The LeafLabs Maple has reached end of life and is no longer sold or supported.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/au545ntykxeyir2styvt/PHID-FILE-7yzxrysy7jougj4f5fbo/processor_maple.jpg)](https://phabricator.purduesigbots.com/file/data/au545ntykxeyir2styvt/PHID-FILE-7yzxrysy7jougj4f5fbo/processor_maple.jpg)
+![](https://phabricator.purduesigbots.com/file/data/au545ntykxeyir2styvt/PHID-FILE-7yzxrysy7jougj4f5fbo/processor_maple.jpg)
 
 The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\)](https://github.com/leaflabs/libmaple), to make programming similar to the [Arduino](arduino.md) environment. Some of the [GPIO](../gpio.md) pins on the Maple are aligned with the Arduino form factor.
 

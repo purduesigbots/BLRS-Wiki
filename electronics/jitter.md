@@ -6,11 +6,7 @@ description: >-
 
 # Jitter
 
-**Advanced**
-
-[![](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock_jitter.jpg)](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock_jitter.jpg)
-
- A diagram showing how **jitter** might affect a square wave signal
+![ A diagram showing how jitter might affect a square wave signal](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock_jitter.jpg)
 
 Ideally, clocking signals would always have the same frequency, but in the real world, deviations from the nameplate rate occur due to a wide range of factors. Jitter is usually stated in percentage \(%\) units, or in parts per million \(ppm\) for low values.
 

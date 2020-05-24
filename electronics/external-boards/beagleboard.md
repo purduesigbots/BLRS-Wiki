@@ -10,7 +10,7 @@ description: >-
 This document is slightly out of date as Beagleboard has launched new products which can be seen [here](https://beagleboard.org/boards). 
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/f5tgcragbcdyp7xa7k3z/PHID-FILE-p6bj57joskwfjd5gegjb/beagle_board_big.jpg)](https://phabricator.purduesigbots.com/file/data/f5tgcragbcdyp7xa7k3z/PHID-FILE-p6bj57joskwfjd5gegjb/beagle_board_big.jpg)
+![](https://phabricator.purduesigbots.com/file/data/f5tgcragbcdyp7xa7k3z/PHID-FILE-p6bj57joskwfjd5gegjb/beagle_board_big.jpg)
 
 | **Architecture"** 32-bit [Cortex-A8](http://www.arm.com/products/processors/cortex-a/cortex-a8.php/) |
 | :--- |

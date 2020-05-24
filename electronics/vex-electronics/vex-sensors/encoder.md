@@ -1,6 +1,6 @@
 # Encoder
 
-[![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)
+![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)
 
 The **VEX Quadrature Encoder** \(\([https://www.vexrobotics.com/276-2156.html](https://www.vexrobotics.com/276-2156.html)\), or simply the **VEX Shaft Encoder**, is a two-port device which counts the number of times that a spinning axle has rotated. Both ports are outputs and output periodic pulses corresponding to movements of the shaft in question. This sensor must not be confused with the discontinued "VEX Optical Shaft Encoder" which is not a quadrature device and only counts rotation in one direction.
 

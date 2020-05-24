@@ -1,6 +1,6 @@
 # Accelerometer
 
-[![](https://phabricator.purduesigbots.com/file/data/tolj2gugcwwaa3alvel5/PHID-FILE-v6yde3okscjogvdjcsbi/vex_accelerometer.jpg)](https://phabricator.purduesigbots.com/file/data/tolj2gugcwwaa3alvel5/PHID-FILE-v6yde3okscjogvdjcsbi/vex_accelerometer.jpg)
+![](https://phabricator.purduesigbots.com/file/data/tolj2gugcwwaa3alvel5/PHID-FILE-v6yde3okscjogvdjcsbi/vex_accelerometer.jpg)
 
 An **accelerometer**, most of which are based from the solid-state piezoelectric principle.
 

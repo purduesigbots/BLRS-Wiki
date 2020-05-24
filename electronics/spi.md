@@ -8,17 +8,13 @@ description: >-
 
 ## Description
 
-[![](https://phabricator.purduesigbots.com/file/data/efxztftbyquxzqjacfbl/PHID-FILE-ymmaqcbfrat4zj7etqyb/spi_connections.png)](https://phabricator.purduesigbots.com/file/data/efxztftbyquxzqjacfbl/PHID-FILE-ymmaqcbfrat4zj7etqyb/spi_connections.png)
-
- Sample connection diagram between an SPI master and three SPI slaves
+![ Sample connection diagram between an SPI master and three SPI slaves](https://phabricator.purduesigbots.com/file/data/efxztftbyquxzqjacfbl/PHID-FILE-ymmaqcbfrat4zj7etqyb/spi_connections.png)
 
 SPI operates by transmitting data on changes of a separate clock connection, typically called **SCK**. SPI defines the device which generates the clock as the **master** and all other devices as **slave**s. Data is sent from the master to a slave using the **MOSI** pin \(**M**aster **O**ut **S**lave **I**n\) and is received from slaves using the **MISO** pin \(**M**aster **I**n **S**lave **O**ut\).
 
 To allow multiple devices to share the same SPI connections, a fourth pin known as **CS** \(**C**hip **S**elect\) is used to switch between devices. Each device has a CS pin; when it is _low_, that device is selected and can read or respond to transmissions, whereas a _high_ value will disable that device and cause it to ignore all other activity on the SPI connection.
 
-[![](https://phabricator.purduesigbots.com/file/data/ulvty4l5vhnpbsxvxqbb/PHID-FILE-jb6ijqt3vzqetvzvn6j4/spi_timing.png)](https://phabricator.purduesigbots.com/file/data/ulvty4l5vhnpbsxvxqbb/PHID-FILE-jb6ijqt3vzqetvzvn6j4/spi_timing.png)
-
- Timing diagram illustrating the effects of the CPOL and CPHA settings on data transmission
+![ Timing diagram illustrating the effects of the CPOL and CPHA settings on data transmission](https://phabricator.purduesigbots.com/file/data/ulvty4l5vhnpbsxvxqbb/PHID-FILE-jb6ijqt3vzqetvzvn6j4/spi_timing.png)
 
 The clock can default to high or low based on the **CPOL** \(clock polarity\) setting, and the data on the transmit or receive lines will be read by connected devices on either a high-to-low or low-to-high transition depending on the **CPHA** \(clock phase\) setting. While masters can transmit at any time, slaves cannot transmit data unless they are selected and receiving data. During this time, slaves can set the value of the MISO pin, which the master will sample as data is being transmitted at the same time as the slave would normally read the data in. Often, "dummy" data is transmitted after a request to read data to allow the slave to respond.
 

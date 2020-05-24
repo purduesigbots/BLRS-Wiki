@@ -6,7 +6,7 @@ description: >-
 
 # Pandaboard
 
-[![](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard_es_omap4460.jpg)](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard_es_omap4460.jpg)
+![](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard_es_omap4460.jpg)
 
 | **Architecture:** 32-bit [Cortex-A9](http://www.arm.com/products/processors/cortex-a/cortex-a9.php/) |
 | :--- |

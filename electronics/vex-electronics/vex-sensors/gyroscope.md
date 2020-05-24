@@ -1,6 +1,6 @@
 # Gyroscope
 
-[![](https://phabricator.purduesigbots.com/file/data/p7jm7bskc4bq23bdhvxn/PHID-FILE-w3fvfl5l6ijotesvazfz/vex_gyro.jpg)](https://phabricator.purduesigbots.com/file/data/p7jm7bskc4bq23bdhvxn/PHID-FILE-w3fvfl5l6ijotesvazfz/vex_gyro.jpg)
+![](https://phabricator.purduesigbots.com/file/data/p7jm7bskc4bq23bdhvxn/PHID-FILE-w3fvfl5l6ijotesvazfz/vex_gyro.jpg)
 
 The **VEX Yaw-Rate Gyro**, or simply the **VEX Gyro**, is an analog [gyroscope](/w/wiki/ee/external_sensors/gyro/) which returns a voltage between 0 and +5 V approximately proportional to the **rate** of rotation around the vertical axis through the sensor. The full-scale range is about +/- 1000 degrees per second, a huge limit that compresses the full-scale range and reduces resolution. While acceptable for coarse positioning, use of a digital gyroscope leads to more precise readings.
 

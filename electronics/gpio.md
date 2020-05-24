@@ -7,9 +7,7 @@ description: >-
 
 # GPIO
 
-[![](https://phabricator.purduesigbots.com/file/data/x4buotu5l3wgxyvwrsvn/PHID-FILE-c3zkq7wr5xnwh6ownee7/pandaboard_gpio.jpg)](https://phabricator.purduesigbots.com/file/data/x4buotu5l3wgxyvwrsvn/PHID-FILE-c3zkq7wr5xnwh6ownee7/pandaboard_gpio.jpg)
-
- The **GPIO** port bank on a PandaBoard
+![ The GPIO port bank on a PandaBoard](https://phabricator.purduesigbots.com/file/data/x4buotu5l3wgxyvwrsvn/PHID-FILE-c3zkq7wr5xnwh6ownee7/pandaboard_gpio.jpg)
 
 GPIO pins are often shared with other peripherals, such as [UART](uart.md) and [SPI](spi.md) pins.
 

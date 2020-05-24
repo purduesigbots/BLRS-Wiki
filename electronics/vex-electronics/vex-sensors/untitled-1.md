@@ -1,6 +1,6 @@
 # Ultrasonic
 
-[![](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic_range_finder2-300x300.jpg)](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic_range_finder2-300x300.jpg)
+![](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic_range_finder2-300x300.jpg)
 
 The **VEX Ultrasonic Sensor** \(\([http://www.vexrobotics.com/276-2155.html\)](http://www.vexrobotics.com/276-2155.html%29)\), or simply the **VEX Sonar**, is a rangefinding device which uses pulses of high-frequency sound to estimate the distance to an object. It connects to the [VEX Cortex](/w/wiki/ee/cortex/) or [VEX PIC](/w/wiki/ee/pic/) using two digital ports; one port to send a pulse, and the other to receive it.
 
