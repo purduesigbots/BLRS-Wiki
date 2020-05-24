@@ -34,7 +34,7 @@
     * [Gyroscope](electronics/vex-electronics/vex-sensors/gyroscope.md)
     * [Bumper](electronics/vex-electronics/vex-sensors/bumper.md)
     * [Accelerometer](electronics/vex-electronics/vex-sensors/accelerometer.md)
-    * [IMU](electronics/vex-electronics/vex-sensors/imu.md)
+    * [V5 Inertial Sensor \(IMU\)](electronics/vex-electronics/vex-sensors/imu.md)
 * [Analog-Digital Converter \(ADC\)](electronics/analog-digital-converter.md)
 * [Bit-Bang](electronics/bitbang.md)
 * [GPIO](electronics/gpio.md)

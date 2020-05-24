@@ -2,31 +2,27 @@
 
 ![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)
 
-The **VEX Quadrature Encoder** \(\([https://www.vexrobotics.com/276-2156.html](https://www.vexrobotics.com/276-2156.html)\), or simply the **VEX Shaft Encoder**, is a two-port device which counts the number of times that a spinning axle has rotated. Both ports are outputs and output periodic pulses corresponding to movements of the shaft in question. This sensor must not be confused with the discontinued "VEX Optical Shaft Encoder" which is not a quadrature device and only counts rotation in one direction.
+The [**VEX Quadrature Encoder**](https://www.vexrobotics.com/276-2156.html), or simply the **VEX Shaft Encoder**, is a two-port device which counts the number of times that a spinning axle has rotated. Both ports are outputs and output periodic pulses corresponding to movements of the shaft in question. This sensor must not be confused with the discontinued "VEX Optical Shaft Encoder" which is not a quadrature device and only counts rotation in one direction.
 
 ## Plan for it in your design
 
-As with [potentiometers](/w/wiki/ee/vex_sensors/potentiometer/), using these encoders requires advance planning. As you can see from the product image above, these items take up space \(they’re more than 3/4″ thick\). On a chassis they are typically installed in between the wheel’s supporting c-channels \(the structure of one side of the chassis is something like: c-channel, wheel, encoder, c-channel, with spacers & shaft collars thrown in as needed\). These sensors come in a handy 2-pack because you often use one on each side of your robot’s chassis to help you keep the robot driving straight in autonomous mode, in addition to knowing how far you’ve gone.
+As with [potentiometers](potentiometer.md), using these encoders requires advance planning. As you can see from the product image above, these items take up space \(they’re more than 3/4″ thick\). On a chassis they are typically installed in between the wheel’s supporting c-channels \(the structure of one side of the chassis is something like: c-channel, wheel, encoder, c-channel, with spacers & shaft collars thrown in as needed\). These sensors come in a handy 2-pack because you often use one on each side of your robot’s chassis to help you keep the robot driving straight in autonomous mode, in addition to knowing how far you’ve gone.
 
-The chassis is not the only place to use these sensors, but it is the most popular.
+The chassis is not the only place to use these sensors, but it is the most popular.L
 
-## Ports 4 and 10
+### Lots of Ports
 
 Once you’ve got a lot of sensors on your robot, the analog & digital ports can fill up fast. 4 shaft encoders = 8 ports; you get the idea.
-
-The VEX cortex has an important limitation, the understanding of which will save your team lots of agony of the “why is it doing this?!?” variety. The way the cortex is constructed, digital ports 4 and 10 use the same hardware interrupt; if you have an input on each, it will not know whether it was port 4 or port 10 that triggered the interrupt. What this means for shaft encoders is that you cannot use encoders on both ports 4 AND 10 at the same time.
-
-[PROS](/w/wiki/cs/pros/) does not allow encoders to be initialized using port 10 as a result.
 
 ## How it works
 
 [![](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft_encoder_insides.png)](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft_encoder_insides.png)
 
- Inside the red box is an infrared light and a sensor on opposite sides of a wheel with lots of little holes/slots in it \(image at right\). The sensor can tell when light is shining through the holes and when it is not, and thus can count the number of “clicks” that have gone past its viewing window. One full revolution includes 360 clicks \(not 90 clicks, as described on the downloadable info sheet\).
+Inside the red box is an infrared light and a sensor on opposite sides of a wheel with lots of little holes/slots in it \(image at right\). The sensor can tell when light is shining through the holes and when it is not, and thus can count the number of “clicks” that have gone past its viewing window. One full revolution includes 360 clicks \(not 90 clicks, as described on the downloadable info sheet\).
 
-The reason that these encoders have 2 wires \(the older model had only one sensor/one wire\) is that the second wire—attached to a second sensor inside the device—allows the cortex to know which direction the wheel is spinning. One could use these sensors with just one wire plugged in—simulating the older version of the component—if \(a\) you don’t care what direction the wheel is moving, \(b\) you know it will only move in one direction in your usage, AND \(c\) you have so many sensors and gizmos that you have run out of digital ports on the cortex.
+The reason that these encoders have 2 wires \(the older model had only one sensor/one wire\) is that the second wire—attached to a second sensor inside the device—allows the [V5 Brain](../vex-v5-brain/) to know which direction the wheel is spinning. One could use these sensors with just one wire plugged in—simulating the older version of the component—if \(a\) you don’t care what direction the wheel is moving, \(b\) you know it will only move in one direction in your usage, AND \(c\) you have so many sensors and gizmos that you have run out of digital ports on the [V5 Brain](../vex-v5-brain/).
 
-Underneath it all, these shaft encoders are indeed digital sensors. When the infrared light makes it from the light to the light sensor through one of the open slots, the encoder spits out a 0 \(LOW\). When the light is blocked it spits out a 1 \(HIGH\). The cortex keeps track of these 1s and 0s to generate a running count of clicks. Combined with information from the second wire to the cortex \(which gets data from the second infrared sensor inside the device\), it knows what direction the shaft/wheel/encoder is moving: the cortex knows whether to add to its click count or subtract from it.
+Underneath it all, these shaft encoders are indeed digital sensors. When the infrared light makes it from the light to the light sensor through one of the open slots, the encoder spits out a 0 \(LOW\). When the light is blocked it spits out a 1 \(HIGH\). The [V5 Brain](../vex-v5-brain/) keeps track of these 1s and 0s to generate a running count of clicks. Combined with information from the second wire to the [V5 Brain](../vex-v5-brain/) \(which gets data from the second infrared sensor inside the device\), it knows what direction the shaft/wheel/encoder is moving: the [V5 Brain](../vex-v5-brain/) knows whether to add to its click count or subtract from it.
 
 ## Relative vs. Absolute Position
 
