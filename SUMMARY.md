@@ -56,7 +56,7 @@
 
 ## Software
 
-* [Autoformatting](software/untitled-1.md)
+* [Autoformatting](software/autoformatting.md)
 * [Bit Mask](software/bit-mask.md)
 * [Bit Shift](software/bit-shift.md)
 * [Code Styling Guide](software/code-styling-guide.md)
@@ -64,10 +64,10 @@
   * [Bang Bang](software/control-algorithms/bang-bang.md)
   * [PID Controller](software/control-algorithms/pid-controller.md)
   * [Take Back Half \(TBH\) Controller](software/control-algorithms/take-back-half-tbh-controller.md)
-* [Debugging](software/untitled-2.md)
+* [Debugging](software/debugging.md)
 * [Embedded Programming Tips](software/embedded-programming-tips.md)
 * [Finite State Machine](software/finite-state-machine.md)
-* [Kalman Filter](software/untitled-3.md)
+* [Kalman Filter](software/kalman-filter.md)
 * [Grid System](software/grid-system.md)
 * [5 Volt Tolerant](software/5-volt-tolerant.md)
 * [Object Recognition](software/object-recognition/README.md)

@@ -45,7 +45,7 @@ Moral of the story: Avoid decimals if at all possible. Fixed-point is a viable a
 **Pointers** are the source of most C or C++ bugs. Memory leaks, segmentation faults, poor performance, and buffer overflows all have their roots in pointer misuse.
 
 * **Does your program crash \(segmentation fault, bus error, access violation\)?** Recompile the program with the -g option if you do not do so already, and use gdb to run the program with an attached debugger.
-  1. Type run to start the program, and when it crashes, enter backtrace to look for the exact location of its death. _If the error goes away when debugging, see_ [_Heisenbugs_](untitled-2.md#heisenbugs) _below._
+  1. Type run to start the program, and when it crashes, enter backtrace to look for the exact location of its death. _If the error goes away when debugging, see_ [_Heisenbugs_](debugging.md#heisenbugs) _below._
   2. Calls inside of library functions, system functions, or the kernel should likely be ignored; look for a line such as at input.c:5 which dictates the line of the faulting code.
   3. Enter frame N, where N is the number before the suspect line in the backtrace output, to see which source line caused the issue.
   4. Using print var will output the contents of the variable var to the screen.
@@ -120,12 +120,12 @@ static inline int fastest(int *x, int *y) {
 }
 ```
 
-* **Floating point** - _See_ [_Floating point_](untitled-2.md#floating-point) _above_. Floating-point operations are generally slower than integer operations, especially in embedded systems. For sin and cos, consider rounding to the nearest degree and building a look-up table. However, rounding itself can introduce a load-hit-store stall, as swapping variables between integer and floating point registers requires an expensive round and a trip through the stack.
+* **Floating point** - _See_ [_Floating point_](debugging.md#floating-point) _above_. Floating-point operations are generally slower than integer operations, especially in embedded systems. For sin and cos, consider rounding to the nearest degree and building a look-up table. However, rounding itself can introduce a load-hit-store stall, as swapping variables between integer and floating point registers requires an expensive round and a trip through the stack.
 * For C/C++, add -O3 to the compiler options, which may generate a fairly sizable speed boost. Not all auto-grading scripts will use it, though - handle with care.
 
 ### Memory hogging
 
-* **Are you leaking memory?** C users should use valgrind as discussed in [Pointers](untitled-2.md#pointers).
+* **Are you leaking memory?** C users should use valgrind as discussed in [Pointers](debugging.md#pointers).
 * **Reading entire input into memory?** This is asking for an out of memory error. Try to change the algorithm to work on pieces of the input instead.
 * Java users have less to worry about but should check for shared ArrayLists or StringBuilders that are getting bigger without bound. Java's system can also keep references in bizarre locations; try performing a memory analysis with jconsole \(included in the JDK\) or Oracle's jhat.
 * Do **NOT** perform "manual garbage collection" in garbage-collected languages. Doing this covers up the error and does not treat the cause.
@@ -154,10 +154,10 @@ Optimizing too soon, or neglecting to account for large data sizes, may induce o
 **Heisenbugs** are bugs which disappear or change when one changes the program to find their cause. These are most often due to:
 
 * **Uninitialized variables** - When running a program on gdb or ddd, variables are forced onto the stack and may be cleared to zero on declaration. If a variable is used uninitialized, the error may change or disappear when debugging. Many IDEs \(and sometimes valgrind\) can point these out.
-* **Floating points** - Floating point variables are often a necessary evil. If subtle changes break floating point code, one is probably using floats incorrectly or relying on non-guaranteed behavior. See [Floating-point](untitled-2.md#floating-point) for more insight.
-* **Optimization issues** - Compiling with -O2, -Os, or -O3 as described in the [Too slow](untitled-2.md#too-slow) section may "break" suspect code that should not have worked in the first place, due to assumptions made which only hold on good code. Look in I/O code or [wp&gt;type punning](https://phabricator.purduesigbots.com/w/wp_type_punning/) statements to find possible causes.
-* **Threading or network issues** - Slight changes to timing introduced by adding print statements or single-stepping in a debugger can either mask or exacerbate issues with concurrency or external I/O. If this is occurring, inserting empty printf\(""\); statements \(or Thread.sleep\(10L\);\) is not a long-term fix for the problem. See the [Threading](untitled-2.md#threading) section for more.
-* **Trashing memory** - C and C++ can trash memory in hidden ways that inserting a printf or other similar statement may fix or expose. See the appropriate [Pointers](untitled-2.md#pointers) section for details.
+* **Floating points** - Floating point variables are often a necessary evil. If subtle changes break floating point code, one is probably using floats incorrectly or relying on non-guaranteed behavior. See [Floating-point](debugging.md#floating-point) for more insight.
+* **Optimization issues** - Compiling with -O2, -Os, or -O3 as described in the [Too slow](debugging.md#too-slow) section may "break" suspect code that should not have worked in the first place, due to assumptions made which only hold on good code. Look in I/O code or [wp&gt;type punning](https://phabricator.purduesigbots.com/w/wp_type_punning/) statements to find possible causes.
+* **Threading or network issues** - Slight changes to timing introduced by adding print statements or single-stepping in a debugger can either mask or exacerbate issues with concurrency or external I/O. If this is occurring, inserting empty printf\(""\); statements \(or Thread.sleep\(10L\);\) is not a long-term fix for the problem. See the [Threading](debugging.md#threading) section for more.
+* **Trashing memory** - C and C++ can trash memory in hidden ways that inserting a printf or other similar statement may fix or expose. See the appropriate [Pointers](debugging.md#pointers) section for details.
 
 ### Works for them, crashes for me
 

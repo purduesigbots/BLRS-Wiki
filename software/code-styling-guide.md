@@ -236,5 +236,5 @@ c
 
 ## Autoformatting
 
-These rules can be [auto-formatted](untitled-1.md).
+These rules can be [auto-formatted](autoformatting.md).
 
