@@ -24,7 +24,7 @@ The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\
 
 ### Shortcomings
 
-* A little more expensive than other options \(e.g. the [Arduino](arduino.md) or [Netduino]()\)
+* A little more expensive than other options \(e.g. the [Arduino](arduino.md) or [Netduino](untitled-2.md)\)
 * Not all pins are [5 Volt Tolerant](../../software/5-volt-tolerant.md)
 * [Slew Rate](../slew-rate.md) and [Output Drive](../output-drive.md) leave some to be desired \(but are substantially better than [PandaBoard](pandaboard.md)-like alternatives\)
 
@@ -36,5 +36,5 @@ The Maple comes in two versions - the Maple rev5 based on the STM32F103RBT6 proc
 
 The Maple was used by SIGBOTS for VEX Toss Up on both robots as an I/O expander. Due to the limited [ADCs](../analog-digital-converter.md) and [GPIOs](../gpio.md) available on the [VEX Cortex](../vex-electronics/vex-cortex.md), there are insufficient ports for extra peripherals such as a serial LCD screen.
 
-The Maple supersedes the somewhat unreliable and slow Netduino. Although the Maple lacks a floating-point unit, it has enough horsepower to process a Kalman filter for the next generation of digital [gyros](../vex-electronics/vex-sensors/gyroscope.md).
+The Maple supersedes the somewhat unreliable and slow [Netduino](untitled-2.md). Although the Maple lacks a floating-point unit, it has enough horsepower to process a Kalman filter for the next generation of digital [gyros](../vex-electronics/vex-sensors/gyroscope.md).
 
