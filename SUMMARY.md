@@ -71,7 +71,7 @@
 * [Grid System](software/grid-system.md)
 * [5 Volt Tolerant](software/5-volt-tolerant.md)
 * [Object Recognition](software/object-recognition/README.md)
-  * [AMS](software/object-recognition/untitled.md)
+  * [AMS](software/object-recognition/ams.md)
   * [OpenCV](software/object-recognition/opencv.md)
   * [OpenNI](software/object-recognition/openni.md)
 * [OkapiLib](software/okapilib.md)
