@@ -82,7 +82,7 @@
 * [Stall Detection](software/stall-detection.md)
 * [VEX Programming Software](software/vex-programming-software/README.md)
   * [PROS](software/vex-programming-software/pros.md)
-  * [Robot Mesh Studios](software/vex-programming-software/robot-mesh-studios.md)
+  * [Robot Mesh Studios \(RMS\)](software/vex-programming-software/robot-mesh-studios.md)
   * [EasyC](software/vex-programming-software/easyc.md)
   * [RobotC](software/vex-programming-software/robotc.md)
   * [VEX Coding Studio \(VCS\)](software/vex-programming-software/vex-coding-studio-vcs.md)
