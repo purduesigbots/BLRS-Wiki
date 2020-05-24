@@ -22,7 +22,7 @@
 * [Wiring Guide](electronics/wiring-guide.md)
 * [Legacy Cortex Wiring Guide](electronics/general-vex-electronics-information-and-legacy-wiring-guide.md)
 * [Line Noise](electronics/line-noise.md)
-* [List of Tools](electronics/untitled-1.md)
+* [List of Tools](electronics/list-of-tools.md)
 * [Motor Controller](electronics/motor-controller.md)
 * [Output Drive](electronics/output-drive.md)
 * [Power Expander](electronics/power-expander.md)

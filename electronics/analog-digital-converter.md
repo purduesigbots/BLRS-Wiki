@@ -31,7 +31,7 @@ A common use for analog-to-digital converters is to sample a signal from a senso
 
 The input signal must also be _band-limited_ to prevent _aliasing_ problems like those shown in the picture, as the program can easily be misled into thinking that one frequency is present when another is actually the cause. To eliminate this problem, add a low-pass filter to prevent signals higher than **1/2 the sampling rate** from reaching the ADC. Even with such a filter in place, one should sample at least four times faster than the fastest frequency that must be understood for reasons explained in the reconstruction section.
 
-Sampling even faster \(16 times the desired frequency or higher\), known as **oversampling**, allows the precision of the ADC to be increased by averaging multiple samples together. This cancels out noise to increase the signal-to-noise ratio \(SNR\) and therefore the effective number of bits. A frequency analysis of the input signal using an [Oscilloscope](untitled-1.md#oscilloscope) is the most useful way to determine the maximum expected frequency and appropriate filtering/sampling strategy.
+Sampling even faster \(16 times the desired frequency or higher\), known as **oversampling**, allows the precision of the ADC to be increased by averaging multiple samples together. This cancels out noise to increase the signal-to-noise ratio \(SNR\) and therefore the effective number of bits. A frequency analysis of the input signal using an [Oscilloscope](list-of-tools.md#oscilloscope) is the most useful way to determine the maximum expected frequency and appropriate filtering/sampling strategy.
 
 ### Reconstruction
 
