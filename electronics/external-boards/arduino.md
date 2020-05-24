@@ -41,7 +41,7 @@ As an evolution of the first Arduino boards \(first the Arduino USB, then the NG
 * Low performance; performing [Object Recognition](../../software/object-recognition/) on this device is out of the question
 * Very little program memory or RAM available
 * Peripheral set very limited; [general purpose I/O](../gpio.md) are scarce \(only one hardware [USART](../usart.md), [I2C](../i2c.md) takes over Analog inputs\)
-* Since surpassed for high-performance usage by other, form-factor compatible platforms such as the [Netduino](untitled-2.md) and [LeafLabs Maple](leaflabs-maple.md)
+* Since surpassed for high-performance usage by other, form-factor compatible platforms such as the [Netduino]() and [LeafLabs Maple](leaflabs-maple.md)
 
 ### History
 

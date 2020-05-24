@@ -24,7 +24,7 @@ The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\
 
 ### Shortcomings
 
-* A little more expensive than other options \(e.g. the [Arduino](arduino.md) or [Netduino](untitled-2.md)\)
+* A little more expensive than other options \(e.g. the [Arduino](arduino.md) or [Netduino]()\)
 * Not all pins are [5 Volt Tolerant](../../software/5-volt-tolerant.md)
 * [Slew Rate](../slew-rate.md) and [Output Drive](../output-drive.md) leave some to be desired \(but are substantially better than [PandaBoard](pandaboard.md)-like alternatives\)
 
