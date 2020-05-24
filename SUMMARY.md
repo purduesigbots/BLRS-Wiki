@@ -54,6 +54,7 @@
     * [Bumper](electronics/vex-electronics/vex-sensors/bumper.md)
     * [Accelerometer](electronics/vex-electronics/vex-sensors/accelerometer.md)
     * [IMU](electronics/vex-electronics/vex-sensors/imu.md)
+* [5 Volt Tolerant](electronics/5-volt-tolerant.md)
 
 ## Software
 
@@ -70,7 +71,6 @@
 * [Finite State Machine](software/finite-state-machine.md)
 * [Kalman Filter](software/kalman-filter.md)
 * [Grid System](software/grid-system.md)
-* [5 Volt Tolerant](software/5-volt-tolerant.md)
 * [Object Recognition](software/object-recognition/README.md)
   * [Red Green Buoy](software/object-recognition/red-green-buoy.md)
   * [AMS](software/object-recognition/ams.md)

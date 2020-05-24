@@ -20,7 +20,7 @@ The **Netduino** features the same footprint as the [Arduino](arduino.md) platfo
 * Fast and easy development and testing
 * Object-oriented programming language
 * Built-in debugger
-* [5\_volt\_tolerance](../../software/5-volt-tolerant.md) and moderate [Output Drive](../output-drive.md) allow it to be used with realistic configurations of sensors
+* [5\_volt\_tolerance](../5-volt-tolerant.md) and moderate [Output Drive](../output-drive.md) allow it to be used with realistic configurations of sensors
 * [Active community](http://forums.netduino.com/) and manufacturer support
 
 ## Shortcomings

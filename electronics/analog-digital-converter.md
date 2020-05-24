@@ -15,7 +15,7 @@ Digital circuits like a microcontroller or computer can only understand binary l
 
 Many ADCs found in microcontroller applications operate on SAR \(successive approximation register\) principles. This method begins by guessing a number midway through the range of possible values, and performs a binary search by comparing the input voltage in the analog domain to the voltage produced by a digital-to-analog converter with the current guess as input. After a few iterations, the guesses will converge on the closest numeric representation to the specified input voltage. Alternatively, integrating ADCs are very slow but provide highly accurate readings, and sigma-delta ADCs are commonly used for applications requiring high bit depths at moderate sampling rates.
 
-Analog inputs are seldom [5-volt tolerant](../software/5-volt-tolerant.md) if the microcontroller's I/O voltage is less than 5 volts, due to the high sensitivity of the conversion circuitry required.
+Analog inputs are seldom [5-volt tolerant](5-volt-tolerant.md) if the microcontroller's I/O voltage is less than 5 volts, due to the high sensitivity of the conversion circuitry required.
 
 ## Usage
 

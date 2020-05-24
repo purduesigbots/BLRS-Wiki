@@ -15,7 +15,7 @@ GPIO pins are often shared with other peripherals, such as [UART](uart.md) and [
 
 If the internal output driver is placed in a high impedance state, then whatever is connected to the pin will determine its current value. Voltages near the I/O voltage will cause a logic "1", and voltages near 0 V will cause a logic "0". Voltages in between may or may not produce a consistent value, as governed by the logic family of the input device. The high or low value can be read in software, using a function like digitalRead\(\).
 
-Some GPIO pins can handle voltages higher than the I/O voltage. For more information, see [voltage tolerance](../software/5-volt-tolerant.md).
+Some GPIO pins can handle voltages higher than the I/O voltage. For more information, see [voltage tolerance](5-volt-tolerant.md).
 
 Unused input pins may cause increased [power consumption](power-consumption.md) if the input voltage floats about halfway in between the low and high states, along with spurious value changes. To avoid erratic behavior, set the pin to an output mode or use a pull-up resistor.
 

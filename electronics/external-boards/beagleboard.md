@@ -22,7 +22,7 @@ This document is slightly out of date as Beagleboard has launched new products w
 | **Power:** 2 W |
 | **Flash:** 256MB NAND, SD/MMC Card |
 | **RAM:** 256 MB |
-| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../../software/5-volt-tolerant.md)_\)_ |
+| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_\)_ |
 | **Peripherals:** USB On-The-Go, USB 2.0, HDMI, 3.5mm audio in/out, [UART](../uart.md) |
 
 ### Features
@@ -49,7 +49,7 @@ Video output is provided on an HDMI connection. An SD/MMC card slot, a USB port,
 | **Power:** 2 W |
 | **Flash:** SD/MMC Card |
 | **RAM:** 512 MB |
-| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../../software/5-volt-tolerant.md)_\)_ |
+| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_\)_ |
 | **Peripherals:** USB On-The-Go, 4x USB 2.0, HDMI, 3.5mm audio in/out, [UART](../uart.md) |
 
 ### Features
