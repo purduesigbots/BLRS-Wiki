@@ -1,6 +1,10 @@
-# OkapiLib
+---
+description: >-
+  OkapiLib is a PROS library for programming VEX V5 robots. This library is
+  intended to raise the floor for teams with all levels of experience.
+---
 
-**OkapiLib** is a PROS library for programming VEX V5 robots. This library is intended to raise the floor for teams with all levels of experience.
+# OkapiLib
 
 New teams should have an easier time getting their robot up and running, and veteran teams should find that OkapiLib doesn't get in the way or place any limits on functionality. 
 

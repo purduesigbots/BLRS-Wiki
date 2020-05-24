@@ -1,4 +1,14 @@
+---
+description: >-
+  RobotC is an interpreted C-like programming language available for the VEX PIC
+  and VEX Cortex.
+---
+
 # RobotC
+
+{% hint style="danger" %}
+Robot C is for the older VEX Cortex which is no longer supported.
+{% endhint %}
 
 ## Details:
 

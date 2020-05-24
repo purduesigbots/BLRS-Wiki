@@ -1,6 +1,6 @@
 # Register Programming
 
-**Register programming** refers to an arcane but frequently necessary method of programming in [embedded systems work](https://app.gitbook.com/@blrs/s/blrs-wiki/software/embedded-programming-tips/@merged). Often filled with jargon and insidious details, such programming is best left to experts.
+**Register programming** refers to an arcane but frequently necessary method of programming in [embedded systems work](embedded-programming-tips.md). Often filled with jargon and insidious details, such programming is best left to experts.
 
 ## Gory details
 
@@ -16,5 +16,5 @@ TIM4->CCMR2 = (uint16_t)0x6868;
 TIM4->CCER = (uint16_t)0x3333;
 ```
 
-This code looks very little like C; most constants are in hexadecimal, most variables have unintuitive names, and familiar constructs such as while loops are distorted to the point of confusion. Since this type of code is seldom self-documenting, good [code style](https://app.gitbook.com/@blrs/s/blrs-wiki/~/drafts/-M82nYJAGhlhAZKPghDw/software/code-styling-guide/@merged) dictates a descriptive comment for nearly every line.
+This code looks very little like C; most constants are in hexadecimal, most variables have unintuitive names, and familiar constructs such as while loops are distorted to the point of confusion. Since this type of code is seldom self-documenting, good [code style](code-styling-guide.md) dictates a descriptive comment for nearly every line.
 

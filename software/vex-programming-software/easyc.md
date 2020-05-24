@@ -1,6 +1,12 @@
+---
+description: EasyC is a programming language for the VEX Cortex.
+---
+
 # EasyC
 
-## EasyC
+{% hint style="danger" %}
+EasyC is for the older VEX Cortex which is no longer competitve.
+{% endhint %}
 
 | Platforms: |
 | :--- |
@@ -31,7 +37,7 @@
 * Not free and works only on Windows
 * Advanced C editor has been somewhat neglected and does not feature code completion
 * Flash utility does not cooperate with powered programming adapters.
-* Low-level code performance poor, with buggy library functions and unpredictable timing [Jitter](https://phabricator.purduesigbots.com/w/ee/jitter/)
+* Low-level code performance poor, with buggy library functions and unpredictable timing [Jitter](../../electronics/jitter.md)
 
 
 

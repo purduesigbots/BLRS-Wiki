@@ -1,8 +1,10 @@
+---
+description: >-
+  Stall detection aims to prevent VEX Motors from overheating or tripping a
+  Resettable Fuse by detecting high-current stall conditions in software.
+---
+
 # Stall Detection
-
-## Stall detection
-
-**Stall detection** aims to prevent [VEX Motors](../electronics/vex-electronics/motors.md) from overheating or tripping a [Resettable Fuse](../electronics/resettable-fuse-ptc.md) by detecting high-current stall conditions in software.
 
 ## Methods of operation
 
@@ -10,7 +12,7 @@
 
 #### Current sense resistor - 
 
-**Current sensing** is the industry-standard method of detecting abnormal motor conditions. By inserting a small-valued resistor \(typically 10-100 milliohms\) in series with the motor and measuring the differential voltage across it, the current through the motor can be measured. High currents indicate a large power draw that will eventually trip a fuse or overheating sensor. Neither the [VEX Cortex](https://phabricator.purduesigbots.com/w/ee/vex_cortex/) FETs nor the [VEX Motor Controller](https://phabricator.purduesigbots.com/w/ee/vex_motor_controller/) modules have current sensing resistors available, so this method is generally infeasible for use in the VEX Robotics Challenge.
+**Current sensing** is the industry-standard method of detecting abnormal motor conditions. By inserting a small-valued resistor \(typically 10-100 milliohms\) in series with the motor and measuring the differential voltage across it, the current through the motor can be measured. High currents indicate a large power draw that will eventually trip a fuse or overheating sensor. Neither the [VEX Cortex](https://phabricator.purduesigbots.com/w/ee/vex_cortex/) FETs nor the [VEX Motor Controller](../electronics/motor-controller.md) modules have current sensing resistors available, so this method is generally infeasible for use in the VEX Robotics Challenge.
 
 #### Hall-effect sensing - 
 
@@ -18,7 +20,7 @@ A less invasive way of measuring current stems from the fact that a current-carr
 
 ### Rotation rate sensing
 
-Perhaps the most logical method of detecting a stall would be to monitor the shaft rotation rate and detect when it is not rotating using a [VEX Shaft Encoder](../electronics/vex-electronics/vex-sensors/encoder.md). While simple, possible problems emerge, as the level of rotation that constitutes a stall is not well-defined. In addition, when running a motor at a low PWM duty cycle or using active braking, periods of slow to no rotation are expected. Therefore, code using this method generally cannot trip instantaneously and must adjust the definition of a stall according to the current output PWM duty cycle. This method is currently used to detect stalls in [EasyC](vex-programming-software/easyc.md) and [Midnight C](vex-programming-software/midnight-c.md).
+Perhaps the most logical method of detecting a stall would be to monitor the shaft rotation rate and detect when it is not rotating using a [VEX Shaft Encoder](../electronics/vex-electronics/vex-sensors/encoder.md). While simple, possible problems emerge, as the level of rotation that constitutes a stall is not well-defined. In addition, when running a motor at a low PWM duty cycle or using active braking, periods of slow to no rotation are expected. Therefore, code using this method generally cannot trip instantaneously and must adjust the definition of a stall according to the current output PWM duty cycle. 
 
 Since VEX motors have a relatively consistent power curve due to the internal gearing, an attached encoder could be used to infer the current draw, given the current output speed and PWM level.
 

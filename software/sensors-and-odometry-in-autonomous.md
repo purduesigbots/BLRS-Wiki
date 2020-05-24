@@ -16,23 +16,19 @@ Slop is another problem - the wheels, chain, and motors all have some wiggle roo
 
 Wheel scrub is another problem - when using omni wheels, the robot often doesn't turn perfectly on a point, which causes the turning readings to be off.
 
-See the photos of [Plutarch](https://phabricator.purduesigbots.com/w/wiki/past_robots/plutarch) for an example of this.
-
 ### Encoders on the powertrain, gyroscope for turns
 
-This is basically the same as above, but with a gyroscope sensor for turns instead of taking the difference in encoder readings. This improves turns quite a bit - you don't have to worry about wheel scrub with this. The VEX gyro tends to drift though, so the heading won't be accurate for any more than a couple of movements before it's off by quite a lot. This can be improved a lot with a nicer gyro, see BNS' worlds winning skills run in Starstruck [https://www.youtube.com/watch?v=td6PAnRBzfM](https://www.youtube.com/watch?v=td6PAnRBzfM). 
+This is basically the same as above, but with a gyroscope sensor for turns instead of taking the difference in encoder readings. This improves turns quite a bit - you don't have to worry about wheel scrub with this. The VEX gyro tends to drift though, so the heading won't be accurate for any more than a couple of movements before it's off by quite a lot. This can be improved a lot with a nicer gyro, see [BNS' worlds winning skills run in Starstruck](https://www.youtube.com/watch?v=td6PAnRBzfM). 
 
-This isn't ideal, but it's easy and low profile so it's been used on every robot but [Potato](https://phabricator.purduesigbots.com/w/wiki/past_robots/potato).
-
-In 2019 VEX released the [V5 Inertial Sensor](https://www.vexrobotics.com/276-4855.html) SIGBots plans to acquire this sensor for use in robots. The sensor combines both a a 3-axis accelerometer as well as a 3-axis gyroscope. The combination of these two devices in one sensor allows for effective and accurate navigation, as well as controlling any change in the motion of a robot. The sensor is yet to be fully tested but the general consensus is that this new sensor drifts less and is more accurate.
+In 2019 VEX released the [V5 Inertial Sensor](https://www.vexrobotics.com/276-4855.html) SIGBots has acquired this sensor for use in robots. The sensor combines both a a 3-axis accelerometer as well as a 3-axis gyroscope. The combination of these two devices in one sensor allows for effective and accurate navigation, as well as controlling any change in the motion of a robot. The sensor is yet to be fully tested but the general consensus is that this new sensor drifts less and is more accurate.
 
 ### 3 Unpowered Encoder Wheels
 
-This is probably ideal for VEX components. Used to great success by the 2018 world skills and match champion 5225a \([https://www.youtube.com/watch?v=4dshnlTWivc](https://www.youtube.com/watch?v=4dshnlTWivc)\), this allows the robot to track its forward/backward, side-to-side, and turning movement with just encoders. By having the encoders on dedicated, unpowered wheels, slip is nearly eliminated and the readings are much more accurate.
+This is probably ideal for VEX components. Used to great success by the [2018 World Skills and Champion 5225A](https://www.youtube.com/watch?v=4dshnlTWivc), this allows the robot to track its forward/backward, side-to-side, and turning movement with just encoders. By having the encoders on dedicated, unpowered wheels, slip is nearly eliminated and the readings are much more accurate.
 
 The only downside is that the assembly takes up a lot of space, and it may not handle going over bumps well. Other than that, it provides all of the required info about the robot's position and eliminates the issues seen in the above two examples.
 
-This has been used by SIGBots in [Forknerv2](https://phabricator.purduesigbots.com/w/wiki/past_robots/forknerv2/) and Big Chungus
+This has been used by SIGBots in Forknerv2 and Big Chungus
 
 ## Lifts
 
