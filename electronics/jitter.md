@@ -24,7 +24,7 @@ Most clock sources that rely on some type of oscillating element will have a fre
 
 ### Software jitter
 
-Software routines such as a [PID Controller](../software/control-algorithms/pid-controller.md) or interrupt service routine often expect to be run at precise intervals. Deviations from the schedule may affect the accuracy of algorithms or the timeliness of data. A real-time operating system like [PROS](../software/vex-programming-software/pros.md) helps to reduce software jitter by allowing high-priority tasks to interrupt running low-priority tasks to meet scheduling deadlines. [Easyc](../software/vex-programming-software/easyc.md) was known for large software jitter due to its use of sequential program flow in high-priority interrupt service routines.
+Software routines such as a [PID Controller](../software/control-algorithms/pid-controller.md) or interrupt service routine often expect to be run at precise intervals. Deviations from the schedule may affect the accuracy of algorithms or the timeliness of data. A real-time operating system like [PROS](../software/vex-programming-software/pros/) helps to reduce software jitter by allowing high-priority tasks to interrupt running low-priority tasks to meet scheduling deadlines. [Easyc](../software/vex-programming-software/easyc.md) was known for large software jitter due to its use of sequential program flow in high-priority interrupt service routines.
 
 ## Reducing jitter
 
@@ -34,7 +34,7 @@ Software routines such as a [PID Controller](../software/control-algorithms/pid-
 
 Higher-quality, more expensive clocking sources are often designed to reduce or counter the effects of clocking jitter. For applications such as clocking a commodity microcontroller, a few percentage points of jitter may be acceptable for tasks not requiring precise timing. Tightly regulating operating conditions cuts down on age, device, and temperature induced jitter. Using a high-frequency clock source and dividing the frequency, or incorporating a phase-locked loop \(PLL\), can average out jitter over many periods.
 
-To reduce software jitter on [PROS](../software/vex-programming-software/pros.md), avoid using delay\(\) to run a loop at a fixed frequency, as delay does not account for the time expended processing other statements in the loop. Use taskDelayUntil\(\) instead, as shown below:
+To reduce software jitter on [PROS](../software/vex-programming-software/pros/), avoid using delay\(\) to run a loop at a fixed frequency, as delay does not account for the time expended processing other statements in the loop. Use taskDelayUntil\(\) instead, as shown below:
 
 ```c
 // NOT how a timed loop is supposed to be run

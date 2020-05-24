@@ -33,7 +33,7 @@ A somewhat primitive 10-state machine was implemented in Honey Badger and Coby f
 
 ### VEX Sack Attack
 
-In the age of VEX Sack Attack, the [grid system](grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](vex-programming-software/midnight-c.md) and later [PROS](vex-programming-software/pros.md), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../electronics/vex-electronics/vex-sensors/encoder.md).
+In the age of VEX Sack Attack, the [grid system](grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](vex-programming-software/midnight-c.md) and later [PROS](vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../electronics/vex-electronics/vex-sensors/encoder.md).
 
 ### VEX Toss Up
 
