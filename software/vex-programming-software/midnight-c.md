@@ -1,3 +1,9 @@
+---
+description: >-
+  The Midnight C platform, often referred to in the past as the "Makefile", is a
+  cross-platform method of compiling native C code for the VEX Cortex.
+---
+
 # Midnight C
 
 {% hint style="danger" %}
