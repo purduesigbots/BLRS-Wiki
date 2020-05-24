@@ -12,7 +12,7 @@ description: >-
 
 #### Current sense resistor - 
 
-**Current sensing** is the industry-standard method of detecting abnormal motor conditions. By inserting a small-valued resistor \(typically 10-100 milliohms\) in series with the motor and measuring the differential voltage across it, the current through the motor can be measured. High currents indicate a large power draw that will eventually trip a fuse or overheating sensor. Neither the [VEX Cortex](https://phabricator.purduesigbots.com/w/ee/vex_cortex/) FETs nor the [VEX Motor Controller](../electronics/motor-controller.md) modules have current sensing resistors available, so this method is generally infeasible for use in the VEX Robotics Challenge.
+**Current sensing** is the industry-standard method of detecting abnormal motor conditions. By inserting a small-valued resistor \(typically 10-100 milliohms\) in series with the motor and measuring the differential voltage across it, the current through the motor can be measured. High currents indicate a large power draw that will eventually trip a fuse or overheating sensor. Neither the [VEX Cortex](https://phabricator.purduesigbots.com/w/ee/vex_cortex/) FETs nor the [VEX Motor Controller](../electronics/vex-electronics/motor-controller.md) modules have current sensing resistors available, so this method is generally infeasible for use in the VEX Robotics Challenge.
 
 #### Hall-effect sensing - 
 

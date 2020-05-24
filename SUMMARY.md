@@ -21,10 +21,8 @@
 * [I2C](electronics/i2c.md)
 * [Jitter](electronics/jitter.md)
 * [Wiring Guide](electronics/wiring-guide.md)
-* [Legacy Cortex Wiring Guide](electronics/legacy-wiring-guide.md)
 * [Line Noise](electronics/line-noise.md)
 * [List of Tools](electronics/list-of-tools.md)
-* [Motor Controller](electronics/motor-controller.md)
 * [Output Drive](electronics/output-drive.md)
 * [Power Expander](electronics/power-expander.md)
 * [Power Consumption](electronics/power-consumption.md)
@@ -42,6 +40,7 @@
   * [VEX V5 Brain](electronics/vex-electronics/vex-v5-brain/README.md)
     * [V5 Electronics Observations](electronics/vex-electronics/vex-v5-brain/v5-electronics-observations.md)
   * [VEX Cortex](electronics/vex-electronics/vex-cortex.md)
+  * [VEX Motor Controller](electronics/vex-electronics/motor-controller.md)
   * [VEX Motors](electronics/vex-electronics/motors.md)
   * [VEX Sensors](electronics/vex-electronics/vex-sensors/README.md)
     * [Vision Sensor](electronics/vex-electronics/vex-sensors/vision-sensor.md)
@@ -54,6 +53,7 @@
     * [Bumper](electronics/vex-electronics/vex-sensors/bumper.md)
     * [Accelerometer](electronics/vex-electronics/vex-sensors/accelerometer.md)
     * [IMU](electronics/vex-electronics/vex-sensors/imu.md)
+* [VEX Cortex Wiring Guide](electronics/legacy-wiring-guide.md)
 * [5 Volt Tolerant](electronics/5-volt-tolerant.md)
 
 ## Software

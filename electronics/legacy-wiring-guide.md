@@ -2,7 +2,7 @@
 description: This guide provides general wiring tips for the legacy cortex system.
 ---
 
-# Legacy Cortex Wiring Guide
+# VEX Cortex Wiring Guide
 
 {% hint style="danger" %}
 These wiring tips are mostly relevant for old VEX Cortex system, which is no longer competitive.
