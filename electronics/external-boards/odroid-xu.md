@@ -10,7 +10,9 @@ description: >-
 
 ## Features
 
-The[ ODROID-XU4](https://www.hardkernel.com/shop/odroid-xu4q-special-price/) is a new single board computer with hardware that's more powerful and has a smaller form factor. Built on open-source software, the XU4 supports various flavors of Linux including the latest Ubuntu 18.04 running MATE desktop and Android 4.4 KitKat and 5.0 Lollipop. A MicroSD card or an eMMC module is required to boot the OS. 
+The[ ODROID-XU4](https://www.hardkernel.com/shop/odroid-xu4q-special-price/) is a new single board computer with hardware that's more powerful and has a smaller form factor. Built on open-source software, the XU4 supports various flavors of Linux including the latest Ubuntu 18.04 running MATE desktop and Android 4.4 KitKat and 5.0 Lollipop. It has 2 USB 3.0 Host Ports something not all newer boards have. There is however no onboard WIFI or BT. A MicroSD card or an eMMC module is required to boot the OS. It features a 30 pin [GPIO](../gpio.md) header with support for [I2C](../i2c.md), [SPI](../spi.md), [UART](../uart.md), and [ADC](../analog-digital-converter.md). And a smaller 12 pin [GPIO](../gpio.md) header with only [I2C](../i2c.md) and I2S.
+
+![](../../.gitbook/assets/odroid-xu4-octa-core-computer-with-samsung-exynos-5422-g143452239825-980.jpg)
 
 ## Specifications
 

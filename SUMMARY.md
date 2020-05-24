@@ -7,7 +7,7 @@
 * [Analog-Digital Converter \(ADC\)](electronics/analog-digital-converter.md)
 * [Bit-Bang](electronics/bitbang.md)
 * [External Boards](electronics/external-boards/README.md)
-  * [ASUS Tinker Board](electronics/external-boards/asus-tinker-board.md)
+  * [ASUS Tinker Board S](electronics/external-boards/asus-tinker-board.md)
   * [Arduino](electronics/external-boards/arduino.md)
   * [Beagleboard](electronics/external-boards/beagleboard.md)
   * [Leaflabs Maple](electronics/external-boards/leaflabs-maple.md)
