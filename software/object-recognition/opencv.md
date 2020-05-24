@@ -2,15 +2,15 @@
 
 ## OpenCV
 
-* [Pandaboard](https://phabricator.purduesigbots.com/w/ee/pandaboard/)
-* [Beagleboard](https://phabricator.purduesigbots.com/w/ee/beagleboard/)
+* [Pandaboard](../../electronics/external-boards/pandaboard.md)
+* [Beagleboard](../../electronics/external-boards/beagleboard.md)
 * Desktop applications
 
 | Details: |
 | :--- |
 
 
-* **Not** [**VEX-supported**](https://phabricator.purduesigbots.com/w/)
+* **Not VEX-Supported**
 * Image and video processing
 * Object and motion detection
 * 3/D object reconstruction
@@ -23,7 +23,7 @@
 
 ## History
 
-Officially launched in 1999, the OpenCV project was initially an Intel Research initiative to advance CPU-intensive applications, part of a series of projects including real-time [wp&gt;ray tracing](https://phabricator.purduesigbots.com/w/wp_ray_tracing/) and 3D display walls. The main contributors to the project included a number of optimization experts in Intel Russia, as well as Intel’s Performance Library Team. In the early days of OpenCV, the goals of the project were described as:
+Officially launched in 1999, the OpenCV project was initially an Intel Research initiative to advance CPU-intensive applications, part of a series of projects including real-time ray-tracing and 3D display walls. The main contributors to the project included a number of optimization experts in Intel Russia, as well as Intel’s Performance Library Team. In the early days of OpenCV, the goals of the project were described as:
 
 * Advance vision research by providing not only open but also optimized code for basic vision infrastructure. No more reinventing the wheel.
 * Disseminate vision knowledge by providing a common infrastructure that developers could build on, so that code would be more readily readable and transferable.
@@ -39,7 +39,7 @@ OpenCV was designed to run on personal computers; its optimized algorithms perfo
 
 ## Installation
 
-These instructions assume a [wp&gt;Debian](https://phabricator.purduesigbots.com/w/wp_debian/)-based Linux system.
+These instructions assume a Debian-based Linux system.
 
 1. Install all these packages:
 
