@@ -10,6 +10,8 @@ This wiki is built on the backs of many SIGBOTS alumni and [VEX's own documentat
 
 If you are interested in contributing to the wiki feel free to open a pull request on the [wiki's repo](https://github.com/purduesigbots/BLRS-Wiki). Simply click edit on github on any of the pages to see where in the repo that specific page is. 
 
+If you see any issues with the wiki, please also feel free to open up an issue on the aforementioned wiki repo.
+
 If you would like to discuss or bring up an issue with the wiki without fixing it yourself, feel free to open up an issue on the aforementioned [wiki repo](https://github.com/purduesigbots/BLRS-Wiki).
 
 ![](.gitbook/assets/portrait.jpg)
