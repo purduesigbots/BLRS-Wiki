@@ -6,17 +6,15 @@ description: >-
 
 # Code Styling Guide
 
-The Style Guide is adapted from the PROS style guide, but is not entirely the same.
-
 ## Indentation
 
-Indents are only tab characters. Spaces are for whitespace within a line. Period.
+Tab characters are generally better for indents.
 
 Rationale: The whole idea behind indentation is to clearly define where a block of control starts and ends. Especially when you've been looking at your screen for 20 straight hours, you'll find it a lot easier to see how the indentation works if you have large indentations.
 
-With tab characters, it is up to user preference how many characters deep indents look. No more flame wars \(we're looking at you Linus-- eight characters, \_really\_?\)
+With tab characters, it is up to user preference how many characters deep indents look. No more flame wars \(We're looking at you Linus. Eight characters, really?\)
 
-As a result of exclusively using tabs, it is _highly_ recommended that you modify your Atom settings to ensure that tabs are always used for indentation. This setting can be changed by modifying Settings-&gt;Editor-&gt;Tab Type to "hard". This will prevent the editor from using spaces for indentation.
+If you choose to exclusively use tabs, it is _highly_ recommended that you modify your Atom settings to ensure that tabs are always used for indentation. This setting can be changed by modifying Settings-&gt;Editor-&gt;Tab Type to "hard". This will prevent the editor from using spaces for indentation.
 
 The preferred way to ease multiple indentation levels in a switch statement is to align the switch and its subordinate case labels in the same column instead of double-indenting the case labels. E.g.:
 
@@ -56,17 +54,17 @@ Get a decent editor and don't leave whitespace at the end of lines.
 
 Coding style is all about readability and maintainability using commonly available tools.
 
-The limit on the length of lines is 120 columns and this is a strongly preferred limit.
+The ideal maximum line length is 120 columns, and this is a strongly preferred limit.
 
-Statements longer than 120 columns will be broken into sensible chunks, unless exceeding 120 columns significantly increases readability and does not hide information. Descendants are always substantially shorter than the parent and are placed substantially to the right. The same applies to function headers with a long argument list. However, never break user-visible strings such as printk messages, because that breaks the ability to grep for them.
+Statements longer than 120 columns should be broken into sensible chunks, unless exceeding 120 columns significantly increases readability and does not hide information. Descendants are always substantially shorter than the parent and are placed substantially to the right. The same applies to function headers with a long argument list. However, never break user-visible strings such as printk messages, because that breaks the ability to grep for them.
 
 {% hint style="info" %}
-Note: since most people have screens that support 120+ characters across, we won't impose the 80-character line length limit. However, documentation comments should strive to meet this limit for readability and everyone's sanity
+Note: since most people have screens that support 120+ characters across, there doesn't have to be an 80-character line length limit. However, documentation comments should strive to meet this limit for readability and everyone's sanity
 {% endhint %}
 
 ## Braces
 
-The other issue that always comes up in C styling is the placement of braces. Unlike the indent size, there are few technical reasons to choose one placement strategy over the other, but the preferred way, as shown to us by the prophets Kernighan and Ritchie, is to put the opening brace last on the line, and put the closing brace first, thusly:
+The other issue that always comes up in C styling is the placement of braces. Unlike the indent size, there are few technical reasons to choose one placement strategy over the other, but the preferred way, as shown to us by the prophets Kernighan and Ritchie, is to put the opening brace last on the line, and put the closing brace first, thus:
 
 ```c
 if (x is true) {
@@ -136,7 +134,7 @@ LOCAL variable names should be short, and to the point. If you have some random 
 
 If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
 
-Functions and variables should be named incamelCase constants and macros should be defined inUPPER\_SNAKE\_CASE
+Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE
 
 ## Functions
 
