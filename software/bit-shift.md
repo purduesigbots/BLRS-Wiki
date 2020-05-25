@@ -1,8 +1,14 @@
+---
+description: >-
+  A bit shift is an operation which moves the bits in the binary representation
+  of a number a specified number of locations left or right.
+---
+
 # Bit Shift
 
 ## Bit shift
 
-A bit shift is an operation which moves the bits in the binary representation of a number a specified number of locations left or right. Along with its cousin, the **bit rotate**, bit shifts can be used to perform varied yet extremely fast operations on integers with the aid of [bit masks](bit-mask.md).
+Along with its cousin, the **bit rotate**, bit shifts can be used to perform varied yet extremely fast operations on integers with the aid of [bit masks](bit-mask.md).
 
 ### Principles
 

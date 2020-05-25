@@ -33,12 +33,6 @@ As a result of these characteristics, a few guidelines/rules should govern port 
 * Always split the left and right side motors of a subsystem across the two PTCs. For instance, put the left side drive motors on ports 2/3, and the right side drive motors on ports 8/9. This will lessen the load on the Cortex PTCs when the subsystem is running.
 * Traditionally we like to avoid ports 1 and 10 both for consistencies sake and to keep from damaging the internal h-bridges for these ports, so use 4 y-cables when wiring a robot if possible.
 
-**The Power Expander**
-
-The [Power Expander](power-expander.md) should be used on every robot. It adds weight because of the extra battery, but the additional battery life and PTC is worth it.
-
-The power expander should power a non-crucial subsystem ideally. Obviously every part of the robot is preferable to keep on, but consider which motors would be the least crucial to lose if a power expander battery doesn't get plugged in or the power expander PTC trips. This varies from robot to robot but as a general rule, don't put the drivetrain on the power expander.
-
 **Motor Controller Organization**
 
 The main consideration with motor controller organization is future electrical debugging, as motor controllers are likely to burn up at some point in the robot's lifetime, and making sure that they can be easily swapped out in a match is essential. There are two schools of thought on how to best approach this:
