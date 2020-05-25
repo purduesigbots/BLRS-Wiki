@@ -89,4 +89,5 @@
 * [Register Programming](software/register-programming.md)
 * [Sensors and Odometry in Autonomous](software/sensors-and-odometry-in-autonomous.md)
 * [Stall Detection](software/stall-detection.md)
+* [Version Control](software/version-control.md)
 
