@@ -40,7 +40,6 @@
 * [GPIO](electronics/gpio.md)
 * [I2C](electronics/i2c.md)
 * [Jitter](electronics/jitter.md)
-* [V5 Electronics Wiring Guide](electronics/wiring-guide.md)
 * [Line Noise](electronics/line-noise.md)
 * [List of Tools](electronics/list-of-tools.md)
 * [Output Drive](electronics/output-drive.md)
@@ -54,6 +53,7 @@
 * [USART](electronics/usart.md)
 * [UART](electronics/uart.md)
 * [VEX Cortex Wiring Guide](electronics/legacy-wiring-guide.md)
+* [V5 Electronics Wiring Guide](electronics/wiring-guide.md)
 * [5 Volt Tolerant](electronics/5-volt-tolerant.md)
 
 ## Software
