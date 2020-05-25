@@ -4,7 +4,7 @@ description: The Bumper Switch returns when the switch is pressed.
 
 # Bumper Switch
 
-![](../../../.gitbook/assets/276-4858.jpg)
+![](../../.gitbook/assets/276-4858.jpg)
 
 The bumper switch is a pretty basic; in addition to being reliable and durable, it is easy to install and use. It falls into the category of “digital sensors,” meaning that it returns only two possible values: 1 or 0.
 

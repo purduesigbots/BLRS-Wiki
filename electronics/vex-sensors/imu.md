@@ -4,7 +4,7 @@ description: The V5 Inertial Sensor is a combination of an Accelerometer and Gyr
 
 # V5 Inertial Sensor \(IMU\)
 
-![](../../../.gitbook/assets/276-4855.jpg)
+![](../../.gitbook/assets/276-4855.jpg)
 
 The Inertial Sensor is a combination of a 3-axis \(X, Y, and Z\) [accelerometer](accelerometer.md) and a 3-axis [gyroscope](gyroscope.md). The accelerometer will detect a change in motion \(acceleration\) in any direction and the [gyroscope](gyroscope.md) electronically maintains a reference position so it can measure a rotational change of position in any direction against this reference. A detection of a change in motion can help decrease the chance of a robot falling over when it is driving or while it is climbing over an obstacle.
 

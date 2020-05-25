@@ -12,7 +12,7 @@ The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32
 
 * Well-shielded against environmental hazards
 * Input pins carry short-circuit and ESD protection
-* Compatible with the standard line of [VEX Sensors](vex-sensors/) and [VEX Motors](motors.md)
+* Compatible with the standard line of [VEX Sensors](../vex-sensors/) and [VEX Motors](motors.md)
 * Only microcontroller which is allowed to directly interface with actuators on the robot
 * High-speed, 32-bit ARM Cortex-M3 platform
 * Wireless communication and code download using [VEXnet](vexnet.md)

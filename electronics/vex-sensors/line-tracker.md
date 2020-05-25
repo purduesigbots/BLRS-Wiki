@@ -4,7 +4,7 @@ description: The Line Tracker can track "lines" and other objects using infrared
 
 # Line Tracker
 
-![](../../../.gitbook/assets/line-tracker.jpg)
+![](../../.gitbook/assets/line-tracker.jpg)
 
 The **Line Tracker** is an analog sensor consisting of an infrared LED and an infrared light sensor. It has a single mounting hole and is designed to be mounted under the chassis of a robot. The Line Tracker allows a robot to follow a pre-marked path. 
 

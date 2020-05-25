@@ -32,7 +32,7 @@ Robot C is for the older VEX Cortex which is no longer supported.
 ### Shortcomings
 
 * Interpreter emulates an 8-bit processor, substantially slowing user code and preventing any numerically intensive algorithms from being useful
-* Library abstracts many details and prevents advanced access or fine-tuning [VEX sensors](../../electronics/vex-electronics/vex-sensors/)
+* Library abstracts many details and prevents advanced access or fine-tuning [VEX sensors](../../electronics/vex-sensors/)
 * Neither free nor open-source, and only works on Windows
 * Lack of support for objects, dynamic allocation, wide integers, or interrupts severely limits code capabilities
 * Array-like syntax can be confusing and is rife with opportunities for indexes out of bounds or overflow

@@ -4,7 +4,7 @@ description: The Vision Sensor tells you where colored objects are located.
 
 # Vision Sensor
 
-![V5 Vision Sensor](../../../.gitbook/assets/visionsensor.jpg)
+![V5 Vision Sensor](../../.gitbook/assets/visionsensor.jpg)
 
 ## Features
 

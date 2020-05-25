@@ -28,15 +28,13 @@ This is probably ideal for VEX components. Used to great success by the [2018 Wo
 
 The only downside is that the assembly takes up a lot of space, and it may not handle going over bumps well. Other than that, it provides all of the required info about the robot's position and eliminates the issues seen in the above two examples.
 
-This has been used by SIGBots in Forknerv2 and Big Chungus
-
 ## Lifts
 
 ### Potentiometers
 
 Potentiometers are sensors that return absolute position and have a range of ~270 degrees, which in theory makes them perfect for lifts. However, in practicality, the tend to be very inconsistent and can suffer from issues like non-linearity \(a movement of 20 degrees can return either 15 or 25 degrees depending on where in the pot's range you are\) and generally breaking and failing to ever again return a value. Some teams have used 3rd party potentiometers \(such as those found on electric guitars\) to reduce friction and improve reliability.
 
-One important thing to remember about potentiometers is that they have a hard stop limit at 270 degrees, making them impossible to use on shafts that rotate past that limit.
+One important thing to remember about VEX potentiometers is that they have a hard stop limit at 270 degrees, making them impossible to use on shafts that rotate past that limit.
 
 **Rotating a potentiometer past its hard limit will break the potentiometer.**
 

@@ -12,7 +12,7 @@ Due to the user manual's reference to the three sensors as the _"Red Buoy"_, _"G
 
 ## Procedure
 
-A minimum of three range-finding sensors, such as a [VEX Ultrasonic](../../electronics/vex-electronics/vex-sensors/untitled-1.md) or Sharp IR rangefinder, must be used for proper implementation of the algorithm. Up to seven sensors can be used for the best possible quality, but it is also possible to do a decent job with only two sensors.
+A minimum of three range-finding sensors, such as a [VEX Ultrasonic](../../electronics/vex-sensors/untitled-1.md) or Sharp IR rangefinder, must be used for proper implementation of the algorithm. Up to seven sensors can be used for the best possible quality, but it is also possible to do a decent job with only two sensors.
 
 In addition, it must be possible to use an object recognition system to verify the presence of a valid scoring object in the field of view. Objects belonging to the opponent and opposing robots look just as good to rangefinders as the appropriate target, although the multi-sensor versions do a good job of differentiating walls from narrow objects.
 
