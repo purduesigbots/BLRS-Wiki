@@ -40,7 +40,7 @@
 * [GPIO](electronics/gpio.md)
 * [I2C](electronics/i2c.md)
 * [Jitter](electronics/jitter.md)
-* [Wiring Guide](electronics/wiring-guide.md)
+* [V5 Electronics Wiring Guide](electronics/wiring-guide.md)
 * [Line Noise](electronics/line-noise.md)
 * [List of Tools](electronics/list-of-tools.md)
 * [Output Drive](electronics/output-drive.md)

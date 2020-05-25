@@ -14,7 +14,7 @@ Although VEXU teams are officially allowed to use as many motors as they want, t
 
 ## **V5 Broken Brain Ports**
 
-It has been observed that V% ports are extremely susceptible to ESD, leaving the port unusable. To prevent this from happening:
+It has been observed that the V5 brain ports are extremely susceptible to ESD \(electric static discharge\), leaving the port unusable. To prevent this from happening:
 
 * Try to prevent metal shavings from getting into the brain ports.
 * Use anti-static tiles or anti-static spray if necessary at competitions.
