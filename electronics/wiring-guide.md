@@ -1,6 +1,6 @@
 # V5 Brain Wiring Guide
 
-## Wiring Basics - 
+## Wiring Basics 
 
 The V5 brain has 3 different types of ports - 20 motor ports \(labeled ports 1-21\), a single radio port \(port 21\), and 8 3-pin analog sensor ports \(labeled ports A-H\). These analog ports support 3-pin cortex-era sensors and \(although not competition legal\) 393 3-pin motors. 
 
@@ -17,7 +17,7 @@ Wiring from sensors/motors to brain ports is relatively simple compared to the l
 
 Also, be sure that your robot has enough room so that the V5 brain screen and button are easily accessible and visible. The battery should be in a firm spot that is easy to remove and replace in competition environments.
 
-## Wire Crimping:
+## Wire Crimping
 
 Wire crimping allows teams to produce custom wire lengths and replace broken wires or wire heads. However, they can be to blame for dead ports if done incorrectly.
 
