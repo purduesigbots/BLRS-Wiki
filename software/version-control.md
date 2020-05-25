@@ -1,3 +1,10 @@
+---
+description: >-
+  A component of software configuration management, version control, also known
+  as revision control or source control, is the management of changes to
+  documents, computer programs, and more.
+---
+
 # Version Control
 
 ## Overview
@@ -60,7 +67,7 @@ Sometimes, you will want to merge changes made to one branch of your repository 
 
 Opening a pull request allows you to compare the changes made to the two branches, and allows for a review process before merging the two. Pull requests are also used when dealing with forks of a repository and third party contributions made to a project.
 
-### Teams Contributed to this Article:
+#### Contributing Teams to this Article:
 
 * [4001A](https://github.com/phsengineering/)
 
