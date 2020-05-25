@@ -61,9 +61,9 @@ In order to use branches:
 * `git checkout -b <name of new branch>`
   * This command will copy the branch that you are currently on \(usually the "master" branch\) with a new name. You can make edits to the code on this branch without affecting the code in the master branch, and commits made to this branch will be synced with the remote copy of the repository.
 
-Sometimes, you will want to merge changes made to one branch of your repository with the stable, master branch. In order to do this, GitHub has a feature called "pull requests".
+Sometimes, you will want to merge changes made to one branch of your repository with the stable, master branch. In order to do this, GitHub has a feature called "pull requests":
 
-![](https://github.com/purduesigbots/BLRS-Wiki/tree/58b6f1debc796cd5454f96582d27af57d3dea366/.gitbook/assets/branchex.png)
+![](../.gitbook/assets/unknown.png)
 
 Opening a pull request allows you to compare the changes made to the two branches, and allows for a review process before merging the two. Pull requests are also used when dealing with forks of a repository and third party contributions made to a project.
 
