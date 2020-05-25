@@ -60,4 +60,4 @@ Opening a pull request allows you to compare the changes made to the two branche
 
 #### Teams Contributed to this Article:
 
-* [4001A](https://github.com/phsengineering/) \(4001A\)
+* [4001A](https://github.com/phsengineering/)
