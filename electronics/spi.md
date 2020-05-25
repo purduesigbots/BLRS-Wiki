@@ -28,3 +28,7 @@ In reality, trying to use SPI at a clock speed of more than 4 MHz requires a ver
 
 SPI is also known as Microwire \(an older implementation\). Some devices such as the TI MSP430 series rename the MISO and MOSI pins to "SOMI" and "SIMO" to get around patent limitations.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

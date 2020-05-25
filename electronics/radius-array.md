@@ -29,3 +29,9 @@ To rectify the shortcomings, a more complex [perpendicular least squares method]
 * Variance from sensor to sensor is higher than VEX sensors
 * Infrared filtering not as good as VEX sensors, but frequency filtering can be incorporated in software
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

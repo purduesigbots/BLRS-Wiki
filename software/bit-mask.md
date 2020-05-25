@@ -47,3 +47,7 @@ Clear bit position 4 in the number 00111001 using a negative bit mask:
 * **Test bit** - To see if a particular bit is set \(another common register task\), mask the value with an appropriately selected positive bit mask containing only that position and pass it straight into if \(which will generate a fast condition-code check for zero on most processors\).
 * **Enforce type conversion** - C's type conversions can sometimes produce unexpected results, especially when switching between signed and unsigned types. Negative masking can often alleviate the problem by dictating exactly which bits in the result should keep their values from the conversion and which bits should be reset.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

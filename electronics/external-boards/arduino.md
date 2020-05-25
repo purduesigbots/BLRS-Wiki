@@ -83,3 +83,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 
 The **Arduino Mega** is an expanded version of the Arduino meant for memory or IO-hungry projects. It costs twice as much as a regular Arduino and is nearly two times larger, but fails to make significant progress in CPU power. 
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

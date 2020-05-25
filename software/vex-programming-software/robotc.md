@@ -38,5 +38,9 @@ Robot C is for the older VEX Cortex which is no longer supported.
 * Array-like syntax can be confusing and is rife with opportunities for indexes out of bounds or overflow
 * Optimizer is poor and IDE is generally low-quality, with a fixed code style and terrible code completion
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
 
 

@@ -25,3 +25,9 @@ Here is the [VEX Guide on Wire Crimping.](https://kb.vex.com/hc/en-us/articles/3
 
 ![VEX Crimping Tool, Wire Spool, and Wire Heads](../.gitbook/assets/image%20%286%29.png)
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/)
+
+
+

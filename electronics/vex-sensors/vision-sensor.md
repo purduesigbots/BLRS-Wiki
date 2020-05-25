@@ -26,3 +26,9 @@ The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi
 | Compatibility | Any device with WiFi and a Browser |
 | Weight | 0.77lbs \(350g\) |
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

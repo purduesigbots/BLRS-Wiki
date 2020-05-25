@@ -24,3 +24,7 @@ A Kalman Filter is a filtering algorithm that tries to estimate values based on 
 4. Set state between the prediction and measurement based on the scaling factor.
 5. Update belief in the state based on how certain we are in the measurement prediction.
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

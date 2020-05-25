@@ -36,3 +36,7 @@ Here’s VEX’s [documentation sheet](https://content.vexrobotics.com/docs/inst
 
 Potentiometers measure absolute position through a short range of motion, so they are good for lifts and other subsystems with a defined range of motion. The resolution is higher than with an [Encoder](encoder.md) and the potentiometer only requires one wire, so if a system can use a potentiometer then that's recommended.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

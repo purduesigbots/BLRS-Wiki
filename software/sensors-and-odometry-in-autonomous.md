@@ -42,3 +42,7 @@ One important thing to remember about VEX potentiometers is that they have a har
 
 The encoder/limit switch combo is a way of emulating the absolute position returned by a potentiometer, but without many of the drawbacks of potentiometers \(bad reliability in particular\). This setup is much more reliable, but does not have as much resolution as a potentiometer \(360 ticks in a revolution compared to 4095 in 270 degrees\) and is more bulky, which has traditionally been the reason for not using this setup.
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

@@ -152,3 +152,7 @@ Several of the built-in timer modules also have exposed capture/compare pins on 
 
 The Crystal ports and Communications ports are connected directly to their outputs. However, Digital ports have a series 1 Kohm resistance to provide short-circuit protection and a 1 nF capacitor for decoupling, limiting their [Slew Rate](/w/wiki/ee/slew_rate/) and [Output Drive](/w/wiki/ee/output_drive/) accordingly. Analog ports have a voltage divider which makes 5 V inputs safe for the 3.3 V ADC with a total input impedance of around 28 Kohms and an anti-aliasing 3dB bandwidth of 16 KHz. A weak pull-up in processor by default makes Digital inputs float high and Analog inputs idle at about 0.2 V. The Speaker port has a 100 ohm series resistor and no capacitor.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

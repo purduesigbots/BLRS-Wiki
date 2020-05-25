@@ -76,3 +76,9 @@ VEX has stated that the V5 will bring a new batch of smart sensors:
 * Rotation Sensor
 * The Bluetooth radio unlocks the ability of robot-to-robot communications along with custom iOS and Android apps written by users.
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

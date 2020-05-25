@@ -53,3 +53,7 @@ An update to the original MCH design has produced smaller, four motor clusters f
 
 This is a much more freeform style of wiring, which is good for mechanically dense robots and quick wiring jobs at the expense of a lack of organization. Simply group the motor controllers by subsystem \(or side of a subsystem\) wherever possible, and make sure to keep them separated from other subsystems. This makes the wiring easier to trace in case a motor controller dies, and allows for more creative routing of the wires.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

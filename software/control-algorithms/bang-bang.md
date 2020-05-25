@@ -52,3 +52,9 @@ void autonomous() {
 * Does not use information from the past or predicted future inputs to make decisions
 * Systems may wear out due to rapid fluctuations in output
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

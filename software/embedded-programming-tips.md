@@ -43,3 +43,7 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 3. Are large items passed by value \(which may clandestinely copy them\)?
 4. Could a hardware peripheral perform the task of this software routine?
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

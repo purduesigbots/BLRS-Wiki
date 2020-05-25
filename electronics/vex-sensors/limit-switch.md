@@ -12,3 +12,7 @@ Like the bumper switch, the limit switch is also easy to use and quite reliable,
 
 This sensor requires only a tiny amount of force to trigger it, as compared to the bump switch.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

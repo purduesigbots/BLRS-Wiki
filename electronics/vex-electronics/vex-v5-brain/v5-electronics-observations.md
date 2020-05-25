@@ -28,3 +28,7 @@ Although not officially supported by vex, it's theorized that ports dead from ES
 
 **Do note that strictly speaking, this would render the V5 brain competition illegal due to it being internally modified.**
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

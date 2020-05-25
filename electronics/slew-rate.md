@@ -22,3 +22,7 @@ Typical slew rates range from 10 ns to 125 ns. These correspond to maximum signa
 
 The highest slew rates are found among high-speed purpose-built microcontrollers such as the [V5 Brain](vex-electronics/vex-v5-brain/) and [Leaflabs Maple](external-boards/leaflabs-maple.md). A 16 MHz [Arduino](external-boards/arduino.md) cannot obtain a 100 MHz slew rate, and the very low drive strength of high-speed processors such as the [Pandaboard](external-boards/pandaboard.md) leads to slower slew rates.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

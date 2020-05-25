@@ -16,3 +16,9 @@ There also used to be an older model that works the same exact way, but with a s
 
 ![Older Bump Switch Model](../../.gitbook/assets/image%20%289%29.png)
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

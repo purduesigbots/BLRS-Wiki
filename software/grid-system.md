@@ -20,3 +20,7 @@ A variety of implementations of a grid system were used VEX Gateway; the most re
 
 The upgrade to [PROS](vex-programming-software/pros/) and a full multi-tasking environment brought the accuracy and precision of mapping software to astounding levels, as mapping could run in the background with no discernible timing [Jitter](../electronics/jitter.md) and use the super-accurate new Pololu MinIMU-9 digital gyro. If Sacks had not been present in VEX Sack Attack, mapping could have been used for an entire autonomous mode; the disturbances caused by Sacks, however, accumulated errors in mapping that made it less useful than a well-designed [finite state machine](finite-state-machine.md).
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

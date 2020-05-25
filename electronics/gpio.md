@@ -25,3 +25,7 @@ Each **GPIO** pin also features an output driver, which can set the pin to eithe
 
 The actual values of these voltages may vary depending on what type of load is connected to the microcontroller. Pins with high [drive strength](output-drive.md) are affected less by the power draw of the connected device. For this reason, devices driven directly by GPIOs should have short wires and low power requirements.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

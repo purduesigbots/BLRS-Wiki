@@ -77,3 +77,9 @@ Although it might be overkill for most usages in VEX robotics, its still worth d
   </tbody>
 </table>![LattePanda Port Layout](../../.gitbook/assets/image%20%283%29.png)
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

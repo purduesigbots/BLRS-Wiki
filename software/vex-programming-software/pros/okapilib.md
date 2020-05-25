@@ -18,3 +18,9 @@ Documentation for the latest version is hosted on the Okapi website: [Current Ok
 Documentation for OkapiLib versions 3.x.x and below hosted on the PROS site: [Older OkapiLib Docs](https://pros.cs.purdue.edu/v5/okapi/api/index.html)
 {% endhint %}
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

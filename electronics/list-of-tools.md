@@ -38,3 +38,7 @@ Advanced protocols can be difficult to debug, and oscilloscopes usually cannot m
 
 The high speed and channel count comes at the cost of not recording the actual voltage \(only the _high_ or _low_ state\) problems with [Slew Rate](slew-rate.md) and [Line Noise](line-noise.md) must be found with a traditional oscilloscope.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

@@ -71,3 +71,7 @@ The ODROID-XU's stellar performance combined with only marginally higher power c
 
 [![](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power_supply.jpg)](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power_supply.jpg)
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

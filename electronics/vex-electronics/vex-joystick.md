@@ -74,3 +74,7 @@ _Main article:_ [_VEX Cortex Troubleshooting_](/w/wiki/ee/cortex/)
 
 The VEX Joystick's lights mirror the robot lights when connected. If all of the lights blink red briefly, it indicates a joystick reset, which usually occurs upon loss of VEXnet communications. Frequent occurrences may mean a weak battery or a VEXnet key blocked by too many metal parts.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

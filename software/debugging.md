@@ -169,3 +169,7 @@ Optimizing too soon, or neglecting to account for large data sizes, may induce o
 * **Display resolution** - Check GUI programs for problems with different screen sizes or multiple monitors. A check for users running in a headless \(no graphical screen\) environment may save some frustration.
 * **Time of day, location, CPU** - More complex programs may suffer from obscure bugs related to time zones, daylight savings time, computers going to sleep mode, out of disk space, and much more. Look for corner cases where the algorithms used may fail.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

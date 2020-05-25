@@ -106,3 +106,7 @@ Initially, OpenNI 1.0 showed great promise, as it efficiently retrieved depth an
 
 Ultimately, discontinuing the use of OpenNI altogether and switching to a C-only API with libfreenect directly worked much better. A library call could be used to disable automatic exposure, performance increased, and USB errors largely vanished.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

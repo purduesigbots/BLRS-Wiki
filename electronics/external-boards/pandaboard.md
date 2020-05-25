@@ -45,3 +45,7 @@ The PandaBoard returned in VEX Sack Attack on [Artemis](/w/wiki/past_robots/arte
 
 However, [ODROID-XU](/w/wiki/ee/odroid/). The PandaBoard has gained a second life for [testing](/w/wiki/cs/behind_the_scenes/) and as a new version of the Lab Status Monitor.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

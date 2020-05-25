@@ -64,5 +64,9 @@ The stock internal gears of the 2-Wire Motor 393 can be replaced with another se
 
 All motor specifications are at 7.2 volts. Actual motor specifications can fall within 20% of the values above.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
 [![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor_393_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor_393_curve.png)
 

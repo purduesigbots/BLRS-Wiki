@@ -8,3 +8,7 @@ Autonomous code seldom continues into the operator control phase, but small [scr
 
 Near the end of the match, a special scoring element usually comes into play. Examples of this would include the Negation Barrel in VEX Gateway, the Parking Bonus in VEX Sack Attack, and the Hanging Bonus in VEX Toss Up.
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

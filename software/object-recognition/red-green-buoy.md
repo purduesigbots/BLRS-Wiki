@@ -28,3 +28,7 @@ Due to a constraint on the number of digital ports, Honey Badger \(BLRS's Gatewa
 
 These compromises unfortunately led to an inability to properly sense which objects were of the desired color, and a tendency to detect people, robots, and walls as candidates due to the very long maximum scan range. However, it was effective enough to fill the intake mechanism each time it was run.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

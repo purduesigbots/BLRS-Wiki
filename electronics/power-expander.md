@@ -21,3 +21,7 @@ Power Expanders are relatively lightweight, but have a long, thin form factor th
 
 VEX Power Expanders have been notorious in the past for tripping their internal breakers too quickly; however, this is no more or less likely than tripping a VEX Cortex [Resettable Fuse \(PTC\)](resettable-fuse-ptc.md), and unlike the VEX Cortex internal fuses, the status port can be connected to an analog input to detect this condition. [Stall Detection](../software/stall-detection.md), especially on the Motor 393 outputs, is just as important when using the Power Expander. **No more than two** 2-Wire Motor 393 modules should be used _simultaneously_ on a VEX Power Expander, just like per bank of the VEX Cortex.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

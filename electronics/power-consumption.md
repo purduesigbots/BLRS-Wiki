@@ -24,3 +24,7 @@ Actuators such as a [VEX Motor](vex-electronics/motors.md) typically draw far mo
 
 Pneumatics are considerably more efficient at converting the stored air pressure to useful force, but eventually exhaust their finite air supplies and waste energy venting unused air to the atmosphere instead of recycling and pumping the excess.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

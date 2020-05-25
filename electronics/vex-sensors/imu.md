@@ -22,6 +22,12 @@ Acceleration is measured in g’s \(unit of gravitational acceleration\). The ma
 
 It takes a short period of time for a [gyroscope](gyroscope.md) to establish its reference point \(calibration\). This is commonly called the initialization or startup time. \(Note: It is recommended using 2 seconds for a calibration time or start the sensor’s calibration within the pre-auton portion of the competition template. When using the sensor within the VEXcode V5 Blocks/Text drivetrain functions, the calibration is included within the function.\)
 
-An electronic [gyroscope](gyroscope.md) also has a maximum rate of rotation. That is, if the object the sensor is measuring is spinning faster than the [gyroscope](gyroscope.md) can measure its rotation, the sensor will return incorrect readings. The maximum rotation rate for the Inertial Sensor is up to 1000 degrees/second. Once again, this is more than enough to measure and control all but extreme robot behaviors.  
+An electronic [gyroscope](gyroscope.md) also has a maximum rate of rotation. That is, if the object the sensor is measuring is spinning faster than the [gyroscope](gyroscope.md) can measure its rotation, the sensor will return incorrect readings. The maximum rotation rate for the Inertial Sensor is up to 1000 degrees/second. Once again, this is more than enough to measure and control all but extreme robot behaviors.
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
+  
 
 

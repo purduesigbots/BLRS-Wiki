@@ -31,3 +31,9 @@ Lower-voltage parts \(2.8 V, 1.8 V, or 1.2 V for example\) can also be interface
 | ::: | [![](https://phabricator.purduesigbots.com/file/data/fxstjq4rs5xmndonpvh7/PHID-FILE-styvnnl4o4v3ppct4fq3/vtolerance_5_3v3_mosfet.png)](https://phabricator.purduesigbots.com/file/data/fxstjq4rs5xmndonpvh7/PHID-FILE-styvnnl4o4v3ppct4fq3/vtolerance_5_3v3_mosfet.png) Use a MOSFET | Multiple MOSFETs are often packaged together, allowing this setup to be used on multiple pins. Excellent for [I2C](/w/wiki/ee/i2c/) connections using I2C's inherent pull-up resistor Slew rate still too slow for anything over 1 MHz, like [SPI](/w/wiki/ee/spi/). |
 | ::: | [![](https://phabricator.purduesigbots.com/file/data/pj4aosr4okiurduxzput/PHID-FILE-adi5474nvheqnausytws/vtolerance_5_3v3_buffer.png)](https://phabricator.purduesigbots.com/file/data/pj4aosr4okiurduxzput/PHID-FILE-adi5474nvheqnausytws/vtolerance_5_3v3_buffer.png) Use a buffer IC | Buffer ICs come in sets of 4-8, allowing this setup to be used on many pins. Excellent slew rate and [Output Drive](/w/wiki/ee/output_drive/), but IC is bigger and more expensive. Required for bidirectional protocols like One-Wire using a level shifter such as the TXB0104 [\(ref\)](http://www.ti.com/product/txb0104). |
 
+
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

@@ -33,3 +33,7 @@ The **Netduino** features the same footprint as the [Arduino](arduino.md) platfo
 
 The Netduino was first tested in VEX Gateway to read [SPI](../spi.md) and [I2C](../i2c.md) data from an Optical Mouse Sensor. However, it did not perform very well in these duties due to the slow response times of the .NET Micro Framework.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

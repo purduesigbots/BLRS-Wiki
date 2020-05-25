@@ -30,3 +30,7 @@ When sampling an analog signal using an [analog-to-digital converter](analog-dig
 
 Some processors go to sleep while sampling analog inputs, reducing the impact of switching noise on analog input values.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

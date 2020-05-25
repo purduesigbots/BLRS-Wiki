@@ -35,5 +35,9 @@ For even better PID control, if some other information about the process is know
 
 ## In - Practice
 
-PID controllers have been used by Purdue SIG BOTS for almost every lift mechanism and even the CC/CV algorithm. A detailed understanding of this control structure is thus invaluable to writing a consistent autonomous routine and a driver-friendly operator control.
+PID controllers have been used by Purdue SIGBots for almost every lift mechanism and even the CC/CV algorithm. A detailed understanding of this control structure is thus invaluable to writing a consistent autonomous routine and a driver-friendly operator control.
+
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

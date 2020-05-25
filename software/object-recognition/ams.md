@@ -34,3 +34,7 @@ It is still yet possible to improve AMS performance, possibly by a factor of ove
 
 Then, the resulting blobs would be scaled back up using a nearest-neighbor approach to full size, and the edges of blobs analyzed to fine tune the area, bounds, and confidence. While this would be expensive, it would only run on the perimeter of found blobs in the small image, avoiding falsely examining most types of image noise that might match the color model. No work has been done to estimate the overall impact on run time, but the acquisition of the [ODROID-XU](../../electronics/external-boards/odroid-xu.md) may make further AMS advancements unnecessary.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

@@ -30,3 +30,7 @@ _Main article:_ [_OpenNI_](openni.md)
 
 With the use of the Kinect, the **OpenNI** library has shown great promise to read and process the depth channel from the device. The addition of the depth turns the color image into a colored point cloud. However, none of the edge detection algorithms in OpenNI proved worthy of finding objects in the VEX environment. Continued work revolves around profitably using this information to determine the distance to a target.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

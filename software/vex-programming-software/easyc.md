@@ -39,5 +39,9 @@ EasyC is for the older VEX Cortex which is no longer competitve.
 * Flash utility does not cooperate with powered programming adapters.
 * Low-level code performance poor, with buggy library functions and unpredictable timing [Jitter](../../electronics/jitter.md)
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
 
 

@@ -17,3 +17,7 @@ Since cooling occurs at a different rate than heating \(black body radiation com
 
 The [VEX Cortex](vex-electronics/vex-cortex.md) has a 4 A resettable fuse controlling each bank of 5 motors \(1-5 and 6-10\). Likewise, the [Power Expander](power-expander.md) has one 4 A resettable fuse for all four outputs. **No more than two** 2-Wire Motor 393 modules should be used _simultaneously_ on a VEX Power Expander or per group of five motors on the VEX Cortex. Splitting heavy loads across the motor banks \(e.g. plugging the left drive motors into ports 1-3 and the right drive motors into ports 7-9\) will reduce the likelihood of a main fuse trip during a match.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

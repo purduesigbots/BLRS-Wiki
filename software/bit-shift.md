@@ -51,3 +51,7 @@ Bit rotates are less common than bit shifts; instead of losing shifted bits and 
 * **Wide type generation** - Multi-byte wide types can be generated from their byte components by shifting each byte a specified number of locations \(a multiple of eight\) to make them fit into the destination number at the correct place.
 * **Bit/byte decomposition** - Shifting a multi-byte type left or right is often used to break it down into byte or bit-sized components \(in combination with an appropriate mask\).
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

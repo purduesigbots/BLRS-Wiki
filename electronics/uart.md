@@ -21,3 +21,7 @@ UARTs are cheap to implement and easy to use; most advanced microcontrollers suc
 
 Due to the lack of RS-232 ports on modern computers \(which can be connected to a UART using only a voltage level translator\), most computers must use a USB to UART converter such as [\(ref\)](http://www.sparkfun.com/products/9716) to connect to a logic-level UART on a microcontroller.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

@@ -23,3 +23,7 @@ Output drive also affects [slew rate](slew-rate.md), as a pin with a higher outp
 
 The best known platforms for good output drives are the [Arduino](external-boards/arduino.md) and Netduino Plus 2, exceeding 20 mA per pin. The [Netduino](external-boards/netduino.md), [LeafLabs Maple](external-boards/leaflabs-maple.md) and VEX Cortex fall between 4 and 16 mA depending on the pin. The expansion ports on a PandaBoard or BeagleBoard run at very low voltages and are not designed to source or sink more than [4 mA](https://groups.google.com/forum/#!topic/pandaboard/LTyPKrzQM2I). A good compromise might be the [Raspberry PI](external-boards/raspberry-pi.md) or BeagleBone, which have 3.3 V I/O and slightly improved output drive of between 4 and 8 mA.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

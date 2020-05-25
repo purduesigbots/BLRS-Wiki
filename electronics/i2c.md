@@ -54,3 +54,7 @@ For the [VEX Cortex](vex-electronics/vex-cortex.md) with [PROS](../software/vex-
 
 The i2cRead and i2cWrite functions may also be useful for more unusual slave devices; see the API documentation for more details.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

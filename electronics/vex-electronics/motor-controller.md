@@ -18,3 +18,7 @@ The VEX Motor Controller performs the function of an _**H-Bridge**_. Its FETs, o
 
 VEX Motor Controllers are driven using a standard hobby servo control scheme, with a 1 ms pulse running full reverse, a 1.5 ms pulse stopping the motor, and a 2 ms pulse running full forward. A non-standard 200 us pulse will engage an active brake. These pulses typically appear on a 20 ms \(50 Hz\) duty cycle, but faster update rates up to 300 Hz may be possible with [PROS](../../software/vex-programming-software/pros/).
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

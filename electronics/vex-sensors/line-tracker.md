@@ -16,3 +16,7 @@ The Line Tracker is an analog sensor which means the infrared sensor will return
 
 For example, the Line Tracker will not follow a strip of black electrical tape placed on the dark gray VEX Competition Field Tiles because the sensor will return percentages of reflection too close together for a threshold of difference. However, a strip of white electrical tape on the VEX Competition Field Tiles will provide a large difference in values and an adequate threshold for the robot to track the tape.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

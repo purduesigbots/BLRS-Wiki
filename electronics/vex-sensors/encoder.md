@@ -44,3 +44,7 @@ If I go on holiday and come back to my house, the GPS will give me the same loca
 
 Potentiometer ==&gt; Absolute position
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

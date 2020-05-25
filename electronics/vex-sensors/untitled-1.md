@@ -12,3 +12,7 @@ Sound travels very slowly compared to the speed of a microprocessor clock; dista
 
 Soft or rounded objects do not reflect sound as well and can confuse or elude the VEX Ultrasonic Sensor. Using more than one VEX Ultrasonic Sensor at a time can cause interference.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

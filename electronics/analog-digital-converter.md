@@ -73,3 +73,7 @@ void initialize() {
 
 If the sensor value must be corrected for a zero-rate offset \(a sensor like a [Gyro](vex-sensors/gyroscope.md) or [Accelerometer](vex-sensors/accelerometer.md)\), use `analogReadCalibrated()` with an `analogCalibrate()` in the initialize function. When doing so, _make sure that the robot is stable during power-on_.
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

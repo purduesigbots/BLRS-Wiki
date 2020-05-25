@@ -38,3 +38,7 @@ The Maple was used by SIGBOTS for VEX Toss Up on both robots as an I/O expander.
 
 The Maple supersedes the somewhat unreliable and slow [Netduino](netduino.md). Although the Maple lacks a floating-point unit, it has enough horsepower to process a Kalman filter for the next generation of digital [gyros](../vex-sensors/gyroscope.md).
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+

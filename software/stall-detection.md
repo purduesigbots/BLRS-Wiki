@@ -30,3 +30,7 @@ An interesting alternative for stall detection comes from the use of the backwar
 
 Voltage sensing is passive and is connected in parallel with the motor, so it may be legal for use as an external sensing device. 
 
+#### Contributing Teams to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
