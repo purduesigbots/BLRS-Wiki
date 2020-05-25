@@ -57,3 +57,7 @@ Sometimes, you will want to merge changes made to one branch of your repository 
 ![](../.gitbook/assets/branchex.png)
 
 Opening a pull request allows you to compare the changes made to the two branches, and allows for a review process before merging the two. Pull requests are also used when dealing with forks of a repository and third party contributions made to a project.
+
+#### Teams Contributed to this Article:
+
+* [4001A](https://github.com/phsengineering/) \(4001A\)
