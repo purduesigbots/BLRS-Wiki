@@ -11,9 +11,11 @@ description: >-
 
 Whenever you write some software, it’s good practice to use some sort of version control system. A version control system is a program used by developers to backup, archive, and track changes to code over time. There are many version control systems out there, including Subversion, Mercurial, and more, but the most popular is called Git.
 
-Git works by tracking any change to your project - including file name changes, changes to where a file in your project is stored, and modifications to files in your project. Every so often, you will want to mark a certain version of your project. Git allows us to do this by making a commit, or capturing a snapshot of your project at a certain time. Each Git commit is timestamped, attributed to an author, and provides a list of changes made \(a diff\) since the last commit.
+Git works by tracking any change to your project - including file name changes, changes to where a file in your project is stored, and modifications to files in your project. Every so often, you will want to mark a certain version of your project. Git allows us to do this by making a commit, or capturing a snapshot of your project at a certain time. \(Think back to a time when you were working on a large document, and you saved it periodically with a slightly different name\). Each Git commit is timestamped, attributed to an author, and provides a list of changes made \(a diff\) since the last commit. You can also view all of the changes between two unique versions of your project, either side by side or line by line.
 
 Commits in Git can be made locally \(just on your computer\), or pushed to a remote. A remote is a server that hosts Git projects, which are called repositories. There are quite a few Git hosting services out there, but the most popular one is GitHub. In addition to hosting an archive of your repository \(particularly useful in case you accidentally delete your local repository, which will wipe your backups\), GitHub allows you to easily share your code and collaborate with others.
+
+While working on a VEXU or VAIC team with multiple source code contributers, it is important to sync with a remote, so eveyone has access to the latest version of the project. By default, Github repositories are make completely public. Users with free acounts can create private repostiories with a maximum of 3 total contributors.
 
 There are a few different options for installing Git. GitHub has their own software client for Git, which you can install on Windows, Mac, or Linux. You can also download and install GitKraken, which is a great visual Git client.
 
@@ -28,7 +30,7 @@ However, the most versatile solution is using the Git command line tool, which y
 * `git commit`
   * This command will commit all tracked changes made to your repository. If you add the “-m” modifier after this command, followed by quotation marks, you can add a message to the commit that will be displayed in the changelogs. An example of this would be:
 
-    `git clone -m “First commit”`
+    `git commit -m “First commit”`
 * `git push`
   * This command will upload new commits to the remote. In order to push code to your repository, you will need to login with your username and password. This also prevents other users from making changes to your code without your permission.
 * `git status`
@@ -38,6 +40,7 @@ However, the most versatile solution is using the Git command line tool, which y
 * `git stash`
   * The stash command will undo all changes made since the last commit and hold them in a "stash", so they can be edited later. A stash only exists on the local copy of your repository - it is not synced with a remote.
 
+Note to PROS users: If you are using the PROS editor, Atom has GUI based Github integration built in.
 ## Workflow
 
 * Make a new repository on GitHub
@@ -67,7 +70,11 @@ Sometimes, you will want to merge changes made to one branch of your repository 
 
 Opening a pull request allows you to compare the changes made to the two branches, and allows for a review process before merging the two. Pull requests are also used when dealing with forks of a repository and third party contributions made to a project.
 
+### .gitignore
+
+You may have noticed that GitHub adds a .gitignore when creating your repository. This file tells Git to ignore certain files when tracking changes made to the local repository. The default .gitignore added to PROS projects includes files under the bin/ folder, since this contains machine code that is not critical for backups. In addition, a .gitignore can be used to avoid having sensitive information (such as API keys, information about your computer, etc.) uploaded to GitHub. 
+
 #### Contributing Teams to this Article:
 
 * [4001A](https://github.com/phsengineering/)
-
+* Udit S
