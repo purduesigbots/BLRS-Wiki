@@ -28,7 +28,7 @@ However, the most versatile solution is using the Git command line tool, which y
 * `git commit`
   * This command will commit all tracked changes made to your repository. If you add the “-m” modifier after this command, followed by quotation marks, you can add a message to the commit that will be displayed in the changelogs. An example of this would be:
 
-    `git clone -m “First commit”`
+    `git commit -m “First commit”`
 * `git push`
   * This command will upload new commits to the remote. In order to push code to your repository, you will need to login with your username and password. This also prevents other users from making changes to your code without your permission.
 * `git status`
@@ -67,7 +67,10 @@ Sometimes, you will want to merge changes made to one branch of your repository 
 
 Opening a pull request allows you to compare the changes made to the two branches, and allows for a review process before merging the two. Pull requests are also used when dealing with forks of a repository and third party contributions made to a project.
 
+### .gitignore
+
+You may have noticed that GitHub adds a .gitignore when creating your repository. This file tells Git to ignore certain files when tracking changes made to the local repository. The default .gitignore added to PROS projects includes files under the bin/ folder, since this contains machine code that is not critical for backups. In addition, a .gitignore can be used to avoid having sensitive information (such as API keys, information about your computer, etc.) uploaded to GitHub. 
+
 #### Contributing Teams to this Article:
 
 * [4001A](https://github.com/phsengineering/)
-
