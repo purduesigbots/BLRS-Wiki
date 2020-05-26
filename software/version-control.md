@@ -11,7 +11,7 @@ description: >-
 
 Whenever you write some software, it’s good practice to use some sort of version control system. A version control system is a program used by developers to backup, archive, and track changes to code over time. There are many version control systems out there, including Subversion, Mercurial, and more, but the most popular is called Git.
 
-Git works by tracking any change to your project - including file name changes, changes to where a file in your project is stored, and modifications to files in your project. Every so often, you will want to mark a certain version of your project. Git allows us to do this by making a commit, or capturing a snapshot of your project at a certain time. \(Think back to a time when you were working a large document, and you saved it periodically with a slightly different name\) Each Git commit is timestamped, attributed to an author, and provides a list of changes made \(a diff\) since the last commit. You can also view all of the changes between two unique versions of your project, either side by side or line by line.
+Git works by tracking any change to your project - including file name changes, changes to where a file in your project is stored, and modifications to files in your project. Every so often, you will want to mark a certain version of your project. Git allows us to do this by making a commit, or capturing a snapshot of your project at a certain time. \(Think back to a time when you were working on a large document, and you saved it periodically with a slightly different name\). Each Git commit is timestamped, attributed to an author, and provides a list of changes made \(a diff\) since the last commit. You can also view all of the changes between two unique versions of your project, either side by side or line by line.
 
 Commits in Git can be made locally \(just on your computer\), or pushed to a remote. A remote is a server that hosts Git projects, which are called repositories. There are quite a few Git hosting services out there, but the most popular one is GitHub. In addition to hosting an archive of your repository \(particularly useful in case you accidentally delete your local repository, which will wipe your backups\), GitHub allows you to easily share your code and collaborate with others.
 
@@ -77,4 +77,4 @@ You may have noticed that GitHub adds a .gitignore when creating your repository
 #### Contributing Teams to this Article:
 
 * [4001A](https://github.com/phsengineering/)
-* [Udit S - PSU/91A]
+* Udit S
