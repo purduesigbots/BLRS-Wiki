@@ -41,6 +41,7 @@ However, the most versatile solution is using the Git command line tool, which y
   * The stash command will undo all changes made since the last commit and hold them in a "stash", so they can be edited later. A stash only exists on the local copy of your repository - it is not synced with a remote.
 
 Note to PROS users: If you are using the PROS editor, Atom has GUI based Github integration built in.
+
 ## Workflow
 
 * Make a new repository on GitHub
@@ -72,9 +73,10 @@ Opening a pull request allows you to compare the changes made to the two branche
 
 ### .gitignore
 
-You may have noticed that GitHub adds a .gitignore when creating your repository. This file tells Git to ignore certain files when tracking changes made to the local repository. The default .gitignore added to PROS projects includes files under the bin/ folder, since this contains machine code that is not critical for backups. In addition, a .gitignore can be used to avoid having sensitive information (such as API keys, information about your computer, etc.) uploaded to GitHub. 
+You may have noticed that GitHub adds a .gitignore when creating your repository. This file tells Git to ignore certain files when tracking changes made to the local repository. The default .gitignore added to PROS projects includes files under the bin/ folder, since this contains machine code that is not critical for backups. In addition, a .gitignore can be used to avoid having sensitive information \(such as API keys, information about your computer, etc.\) uploaded to GitHub.
 
 #### Contributing Teams to this Article:
 
 * [4001A](https://github.com/phsengineering/)
 * Udit S
+
