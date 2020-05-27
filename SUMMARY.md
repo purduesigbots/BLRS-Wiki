@@ -58,6 +58,9 @@
 
 ## Software
 
+* [Competition Specific](software/competition-specific/README.md)
+  * [Operator Control](software/competition-specific/operator-control.md)
+  * [Autonomous Control](software/competition-specific/autonomous-control.md)
 * [Control Algorithms](software/control-algorithms/README.md)
   * [Bang Bang](software/control-algorithms/bang-bang.md)
   * [PID Controller](software/control-algorithms/pid-controller.md)
@@ -75,7 +78,6 @@
   * [RobotC](software/vex-programming-software/robotc.md)
   * [VEXcode](software/vex-programming-software/vex-coding-studio-vcs.md)
   * [Midnight C](software/vex-programming-software/midnight-c.md)
-* [Autonomous Control](software/autonomous-control.md)
 * [Autoformatting](software/autoformatting.md)
 * [Bit Mask](software/bit-mask.md)
 * [Bit Shift](software/bit-shift.md)
@@ -85,7 +87,6 @@
 * [Finite State Machine](software/finite-state-machine.md)
 * [Kalman Filter](software/kalman-filter.md)
 * [Grid System](software/grid-system.md)
-* [Operator Control](software/operator-control.md)
 * [Register Programming](software/register-programming.md)
 * [Sensors and Odometry in Autonomous](software/sensors-and-odometry-in-autonomous.md)
 * [Stall Detection](software/stall-detection.md)
