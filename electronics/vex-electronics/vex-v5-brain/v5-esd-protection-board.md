@@ -27,3 +27,7 @@ Everything you need for a functioning board is listed here as well as OSH Park l
 
 ![2. The second and final step should be to drop in and solder jacks into the J1 and J2 Section of the board. ](../../../.gitbook/assets/9074734a21e9afba09e6ca821b47d0df.png)
 
+#### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+
