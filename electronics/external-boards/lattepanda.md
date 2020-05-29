@@ -79,7 +79,9 @@ Although it might be overkill for most usages in VEX robotics, its still worth d
       <td style="text-align:left">55 grams</td>
     </tr>
   </tbody>
-</table>![LattePanda Port Layout](../../.gitbook/assets/image%20%283%29.png)
+</table>
+
+![LattePanda Port Layout](../../.gitbook/assets/image%20%283%29.png)
 
 
 

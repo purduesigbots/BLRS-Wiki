@@ -20,6 +20,7 @@
   * [VEX Controller](electronics/vex-electronics/vex-joystick.md)
   * [VEX Battery](electronics/vex-electronics/vex-battery.md)
   * [VEX V5 Brain](electronics/vex-electronics/vex-v5-brain/README.md)
+    * [V5 ESD Protection Board](electronics/vex-electronics/vex-v5-brain/v5-esd-protection-board.md)
     * [V5 Electronics Observations and Issues](electronics/vex-electronics/vex-v5-brain/v5-electronics-observations.md)
   * [VEX Cortex](electronics/vex-electronics/vex-cortex.md)
   * [VEX Motor Controller](electronics/vex-electronics/motor-controller.md)

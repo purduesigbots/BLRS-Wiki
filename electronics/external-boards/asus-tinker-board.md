@@ -87,7 +87,9 @@ Many see the [ASUS Tinker Board S ](https://www.asus.com/us/Single-Board-Compute
       <td style="text-align:left">55g</td>
     </tr>
   </tbody>
-</table>#### Teams Contributed to this Article:
+</table>
+
+#### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 
