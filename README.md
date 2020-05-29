@@ -4,7 +4,7 @@ description: Welcome to the public BLRS wiki and knowledge base!
 
 # Welcome!
 
-### Here you'll find electronics and software information that we've made public for the VRC, VEXU, and VEX AI Challenge, everything from [PID Control](software/control-algorithms/pid-controller.md), [UART](electronics/uart.md), [VEX Electronics](electronics/vex-electronics/) and much more. 
+### Here you'll find electronics and software information that we've made public for the VRC, VEXU, and VEX AI Challenge, everything from [PID Control](software/control-algorithms/pid-controller.md), [V5 ESD Protection](electronics/vex-electronics/vex-v5-brain/v5-esd-protection-board.md), [VEX Electronics](electronics/vex-electronics/) and much more. 
 
 This wiki is built on the backs of many SIGBOTS alumni and [VEX's own documentation](https://kb.vex.com/hc/en-us) and we are grateful for their contributions to the VEX Community. We will keep this wiki up to date with new products and new knowledge as we head into the next 10 years of SIGBOTS History. New articles on the new VEX AI competition will also be added as we get closer to the launch of a new VEX Competition. 
 
