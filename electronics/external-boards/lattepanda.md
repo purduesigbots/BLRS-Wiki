@@ -194,7 +194,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 The LattePanda Delta series comes in the 432s series.
 
-**According to LattePanda Themselves -** 
+**According to LattePanda Marketing -** 
 
 **"** **Delta Edition -** Mathematical Character △; a triangle. In terms of product design, performance, and price, it signals a compromise between the three. It keeps the perfect balancing, while balancing best reflects the beauty of engineering.**"**
 
