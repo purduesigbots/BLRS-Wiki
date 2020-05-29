@@ -91,6 +91,10 @@ Although it might be overkill for most usages in VEX robotics, its still worth d
 
 The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s having internal storage and the 800s without. 
 
+**According to LattePanda Themselves -** 
+
+**"Alpha Edition** - **Generally refers to the leader in a wolf pack, α / Alpha. It will also be the leader in the LattePanda series, the most powerful in performance. Known as the leader of the Pandas, or "AlphaPanda" for short."**
+
 ![LattePanda Alpha Series](../../.gitbook/assets/image%20%2810%29.png)
 
 ### **Specifications:**
