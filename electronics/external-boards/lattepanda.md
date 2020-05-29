@@ -6,7 +6,7 @@ description: A powerful micro-processor capable of running desktop windows.
 
 The LattePanda is a powerful mini-PC capable of running desktop windows, with an [arduino](arduino.md) pinout and co-processor. Its power comes mostly from its large amount of storage and RAM. 
 
-Although it might be overkill for most usages in VEX robotics, its still worth documenting for more memory-intensive programs or competition hosting purposes.
+Although it might be overkill for most usages in VRC and VEXU, its still worth documenting for more memory-intensive programs, VAIC, or competition hosting purposes.
 
 **According to LattePanda Marketing -** 
 
