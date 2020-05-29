@@ -186,7 +186,9 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
   </tbody>
 </table>
 
-#### 
+### LattePanda Delta Series
+
+The LattePanda Delta series comes in the 432s series.
 
 #### Teams Contributed to this Article:
 
