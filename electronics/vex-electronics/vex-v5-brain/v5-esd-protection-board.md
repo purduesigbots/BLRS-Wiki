@@ -21,5 +21,3 @@ Everything you need for a functioning board is listed here as well as OSH Park l
 | OshPark | 1 | [29IVKKai](https://oshpark.com/shared_projects/29IVKKai) | - | PCB \(Set of 3\) | $1.27 | $1.27 |
 | TOTAL |  |  |  |  |  | $3.92 |
 
-## Installation
-
