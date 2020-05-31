@@ -1,6 +1,13 @@
+---
+description: >-
+  You can't really have good software without sensors, and the quality of the
+  readings from your sensors is often the determining factor in having
+  competitive code.
+---
+
 # Sensors and Odometry in Autonomous
 
-You can't really have good software without sensors, and the quality of the readings from your sensors is often the determining factor in having competitive code. As a result, it's important to ask for sensor placement on the robot to avoid being completely at the mercy of mechanics and electronics.
+It's important to ask for sensor placement on the robot to avoid being completely at the mercy of mechanics and electronics.
 
 ## Drives
 

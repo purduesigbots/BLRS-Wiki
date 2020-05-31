@@ -4,13 +4,7 @@ description: The VEX Cortex is the older microcontroller that was used in VRC an
 
 # VEX Cortex
 
-
-
 [![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)
-
-
-
-
 
 {% hint style="danger" %}
 This article is about the VEX Cortex, which is the legacy microcontroller for VRC and is no longer competitive
@@ -34,7 +28,7 @@ The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32
 
 * RobotC interprets the user program, a substantial speed hit to the running program. EasyC and PROS do not have these issues
 * VEXnet communications can be lag-prone or inconsistent
-* [Power consumption](/w/wiki/ee/power_consumption/) is higher than it could be
+* [Power consumption](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/power_consumption/README.md) is higher than it could be
 * Large, yet does not break out all pins of the microcontroller core chip
 * Most powerful chip peripherals are unavailable
 
@@ -46,7 +40,7 @@ Since the VEX Cortex is the only microcontroller which can run actuators on the 
 
 ## Troubleshooting
 
-If the VEX Cortex is not working properly, look at the three indicator lights on the Cortex microcontroller. The most common solution is restarting both the [VEX Joystick](/w/wiki/ee/joystick/) and the Cortex; if the Cortex still fails to operate, downloading the firmware is probably the next step.
+If the VEX Cortex is not working properly, look at the three indicator lights on the Cortex microcontroller. The most common solution is restarting both the [VEX Joystick](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/joystick/README.md) and the Cortex; if the Cortex still fails to operate, downloading the firmware is probably the next step.
 
 | Robot | VEXNet | Game | Diagnosis |
 | :--- | :--- | :--- | :--- |
@@ -54,23 +48,23 @@ If the VEX Cortex is not working properly, look at the three indicator lights on
 | Red \(fast flash\) | _See below_ |  | Backup battery low or unplugged |
 | Red \(slow flash\) | _See below_ |  | User code has crashed |
 | Yellow | _See below_ |  | Robot battery is low |
-| Green \(slow flash\) | Off | Green \(flickering\) | Ready to download firmware\\ If not intended, restart the Cortex |
+| Green \(slow flash\) | Off | Green \(flickering\) | Ready to download firmware\ If not intended, restart the Cortex |
 | ::: | Red \(slow flash\) | ::: | Downloading firmware |
 | Green | ::: | Off | VEXNet communications lost |
 | ::: | Yellow \(slow flash\) | ::: | VEXNet initializing |
-| Green _or_\\ Green \(+1 blink\) | Green | ::: | Tethered to PC or joystick |
+| Green _or_\ Green \(+1 blink\) | Green | ::: | Tethered to PC or joystick |
 | ::: | Green \(fast flash\) | ::: | User code running \(no competition switch\) |
 | ::: | ::: | Green | Driver control |
 | ::: | ::: | Yellow | Robot disabled, set competition switch to Enable |
 | Green \(fast flash\) | ::: | Green \(fast flash\) | Autonomous mode |
-| Off | Green \(slow flash\) | Off | Code download in progress\\ If stuck in this state, restart the Cortex |
+| Off | Green \(slow flash\) | Off | Code download in progress\ If stuck in this state, restart the Cortex |
 
 ### Known issues
 
-* **Motor ports provide little or no power** - The battery is low, or too much power was drawn from the ports, tripping a [Resettable Fuse \(PTC\)](/w/wiki/ee/resettable_fuse/). Wait a few minutes and try again, or disconnect some motors from the VEX Cortex to lighten the load.
-* **Sensors not working properly** - A backup battery should be connected to maintain power to sensors. Sensors work differently when the VEX Cortex is powered from a [ee:powered programming adapter](/w/powered_programming_adapter/) or the orange USB A to A cable. Always test sensors with a [VEX battery](/w/wiki/ee/battery/) connected and in use.
-* **Code download stops midway** - Downloading large files exposes problems with [VEXNet](/w/wiki/ee/vexnet/). Go through and optimize the program, or download using the USB tether instead of over wireless.
-* **Cortex will not turn off** - When a backup battery is connected, turn off the [VEX Joystick](/w/wiki/ee/joystick/) first and allow the VEX Cortex to lose the connection before powering down to avoid this issue.
+* **Motor ports provide little or no power** - The battery is low, or too much power was drawn from the ports, tripping a [Resettable Fuse \(PTC\)](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/resettable_fuse/README.md). Wait a few minutes and try again, or disconnect some motors from the VEX Cortex to lighten the load.
+* **Sensors not working properly** - A backup battery should be connected to maintain power to sensors. Sensors work differently when the VEX Cortex is powered from a [ee:powered programming adapter](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/powered_programming_adapter/README.md) or the orange USB A to A cable. Always test sensors with a [VEX battery](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/battery/README.md) connected and in use.
+* **Code download stops midway** - Downloading large files exposes problems with [VEXNet](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/vexnet/README.md). Go through and optimize the program, or download using the USB tether instead of over wireless.
+* **Cortex will not turn off** - When a backup battery is connected, turn off the [VEX Joystick](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/joystick/README.md) first and allow the VEX Cortex to lose the connection before powering down to avoid this issue.
 
 ### Download Firmware
 
@@ -88,7 +82,7 @@ If VEX releases a firmware update, or the Cortex is acting in an erratic manner,
 
 [![](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)
 
- The **VEX Cortex** external pin layout
+The **VEX Cortex** external pin layout
 
 ## Advanced
 
@@ -96,13 +90,13 @@ If VEX releases a firmware update, or the Cortex is acting in an erratic manner,
 
 [![](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)
 
- Inside of a **VEX Cortex** microcontroller
+Inside of a **VEX Cortex** microcontroller
 
 [![](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)
 
- Ditto, bottom view
+Ditto, bottom view
 
-The digital, serial, I2C, and analog pins on the Cortex microcontroller are actually given different names by the microcontroller's registers. By mapping these [GPIO](/w/wiki/ee/gpio/) pins with a test program, the following pin to port map was derived:
+The digital, serial, I2C, and analog pins on the Cortex microcontroller are actually given different names by the microcontroller's registers. By mapping these [GPIO](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/gpio/README.md) pins with a test program, the following pin to port map was derived:
 
 * Digital 1 - **PE9** _\(TIM1\_CH1/FSMC\_D6\)_
 * Digital 2 - **PE11** _\(TIM1\_CH2/FSMC\_D8\)_
@@ -134,11 +128,11 @@ The digital, serial, I2C, and analog pins on the Cortex microcontroller are actu
 
 ### SPI
 
-By using the second [UART](/w/wiki/ee/uart/) peripheral, one can find its RX pin exposed on analog 4 and its TX pin exposed on analog 3. Its CK pin is also exposed on the SP pin. Combined, these pins form an [SPI](/w/wiki/ee/spi/) device, with MOSI on analog pin 3, MISO on analog pin 4, and SCK on the SP pin. CS can be performed by any free GPIO on the digital, analog, or communication ports.
+By using the second [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/uart/README.md) peripheral, one can find its RX pin exposed on analog 4 and its TX pin exposed on analog 3. Its CK pin is also exposed on the SP pin. Combined, these pins form an [SPI](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/spi/README.md) device, with MOSI on analog pin 3, MISO on analog pin 4, and SCK on the SP pin. CS can be performed by any free GPIO on the digital, analog, or communication ports.
 
 ### I2C
 
-The built-in [I2C](/w/wiki/ee/i2c/) port is linked to I2C1 on its alternate pin mapping. It is used to connect to the [VEX Motor Encoders](/w/wiki/ee/ime/). EasyC, RobotC, and PROS all support use of the port; only PROS allows connection of custom sensors such as [gyros](/w/wiki/ee/gyro/) as well.
+The built-in [I2C](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/i2c/README.md) port is linked to I2C1 on its alternate pin mapping. It is used to connect to the [VEX Motor Encoders](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/ime/README.md). EasyC, RobotC, and PROS all support use of the port; only PROS allows connection of custom sensors such as [gyros](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/gyro/README.md) as well.
 
 Since the I2C and UART ports are directly connected to the STM32 device without short-circuit or ESD protection resistors, they are more vulnerable to failure or lock-up than the regular Digital I/O. easyC and ROBOTC users of the VEX Motor Encoders have found that static built up from driving on the field can discharge through the motor casing and the IME chain into the Cortex, causing a possible lock-up and crash.
 
@@ -150,7 +144,7 @@ Several of the built-in timer modules also have exposed capture/compare pins on 
 
 ### External port details
 
-The Crystal ports and Communications ports are connected directly to their outputs. However, Digital ports have a series 1 Kohm resistance to provide short-circuit protection and a 1 nF capacitor for decoupling, limiting their [Slew Rate](/w/wiki/ee/slew_rate/) and [Output Drive](/w/wiki/ee/output_drive/) accordingly. Analog ports have a voltage divider which makes 5 V inputs safe for the 3.3 V ADC with a total input impedance of around 28 Kohms and an anti-aliasing 3dB bandwidth of 16 KHz. A weak pull-up in processor by default makes Digital inputs float high and Analog inputs idle at about 0.2 V. The Speaker port has a 100 ohm series resistor and no capacitor.
+The Crystal ports and Communications ports are connected directly to their outputs. However, Digital ports have a series 1 Kohm resistance to provide short-circuit protection and a 1 nF capacitor for decoupling, limiting their [Slew Rate](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/slew_rate/README.md) and [Output Drive](https://github.com/purduesigbots/BLRS-Wiki/tree/ce9b26b13b28620dcbb449201168eb92daaada85/w/wiki/ee/output_drive/README.md) accordingly. Analog ports have a voltage divider which makes 5 V inputs safe for the 3.3 V ADC with a total input impedance of around 28 Kohms and an anti-aliasing 3dB bandwidth of 16 KHz. A weak pull-up in processor by default makes Digital inputs float high and Analog inputs idle at about 0.2 V. The Speaker port has a 100 ohm series resistor and no capacitor.
 
 #### Teams Contributed to this Article:
 
