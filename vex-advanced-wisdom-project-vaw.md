@@ -4,7 +4,7 @@ After extensive discussion with many of the top tier VEXU programs, it became ob
 
 **The current VEX V5 resources are at this** [**link**](https://education.vex.com/edr/stem-labs/)**.**
 
-During this discussion there were three plans put in place: the creation of a central knowledge base for VEX specific information \(spearheaded by Purdue Sigbots\), and the recording of a video series that would teach many concepts related to VRC and FRC with initial emphasis on VAIC applicable topics\(currently managed by Team HAIL at UMich\). 
+During this discussion there were three plans put in place: the creation of a central knowledge base for VEX specific information \(spearheaded by Purdue Sigbots\), and the recording of a video series that would teach many concepts related to VRC and FRC with initial emphasis on VAIC applicable topics \(currently managed by Team HAIL at UMich\). 
 
 HAIL’s video series is poised to start the recording phase soon. An updated link will be posted soon.
 
