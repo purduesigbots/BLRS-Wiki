@@ -13,7 +13,7 @@ In addition, [this article by Vex](https://kb.vex.com/hc/en-us/articles/36003595
 
 These are the four most common types of Vex Drivetrains:
 
-- Tank Drive ("Bling Drive")
+- Tank Drive
 - Mecanum Drive
 - X-Drive
 - H-Drive
@@ -28,15 +28,15 @@ This is by far the most common and simplest drivetrain in Vex. It generally uses
 
 **Advantages and Disadvantages:** The Tank Drive is very simple to build and consistently performs well. Many former world champions have used the Tank Drive for its simplicity. However, it suffers both from being able to be pushed sideways and from an inability to strafe. 
 
-One solution to the problem of being pushed from the side is commonly referred to as the **"Bling Drive"**:
+One solution to the problem of being pushed from the side utilizes **locked omni wheels** and is sometimes referred to as the "Bling Drive":
 
-![240P's Bling Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Bling Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
+The reasoning behind and process of making locked omni wheels is explained in [this video by the Rolling Robots](https://www.youtube.com/watch?v=cKM5kPYdWVU). Twenty-four 0.5" screws can be used to make one locked omni wheel. The locked omni wheels should be placed in the center of the robot (more or less in line with the robot's center of gravity) to optimize turning. In addition, only two locked omnis should be used per robot, as more will create difficulty turning and possibly damage the wheels.
 
-This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot(s)](https://www.youtube.com/watch?v=NX6mLf8iO34). This drive was common in Vex Turning Point because of the defensive nature of the game.
+![240P's Bling Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Locked Omni Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
 
-The "bling", in this case, refers to the screws placed in the center omni wheel to stop sideways motion. While this can also be accomplished using a traction wheel, Vex traction wheels have a slightly smaller diameter than omni wheels. For this reason the "blinged" omni wheel is preferred. Note that the "blinged" omni is placed in the center of the robot so as to maintain a more natural center of rotation (more or less aligned with the robot's center of gravity).
+This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot(s)](https://www.youtube.com/watch?v=NX6mLf8iO34). The locked omni drive was common in Vex Turning Point because of the defensive nature of the game.
 
-An alternative to bling drive which is becoming more and more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alterative for those who don't wish to put screws in omni wheels.
+An alternative to locked omni wheels which is becoming more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alterative for those who don't wish to lock their omni wheels.
 
 ## Mecanum Drive
 
