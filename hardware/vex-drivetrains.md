@@ -78,9 +78,9 @@ The H-Drive is constructed very similarly to the Tank Drive. However, it contain
 
 **Advantages and Disadvantages:** The H-Drive has more maneuverability and can resist pushing more effectively than the Tank Drive. However, its sideways motion is generally either slower or weaker than its forward motion. In addition, it takes an extra motor to power the center wheel. This takes away one motor from mechanisms, which is often not worth the tradeoff. 
 
-![21000C's H-Drive](https://user-images.githubusercontent.com/65926085/83559112-a1f0e900-a4d9-11ea-94fb-1e59c18624d6.png)
+![99904A's H-Drive](https://user-images.githubusercontent.com/65926085/83677779-450d3580-a5a2-11ea-9238-1f288bbdf526.png)
 
-The H-Drive was utilized by [21000C's Early Season Tower Takeover Robot](https://www.youtube.com/watch?v=gmAoMTFcf20).
+The H-Drive was utilized by [99904A's Turning Point Robot](https://www.youtube.com/watch?v=MLQynFXRzZI) to complement their sideways catapult. 
 
 **NOTE:** When building an H-Drive, it is crucial that the center wheel contact the field in roughly the same manner as the other four. To accomplish this, the mounting for this wheel can be spaced down slightly, or a tensioning system can be used to pull the center wheel into the ground.
 
@@ -98,8 +98,3 @@ There are 4 main components to designing and building a quality drive:
 #### Contributing Teams to this Article:
 
 * [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) \(Jackson Area Robotics\)
-
-
-
-
-
