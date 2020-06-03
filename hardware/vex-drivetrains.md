@@ -13,7 +13,7 @@ In addition, [this article by Vex](https://kb.vex.com/hc/en-us/articles/36003595
 
 These are the four most common types of Vex Drivetrains:
 
-- Tank Drive ("Bling Drive")
+- Tank Drive
 - Mecanum Drive
 - X-Drive
 - H-Drive
@@ -28,15 +28,15 @@ This is by far the most common and simplest drivetrain in Vex. It generally uses
 
 **Advantages and Disadvantages:** The Tank Drive is very simple to build and consistently performs well. Many former world champions have used the Tank Drive for its simplicity. However, it suffers both from being able to be pushed sideways and from an inability to strafe. 
 
-One solution to the problem of being pushed from the side is commonly referred to as the **"Bling Drive"**:
+One solution to the problem of being pushed from the side utilizes **locked omni wheels** and is sometimes referred to as the "Bling Drive":
 
-![240P's Bling Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Bling Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
+The reasoning behind and process of making locked omni wheels is explained in [this video by the Rolling Robots](https://www.youtube.com/watch?v=cKM5kPYdWVU). Twenty-four 0.5" screws can be used to make one locked omni wheel. The locked omni wheels should be placed in the center of the robot (more or less in line with the robot's center of gravity) to optimize turning. In addition, only two locked omnis should be used per robot, as more will create difficulty turning and possibly damage the wheels.
 
-This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot(s)](https://www.youtube.com/watch?v=NX6mLf8iO34). This drive was common in Vex Turning Point because of the defensive nature of the game.
+![240P's Bling Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Locked Omni Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
 
-The "bling", in this case, refers to the screws placed in the center omni wheel to stop sideways motion. While this can also be accomplished using a traction wheel, Vex traction wheels have a slightly smaller diameter than omni wheels. For this reason the "blinged" omni wheel is preferred. Note that the "blinged" omni is placed in the center of the robot so as to maintain a more natural center of rotation (more or less aligned with the robot's center of gravity).
+This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot(s)](https://www.youtube.com/watch?v=NX6mLf8iO34). The locked omni drive was common in Vex Turning Point because of the defensive nature of the game.
 
-An alternative to bling drive which is becoming more and more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alterative for those who don't wish to put screws in omni wheels.
+An alternative to locked omni wheels which is becoming more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alterative for those who don't wish to lock their omni wheels.
 
 ## Mecanum Drive
 
@@ -78,9 +78,9 @@ The H-Drive is constructed very similarly to the Tank Drive. However, it contain
 
 **Advantages and Disadvantages:** The H-Drive has more maneuverability and can resist pushing more effectively than the Tank Drive. However, its sideways motion is generally either slower or weaker than its forward motion. In addition, it takes an extra motor to power the center wheel. This takes away one motor from mechanisms, which is often not worth the tradeoff. 
 
-![21000C's H-Drive](https://user-images.githubusercontent.com/65926085/83559112-a1f0e900-a4d9-11ea-94fb-1e59c18624d6.png)
+![99904A's H-Drive](https://user-images.githubusercontent.com/65926085/83677779-450d3580-a5a2-11ea-9238-1f288bbdf526.png)
 
-The H-Drive was utilized by [21000C's Early Season Tower Takeover Robot](https://www.youtube.com/watch?v=gmAoMTFcf20).
+The H-Drive was utilized by [99904A's Turning Point Robot](https://www.youtube.com/watch?v=MLQynFXRzZI) to complement their sideways catapult. 
 
 **NOTE:** When building an H-Drive, it is crucial that the center wheel contact the field in roughly the same manner as the other four. To accomplish this, the mounting for this wheel can be spaced down slightly, or a tensioning system can be used to pull the center wheel into the ground.
 
@@ -98,8 +98,3 @@ There are 4 main components to designing and building a quality drive:
 #### Contributing Teams to this Article:
 
 * [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) \(Jackson Area Robotics\)
-
-
-
-
-
