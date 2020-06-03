@@ -30,7 +30,7 @@ This is by far the most common and simplest drivetrain in Vex. It generally uses
 
 One solution to the problem of being pushed from the side is commonly referred to as the **"Bling Drive"**:
 
-![240P's Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
+![240P's Bling Drive](https://user-images.githubusercontent.com/65926085/83548634-add4af00-a4c9-11ea-9cc3-8978cab7d53a.png) ![8059A's Bling Drive](https://user-images.githubusercontent.com/65926085/83548438-60f0d880-a4c9-11ea-8bf0-a045e34b387f.png)
 
 This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot(s)](https://www.youtube.com/watch?v=NX6mLf8iO34). This drive was common in Vex Turning Point because of the defensive nature of the game.
 
@@ -46,7 +46,7 @@ The Mecanum Drive is just as simple to build as the Tank Drive, but has the abil
 
 **Advantages and Disadvantages:** The Mecanum Drive is simple to build and, while mecanum wheels are thicker than omni wheels, it takes up little space. The Mecanum Drive is also difficult to push from the side, however it strafes more slowly than it drives forward. Because Vex mecanum wheels have only 7 sets of rollers, driving is often "clunky", which is a disadvantage when programming autonomous functions using the integrated motor encoders.
 
-![7K's Drive](https://user-images.githubusercontent.com/65926085/83552256-14100080-a4cf-11ea-8362-56dd9513c343.png)
+![7K's Mecanum Drive](https://user-images.githubusercontent.com/65926085/83552256-14100080-a4cf-11ea-8362-56dd9513c343.png)
 
 The Mecanum Drive was utilized by [7K's Tower Takeover Robot](https://www.youtube.com/watch?v=vGkMw4Nx-Ks). Mecanum wheels are especially effective in games like Tower Takeover which involve rows of game elements or aligning with the field perimeter.
 
@@ -54,7 +54,7 @@ The Mecanum Drive was utilized by [7K's Tower Takeover Robot](https://www.youtub
 
 ## X-Drive
 
-![image](https://user-images.githubusercontent.com/65926085/83556810-2a6d8a80-a4d6-11ea-9a5f-f44a0f9f7698.png)
+![X-Drive](https://user-images.githubusercontent.com/65926085/83556810-2a6d8a80-a4d6-11ea-9a5f-f44a0f9f7698.png)
 
 The X-Drive is a bit more complex to build than either the Tank or Mecanum Drives, but it allows for greater maneuverability than the Mecanum Drive.
 
@@ -78,11 +78,22 @@ The H-Drive is constructed very similarly to the Tank Drive. However, it contain
 
 **Advantages and Disadvantages:** The H-Drive has more maneuverability and can resist pushing more effectively than the Tank Drive. However, its sideways motion is generally either slower or weaker than its forward motion. In addition, it takes an extra motor to power the center wheel. This takes away one motor from mechanisms, which is often not worth the tradeoff. 
 
-![21000C's Drive](https://user-images.githubusercontent.com/65926085/83559112-a1f0e900-a4d9-11ea-94fb-1e59c18624d6.png)
+![21000C's H-Drive](https://user-images.githubusercontent.com/65926085/83559112-a1f0e900-a4d9-11ea-94fb-1e59c18624d6.png)
 
 The H-Drive was utilized by [21000C's Early Season Tower Takeover Robot](https://www.youtube.com/watch?v=gmAoMTFcf20).
 
 **NOTE:** When building an H-Drive, it is crucial that the center wheel contact the field in roughly the same manner as the other four. To accomplish this, the mounting for this wheel can be spaced down slightly, or a tensioning system can be used to pull the center wheel into the ground.
+
+## Building a Drivetrain
+
+The performance of any drivetrain is based not only on the type selected, but also on the quality with which it is designed and built. This Vex Forum thread on [Designing a Quality Drive](https://www.vexforum.com/t/designing-a-quality-drive/81850) is a great resource for newer teams interested in maximizing their drive's performance.
+
+There are 4 main components to designing and building a quality drive:
+
+- **Planning:** Set constraints for your drive to best accomplish the tasks in the game (i.e. "The width must be less than 13 inches." or "There must be at least 6 inches of room on the front of the drive to attach a mechanism). By setting these constraints before you begin designing, you'll have a much easier time later on. 
+- **Designing:** CAD tools such as [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) are especially helpful when designing your drivetrain, as they allow you to visualize the drive in its final form. However, a pen and some graph paper is always an acceptable alternative. Whatever the method, fully designing the drivetrain before beginning the build is very beneficial.
+- **Robustness:** Make sure that your design contains bracing in several places to make a more robust drivetrain. A simple test to determine whether the frame is robust enough is to try to bend it diagonally. If it bends easily, or very far, more bracing should be utilized. One technique to increase a drivetrain's robustness involves placing spacers between opposite sides of a C-channel being attached, as shown [here](https://www.vexforum.com/uploads/default/original/3X/7/6/76ca8cbde060b57aa60ade37a45e920d7cbdaada.png). For a 1x2x1 C-channel, a .375" spacer and a .5" spacer fit snugly between the sides of the channel.
+- **Efficiency:** Ensure that each wheel assembly (and gear or chain assembly, if your drive utilizes these) has as little friction as possible. A good rule of thumb is that if a mechanism can spin freely for more than 5 revolutions, it has minimal friction. Of course, you are the judge of whether or not your mechanisms cause friction, and how much this affects your build. Some common causes of unwanted friction include misalignment (components are not in line, causing rotation to be more difficult) and rubbing (two components are moving against each other; they should be spaced apart).
 
 #### Contributing Teams to this Article:
 
