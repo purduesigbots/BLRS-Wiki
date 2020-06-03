@@ -26,11 +26,11 @@ This is the go-to joint in Vex for low-torque rotation applications. Because it 
 
 **Examples:**
 
-![7700R Antitips](https://user-images.githubusercontent.com/65926085/83479233-a081db00-a45d-11ea-95bb-5ee80833e02a.png)
+![7700R's Antitips](https://user-images.githubusercontent.com/65926085/83479233-a081db00-a45d-11ea-95bb-5ee80833e02a.png)
 
 This screw joint is used to attach the rollers to an antitip mechanism on [7700R's Tower Takeover Robot](https://www.youtube.com/watch?v=1mLc1jOCxck). Since the holes in the rollers are round, they rotate freely and with little friction around the screws.
 
-![5225A Lift](https://user-images.githubusercontent.com/65926085/83524004-989b5880-a4a8-11ea-9d55-71ce4af162ca.png) ![5225A Lift](https://user-images.githubusercontent.com/65926085/83524557-62120d80-a4a9-11ea-90a1-f28e86cbfa61.png)
+![5225A's Lift](https://user-images.githubusercontent.com/65926085/83524004-989b5880-a4a8-11ea-9d55-71ce4af162ca.png) ![5225A's Lift](https://user-images.githubusercontent.com/65926085/83524557-62120d80-a4a9-11ea-90a1-f28e86cbfa61.png)
 
 This screw joint is used to mount one bottom four-bar of [5225A's In the Zone Lift](https://www.youtube.com/watch?v=sux3YbbbkYY). This mounting solution allows for low friction on the lifting joints, and with 12 of these joints in total, minimizing friction on each is important.
 
@@ -52,7 +52,7 @@ This is a high-friction, high-slop joint which is used in applications which inv
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/65926085/83528262-86241d80-a4ae-11ea-9097-4ed572e107f9.png)
+![5225A's Lift](https://user-images.githubusercontent.com/65926085/83528262-86241d80-a4ae-11ea-9097-4ed572e107f9.png)
 
 This low strength axle joint is used on one lower gear of [5225A's In the Zone Lift](https://www.youtube.com/watch?v=sux3YbbbkYY). Although the other gears use screw joints to minimize friction, this one utilizes an axle to translate the gear's rotation to a potentiometer, which measures the lift's height.
 
@@ -64,7 +64,7 @@ This is a high-friction joint which is very effective in high-torque and cantile
 
 **Example:**
 
-![8066Y Lift](https://user-images.githubusercontent.com/65926085/83531142-321b3800-a4b2-11ea-82ec-83ef2ec4d7ca.png)
+![8066Y's Lift](https://user-images.githubusercontent.com/65926085/83531142-321b3800-a4b2-11ea-82ec-83ef2ec4d7ca.png)
 
 This high strength axle joint is used on [8066Y's Early Season Tower Takeover Lift](https://www.youtube.com/watch?v=CHXg5mqd-EM). Because it needed to lift several cubes, this high strength option was used rather than a screw joint. This lift also benefits from the long high strength axle connecting the two sides, thereby reducing tilt.
 
