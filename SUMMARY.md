@@ -96,5 +96,5 @@
 
 ## Hardware 
 
- * (hardware/vex-drivetrains.md)
- * (hardware/vex-joints.md)
+ * [VEX Drivetrains](hardware/vex-drivetrains.md)
+ * [VEX Joints](hardware/vex-joints.md)
