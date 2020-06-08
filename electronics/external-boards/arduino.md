@@ -16,7 +16,7 @@ Featuring 5-volt operation and impressive [Output Drive](../output-drive.md), th
 | **Architecture:** 8-bit Atmel AVR |
 | :--- |
 | **Processor:** [ATmega328P](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf) |
-| **Languages:** C \(Arduino IDE\) |
+| **Languages:** C \([Arduino IDE](https://www.arduino.cc/en/main/software)\) |
 | **Clock:** 16 MHz |
 | **Vcore:** 5.0 V |
 | **Vio:** 5.0 V |
@@ -54,7 +54,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 | **Architecture:** 8-bit Atmel AVR |
 | :--- |
 | **Processor:** [ATmega32U4](http://arduino.cc/en/Main/ArduinoBoardLeonardo/) |
-| **Languages:** C \(Arduino IDE\) |
+| **Languages:** C \([Arduino IDE](https://www.arduino.cc/en/main/software)\) |
 | **Clock:** 16 MHz |
 | **Vcore:** 5.0 V |
 | **Vio:** 5.0 V |
@@ -71,7 +71,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 | **Architecture:** 8-bit Atmel AVR |
 | :--- |
 | **Processor:** [ATmega2560](http://arduino.cc/en/Main/ArduinoBoardMega2560/) |
-| **Language:** C \(Arduino IDE\) |
+| **Language:** C \([Arduino IDE](https://www.arduino.cc/en/main/software)\) |
 | **Clock:** 16 MHz |
 | **Vcore::** 5.0 V |
 | **Vio:** 5.0 V |

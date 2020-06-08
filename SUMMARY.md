@@ -94,7 +94,8 @@
 * [Stall Detection](software/stall-detection.md)
 * [Version Control](software/version-control.md)
 
-## Hardware 
+## Hardware
 
- * [VEX Drivetrains](hardware/vex-drivetrains.md)
- * [VEX Joints](hardware/vex-joints.md)
+* [VEX Drivetrains](hardware/vex-drivetrains.md)
+* [VEX Joints](hardware/vex-joints.md)
+
