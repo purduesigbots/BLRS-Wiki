@@ -4,7 +4,7 @@ description: An ESD Protection board for the V5
 
 # V5 ESD Protection Board
 
-This is an ESD protection board for the V5 Brain to help prevent dead ports or dead motors. This solution is not competition legal but can be very easily removed before a competition. This board sits in-between a port on the [brain](./) and a [motor](../motors.md). Technical information about RS-485 Bus Protection can be seen here:
+This is an ESD protection board for the V5 Brain to help prevent dead ports or dead motors. **This solution is not competition legal but can be very easily removed before a competition.** This board sits in-between a port on the [brain](./) and a [motor](../motors.md). Technical information about RS-485 Bus Protection can be seen here:
 
 {% file src="../../../.gitbook/assets/ti-iec-esd-rs-485-bus-protection.pdf" %}
 
