@@ -20,12 +20,14 @@ In the kitchen oven case, derivative control would be important to prevent oscil
 
 ## Tuning
 
-For any PID controller, the exact impact of the three terms \(proportional, integral, and derivative\) must be assessed for each implementation. Each term must be multiplied by a constant which is generally only determined by experimentation with the system at hand to determine the best response. Constant choice must balance several factors:
+For any PID controller, the exact impact of the three terms \(**proportional**, **integral**, and **derivative**\) must be assessed for each implementation. Each term must be multiplied by a constant which is generally only determined by experimentation with the system at hand to determine the best response. Constant choice must balance several factors:
 
 * **Settling time** - For many choices of constants, the system will oscillate one or more times around the target. If the oscillations stop quickly, this is usually not an issue, but sustained oscillation is seldom intended.
 * **Overshoot** - PID controllers will usually overshoot the target slightly and come back to the desired value. While such behavior is often mechanically useful to remove gear or chain backlash, too much overshoot will lead to oscillations.
 * **Steady-state error** - Some small offset from the target will usually remain due to a variety of possible reasons.
 * **Rise time** - The rate at which the controller reaches the target must be carefully monitored. Setting a hard limit on the output rate of change is often acceptable, but some constant choices may limit it implicitly.
+
+Generally speaking, you want to first tune proportion \(P\), then derivative \(D\), and then finally integral \(I\). Some of these values might not be used if the values that come behind it make the controller smooth enough. 
 
 ## Refinements
 
