@@ -77,7 +77,7 @@ It is also a viable option when creating an X-Drive.
 
 The H-Drive is constructed very similarly to the Tank Drive. However, it contains a wheel in the center of the robot which both allows for strafing and prevents being pushed from the side. This is not a common drivetrain choice, but can be a viable one.
 
-**Advantages and Disadvantages:** The H-Drive has more maneuverability and can resist pushing more effectively than the Tank Drive. However, its sideways motion is generally either slower or weaker than its forward motion. In addition, it takes an extra motor to power the center wheel. This takes away one motor from mechanisms, which is often not worth the tradeoff.
+**Advantages and Disadvantages:** The H-Drive has more maneuverability and can resist pushing from the side more effectively than the Tank Drive due to its extra strafe wheel. However, its sideways motion is generally either slower or weaker than its forward motion. In addition, it takes an extra motor to power the center wheel. This takes away one motor from mechanisms, which is often not worth the tradeoff.
 
 ![99904A&apos;s H-Drive](https://user-images.githubusercontent.com/65926085/83677779-450d3580-a5a2-11ea-9238-1f288bbdf526.png)
 
