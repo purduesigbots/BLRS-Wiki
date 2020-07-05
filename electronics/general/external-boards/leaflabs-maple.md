@@ -16,10 +16,10 @@ The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\
 
 * Fast, powerful 32-bit ARM processor with lots of memory [\(ref\)](http://leaflabs.com/devices/maple)
 * Fits the Arduino form factor, so many Arduino shields are usable
-* Low [Power Consumption](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/power_consumption/README.md) for performance, same processor as [VEX Cortex](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/ee/vex_cortex/README.md)
+* Low [Power Consumption](/w/wiki/ee/power_consumption/) for performance, same processor as [VEX Cortex](/w/ee/vex_cortex/)
 * Programmed in native C code with excellent low-level library
-* Extensive peripheral set \([I2C](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/i2c/README.md), [UART](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/uart/README.md), [SPI](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/spi/README.md)\) and large number of GPIOs [\(ref\)](http://leaflabs.com/docs/hardware/maple-ret6.html)
-* Unmatched [Analog-Digital Converter](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/adc/README.md) complement and resolution
+* Extensive peripheral set \([I2C](/w/wiki/ee/i2c/), [UART](/w/wiki/ee/uart/), [SPI](/w/wiki/ee/spi/)\) and large number of GPIOs [\(ref\)](http://leaflabs.com/docs/hardware/maple-ret6.html)
+* Unmatched [Analog-Digital Converter](/w/wiki/ee/adc/) complement and resolution
 * Flexible power supply options and built-in regulators
 
 ### Shortcomings

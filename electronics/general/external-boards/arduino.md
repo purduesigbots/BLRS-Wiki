@@ -24,7 +24,7 @@ Featuring 5-volt operation and impressive [Output Drive](../output-drive.md), th
 | **Flash:** 31 KB |
 | **RAM:** 2 KB |
 | **GPIO:** 14 \(of which 6 provide PWM output\) |
-| **Peripherals:** 6x [Analog-Digital Converter](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/adc/README.md) _\(5.0 V, 10-bit\)_ [UART](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/uart/README.md), [SPI](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/spi/README.md), [I2C](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/i2c/README.md) |
+| **Peripherals:** 6x [Analog-Digital Converter](/w/wiki/ee/adc/) _\(5.0 V, 10-bit\)_ [UART](/w/wiki/ee/uart/), [SPI](/w/wiki/ee/spi/), [I2C](/w/wiki/ee/i2c/) |
 
 As an evolution of the first Arduino boards \(first the Arduino USB, then the NG, next the Diecimila, the Duemilanove, and finally the Uno\), the **Arduino Uno** has been refined countless times while retaining good shield compatibility and a stable code base.
 
