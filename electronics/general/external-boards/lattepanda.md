@@ -195,7 +195,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 ## LattePanda Delta Series
 
-The LattePanda Delta series comes in the 432 _\*\*_model, and is nearly identical to the 800 series. The only differences come in the specifications in storage, processor, and memory.
+The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identical to the 800 series. The only differences come in the specifications in storage, processor, and memory.
 
 **According to LattePanda Marketing -**
 
