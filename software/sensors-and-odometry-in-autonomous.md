@@ -25,7 +25,7 @@ Wheel scrub is another problem - when using omni wheels, the robot often doesn't
 
 ### Encoders on the powertrain, gyroscope for turns
 
-This is basically the same as above, but with a gyroscope sensor for turns instead of taking the difference in encoder readings. This improves turns quite a bit - you don't have to worry about wheel scrub with this. The VEX gyro tends to drift though, so the heading won't be accurate for any more than a couple of movements before it's off by quite a lot. This can be improved a lot with a nicer gyro, see [BNS' worlds winning skills run in Starstruck](https://www.youtube.com/watch?v=td6PAnRBzfM). 
+This is basically the same as above, but with a gyroscope sensor for turns instead of taking the difference in encoder readings. This improves turns quite a bit - you don't have to worry about wheel scrub with this. The VEX gyro tends to drift though, so the heading won't be accurate for any more than a couple of movements before it's off by quite a lot. This can be improved a lot with a nicer gyro, see [BNS' worlds winning skills run in Starstruck](https://www.youtube.com/watch?v=td6PAnRBzfM).
 
 In 2019 VEX released the [V5 Inertial Sensor](https://www.vexrobotics.com/276-4855.html) SIGBots has acquired this sensor for use in robots. The sensor combines both a a 3-axis accelerometer as well as a 3-axis gyroscope. The combination of these two devices in one sensor allows for effective and accurate navigation, as well as controlling any change in the motion of a robot. The sensor is yet to be fully tested but the general consensus is that this new sensor drifts less and is more accurate.
 

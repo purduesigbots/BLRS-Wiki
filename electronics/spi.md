@@ -22,13 +22,13 @@ Since SPI is synchronous, it can transmit at very high rates, up to and exceedin
 
 ## Usage
 
-SPI is commonly used to connect multiple fast digital devices, such as digital [gyros](vex-sensors/gyroscope.md) and [accelerometers](vex-sensors/accelerometer.md), to a microcontroller. Since any digital [GPIO](gpio.md) pin can serve as a chip select, large groups of devices can be placed on the same SPI bus, as long as each device properly ignores data and does not try to transmit while it is not the selected device. At the same time, care must be taken with multi-device buses to avoid situations where more than one device is selected due to coding errors on the master code.
+SPI is commonly used to connect multiple fast digital devices, such as digital [gyros](vex/vex-sensors/gyroscope.md) and [accelerometers](vex/vex-sensors/accelerometer.md), to a microcontroller. Since any digital [GPIO](general/gpio.md) pin can serve as a chip select, large groups of devices can be placed on the same SPI bus, as long as each device properly ignores data and does not try to transmit while it is not the selected device. At the same time, care must be taken with multi-device buses to avoid situations where more than one device is selected due to coding errors on the master code.
 
 In reality, trying to use SPI at a clock speed of more than 4 MHz requires a very short, dedicated connection or a device known as a bus driver to avoid issues with [slew rate](slew-rate.md) which could garble the transmitted data.
 
 SPI is also known as Microwire \(an older implementation\). Some devices such as the TI MSP430 series rename the MISO and MOSI pins to "SOMI" and "SIMO" to get around patent limitations.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

@@ -30,7 +30,7 @@ Software routines such as a [PID Controller](../software/control-algorithms/pid-
 
 [![](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock_jitter_datasheet.png)](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock_jitter_datasheet.png)
 
- A typical description in a component datasheet for expected clock **jitter**, showing the effects of both random and temperature drift
+A typical description in a component datasheet for expected clock **jitter**, showing the effects of both random and temperature drift
 
 Higher-quality, more expensive clocking sources are often designed to reduce or counter the effects of clocking jitter. For applications such as clocking a commodity microcontroller, a few percentage points of jitter may be acceptable for tasks not requiring precise timing. Tightly regulating operating conditions cuts down on age, device, and temperature induced jitter. Using a high-frequency clock source and dividing the frequency, or incorporating a phase-locked loop \(PLL\), can average out jitter over many periods.
 
@@ -62,8 +62,6 @@ void operatorControl() {
     }
 }
 ```
-
-
 
 #### Teams Contributed to this Article:
 

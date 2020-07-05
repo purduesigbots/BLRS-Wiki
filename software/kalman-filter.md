@@ -1,12 +1,12 @@
 # Kalman Filter
 
-### Definition
+## Definition
 
-A Kalman Filter is a filtering algorithm that tries to estimate values based on measurements and pre-determined models. This can be applied in VEX Robotics to reduce noise in different sensor measurements, such as a noisy [ultrasonic rangefinder](../electronics/vex-sensors/untitled-1.md) measurement or a noisy trend in an average value obtained from multiple sensors.
+A Kalman Filter is a filtering algorithm that tries to estimate values based on measurements and pre-determined models. This can be applied in VEX Robotics to reduce noise in different sensor measurements, such as a noisy [ultrasonic rangefinder](../electronics/vex/vex-sensors/untitled-1.md) measurement or a noisy trend in an average value obtained from multiple sensors.
 
-### Steps to Calculation
+## Steps to Calculation
 
-#### Initialization
+### Initialization
 
 1. Initialize the state of the filter
 2. Initialize our belief in the state
@@ -16,7 +16,7 @@ A Kalman Filter is a filtering algorithm that tries to estimate values based on 
 1. Use process model to predict state at the next time step
 2. Adjust belief to account for the uncertainty in prediction
 
-#### Update
+### Update
 
 1. Get a measurement and associated belief about its accuracy
 2. Compute residual between estimated state and measurement
@@ -24,7 +24,7 @@ A Kalman Filter is a filtering algorithm that tries to estimate values based on 
 4. Set state between the prediction and measurement based on the scaling factor.
 5. Update belief in the state based on how certain we are in the measurement prediction.
 
-#### Contributing Teams to this Article:
+### Contributing Teams to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

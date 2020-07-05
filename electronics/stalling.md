@@ -2,7 +2,7 @@
 
 ![ The red region on the motor power curve chart indicates operating conditions at risk for a stall](https://phabricator.purduesigbots.com/file/data/tsefgqqu2epvkwdqao7d/PHID-FILE-76cjkli2c6vu4vjnsmjn/vex_motor_393_curve.png)
 
-A **stall** is a condition where power is applied to an electric motor such as a [VEX Motor](vex-electronics/motors.md), but no motion is generated due to high loads or a failed motor core. Since all of the applied power is thus dissipated as heat, this condition can be harmful to a motor if not treated quickly.
+A **stall** is a condition where power is applied to an electric motor such as a [VEX Motor](vex/vex-electronics/motors.md), but no motion is generated due to high loads or a failed motor core. Since all of the applied power is thus dissipated as heat, this condition can be harmful to a motor if not treated quickly.
 
 ## Theory
 
@@ -16,7 +16,7 @@ _Main article:_ [_Stall Detection_](../software/stall-detection.md)
 
 Stalls often occur when a mechanism becomes jammed or when a motor is run too close to its torque limit. To solve these problems, the offending mechanism can be fixed, or unusual conditions handled in software. Use the power calculator on the torque page to determine what gear ratio is required to avoid a stall under normal conditions.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

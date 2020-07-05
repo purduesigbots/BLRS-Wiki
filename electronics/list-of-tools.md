@@ -30,15 +30,15 @@ An **oscilloscope** is an electronic device intended to measure high-frequency p
 
 Oscilloscopes are invaluable for examining electronics circuits, but can only generally measure voltage. Usually, this is sufficient, as innovative measuring techniques can allow the indirect measurement of resistance, capacitance, or current by measuring some other part of the circuit under test. Do note that the negative lead of the oscilloscope is _usually grounded_; this will cause issues if measuring a circuit which is directly or indirectly connected at some point to the ground, either by using a "wall-wart" style outlet power supply or by being connected to a computer system \(which are always grounded\).
 
-Older, analog oscilloscopes used a cathode ray tube to deflect an electron beam directly with the input voltage; this led to a large, heavy device that was not very portable. The latest digital oscilloscopes sample the input with an [Analog-Digital Converter](analog-digital-converter.md) and display the result on an LCD screen, making them cheaper and easier to use. A detailed explanation of oscilloscope terminology and use can be found on Wikipedia.
+Older, analog oscilloscopes used a cathode ray tube to deflect an electron beam directly with the input voltage; this led to a large, heavy device that was not very portable. The latest digital oscilloscopes sample the input with an [Analog-Digital Converter](general/analog-digital-converter.md) and display the result on an LCD screen, making them cheaper and easier to use. A detailed explanation of oscilloscope terminology and use can be found on Wikipedia.
 
 ## Bus/logic analyzer
 
-Advanced protocols can be difficult to debug, and oscilloscopes usually cannot monitor more than two or three channels at a time. A **logic analyzer** or bus analyzer can sample many digital signals at a very high speed \(often exceeding 100 MHz bandwidth\) to find and fix digital signal problems. Such devices are usually buffered and PC-based to allow custom triggering or decoding of protocol information into a user-readable format. 
+Advanced protocols can be difficult to debug, and oscilloscopes usually cannot monitor more than two or three channels at a time. A **logic analyzer** or bus analyzer can sample many digital signals at a very high speed \(often exceeding 100 MHz bandwidth\) to find and fix digital signal problems. Such devices are usually buffered and PC-based to allow custom triggering or decoding of protocol information into a user-readable format.
 
 The high speed and channel count comes at the cost of not recording the actual voltage \(only the _high_ or _low_ state\) problems with [Slew Rate](slew-rate.md) and [Line Noise](line-noise.md) must be found with a traditional oscilloscope.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

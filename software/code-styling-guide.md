@@ -236,8 +236,6 @@ c
 
 These rules can be [auto-formatted](autoformatting.md).
 
-
-
 #### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)

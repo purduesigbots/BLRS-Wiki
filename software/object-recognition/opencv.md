@@ -2,8 +2,8 @@
 
 ## OpenCV
 
-* [Pandaboard](../../electronics/external-boards/pandaboard.md)
-* [Beagleboard](../../electronics/external-boards/beagleboard.md)
+* [Pandaboard](../../electronics/general/external-boards/pandaboard.md)
+* [Beagleboard](../../electronics/general/external-boards/beagleboard.md)
 * Desktop applications
 
 | Details: |
@@ -35,7 +35,7 @@ The second major release of the OpenCV was in October 2009. OpenCV 2 includes ma
 
 ## Compatibility
 
-OpenCV was designed to run on personal computers; its optimized algorithms perform the best on NEON. Decent frame rates are possible, and performing the most intensive operations with a customized algorithm such as [AMS](ams.md) can easily increase performance. The [ODROID-XU](../../electronics/external-boards/odroid-xu.md) can run OpenCV at full speed without the issues with USB bandwidth that plagued data acquisition on other ARM platforms.
+OpenCV was designed to run on personal computers; its optimized algorithms perform the best on NEON. Decent frame rates are possible, and performing the most intensive operations with a customized algorithm such as [AMS](ams.md) can easily increase performance. The [ODROID-XU](../../electronics/general/external-boards/odroid-xu.md) can run OpenCV at full speed without the issues with USB bandwidth that plagued data acquisition on other ARM platforms.
 
 ## Installation
 
@@ -105,9 +105,7 @@ lang=
 sudo apt-get install libv4l-dev libv4l-0 v4l-conf v4l-utils
 ```
 
-
-
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

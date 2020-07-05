@@ -10,7 +10,7 @@ description: >-
 Midnight C is for the older VEX Cortex which is no longer supported
 {% endhint %}
 
-**Features -** 
+**Features -**
 
 * **Not VEX-Supported**
 * Native code compilation
@@ -21,7 +21,7 @@ Midnight C is for the older VEX Cortex which is no longer supported
 * Pointer and [register](../register-programming.md) control
 * Purdue Robotics OS
 
-The **Midnight C** platform, often referred to in the past as the **"Makefile"**, is a cross-platform method of compiling native C code for the [VEX Cortex](../../electronics/vex-electronics/vex-cortex.md). It supplanted [Robotc](robotc.md) during VEX Gateway as the primary language for programming the Cortex. Initial versions used the EasyC runtime library to interface with VEX parts, making it fully [EasyC](easyc.md) compatible; the development of the Purdue Robotics OS brought a more powerful API compatible with a variety of existing environments.
+The **Midnight C** platform, often referred to in the past as the **"Makefile"**, is a cross-platform method of compiling native C code for the [VEX Cortex](../../electronics/vex/vex-electronics/vex-cortex.md). It supplanted [Robotc](robotc.md) during VEX Gateway as the primary language for programming the Cortex. Initial versions used the EasyC runtime library to interface with VEX parts, making it fully [EasyC](easyc.md) compatible; the development of the Purdue Robotics OS brought a more powerful API compatible with a variety of existing environments.
 
 ## Installation
 
@@ -49,7 +49,7 @@ Firmware \(Mastercode\) reflashing for Midnight C is performed using the same pr
 
 Please note that object-oriented principles tend to encourage practices such as dynamic memory allocation and excessive indirection which may conflict with the embedded system goals of speed and program size. When possible, use C code.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

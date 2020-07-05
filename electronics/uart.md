@@ -17,11 +17,11 @@ Serial communication proceeds in much the same way as in a standard RS-232 port.
 
 ## Applications
 
-UARTs are cheap to implement and easy to use; most advanced microcontrollers such as the [LeafLabs Maple](external-boards/leaflabs-maple.md) and [Netduino](external-boards/netduino.md) come with more than one. Serial communication through a UART is usually the easiest way to pass debugging messages to a PC. Many microcontrollers also accept programming downloads through a UART connection. Almost every microcontroller supports at least one UART, making it a quick and universal way to communicate. However, UARTs are very slow and vulnerable to noise compared to protocols such as [SPI](spi.md).
+UARTs are cheap to implement and easy to use; most advanced microcontrollers such as the [LeafLabs Maple](general/external-boards/leaflabs-maple.md) and [Netduino](general/external-boards/netduino.md) come with more than one. Serial communication through a UART is usually the easiest way to pass debugging messages to a PC. Many microcontrollers also accept programming downloads through a UART connection. Almost every microcontroller supports at least one UART, making it a quick and universal way to communicate. However, UARTs are very slow and vulnerable to noise compared to protocols such as [SPI](spi.md).
 
 Due to the lack of RS-232 ports on modern computers \(which can be connected to a UART using only a voltage level translator\), most computers must use a USB to UART converter such as [\(ref\)](http://www.sparkfun.com/products/9716) to connect to a logic-level UART on a microcontroller.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

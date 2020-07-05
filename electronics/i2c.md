@@ -47,9 +47,9 @@ The System Management Bus \(SMBus\) protocol developed by Intel, used to manage 
 
 ## Example usage
 
-For the [VEX Cortex](vex-electronics/vex-cortex.md) with [PROS](../software/vex-programming-software/pros/), I2C is implemented in the core library. Since the vast majority of devices use an 8-bit register architecture, the most useful functions are:
+For the [VEX Cortex](vex/vex-electronics/vex-cortex.md) with [PROS](../software/vex-programming-software/pros/), I2C is implemented in the core library. Since the vast majority of devices use an 8-bit register architecture, the most useful functions are:
 
-* i2cWriteRegister\(address, register, value\) - Accepts an address, register number, and value, and writes the value into the specified device register. This function only writes one register at a time. The address must be in the same format as that used by the [Arduino](external-boards/arduino.md) \(right-aligned in the seven least significant bits\)
+* i2cWriteRegister\(address, register, value\) - Accepts an address, register number, and value, and writes the value into the specified device register. This function only writes one register at a time. The address must be in the same format as that used by the [Arduino](general/external-boards/arduino.md) \(right-aligned in the seven least significant bits\)
 * i2cReadRegister\(address, register, \*value, count\) - Accepts an address, register number, and data array, and reads count values from the device register into the array value passed by reference. Most devices automatically increment the register number after each read, allowing a block of registers to be read at once.
 
 The i2cRead and i2cWrite functions may also be useful for more unusual slave devices; see the API documentation for more details.
