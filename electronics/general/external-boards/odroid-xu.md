@@ -48,8 +48,8 @@ This section below is for the original ODROID-XU
 | **Power:** 7 W |
 | **Flash:** MicroSD Card |
 | **RAM:** 2048 MB |
-| **GPIO:** 10? _\(none_ [_5 Volt Tolerant_](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/5_volt_tolerant/README.md)_\)_ |
-| **Peripherals:** 2x USB 3.0, 4x USB 2.0, Mini-HDMI, DisplayPort, 3.5mm audio out, Ethernet, [UART](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/uart/README.md) |
+| **GPIO:** 10? _\(none_ [_5 Volt Tolerant_](/w/wiki/ee/5_volt_tolerant/README.md)_\)_ |
+| **Peripherals:** 2x USB 3.0, 4x USB 2.0, Mini-HDMI, DisplayPort, 3.5mm audio out, Ethernet, [UART](/w/wiki/ee/uart/README.md) |
 
 The ODROID-XU is the first development board for the ARM Cortex-A15 platform available for sale, featuring the big.LITTLE architecture [\(ref\)](http://www.arm.com/products/processors/technologies/biglittleprocessing.php) which allows an outstanding standby power usage of less than 3 W, yet unprecedented quad-core Cortex-A15 power on demand at a unit cost of only $170 before shipping.
 
@@ -61,7 +61,7 @@ A diagram of the **ODROID-XU** with all ports labelled
 
 The ODROID-XU is smaller than many competing platforms at about 95 x 70 mm [\(ref\)](http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G137510300620&tab_idx=2) and comes with its own protective plastic case. At low speeds, four ARM Cortex-A7 cores at 1.2 GHz handle system tasks with a low power consumption of under 3 W; when these cores surpass a predefined CPU usage threshold, four ARM Cortex-A15 cores transparently take over at runtime to boost performance. A small variable speed cooling fan operates whenever the Cortex-A15 cores switch on, which can be quite noisy at high loads. The ODROID-XU lacks a hard drive but can be equipped with either a microSD card [\(ref\)](http://www.amazon.com/SanDisk-Ultra-Class-Memory-SDSDU-016G-U46/dp/B007BJHETS/ref=sr_1_4/187-6017561-5043339?ie=UTF8&qid=1382319410&sr=8-4&keywords=sandisk+ultra) or a much faster eMMC module [\(ref\)](http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G137454882497).
 
-Unlike competing platforms such as the [BeagleBoard](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/beagleboard/README.md) and [PandaBoard](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/pandaboard/README.md), the ODROID-XU ships with a mostly ready-to-run version of Ubuntu [\(ref\)](http://forum.odroid.com/viewforum.php?f=61&sid=a7e701b4e15d534864cff67192073c71) which has well-implemented drivers for the on-board peripherals. No USB bandwidth issues plague the ODROID-XU in stark contrast to the USB implementations on other ARM development boards. The onboard USB 3.0 port is up to the challenge of a high-performance USB flash drive or a Microsoft [Kinect](https://github.com/theol0403/BLRS-Wiki/tree/d5c517253c2e4369a647e51e200d5175ad2be2ea/w/wiki/ee/kinect/README.md).
+Unlike competing platforms such as the [BeagleBoard](/w/wiki/ee/beagleboard/README.md) and [PandaBoard](/w/wiki/ee/pandaboard/README.md), the ODROID-XU ships with a mostly ready-to-run version of Ubuntu [\(ref\)](http://forum.odroid.com/viewforum.php?f=61&sid=a7e701b4e15d534864cff67192073c71) which has well-implemented drivers for the on-board peripherals. No USB bandwidth issues plague the ODROID-XU in stark contrast to the USB implementations on other ARM development boards. The onboard USB 3.0 port is up to the challenge of a high-performance USB flash drive or a Microsoft [Kinect](/w/wiki/ee/kinect/README.md).
 
 ### Usage
 
