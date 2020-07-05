@@ -16,7 +16,7 @@ lang=
 gcc -Wall -Wextra -g ...
 ```
 
-Mistakes such as missing \* and lack of a return statement can be found in this way. **Always** compile with  -Wall!
+Mistakes such as missing \* and lack of a return statement can be found in this way. **Always** compile with -Wall!
 
 ### Java
 
@@ -83,7 +83,6 @@ on the program \(just like using GDB\) and watch for messages about memory leaks
 * **Data cache issues** - Often, compilers cannot determine whether pointers are _aliased_ \(pointing to the same address\). They may store a value to a pointer, which writes out to main memory, and read it back in again, which is slow. Moving values back and forth between integers and floats causes a similar slowdown, since the value has to make a trip through the stack before reaching the floating point registers. To fix these issues, cache values locally if possible and write the final result once at the end. Smart function inlining may also save a parameter round trip to the stack; try declaring simple functions static inline \(in C\). Example:
 
 ```c
-
 // This code is very slow
 int verySlow(int *x, int *y) {
     (*x)++;

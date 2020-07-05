@@ -15,7 +15,6 @@ While adequate in some situations, bang-bang control is inadequate for more diff
 ### Example
 
 ```c
-
 // Port where line sensor is plugged in
 #define LINE_SENSOR 4
 // Line threshold value
@@ -51,8 +50,6 @@ void autonomous() {
 * Slower reaction time than a [PID controller](pid-controller.md)
 * Does not use information from the past or predicted future inputs to make decisions
 * Systems may wear out due to rapid fluctuations in output
-
-
 
 #### Teams Contributed to this Article:
 

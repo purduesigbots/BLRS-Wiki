@@ -6,7 +6,7 @@ description: >-
 
 # OkapiLib
 
-New teams should have an easier time getting their robot up and running, and veteran teams should find that OkapiLib doesn't get in the way or place any limits on functionality. 
+New teams should have an easier time getting their robot up and running, and veteran teams should find that OkapiLib doesn't get in the way or place any limits on functionality.
 
 It also helps to shorten some of the more repetitive parts of programming a robot out of the way for teams that have to start new code projects every season \(Example: Operator Control Code, Main PID Algorithm\)
 
@@ -18,9 +18,7 @@ Documentation for the latest version is hosted on the Okapi website: [Current Ok
 Documentation for OkapiLib versions 3.x.x and below hosted on the PROS site: [Older OkapiLib Docs](https://pros.cs.purdue.edu/v5/okapi/api/index.html)
 {% endhint %}
 
-
-
-#### Teams Contributed to this Article:
+## Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 

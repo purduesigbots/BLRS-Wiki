@@ -29,11 +29,11 @@ Finite state machines have a large but countable number of discrete states in wh
 
 ### VEX Gateway
 
-A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../electronics/vex-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](https://phabricator.purduesigbots.com/w/pid_controller/) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
+A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../electronics/vex/vex-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](https://phabricator.purduesigbots.com/w/pid_controller/) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
 
 ### VEX Sack Attack
 
-In the age of VEX Sack Attack, the [grid system](grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](vex-programming-software/midnight-c.md) and later [PROS](vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../electronics/vex-sensors/encoder.md).
+In the age of VEX Sack Attack, the [grid system](grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](vex-programming-software/midnight-c.md) and later [PROS](vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../electronics/vex/vex-sensors/encoder.md).
 
 ### VEX Toss Up
 
@@ -45,50 +45,50 @@ The autonomous routine becomes much simpler with the use of the flow-driven stat
 
 ```c
 void autonomous() {
-	fetchNearest();
-	// Move backwards, lift intake, move forwards, score
-	state(R_DRIVE, -60);
-	score();
-	state(C_DRIVE,-80);				// Back up to avoid hit trough when lowering arm
-	state(ARM_POS,ARM_DOWN);			// Lower arm and turn at the same time
-	state(R_TURN, 88);
+    fetchNearest();
+    // Move backwards, lift intake, move forwards, score
+    state(R_DRIVE, -60);
+    score();
+    state(C_DRIVE,-80);                // Back up to avoid hit trough when lowering arm
+    state(ARM_POS,ARM_DOWN);            // Lower arm and turn at the same time
+    state(R_TURN, 88);
 
-	state(SET_INTAKE,127);				// Set intake on
-	state(C_DRIVE,50);				// Drive forward to grab the first sack
-	delay(800);
-	state(C_DRIVE,-40);				// Back up
+    state(SET_INTAKE,127);                // Set intake on
+    state(C_DRIVE,50);                // Drive forward to grab the first sack
+    delay(800);
+    state(C_DRIVE,-40);                // Back up
 
-	state(R_TURN,13);				// Turn left and get second sack
-	state(C_DRIVE,40);
-	delay(800);
-	state(C_DRIVE,-40);				// Back up
+    state(R_TURN,13);                // Turn left and get second sack
+    state(C_DRIVE,40);
+    delay(800);
+    state(C_DRIVE,-40);                // Back up
 
-	state(R_TURN,16);				// Turn left and get third sack
-	state(C_DRIVE,60);
-	delay(800);
-	state(C_DRIVE,-60);				// Back up
+    state(R_TURN,16);                // Turn left and get third sack
+    state(C_DRIVE,60);
+    delay(800);
+    state(C_DRIVE,-60);                // Back up
 
-	state(R_TURN,50);				// Turn left to 90 degree and go forward
-	state(C_DRIVE,100);
-	state(R_TURN,-82);				// Turn right
+    state(R_TURN,50);                // Turn left to 90 degree and go forward
+    state(C_DRIVE,100);
+    state(R_TURN,-82);                // Turn right
 
-	state(C_DRIVE,25);
-	delay(1000);
-	state(C_DRIVE,-40);				// Back up
+    state(C_DRIVE,25);
+    delay(1000);
+    state(C_DRIVE,-40);                // Back up
 
-	state(R_TURN,15);				// Turn left and get fifth sack
-	state(C_DRIVE,55);
-	delay(1000);
-	state(C_DRIVE,-40);				// Back up
+    state(R_TURN,15);                // Turn left and get fifth sack
+    state(C_DRIVE,55);
+    delay(1000);
+    state(C_DRIVE,-40);                // Back up
 
-	state(C_DRIVE,-50);
-	state(R_TURN,170);
-	state(R_DRIVE,-260);
-	delay(500);
-	state(SET_INTAKE, 0);
-	state(R_DRIVE,800);				// Prepare to score
-	state(C_TURN,80);
-	state(C_DRIVE,110);
+    state(C_DRIVE,-50);
+    state(R_TURN,170);
+    state(R_DRIVE,-260);
+    delay(500);
+    state(SET_INTAKE, 0);
+    state(R_DRIVE,800);                // Prepare to score
+    state(C_TURN,80);
+    state(C_DRIVE,110);
 }
 ```
 

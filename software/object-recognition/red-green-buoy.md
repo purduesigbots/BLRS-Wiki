@@ -12,7 +12,7 @@ Due to the user manual's reference to the three sensors as the _"Red Buoy"_, _"G
 
 ## Procedure
 
-A minimum of three range-finding sensors, such as a [VEX Ultrasonic](../../electronics/vex-sensors/untitled-1.md) or Sharp IR rangefinder, must be used for proper implementation of the algorithm. Up to seven sensors can be used for the best possible quality, but it is also possible to do a decent job with only two sensors.
+A minimum of three range-finding sensors, such as a [VEX Ultrasonic](../../electronics/vex/vex-sensors/untitled-1.md) or Sharp IR rangefinder, must be used for proper implementation of the algorithm. Up to seven sensors can be used for the best possible quality, but it is also possible to do a decent job with only two sensors.
 
 In addition, it must be possible to use an object recognition system to verify the presence of a valid scoring object in the field of view. Objects belonging to the opponent and opposing robots look just as good to rangefinders as the appropriate target, although the multi-sensor versions do a good job of differentiating walls from narrow objects.
 
@@ -28,7 +28,7 @@ Due to a constraint on the number of digital ports, Honey Badger \(BLRS's Gatewa
 
 These compromises unfortunately led to an inability to properly sense which objects were of the desired color, and a tendency to detect people, robots, and walls as candidates due to the very long maximum scan range. However, it was effective enough to fill the intake mechanism each time it was run.
 
-#### Teams Contributed to this Article:
+### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 
