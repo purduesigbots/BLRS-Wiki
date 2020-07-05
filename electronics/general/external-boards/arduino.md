@@ -24,7 +24,7 @@ Featuring 5-volt operation and impressive [Output Drive](../output-drive.md), th
 | **Flash:** 31 KB |
 | **RAM:** 2 KB |
 | **GPIO:** 14 \(of which 6 provide PWM output\) |
-| **Peripherals:** 6x [Analog-Digital Converter](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/adc/README.md) _\(5.0 V, 10-bit\)_ [UART](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/uart/README.md), [SPI](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/spi/README.md), [I2C](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/i2c/README.md) |
+| **Peripherals:** 6x [Analog-Digital Converter](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/adc/README.md) _\(5.0 V, 10-bit\)_ [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/uart/README.md), [SPI](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/spi/README.md), [I2C](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/i2c/README.md) |
 
 As an evolution of the first Arduino boards \(first the Arduino USB, then the NG, next the Diecimila, the Duemilanove, and finally the Uno\), the **Arduino Uno** has been refined countless times while retaining good shield compatibility and a stable code base.
 

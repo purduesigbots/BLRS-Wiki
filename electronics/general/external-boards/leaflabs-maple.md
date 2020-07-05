@@ -16,10 +16,10 @@ The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\
 
 * Fast, powerful 32-bit ARM processor with lots of memory [\(ref\)](http://leaflabs.com/devices/maple)
 * Fits the Arduino form factor, so many Arduino shields are usable
-* Low [Power Consumption](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/power_consumption/README.md) for performance, same processor as [VEX Cortex](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/ee/vex_cortex/README.md)
+* Low [Power Consumption](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/power_consumption/README.md) for performance, same processor as [VEX Cortex](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/ee/vex_cortex/README.md)
 * Programmed in native C code with excellent low-level library
-* Extensive peripheral set \([I2C](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/i2c/README.md), [UART](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/uart/README.md), [SPI](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/spi/README.md)\) and large number of GPIOs [\(ref\)](http://leaflabs.com/docs/hardware/maple-ret6.html)
-* Unmatched [Analog-Digital Converter](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/wiki/ee/adc/README.md) complement and resolution
+* Extensive peripheral set \([I2C](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/i2c/README.md), [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/uart/README.md), [SPI](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/spi/README.md)\) and large number of GPIOs [\(ref\)](http://leaflabs.com/docs/hardware/maple-ret6.html)
+* Unmatched [Analog-Digital Converter](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/adc/README.md) complement and resolution
 * Flexible power supply options and built-in regulators
 
 ### Shortcomings

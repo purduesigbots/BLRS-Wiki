@@ -2,7 +2,7 @@
 
 ## At Maximum Speed \(AMS\) Algorithm
 
-The **At Maximum Speed**, or **AMS** algorithm \(previously known as the **Approximate Mark-and-Sweep** Algorithm\), is a SIGBOTS-developed [object recognition](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/object_recognition/README.md) algorithm based on blob detection. Specifically optimized for performance on embedded platforms, the algorithm can outperform the industry-standard [OpenCV](https://github.com/theol0403/BLRS-Wiki/tree/1a2da1c73039274a2ed05a8c941d9ebf94bcac97/w/opencv/README.md) framework by up to a factor of five continuously and up to seven in bursts. The algorithm achieves such a boost by sacrificing complete accuracy for a usable approximation that is easy to pipeline, making the algorithm scale well to multi-threaded or multi-core applications.
+The **At Maximum Speed**, or **AMS** algorithm \(previously known as the **Approximate Mark-and-Sweep** Algorithm\), is a SIGBOTS-developed [object recognition](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/object_recognition/README.md) algorithm based on blob detection. Specifically optimized for performance on embedded platforms, the algorithm can outperform the industry-standard [OpenCV](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/opencv/README.md) framework by up to a factor of five continuously and up to seven in bursts. The algorithm achieves such a boost by sacrificing complete accuracy for a usable approximation that is easy to pipeline, making the algorithm scale well to multi-threaded or multi-core applications.
 
 ### Principles of Operation \(Original AMSv2\)
 
