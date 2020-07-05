@@ -26,6 +26,11 @@
     * [Accelerometer](electronics/vex/vex-sensors/accelerometer.md)
     * [V5 Inertial Sensor \(IMU\)](electronics/vex/vex-sensors/imu.md)
   * [V5 Brain Wiring Guide](electronics/vex/wiring-guide.md)
+  * [Legacy](electronics/vex/legacy/README.md)
+    * [VEX Cortex](electronics/vex/legacy/vex-cortex.md)
+    * [Power Expander](electronics/vex/legacy/power-expander.md)
+    * [VEX Motor Controller](electronics/vex/legacy/motor-controller.md)
+    * [VEX Cortex Wiring Guide](electronics/vex/legacy/legacy-wiring-guide.md)
 * [General](electronics/general/README.md)
   * [External Boards](electronics/general/external-boards/README.md)
     * [ASUS Tinker Board S](electronics/general/external-boards/asus-tinker-board.md)
@@ -55,11 +60,6 @@
   * [USART](electronics/general/usart.md)
   * [UART](electronics/general/uart.md)
   * [5 Volt Tolerant](electronics/general/5-volt-tolerant.md)
-* [Legacy](electronics/legacy/README.md)
-  * [VEX Motor Controller](electronics/legacy/motor-controller.md)
-  * [VEX Cortex](electronics/legacy/vex-cortex.md)
-  * [Power Expander](electronics/legacy/power-expander.md)
-  * [VEX Cortex Wiring Guide](electronics/legacy/legacy-wiring-guide.md)
 
 ## Software
 
