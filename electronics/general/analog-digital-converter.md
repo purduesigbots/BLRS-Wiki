@@ -41,7 +41,7 @@ The simplest method, known as _zero-order hold_, draws horizontal lines with a s
 
 ## Sample code
 
-For the [VEX Cortex](../legacy/vex-cortex.md) using [PROS](../../software/vex-programming-software/pros/), the following code structure is recommended:
+For the [VEX Cortex](../vex/legacy/vex-cortex.md) using [PROS](../../software/vex-programming-software/pros/), the following code structure is recommended:
 
 ```c
 // Function samples the ADC at 1 KHz

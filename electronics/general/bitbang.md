@@ -18,7 +18,7 @@ When emulating a peripheral, the timing requirements must carefully be examined 
 
 ## Code example
 
-As the [VEX Cortex](../legacy/vex-cortex.md) lacks an accessible SPI port, SPI can be easily implemented by bit-banging. A trivial example is shown below; better performance can be achieved with a kernel-mode driver.
+As the [VEX Cortex](../vex/legacy/vex-cortex.md) lacks an accessible SPI port, SPI can be easily implemented by bit-banging. A trivial example is shown below; better performance can be achieved with a kernel-mode driver.
 
 ```c
 // Definitions of Digital pin numbers on the Cortex to use for SPI
