@@ -16,5 +16,7 @@ If you would like to discuss or bring up an issue with the wiki without fixing i
 
 As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com)
 
-![This work is licensed under a Creative Commons Attribution-ShareAlike 2.0 Generic License: https://creativecommons.org/licenses/by-sa/2.0/](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
+
+ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](https://creativecommons.org/licenses/by-sa/2.0/).
 
