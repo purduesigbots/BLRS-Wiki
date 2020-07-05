@@ -14,9 +14,9 @@ DMMs only update at about 1 Hz and are ill-suited for measuring varying or perio
 
 ## Soldering iron
 
-![](../.gitbook/assets/71pvqth4xjl._ac_sl1500_.jpg)
+![](../../.gitbook/assets/71pvqth4xjl._ac_sl1500_.jpg)
 
-For permanent connection of electrical parts, soldering is the most common method. A **soldering iron** is the simplest way to heat up a joint to the melting point of the solder in use, which is usually much less than that of any other metal type in the circuit \(but sometimes hot enough to damage nonmetallic insulation\). Basic soldering irons have a low-wattage heating element and rely on thermal equilibrium between radiative losses to the environment and heat generation to achieve an unstable temperature reference, whereas better models measure the current temperature and use a [PID Controller](../software/control-algorithms/pid-controller.md) to improve accuracy.
+For permanent connection of electrical parts, soldering is the most common method. A **soldering iron** is the simplest way to heat up a joint to the melting point of the solder in use, which is usually much less than that of any other metal type in the circuit \(but sometimes hot enough to damage nonmetallic insulation\). Basic soldering irons have a low-wattage heating element and rely on thermal equilibrium between radiative losses to the environment and heat generation to achieve an unstable temperature reference, whereas better models measure the current temperature and use a [PID Controller](../../software/control-algorithms/pid-controller.md) to improve accuracy.
 
 Soldering irons should not be kept on a joint for longer than necessary, as many components can be damaged by excessive heat. As is usually expected, the tip is hot and can burn a person; do not pick up a soldering iron by the tip, _even when it is off_, as most soldering irons take a long time to cool after power is removed. **Clean the tip** using a wet sponge frequently _before, during, and after_ use; this is the _number one_ way to improve soldering! A clean tip is much easier to use than a dirty tip and makes higher quality joints.
 
@@ -24,13 +24,13 @@ Soldering irons can be used for many types of joints, but soldering a large circ
 
 ## Oscilloscope
 
-![](../.gitbook/assets/ds4024.jpg)
+![](../../.gitbook/assets/ds4024.jpg)
 
 An **oscilloscope** is an electronic device intended to measure high-frequency periodic changes in electrical circuits or to observe one-time occurrences. The input voltage is sampled rapidly, millions of times per second versus a few times per second by a digital multimeter, and the variation over time displayed on the oscilloscope screen. The iconic graph is updated whenever a user-defined "trigger" event occurs to avoid a scrolling waveform caused by an inability to lock onto a consistent point in the signal; alternatively, a single capture can be set to observe a transient phenomenon. Some oscilloscopes use a computer screen for output and allow the loading and saving of captured waveforms, known as "traces".
 
 Oscilloscopes are invaluable for examining electronics circuits, but can only generally measure voltage. Usually, this is sufficient, as innovative measuring techniques can allow the indirect measurement of resistance, capacitance, or current by measuring some other part of the circuit under test. Do note that the negative lead of the oscilloscope is _usually grounded_; this will cause issues if measuring a circuit which is directly or indirectly connected at some point to the ground, either by using a "wall-wart" style outlet power supply or by being connected to a computer system \(which are always grounded\).
 
-Older, analog oscilloscopes used a cathode ray tube to deflect an electron beam directly with the input voltage; this led to a large, heavy device that was not very portable. The latest digital oscilloscopes sample the input with an [Analog-Digital Converter](general/analog-digital-converter.md) and display the result on an LCD screen, making them cheaper and easier to use. A detailed explanation of oscilloscope terminology and use can be found on Wikipedia.
+Older, analog oscilloscopes used a cathode ray tube to deflect an electron beam directly with the input voltage; this led to a large, heavy device that was not very portable. The latest digital oscilloscopes sample the input with an [Analog-Digital Converter](analog-digital-converter.md) and display the result on an LCD screen, making them cheaper and easier to use. A detailed explanation of oscilloscope terminology and use can be found on Wikipedia.
 
 ## Bus/logic analyzer
 

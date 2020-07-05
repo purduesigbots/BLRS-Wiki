@@ -20,18 +20,18 @@ The **Netduino** features the same footprint as the [Arduino](arduino.md) platfo
 * Fast and easy development and testing
 * Object-oriented programming language
 * Built-in debugger
-* [5\_volt\_tolerance](../../5-volt-tolerant.md) and moderate [Output Drive](../../output-drive.md) allow it to be used with realistic configurations of sensors
+* [5\_volt\_tolerance](../5-volt-tolerant.md) and moderate [Output Drive](../output-drive.md) allow it to be used with realistic configurations of sensors
 * [Active community](http://forums.netduino.com/) and manufacturer support
 
 ## Shortcomings
 
 * .NET Micro Framework's overhead leads to[ poor interrupt response](https://www.sparkfun.com/products/retired/10107).
 * [Cannot rapidly poll or update its GPIOs](http://forums.netduino.com/index.php/topic/1440-gpio-speed-mhz)
-* Internal processes like garbage collection interfere with timing, leading to software [Jitter](../../jitter.md)
+* Internal processes like garbage collection interfere with timing, leading to software [Jitter](../jitter.md)
 
 ## History
 
-The Netduino was first tested in VEX Gateway to read [SPI](../../spi.md) and [I2C](../../i2c.md) data from an Optical Mouse Sensor. However, it did not perform very well in these duties due to the slow response times of the .NET Micro Framework.
+The Netduino was first tested in VEX Gateway to read [SPI](../spi.md) and [I2C](../i2c.md) data from an Optical Mouse Sensor. However, it did not perform very well in these duties due to the slow response times of the .NET Micro Framework.
 
 ### Teams Contributed to this Article:
 

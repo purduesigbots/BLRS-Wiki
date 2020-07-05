@@ -7,7 +7,7 @@ description: >-
 
 # Arduino
 
-Featuring 5-volt operation and impressive [Output Drive](../../output-drive.md), this microcontroller platform is not to be underestimated.
+Featuring 5-volt operation and impressive [Output Drive](../output-drive.md), this microcontroller platform is not to be underestimated.
 
 ## Arduino Uno
 
@@ -32,7 +32,7 @@ As an evolution of the first Arduino boards \(first the Arduino USB, then the NG
 
 * Widely used; code examples are easy to find and comprehensive
 * Form factor fits hundreds of [aftermarket shields](http://www.shieldlist.org/) which provide ready-made functionality
-* Phenomenal 40 mA output drive \([Slew Rate](../../slew-rate.md) is actually faster than the system clock!\)
+* Phenomenal 40 mA output drive \([Slew Rate](../slew-rate.md) is actually faster than the system clock!\)
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) makes development relatively easy, and library is chunky but easy to use
 * [Bootloader](https://github.com/Optiboot/optiboot) makes the impact of programming errors small and reprogramming easy over USB
 
@@ -40,7 +40,7 @@ As an evolution of the first Arduino boards \(first the Arduino USB, then the NG
 
 * Low performance; performing [Object Recognition](../../../software/object-recognition/) on this device is out of the question
 * Very little program memory or RAM available
-* Peripheral set very limited; [general purpose I/O](../gpio.md) are scarce \(only one hardware [USART](../../usart.md), [I2C](../../i2c.md) takes over Analog inputs\)
+* Peripheral set very limited; [general purpose I/O](../gpio.md) are scarce \(only one hardware [USART](../usart.md), [I2C](../i2c.md) takes over Analog inputs\)
 * Since surpassed for high-performance usage by other, form-factor compatible platforms such as the [Netduino](arduino.md) and [LeafLabs Maple](leaflabs-maple.md)
 
 ### History
@@ -62,7 +62,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 | **Flash:** 28 KB |
 | **RAM:** 2 KB |
 | **GPIO:** 23 |
-| **Peripherals:**12x [Analog-Digital Converter](../analog-digital-converter.md) _\(5.0 V, 10-bit\)_ [UART](../../uart.md), [SPI](../../spi.md), [I2C](../../i2c.md) |
+| **Peripherals:**12x [Analog-Digital Converter](../analog-digital-converter.md) _\(5.0 V, 10-bit\)_ [UART](../uart.md), [SPI](../spi.md), [I2C](../i2c.md) |
 
 ## Arduino Mega
 
@@ -79,7 +79,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 | **Flash:** 256 KB |
 | **RAM:** 8 KB |
 | **GPIO: 54** |
-| **Peripherals:** 16x [Analog-Digital Converter](../analog-digital-converter.md) _\(5.0 V, 10-bit\)_, 4x [UART](../../uart.md), [SPI](../../spi.md), [I2C](../../i2c.md) |
+| **Peripherals:** 16x [Analog-Digital Converter](../analog-digital-converter.md) _\(5.0 V, 10-bit\)_, 4x [UART](../uart.md), [SPI](../spi.md), [I2C](../i2c.md) |
 
 The **Arduino Mega** is an expanded version of the Arduino meant for memory or IO-hungry projects. It costs twice as much as a regular Arduino and is nearly two times larger, but fails to make significant progress in CPU power.
 

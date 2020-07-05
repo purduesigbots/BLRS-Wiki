@@ -22,9 +22,9 @@ There are a few fundamental things to consider when wiring a robot:
 
 **Port Mapping**
 
-There are a few aspects of the [VEX Cortex](../vex/vex-electronics/vex-cortex.md) to keep in mind when designing a port map:
+There are a few aspects of the [VEX Cortex](vex-cortex.md) to keep in mind when designing a port map:
 
-* There are two current-limiting [PTCs](../resettable-fuse-ptc.md) on the motor ports, one that covers ports 2-5 and one that covers ports 6-9.
+* There are two current-limiting [PTCs](../general/resettable-fuse-ptc.md) on the motor ports, one that covers ports 2-5 and one that covers ports 6-9.
 * Ports 1 and 10 are two wire ports, they do not require a motor controller and have a more linear relationship between PWM and motor velocity. They also have their own H-bridges, which can burn out if a motor shorts out. \(which happens all too often\)
 * 12 motors are available but there are only 10 motor ports. At least two y-cables are needed.
 

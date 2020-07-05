@@ -10,19 +10,19 @@ description: The VEX Cortex is the older microcontroller that was used in VRC an
 This article is about the VEX Cortex, which is the legacy microcontroller for VRC and is no longer competitive
 {% endhint %}
 
-The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32-bit ARM Cortex-M3 processor with support for [PROS](../../../software/vex-programming-software/pros/), [Easyc](../../../software/vex-programming-software/easyc.md), and [Robotc](../../../software/vex-programming-software/robotc.md). It features ten motor outputs which can deliver up to 8 A _combined_ of current \(12 A with a [VEX Power Expander](../../legacy/power-expander.md)\), twelve digital inputs/outputs, eight analog inputs, and three communication interfaces.
+The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32-bit ARM Cortex-M3 processor with support for [PROS](../../software/vex-programming-software/pros/), [Easyc](../../software/vex-programming-software/easyc.md), and [Robotc](../../software/vex-programming-software/robotc.md). It features ten motor outputs which can deliver up to 8 A _combined_ of current \(12 A with a [VEX Power Expander](power-expander.md)\), twelve digital inputs/outputs, eight analog inputs, and three communication interfaces.
 
 ### Features
 
 * Well-shielded against environmental hazards
 * Input pins carry short-circuit and ESD protection
-* Compatible with the standard line of [VEX Sensors](../vex-sensors/) and [VEX Motors](motors.md)
+* Compatible with the standard line of [VEX Sensors](../vex/vex-sensors/) and [VEX Motors](../vex/vex-electronics/motors.md)
 * Only microcontroller which is allowed to directly interface with actuators on the robot
 * High-speed, 32-bit ARM Cortex-M3 platform
-* Wireless communication and code download using [VEXnet](vexnet.md)
+* Wireless communication and code download using [VEXnet](../vex/vex-electronics/vexnet.md)
 * Programmable in PROS, EasyC, or RobotC
 * Digital and analog pins are 5-volt tolerant
-* Code debugging \([RobotC](../../../software/vex-programming-software/robotc.md) only\)
+* Code debugging \([RobotC](../../software/vex-programming-software/robotc.md) only\)
 
 ### Shortcomings
 

@@ -19,7 +19,7 @@ Robot C is for the older VEX Cortex which is no longer supported.
 * Works out-of-box, built-in IDE
 * **Superseded by** [**Midnight C**](midnight-c.md)
 
-**RobotC** is an _interpreted_ C-like programming language available for the VEX PIC and [VEX Cortex](../../electronics/vex/vex-electronics/vex-cortex.md). It offers real-time debugging and a relatively simple set of internal libraries mostly based on the use of \(real or virtual\) arrays.
+**RobotC** is an _interpreted_ C-like programming language available for the VEX PIC and [VEX Cortex](../../electronics/legacy/vex-cortex.md). It offers real-time debugging and a relatively simple set of internal libraries mostly based on the use of \(real or virtual\) arrays.
 
 ### Features
 

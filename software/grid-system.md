@@ -18,7 +18,7 @@ More clever methods utilize the [encoder](../electronics/vex/vex-sensors/encoder
 
 A variety of implementations of a grid system were used VEX Gateway; the most recent incarnation tracks position and angle with reasonable accuracy. However, none of them were actually utilized in a match, as the dynamic [Red/Green Buoy](object-recognition/red-green-buoy.md) algorithm failed to detect a full intake condition and so never triggered a return-to-home strategy.
 
-The upgrade to [PROS](vex-programming-software/pros/) and a full multi-tasking environment brought the accuracy and precision of mapping software to astounding levels, as mapping could run in the background with no discernible timing [Jitter](../electronics/jitter.md) and use the super-accurate new Pololu MinIMU-9 digital gyro. If Sacks had not been present in VEX Sack Attack, mapping could have been used for an entire autonomous mode; the disturbances caused by Sacks, however, accumulated errors in mapping that made it less useful than a well-designed [finite state machine](finite-state-machine.md).
+The upgrade to [PROS](vex-programming-software/pros/) and a full multi-tasking environment brought the accuracy and precision of mapping software to astounding levels, as mapping could run in the background with no discernible timing [Jitter](../electronics/general/jitter.md) and use the super-accurate new Pololu MinIMU-9 digital gyro. If Sacks had not been present in VEX Sack Attack, mapping could have been used for an entire autonomous mode; the disturbances caused by Sacks, however, accumulated errors in mapping that made it less useful than a well-designed [finite state machine](finite-state-machine.md).
 
 ### Contributing Teams to this Article:
 

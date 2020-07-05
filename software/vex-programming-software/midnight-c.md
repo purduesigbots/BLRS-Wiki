@@ -21,7 +21,7 @@ Midnight C is for the older VEX Cortex which is no longer supported
 * Pointer and [register](../register-programming.md) control
 * Purdue Robotics OS
 
-The **Midnight C** platform, often referred to in the past as the **"Makefile"**, is a cross-platform method of compiling native C code for the [VEX Cortex](../../electronics/vex/vex-electronics/vex-cortex.md). It supplanted [Robotc](robotc.md) during VEX Gateway as the primary language for programming the Cortex. Initial versions used the EasyC runtime library to interface with VEX parts, making it fully [EasyC](easyc.md) compatible; the development of the Purdue Robotics OS brought a more powerful API compatible with a variety of existing environments.
+The **Midnight C** platform, often referred to in the past as the **"Makefile"**, is a cross-platform method of compiling native C code for the [VEX Cortex](../../electronics/legacy/vex-cortex.md). It supplanted [Robotc](robotc.md) during VEX Gateway as the primary language for programming the Cortex. Initial versions used the EasyC runtime library to interface with VEX parts, making it fully [EasyC](easyc.md) compatible; the development of the Purdue Robotics OS brought a more powerful API compatible with a variety of existing environments.
 
 ## Installation
 
@@ -34,7 +34,7 @@ Firmware \(Mastercode\) reflashing for Midnight C is performed using the same pr
 * Uses the GNU GCC compiler for ARM
 * Can use any standard C syntax, library, data type, or function
 * Powerful, high-speed library implementation surpasses I/O and interrupt performance of even the EasyC library
-* Low-level access available to system registers, allowing the implementation of protocols such as [SPI](../../electronics/spi.md) or [I2C](../../electronics/i2c.md)
+* Low-level access available to system registers, allowing the implementation of protocols such as [SPI](../../electronics/general/spi.md) or [I2C](../../electronics/general/i2c.md)
 * Midnight-C IDE \(based on the Eclipse IDE\) handles routine compilation and upload tasks
 * Vast improvements in size and speed
 
