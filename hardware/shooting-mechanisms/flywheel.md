@@ -4,7 +4,7 @@ description: Shooting things and busting encoders
 
 # Flywheel
 
-{F20741, size=full}
+![1104's NBN Flywheel](../../.gitbook/assets/110flywheel.jpg)
 
 ## Single Flywheel
 
@@ -14,6 +14,6 @@ A single flywheel consists of one driven wheel and a lexan backplate bent into a
 
 ## Double Flywheel
 
-{F4907, size=full}
+![The gearbox for the BLRS double flywheel used in NBN](../../.gitbook/assets/flywheel_gearbox.jpg)
 
 This set of two horizontal flywheels also accomplishes the same goal, but with a few more drawbacks. The system is larger and heavier, but more importantly, it requires more compression on the ball given the smaller range of contact with the ball when firing it (contact with the ball occurs right at the center between the two wheels as opposed to the length of the lexan for a single flywheel). This causes a longer spin-up time and more variability in shot distance.

@@ -4,7 +4,7 @@ description: The 4 bar lift, the simplest linkage that for keeping both ends par
 
 # 4 Bar Lift
 
-{F5752,size=full}
+![](../../.gitbook/assets/4barCAD.jpg)
 
 The four bar lift is one of the most used lifts in Vex competitions due to its simplicity and ease of building. The four bar lift is constructed using two sets of parallel bars that move up and down in unison. Two sets of vertical bars line both the front and back so that the lift can be attached to a robot base and so that object interaction mechanisms can be attached. 
 
@@ -12,9 +12,9 @@ In addition to the common parallel configuration, the two rotating bars may be m
 
 Because four bar lifts are simple in nature, it doesnt provide very much height advantage. The maximum height of a four bar lift is determined by the length of bar used, which is constrained by the size limitations of the robot itself. While not common, four bar lifts may result in a center of gravity that does not remain over the base of the robot when faced with a heavy load. However, due to the size limitations, this is not often a problem.
 
-{F5754,size=full}
+![](../../.gitbook/assets/4barNBNside.jpg)
 Side View of 4 Bar used in Nothing But Net
 
-{F5756,size=full}
+![](../../.gitbook/assets/4barNBNIso.jpg)
 Isometric View of 4 Bar used in Nothing But Net
 
