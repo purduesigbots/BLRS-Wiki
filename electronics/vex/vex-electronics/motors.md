@@ -48,7 +48,7 @@ Unfortunately, due to their nature, all VEX motor types are known to both cause 
 
 The main workhorse of the VEX motion lineup, the **2-Wire Motor 393** is larger and has approximately 60% more torque than the visually similar 2-Wire Motor 269. These motors are primarily used in drive trains or heavy lifting scenarios. Only 4 motors of this type were allowed per robot in and before VEX Gateway, but in VEX Sack Attack and later, no restrictions are placed on the usage of this motor. Its high [Power Consumption](../../general/power-consumption.md) under load may cause problems if several 2-wire Motor 393s are used at the same time.
 
-Despite the higher current consumption, these motors are more efficient and robust than the 2-Wire Motor 269 and actually consume less power for a given torque output than any similar motor. Care must only be taken that a [stall is detected](../../../software/stall-detection.md) quickly.
+Despite the higher current consumption, these motors are more efficient and robust than the 2-Wire Motor 269 and actually consume less power for a given torque output than any similar motor. Care must only be taken that a [stall is detected](../../../software/general/stall-detection.md) quickly.
 
 The stock internal gears of the 2-Wire Motor 393 can be replaced with another set of "high speed" gears included with the motor. This reduces the output torque to the equivalent of a 2-Wire Motor 269, but increases the speed to 160 rpm, making it the fastest motor currently in production. Sets of replacement gears for both the low-speed and high-speed options are available separately as well.
 

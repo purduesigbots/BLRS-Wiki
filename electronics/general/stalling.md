@@ -12,7 +12,7 @@ However, if the motor reaches zero speed, the back EMF voltage drops to zero, an
 
 ## Prevention
 
-_Main article:_ [_Stall Detection_](../../software/stall-detection.md)
+_Main article:_ [_Stall Detection_](../../software/general/stall-detection.md)
 
 Stalls often occur when a mechanism becomes jammed or when a motor is run too close to its torque limit. To solve these problems, the offending mechanism can be fixed, or unusual conditions handled in software. Use the power calculator on the torque page to determine what gear ratio is required to avoid a stall under normal conditions.
 

@@ -18,7 +18,7 @@ Midnight C is for the older VEX Cortex which is no longer supported
 * Partial multitasking
 * Uses [Eclipse](https://www.eclipse.org/) IDE
 * Interrupt control
-* Pointer and [register](../register-programming.md) control
+* Pointer and [register](../general/register-programming.md) control
 * Purdue Robotics OS
 
 The **Midnight C** platform, often referred to in the past as the **"Makefile"**, is a cross-platform method of compiling native C code for the [VEX Cortex](../../electronics/vex/legacy/vex-cortex.md). It supplanted [Robotc](robotc.md) during VEX Gateway as the primary language for programming the Cortex. Initial versions used the EasyC runtime library to interface with VEX parts, making it fully [EasyC](easyc.md) compatible; the development of the Purdue Robotics OS brought a more powerful API compatible with a variety of existing environments.

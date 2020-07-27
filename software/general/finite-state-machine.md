@@ -23,17 +23,17 @@ Finite state machines have a large but countable number of discrete states in wh
 
 * Somewhat harder to implement properly, as states must not depend too heavily on other states
 * Generally cannot perform dynamic autonomous, as that would be an _infinite_ state machine \(although making the entire dynamic section a state in itself is possible\)
-* Does not integrate as well with [object recognition](object-recognition/) or a [grid system](grid-system.md)
+* Does not integrate as well with [object recognition](../object-recognition/) or a [grid system](../control-algorithms/grid-system.md)
 
 ## Usage
 
 ### VEX Gateway
 
-A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../electronics/vex/vex-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](https://phabricator.purduesigbots.com/w/pid_controller/) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
+A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](../vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../../electronics/vex/vex-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](https://phabricator.purduesigbots.com/w/pid_controller/) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
 
 ### VEX Sack Attack
 
-In the age of VEX Sack Attack, the [grid system](grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](vex-programming-software/midnight-c.md) and later [PROS](vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../electronics/vex/vex-sensors/encoder.md).
+In the age of VEX Sack Attack, the [grid system](../control-algorithms/grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](../vex-programming-software/midnight-c.md) and later [PROS](../vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../../electronics/vex/vex-sensors/encoder.md).
 
 ### VEX Toss Up
 

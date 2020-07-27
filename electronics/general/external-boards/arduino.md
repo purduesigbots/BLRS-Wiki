@@ -45,7 +45,7 @@ As an evolution of the first Arduino boards \(first the Arduino USB, then the NG
 
 ### History
 
-Getting used to programming on the confines of an Arduino steeps one's understanding with the [fundamentals of embedded program design](../../../software/embedded-programming-tips.md). SIGBots therefore recommends that newcomers to embedded systems programming \(particularly those on robot programming or electronics subteams\) take their first steps on an **Arduino Uno**. The comprehensive array of code samples also makes it a good choice for personal experimentation.
+Getting used to programming on the confines of an Arduino steeps one's understanding with the [fundamentals of embedded program design](../../../software/general/embedded-programming-tips.md). SIGBots therefore recommends that newcomers to embedded systems programming \(particularly those on robot programming or electronics subteams\) take their first steps on an **Arduino Uno**. The comprehensive array of code samples also makes it a good choice for personal experimentation.
 
 ## Arduino Leonardo
 

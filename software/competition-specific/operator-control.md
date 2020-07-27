@@ -4,7 +4,7 @@ The **operator control** phase is the second half of a VEX Robotics Challenge ma
 
 ## Dynamics
 
-Autonomous code seldom continues into the operator control phase, but small [scripted portions](../finite-state-machine.md) and [PID controllers](../control-algorithms/pid-controller.md) are often implemented to manage low-level tasks such as supporting an arm or running an intake. Parity among teams during this period is largely related to the skill of the drivers, obtained mostly through accumulated on-field practice time. Attending practice competitions and getting quality time on the field with a finished robot makes big payoffs during this phase.
+Autonomous code seldom continues into the operator control phase, but small [scripted portions](../general/finite-state-machine.md) and [PID controllers](../control-algorithms/pid-controller.md) are often implemented to manage low-level tasks such as supporting an arm or running an intake. Parity among teams during this period is largely related to the skill of the drivers, obtained mostly through accumulated on-field practice time. Attending practice competitions and getting quality time on the field with a finished robot makes big payoffs during this phase.
 
 Near the end of the match, a special scoring element usually comes into play. Examples of this would include the Negation Barrel in VEX Gateway, the Parking Bonus in VEX Sack Attack, and the Hanging Bonus in VEX Toss Up.
 

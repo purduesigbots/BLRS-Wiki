@@ -8,7 +8,7 @@ description: >-
 
 ## Bang-bang control
 
-A **bang-bang control** scheme utilizes a few discrete states, similar to what one might obtain if a [finite state machine](../finite-state-machine.md) were used directly, to control a device based on sensor readings. Robots using this scheme have a characteristic "zig-zag" or "wiggle" behavior as the robot rapidly switches between states.
+A **bang-bang control** scheme utilizes a few discrete states, similar to what one might obtain if a [finite state machine](../general/finite-state-machine.md) were used directly, to control a device based on sensor readings. Robots using this scheme have a characteristic "zig-zag" or "wiggle" behavior as the robot rapidly switches between states.
 
 While adequate in some situations, bang-bang control is inadequate for more difficult tasks like line-following and lift mechanism control.
 
