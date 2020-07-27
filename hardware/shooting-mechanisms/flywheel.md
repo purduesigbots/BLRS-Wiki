@@ -4,7 +4,7 @@ description: Shooting things and busting encoders
 
 # Flywheel
 
-![1104&apos;s NBN Flywheel](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/.gitbook/assets/110flywheel.jpg)
+![](../../.gitbook/assets/maxresdefault-2.jpg)
 
 ## Single Flywheel
 

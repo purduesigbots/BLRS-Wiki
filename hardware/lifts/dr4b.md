@@ -4,7 +4,7 @@ description: The mighty Double Reverse Four Bar.
 
 # Double Reverse Four Bar
 
-![118&apos;s Skyrise DR4B](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/.gitbook/assets/118.jpg)
+![Double Reverse Four Bar from 118](../../.gitbook/assets/118.jpg)
 
 The double reverse four bar lift is one of the more complicated lift designs used in Vex Robotics competitions. The lift is comprised of two iterations of a four bar lift. One iteration is mounted in the same manner as for a standard four bar lift. The second iteration is mounted at the end of the ﬁrst iteration at the location where the intake or object manipulation mechanisms would normally be positioned. The second four bar lift faces the opposite direction as the ﬁrst iteration. This allows the overall lift to rise almost completely vertically as opposed to a single four bar lift that rises forward and up simultaneously. This can be an advantage or disadvantage depending on the desired task.
 

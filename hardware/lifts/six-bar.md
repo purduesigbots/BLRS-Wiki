@@ -4,7 +4,7 @@ description: 'The six bar lift, the four bar''s big brother.'
 
 # Six Bar
 
-![Scissor Lift in raised position](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/.gitbook/assets/tu_atlas_v1_lift.jpg)
+![](../../.gitbook/assets/tu_atlas_v1_lift.jpg)
 
 The six bar lift is a derivative of the [four bar lift](four-bar.md). It utilizes the same geometry of four parallel bars, but in two stages. This split into two stages allows the lift to maintain a lower profile on the robot and condense into a smaller space, which then allows for a larger lift to ﬁt within the 24" limits. This lift design has been used frequently in past Vex games, as the goal heights were typically high enough to be unreachable for a four bar, but just barely short enough for a six bar to reach. It is typically recommended that only the top of the two bars on the static end be driven by the motors, as there will be increased friction on the bottom arm as compared to the top. This can be alleviated by utilizing a PID control on the arm to ensure that one motor does not provide more force than the other on a given side, stressing the lift components and motors.
 

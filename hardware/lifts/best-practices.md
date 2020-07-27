@@ -10,7 +10,7 @@ Bracing is the most crucial aspect of designing a stable \(and fast\) lift. It m
 
 ## X-bracing
 
-![5225a Lift](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/.gitbook/assets/5225aLift.png) Above: 5225a \(ITZ Worlds Winner\)'s lift
+![5225a Lift](../../.gitbook/assets/5225alift.png)
 
 X bracing is the most common strategy used in bracing a lift. Structurally, it has strong tension, but not much else. As a result, it works well with 1-by on the middle of a DR4b, for instance, but using c-channels won't give you much improvement. It also will not prevent twisting, which the main problem plaguing most VEX lifts.
 
@@ -18,11 +18,9 @@ The SIGBots' Starstruck robot used this strategy on its lift with some pieces of
 
 ## 5-by bracing
 
-![2941a Lift](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/.gitbook/assets/2941aLift.png) Above: 2941a's lift from ITZ
-
 Bracing with horizontal 5-by's \(often doubled up\) was a common and very effective technique used by New Zealand teams in 2017-18's ITZ to brace the bottom section of DR4Bs. This is the most effective way to prevent the lift from twisting, and while the doubled 5-by is very heavy, the additional stability causes the lift's joints to be more efficient and the lift to be faster.
 
 ## Joints
 
-See [joints](https://github.com/purduesigbots/BLRS-Wiki/tree/e1b6c623e7282b9401cee653be1052b957171a45/hardware/joints.md) for more info.
+See [joints](../vex-joints.md) for more info.
 
