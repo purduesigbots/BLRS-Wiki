@@ -102,4 +102,16 @@
 
 * [VEX Drivetrains](hardware/vex-drivetrains.md)
 * [VEX Joints](hardware/vex-joints.md)
-
+* [Build Quality](hardware/build-quality.md)
+* [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
+* [Intakes](hardware/intakes.md)
+* [Lifts](hardware/lifts/README.md)
+ * [Best Practices](hardware/lifts/best-practices.md)
+ * [Double Reverse Four Bar](hardware/lifts/dr4b.md)
+ * [Four Bar](hardware/lifts/four-bar.md)
+ * [Scissor Lift](hardware/lifts/scissor-lift.md)
+ * [Six Bar](hardware/lifts/six-bar.md)
+* [Shooting Mechanisms](hardware/shooting-mechanisms/README.md)
+ * [Catapult](hardware/shooting-mechanisms/catapult.md)
+ * [Flywheel](hardware/shooting-mechanisms/flywheel.md)
+ * [Linear Puncher](hardware/shooting-mechanisms/linear-puncher.md)
