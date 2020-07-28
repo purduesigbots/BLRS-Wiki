@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [VEX Advanced Wisdom Project \(VAW\)](vex-advanced-wisdom-project-vaw.md)
+* [Mission Statement](vex-advanced-wisdom-project-vaw.md)
 
 ## Hardware
 

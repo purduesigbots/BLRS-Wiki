@@ -1,4 +1,8 @@
-# VEX Advanced Wisdom Project \(VAW\)
+---
+description: Part of the VEX Advanced Wisdom (VAW) Project
+---
+
+# Mission Statement
 
 After extensive discussion with many of the top tier VEXU programs, it became obvious that there is a gap in the ability to share knowledge among VRC and VEXU programs. The existing infrastructure that VEX has put out has been a fantastic resource for teams interested in getting into the field of robotics, but the introduction of VAIC has increased opportunities for both High School and University students to experiment with more advanced robotics techniques.
 
@@ -10,7 +14,7 @@ HAIL’s video series is poised to start the recording phase soon. An updated li
 
 The final plan was more ambitious, having a Question and Answer platform that would be able to empower students to go above and beyond with their understanding of engineering. To do this, a panel of university students with experience and high level understanding in specific topics was assembled in order to answer any questions that may arise in a student’s journey for knowledge. To properly engage with our audience a Discord platform was created with the hope to move to a separate website or forum entirely in the future.
 
-\*\*\*\*[**Discord Link Here**](https://discord.com/invite/EmzuC3A)
+[**Discord Link Here**](https://discord.com/invite/EmzuC3A)
 
 **What is the goal of this?**
 
