@@ -4,6 +4,10 @@ description: puncher ganggggg
 
 # Linear Puncher
 
+{% hint style="warning" %}
+Note: This page is still a Work In Progress. Feel free to contribute by opening up a pull request!
+{% endhint %}
+
 ![](../../.gitbook/assets/puncherfinal.png)
 
 In NBN and likely in Turning Point, Linear Punchers were an effective method of shooting a ball in a fairly consistent, near-linear path. The name of the mechanism comes from it's linear actuation and the forceful impact on the ball that sends it flying.
