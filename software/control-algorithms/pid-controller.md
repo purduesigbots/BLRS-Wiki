@@ -7,14 +7,20 @@ description: >-
 
 # PID Controller
 
-## Theory
+## Concept
+
+**In Robotics:**
+
+In terms of robotics, this would help robots stop gradually as it reaches a point, instead of having it stop moving its motors or breaking hard as it reaches its target. This is necessary as robots have momentum that can only be gradually be slow down to a halt to maintain accuracy instead of using a [bang-bang](bang-bang.md) algorithm that does not account for this.
+
+**Real World Usage:**
 
 Consider a kitchen stove which is to be heated to 350 degrees Fahrenheit. Initially, the stove begins at room temperature, hopefully less than 100 F, and so must obviously become warmer. Bang-bang control might naively try to turn the stove heat fully on if the temperature is less than 345 F and turn it fully off if the temperature is greater than 355 F. While this might appear to keep the temperature within a +/- 5 degree range of the target, it is entirely possible that the temperature could exceed these bounds, as turning the heating coils "off" will probably still contribute a fair amount of heat to the stove temperature while the coils cool down, leading to wild temperature oscillations.
 
 One might try to improve this scheme by adding additional [intermediate states](../general/finite-state-machine.md) with the oven elements on at some partial amount, but this is difficult to maintain and adapt. A more intelligent scheme will use the other information that every analog sensor tells a smart controller:
 
-* **History** - Analog sensors have past values that provide a story of how the system reacted to previous changes \(the _integral_ term\). This is generally determined by adding input values to a running total.
-* **Future** - The current rate of change of an analog sensor is often useful in predicting the next few values \(the _derivative_ term\). This is generally computed by finding the difference between the last two input values.
+* **History** - Analog sensors have past values that provide a story of how the system reacted to previous changes \(the _**integral**_ term\). This is generally determined by adding input values to a running total.
+* **Future** - The current rate of change of an analog sensor is often useful in predicting the next few values \(the _**derivative**_ term\). This is generally computed by finding the difference between the last two input values.
 
 In the kitchen oven case, derivative control would be important to prevent oscillating around the target value; the heater can be turned down before the target temperature is reached when derivative control predicts that the temperature will reach the desired set-point soon. Likewise, if the temperature is not rising as quickly as it should, perhaps because the door is open, the heater temperature will increase as the offsets from the set-point accumulate in the integral term.
 
