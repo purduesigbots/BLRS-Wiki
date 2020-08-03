@@ -11,7 +11,7 @@ description: >-
 
 **In Robotics:**
 
-In terms of robotics, this would help robots stop gradually as it reaches a point, instead of having it stop moving its motors or breaking hard as it reaches its target. This is necessary as robots have momentum that can only be gradually be slow down to a halt to maintain accuracy instead of using a [bang-bang](bang-bang.md) algorithm that does not account for this.
+In terms of robotics, this would help robots stop gradually as it reaches a point, instead of having it stop moving its motors or breaking hard as it reaches its target. This is necessary as robots have momentum that can only be gradually slowed down to a halt to maintain accuracy, instead of using a [bang-bang](bang-bang.md) algorithm that does not account for this.
 
 **Real World Usage:**
 
