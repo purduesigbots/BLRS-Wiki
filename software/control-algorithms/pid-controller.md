@@ -33,7 +33,11 @@ For any PID controller, the exact impact of the three terms \(**proportional**, 
 * **Steady-state error** - Some small offset from the target will usually remain due to a variety of possible reasons.
 * **Rise time** - The rate at which the controller reaches the target must be carefully monitored. Setting a hard limit on the output rate of change is often acceptable, but some constant choices may limit it implicitly.
 
-Generally speaking, you want to first tune proportion \(P\), then derivative \(D\), and then finally integral \(I\). Some of these values might not be used if the values that come behind it make the controller smooth enough.
+Generally speaking, you want to first tune proportion \(P\), then derivative \(D\), and then finally integral \(I\). Some of these values might not be used if the values that come before it make the controller smooth enough. Most of the time spent coding PID will most likely not be spent on the algorithm itself, but rather refining these constants.
+
+## Example:
+
+Check out this Vex Forum thread for generalized PID code made in RobotC: [https://www.vexforum.com/t/a-pid-controller-in-robotc/20105](https://www.vexforum.com/t/a-pid-controller-in-robotc/20105)
 
 ## Refinements
 
