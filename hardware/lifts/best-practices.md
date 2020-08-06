@@ -14,7 +14,7 @@ Bracing is the most crucial aspect of designing a stable \(and fast\) lift. It m
 
 X bracing is the most common strategy used in bracing a lift. Structurally, it has strong tension, but not much else. As a result, it works well with 1-by on the middle of a DR4b, for instance, but using c-channels won't give you much improvement. It also will not prevent twisting, which the main problem plaguing most VEX lifts.
 
-The SIGBots' Starstruck robot used this strategy on its lift with some pieces of 1x metal, but it had little noticeable impact. Avoid that mistake in the future.
+Be sure not to use this strategy with 1x metal, as it will likely have little noticeable impact.
 
 ## 5-by bracing
 
