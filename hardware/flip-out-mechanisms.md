@@ -12,16 +12,17 @@ Starstruck was a game that required a flip-out mech for the popular claw design.
 
 One example of several flip-out mechanisms being utilized on one robot was [97934V's Starstruck Deploy](https://www.youtube.com/watch?v=u9XEYpPA-H4). Most notably, its claw was held behind its lift tower until the lift was raised.
 
-![97934V's Starstruck Deploy](https://github.com/2775Josh/BLRS-Wiki/blob/patch-1/.gitbook/assets/97934V's%20Starstruck%20Deploy.png?raw=true)
+![97934V&apos;s Starstruck Deploy](../.gitbook/assets/97934vs-starstruck-deploy.png)
 
-Another successful flip-out mechanism was the [2019 Ri3D team's intake flipout](https://youtu.be/BC4ZlIcBB7I?t=145) (designed by Ben). It utilized a standoff to hold in the intakes until the lift was raised. Then, the intakes flipped out and locked with another standoff.
+Another successful flip-out mechanism was the [2019 Ri3D team's intake flipout](https://youtu.be/BC4ZlIcBB7I?t=145) \(designed by Ben\). It utilized a standoff to hold in the intakes until the lift was raised. Then, the intakes flipped out and locked with another standoff.
 
-![Ben's Intake Flipout](https://github.com/2775Josh/BLRS-Wiki/blob/patch-1/.gitbook/assets/Ben's%20Intake%20Flipout.png?raw=true)
+![Ben&apos;s Intake Flipout](../.gitbook/assets/bens-intake-flipout.png)
 
 This mechanism was not a "flip-out" mechanism in the conventional way, but [Antichamber's Modular Cone Launcher](https://www.youtube.com/watch?v=zHS9VIAxNNM) was certainly interesting. In Vex In the Zone, several teams utilized their preload by launching it across the field to block another teams autonomous function. This was one particular mechanism for doing so.
 
-![Antichamber's Modular Cone Launcher](https://github.com/2775Josh/BLRS-Wiki/blob/patch-1/.gitbook/assets/Antichamber's%20Modular%20Cone%20Launcher.png?raw=true)
+![Antichamber&apos;s Modular Cone Launcher](../.gitbook/assets/antichambers-modular-cone-launcher.png)
 
-### Contributing Teams to this Article:
+## Contributing Teams to this Article:
 
 * [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) \(Jackson Area Robotics\)
+
