@@ -44,13 +44,29 @@ Note to PROS users: If you are using the PROS editor, Atom has GUI based Github 
 
 ## Workflow
 
+If you have already created a project locally (this is likely the case for PROS users), you can sync your local repository with a remote. 
+
+* Make a new repository on GitHub. Don't add anything to this repository (GitHub will ask if you want to add a README file or .gitignore, but you should not enable either of these.)
+* Open a terminal on your computer. On Mac/Linux, this will be "Terminal"; on Windows, it may either be Command Prompt or the Git Bash program, depending on how you installed Git. 
+* Navigate to your project
+* Run `git init`
+* Run `git add`, usually in the form of `git add .` so that Git knows to track all of the changes made to the project. 
+* Run `git commit`, usually with the `-m` flag and a commit message in quotes
+* Run `git remote add origin <link to repository>`. 
+* Run `git push -u origin master`. You won't have to use the additional `-u origin master` flags in the future; this is just to make sure that Git associates the remote version of the repository with the local version of the repository. 
+  * This step will ask for your username and password. If you have two factor authentication enabled, you will need to set up a Personal Access Token \(which you can read about in GitHub’s documentation\). You can also setup SSH and GPG keys in order to push code without entering a password and to make signed commits.
+
+Some of these instructions are usually displayed when creating an empty repository on GitHub, so you can usually copy and paste the commands directly into your terminal. 
+
+Alternatively, if you don't already have a local project that you'd like to push to a remote, you can follow these steps:
+
 * Make a new repository on GitHub
 * Clone the repository using either the command line tool \(`git clone <url of repository>`\) or a Git client, like GitHub for Windows or GitKraken. If you already have the repository on your computer, run `git pull` to get any outstanding changes made to the remote copy before you begin working.
 * Make all the changes you want
-* Run `git add`, usually in the form “git add .” in order to make Git look for all new changes made to the code
-* Run `git commit`, usually with the -m modifier and a commit message in quotes
+* Run `git add`, usually in the form `git add .` in order to make Git look for all new changes made to the code
+* Run `git commit`, usually with the `-m` flag and a commit message in quotes
 * Run `git push`
-  * This step will ask for your username and password. If you have two factor authentication enabled, you will need to set up a Personal Access Token \(which you can read about in GitHub’s documentation\). You can also setup SSH and GPG keys in order to push code without entering a password \(passwordless authentication\) and to make signed commits.
+  * This step will ask for your username and password. If you have two factor authentication enabled, you will need to set up a Personal Access Token \(which you can read about in GitHub’s documentation\). You can also setup SSH and GPG keys in order to push code without entering a password and to make signed commits.
 
 ## Branches
 
