@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
+* [Contributing Guidelines](contributing-guidelines.md)
 
 ## Hardware
 

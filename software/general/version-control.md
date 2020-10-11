@@ -44,9 +44,9 @@ Note to PROS users: If you are using the PROS editor, Atom has GUI based Github 
 
 ## Workflow
 
-If you have already created a project locally (this is likely the case for PROS users), you can sync your local repository with a remote. 
+If you have already created a project locally \(this is likely the case for PROS users\), you can sync your local repository with a remote.
 
-* Make a new repository on GitHub. Don't add anything to this repository (GitHub will ask if you want to add a README file or .gitignore, but you should not enable either of these.)
+* Make a new repository on GitHub. Don't add anything to this repository \(GitHub will ask if you want to add a README file or .gitignore, but you should not enable either of these.\)
 * Open a terminal on your computer. On Mac/Linux, this will be "Terminal"; on Windows, it may either be Command Prompt or the Git Bash program, depending on how you installed Git. 
 * Navigate to your project
 * Run `git init`
@@ -56,7 +56,7 @@ If you have already created a project locally (this is likely the case for PROS 
 * Run `git push -u origin master`. You won't have to use the additional `-u origin master` flags in the future; this is just to make sure that Git associates the remote version of the repository with the local version of the repository. 
   * This step will ask for your username and password. If you have two factor authentication enabled, you will need to set up a Personal Access Token \(which you can read about in GitHub’s documentation\). You can also setup SSH and GPG keys in order to push code without entering a password and to make signed commits.
 
-Some of these instructions are usually displayed when creating an empty repository on GitHub, so you can usually copy and paste the commands directly into your terminal. 
+Some of these instructions are usually displayed when creating an empty repository on GitHub, so you can usually copy and paste the commands directly into your terminal.
 
 Alternatively, if you don't already have a local project that you'd like to push to a remote, you can follow these steps:
 
