@@ -14,3 +14,11 @@ An example system can be found here: [https://www.youtube.com/watch?v=umryvVdB7s
 
 The example shown above uses nautilus gears, but it is also quite easy to use shaved gears \(slipgears\) like on the linear puncher. Obviously with a catapult, normal gears would be used alongside the shaved pinion instead of rack gears.
 
+## Pros and cons (WIP)
+
+### Pros
+* Further launching distance
+
+### Cons
+
+* Harder to build
