@@ -1,6 +1,6 @@
 # Object Recognition
 
-**Object recognition** is the process of using a camera \(typically an inexpensive web cam as shown in [External Sensors](../../electronics/vex/vex-sensors/)\) to detect objects of interest. Essential for adapting autonomous code to a changing environment, object recognition is a useful step for dynamic autonomous modes. At close range, [Red/Green Buoy](red-green-buoy.md) or other passive homing methods using range finders can be used, once the type of object can be determined.
+**Object recognition** is the process of using a camera \(typically an inexpensive web cam as shown in [External Sensors](../../electronics/vex/vex-sensors/)\) to detect objects of interest. This is essential for adapting autonomous code to a changing environment; object recognition is a useful step for dynamic autonomous modes. At close range, [Red/Green Buoy](red-green-buoy.md) or other passive homing methods using range finders can be used, once the type of object can be determined.
 
 The video on the right shows a first-generation object recognition system on Honey Badger running on a [Pandaboard](../../electronics/general/external-boards/pandaboard.md) using [Opencv](opencv.md).
 
