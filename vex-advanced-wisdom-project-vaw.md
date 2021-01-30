@@ -12,5 +12,5 @@ The VEX community is one that is better together, we believe that the increased 
 
 **Thank you,**
 
-* VEXU Teams BLRS and UMICH
+* VEXU Teams BLRS and MTBR
 
