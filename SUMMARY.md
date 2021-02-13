@@ -16,6 +16,7 @@
   * [Four Bar](hardware/lifts/four-bar.md)
   * [Scissor Lift](hardware/lifts/scissor-lift.md)
   * [Six Bar](hardware/lifts/six-bar.md)
+  * [Other Lifts](hardware/lifts/other-lifts.md)
 * [Shooting Mechanisms](hardware/shooting-mechanisms/README.md)
   * [Catapult](hardware/shooting-mechanisms/catapult.md)
   * [Flywheel](hardware/shooting-mechanisms/flywheel.md)
