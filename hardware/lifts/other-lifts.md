@@ -10,7 +10,7 @@ description: Other lifts that could possibly be found on robots
 
 ### Description
 
-Compared to other lifts found on robots, the two bar is one of the easiest and lightest lifts to build. Usually consisting of 4 c-channels \(2 used for the tower and 2 for the lift\), the two bars are usually used when a robot would like a lift, but one that does not take a lot of space. One of the main downsides and features of a two bar is that the orientation at the end of the lift stays constant despite lift angle. In addition, compared to other lifts, the two bar cannot carry as much weight compared to other lifts. Some examples of the usage of the two bar lift can be found in the game Turning Point as shown above.  
+Compared to other lifts found on robots, the two bar is one of the easiest and lightest lifts to build. Usually consisting of 4 c-channels \(2 used for the tower and 2 for the lift\), the two bars are usually used when a robot would like a lift, but one that does not take a lot of space. One of the main downsides and features of a two bar is that the orientation at the end of the lift stays constant despite lift angle. In addition, compared to other lifts, the two bar cannot carry as much weight compared to other lifts. Some examples of the usage of the two bar lift can be found in the game Tower Takeover as shown above.  
 
 ### Pros and Cons Analysis
 
