@@ -83,7 +83,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
   </tbody>
 </table>
 
-![LattePanda V1.0 Port Layout](../../../.gitbook/assets/image%20%283%29.png)
+![LattePanda V1.0 Port Layout](../../../.gitbook/assets/image%20%283%29%20%281%29.png)
 
 ## LattePanda Alpha Series
 
