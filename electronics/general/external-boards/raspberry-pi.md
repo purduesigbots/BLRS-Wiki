@@ -33,7 +33,7 @@ The speed and performance of the new [Raspberry Pi 4](https://www.raspberrypi.or
 
 ## Raspberry Pi Zero W
 
-![](../../../.gitbook/assets/72a529ca180136e5ab43dcf1547253238e273b8b_pi-zero-w-tilt-1-1620x1080%20%281%29.webp)
+![](../../../.gitbook/assets/72a529ca180136e5ab43dcf1547253238e273b8b_pi-zero-w-tilt-1-1620x1080%20%281%29%20%281%29.webp)
 
 ### Features
 
