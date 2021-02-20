@@ -77,6 +77,7 @@
     * [Potentiometer](electronics/vex/vex-sensors/potentiometer.md)
     * [Ultrasonic](electronics/vex/vex-sensors/ultrasonic.md)
     * [Encoder](electronics/vex/vex-sensors/encoder.md)
+    * [Distance](electronics/vex/vex-sensors/distance-sensor.md)
     * [Gyroscope](electronics/vex/vex-sensors/gyroscope.md)
     * [Bumper Switch](electronics/vex/vex-sensors/bumper.md)
     * [Accelerometer](electronics/vex/vex-sensors/accelerometer.md)
