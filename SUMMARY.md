@@ -12,7 +12,7 @@
 * [Intakes](hardware/intakes.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
-  * [Double Reverse Four Bar](hardware/lifts/dr4b.md)
+  * [Double Reverse Four Bar \(DR4B or RD4B\)](hardware/lifts/dr4b.md)
   * [Four Bar](hardware/lifts/four-bar.md)
   * [Scissor Lift](hardware/lifts/scissor-lift.md)
   * [Six Bar](hardware/lifts/six-bar.md)
