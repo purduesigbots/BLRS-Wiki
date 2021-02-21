@@ -126,9 +126,9 @@ One thing that may be important to note is that the "Double Reverse 4 Bar" desig
 
 The following lifts are not "DR4Bs" and use different techniques to make the lift taller.
 
-![202Z \(In The Zone\) Renders and Model by Zach 929U ](../../.gitbook/assets/render-4.png)
+![202Z Double Reverse 4-6 Bar \(In The Zone\) Renders and Model by Zach 929U ](../../.gitbook/assets/render-4.png)
 
-![UCF \(Tower Takeover\)](../../.gitbook/assets/hbwyc4249bcegiseqrr9eaev5i7ujufgpdum28epeez9lqenrsn6aogrnhwyadulrobk62fhu-pkf3dhp9ysxmqat9g1jlougnft.png)
+![UCF Double Reverse 8-Bar \(Tower Takeover\)](../../.gitbook/assets/hbwyc4249bcegiseqrr9eaev5i7ujufgpdum28epeez9lqenrsn6aogrnhwyadulrobk62fhu-pkf3dhp9ysxmqat9g1jlougnft.png)
 
 ## Consensus
 
