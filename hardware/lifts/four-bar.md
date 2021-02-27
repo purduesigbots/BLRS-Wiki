@@ -12,3 +12,11 @@ In addition to the common parallel configuration, the two rotating bars may be m
 
 Because four bar lifts are simple in nature, it doesnt provide very much height advantage. The maximum height of a four bar lift is determined by the length of bar used, which is constrained by the size limitations of the robot itself. While not common, four bar lifts may result in a center of gravity that does not remain over the base of the robot when faced with a heavy load. However, due to the size limitations, this is not often a problem.
 
+### Pros and Cons Analysis
+
+| Pros | Cons |
+| :--- | :--- |
+| Easy to build | Lack of height |
+| Reliable/Low Maintenance | Center of gravity is not over the base of the robot \(robot could tip when carrying heavy load\) |
+| Lifted end is parallel to static mounting point, preventing objects from falling out | Lift design is constrained by size of robot |
+
