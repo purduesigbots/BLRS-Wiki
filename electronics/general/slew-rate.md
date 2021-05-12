@@ -20,7 +20,7 @@ GPIO pins with high [Output Drive](output-drive.md) generally have low switch re
 
 Typical slew rates range from 10 ns to 125 ns. These correspond to maximum signal change rates of 100 MHz and 8 MHz respectively. Generally, communication using a slow protocol such as [UART](uart.md) or [I2C](i2c.md) has few issues with slew rate, but faster protocols such as USB and [SPI](spi.md) may have data corruption if the slew rate is insufficient. Just because a signal can be generated quickly does not mean that the destination can understand it; observe maximum frequency limitations carefully.
 
-The highest slew rates are found among high-speed purpose-built microcontrollers such as the [V5 Brain](../vex/vex-electronics/vex-v5-brain/) and [Leaflabs Maple](external-boards/leaflabs-maple.md). A 16 MHz [Arduino](external-boards/arduino.md) cannot obtain a 100 MHz slew rate, and the very low drive strength of high-speed processors such as the [Pandaboard](external-boards/pandaboard.md) leads to slower slew rates.
+The highest slew rates are found among high-speed purpose-built microcontrollers such as the [V5 Brain](../../vex-electronics/vex-electronics/vex-v5-brain/) and [Leaflabs Maple](external-boards/leaflabs-maple.md). A 16 MHz [Arduino](external-boards/arduino.md) cannot obtain a 100 MHz slew rate, and the very low drive strength of high-speed processors such as the [Pandaboard](external-boards/pandaboard.md) leads to slower slew rates.
 
 ### Teams Contributed to this Article:
 

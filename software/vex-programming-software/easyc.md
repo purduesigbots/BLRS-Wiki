@@ -21,7 +21,7 @@ EasyC is for the older VEX Cortex which is no longer competitve.
 * Works out-of-box, built-in IDE
 * **Superseded by** [**Midnight C**](midnight-c.md)
 
-**EasyC** is a programming language for the [VEX Cortex](../../electronics/vex/legacy/vex-cortex.md). It initially appears to sport a drag-and-drop interface designed for beginners, but hides a full C text editor and compiler underneath that can compile to native code for the Cortex.
+**EasyC** is a programming language for the [VEX Cortex](../../vex-electronics/legacy/vex-cortex.md). It initially appears to sport a drag-and-drop interface designed for beginners, but hides a full C text editor and compiler underneath that can compile to native code for the Cortex.
 
 ## Features
 
