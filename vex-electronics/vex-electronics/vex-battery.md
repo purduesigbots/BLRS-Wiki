@@ -33,7 +33,7 @@ On of the main issues that has been noted with V5 batteries is the flashing red 
 ![](../../.gitbook/assets/step7pt2.png)
 
 {% hint style="danger" %}
-This section refers to the old VEX Cortex Battery which is no longer competitive.
+This section refers to the old VEX Cortex Battery which is no longer competition legal.
 {% endhint %}
 
 [![](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex_battery.jpg)](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex_battery.jpg)
