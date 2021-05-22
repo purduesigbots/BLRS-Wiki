@@ -36,7 +36,7 @@ The Maple comes in two versions - the Maple rev5 based on the STM32F103RBT6 proc
 
 The Maple was used by SIGBOTS for VEX Toss Up on both robots as an I/O expander. Due to the limited [ADCs](../analog-digital-converter.md) and [GPIOs](../gpio.md) available on the [VEX Cortex](../../../vex-electronics/legacy/vex-cortex.md), there are insufficient ports for extra peripherals such as a serial LCD screen.
 
-The Maple supersedes the somewhat unreliable and slow [Netduino](netduino.md). Although the Maple lacks a floating-point unit, it has enough horsepower to process a Kalman filter for the next generation of digital [gyros](../../../vex-electronics/vex-sensors/gyroscope.md).
+The Maple supersedes the somewhat unreliable and slow [Netduino](netduino.md). Although the Maple lacks a floating-point unit, it has enough horsepower to process a Kalman filter for the next generation of digital [gyros](../../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md).
 
 #### Teams Contributed to this Article:
 

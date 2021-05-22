@@ -20,7 +20,7 @@ A less invasive way of measuring current stems from the fact that a current-carr
 
 ### Rotation rate sensing
 
-Perhaps the most logical method of detecting a stall would be to monitor the shaft rotation rate and detect when it is not rotating using a [VEX Shaft Encoder](../../vex-electronics/vex-sensors/encoder.md). While simple, possible problems emerge, as the level of rotation that constitutes a stall is not well-defined. In addition, when running a motor at a low PWM duty cycle or using active braking, periods of slow to no rotation are expected. Therefore, code using this method generally cannot trip instantaneously and must adjust the definition of a stall according to the current output PWM duty cycle.
+Perhaps the most logical method of detecting a stall would be to monitor the shaft rotation rate and detect when it is not rotating using a [VEX Shaft Encoder](../../vex-electronics/vex-sensors/3-pin-adi-sensors/encoder.md). While simple, possible problems emerge, as the level of rotation that constitutes a stall is not well-defined. In addition, when running a motor at a low PWM duty cycle or using active braking, periods of slow to no rotation are expected. Therefore, code using this method generally cannot trip instantaneously and must adjust the definition of a stall according to the current output PWM duty cycle.
 
 Since VEX motors have a relatively consistent power curve due to the internal gearing, an attached encoder could be used to infer the current draw, given the current output speed and PWM level.
 

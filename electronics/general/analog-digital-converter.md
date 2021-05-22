@@ -11,7 +11,7 @@ The output resolution of the number received from and ADC can vary from 8-bit to
 
 ### Principles
 
-Digital circuits like a microcontroller or computer can only understand binary logic. However, sensors such as the [VEX Line Tracker](../../vex-electronics/vex-sensors/line-tracker.md) and [VEX Gyro](../../vex-electronics/vex-sensors/gyroscope.md) often provide a continuously varying output voltage level. Since a standard digital input would do a poor job, providing a useless 1-bit value, an analog-to-digital converter is used to convert the voltage to a number. Common ADCs vary from 8-bit to 16-bit precision, which dictates how many different values could theoretically be produced by an input voltage. In practice, noise limits the precision of any ADC to between 0.5 and 2 bits less than its stated value.
+Digital circuits like a microcontroller or computer can only understand binary logic. However, sensors such as the [VEX Line Tracker](../../vex-electronics/vex-sensors/3-pin-adi-sensors/line-tracker.md) and [VEX Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) often provide a continuously varying output voltage level. Since a standard digital input would do a poor job, providing a useless 1-bit value, an analog-to-digital converter is used to convert the voltage to a number. Common ADCs vary from 8-bit to 16-bit precision, which dictates how many different values could theoretically be produced by an input voltage. In practice, noise limits the precision of any ADC to between 0.5 and 2 bits less than its stated value.
 
 Many ADCs found in microcontroller applications operate on SAR \(successive approximation register\) principles. This method begins by guessing a number midway through the range of possible values, and performs a binary search by comparing the input voltage in the analog domain to the voltage produced by a digital-to-analog converter with the current guess as input. After a few iterations, the guesses will converge on the closest numeric representation to the specified input voltage. Alternatively, integrating ADCs are very slow but provide highly accurate readings, and sigma-delta ADCs are commonly used for applications requiring high bit depths at moderate sampling rates.
 
@@ -71,7 +71,7 @@ void initialize() {
 }
 ```
 
-If the sensor value must be corrected for a zero-rate offset \(a sensor like a [Gyro](../../vex-electronics/vex-sensors/gyroscope.md) or [Accelerometer](../../vex-electronics/vex-sensors/accelerometer.md)\), use `analogReadCalibrated()` with an `analogCalibrate()` in the initialize function. When doing so, _make sure that the robot is stable during power-on_.
+If the sensor value must be corrected for a zero-rate offset \(a sensor like a [Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) or [Accelerometer](../../vex-electronics/vex-sensors/3-pin-adi-sensors/accelerometer.md)\), use `analogReadCalibrated()` with an `analogCalibrate()` in the initialize function. When doing so, _make sure that the robot is stable during power-on_.
 
 #### Teams Contributed to this Article:
 

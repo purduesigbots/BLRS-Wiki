@@ -22,7 +22,7 @@ Since SPI is synchronous, it can transmit at very high rates, up to and exceedin
 
 ## Usage
 
-SPI is commonly used to connect multiple fast digital devices, such as digital [gyros](../../vex-electronics/vex-sensors/gyroscope.md) and [accelerometers](../../vex-electronics/vex-sensors/accelerometer.md), to a microcontroller. Since any digital [GPIO](gpio.md) pin can serve as a chip select, large groups of devices can be placed on the same SPI bus, as long as each device properly ignores data and does not try to transmit while it is not the selected device. At the same time, care must be taken with multi-device buses to avoid situations where more than one device is selected due to coding errors on the master code.
+SPI is commonly used to connect multiple fast digital devices, such as digital [gyros](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) and [accelerometers](../../vex-electronics/vex-sensors/3-pin-adi-sensors/accelerometer.md), to a microcontroller. Since any digital [GPIO](gpio.md) pin can serve as a chip select, large groups of devices can be placed on the same SPI bus, as long as each device properly ignores data and does not try to transmit while it is not the selected device. At the same time, care must be taken with multi-device buses to avoid situations where more than one device is selected due to coding errors on the master code.
 
 In reality, trying to use SPI at a clock speed of more than 4 MHz requires a very short, dedicated connection or a device known as a bus driver to avoid issues with [slew rate](slew-rate.md) which could garble the transmitted data.
 
