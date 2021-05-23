@@ -4,6 +4,10 @@ description: An ESD Protection board for the V5
 
 # V5 ESD Protection Board
 
+{% hint style="info" %}
+Note: The newest iteration of this board with the fixed mounting holes is now posted on this page. Do note that it is currently being tested and may not work.
+{% endhint %}
+
 This is an ESD protection board for the V5 Brain to help prevent dead ports or dead motors. **This solution is not competition legal but can be very easily removed before a competition.** This board sits in-between a port on the [brain](vex-electronics/vex-v5-brain/) and a [motor](vex-electronics/motors.md). Technical information about RS-485 Bus Protection can be seen here:
 
 {% file src="../.gitbook/assets/ti-iec-esd-rs-485-bus-protection.pdf" %}
