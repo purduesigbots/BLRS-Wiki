@@ -19,7 +19,7 @@ It has been observed that the V5 brain ports are extremely susceptible to ESD \(
 * Try to prevent metal shavings from getting into the brain ports.
 * Use anti-static tiles or anti-static spray if necessary at competitions.
 * Try to use pre-crimped vex wires if possible.
-* Use the[ V5 ESD Protection Board](../../v5-esd-protection-board.md)\*
+* Use the[ V5 ESD Protection Board](v5-esd-protection-board.md)\*
 
 Although this may not be a 100% fix for the issue, it can help prevent ports from dying according to VEX and others experiencing similar issues.
 
