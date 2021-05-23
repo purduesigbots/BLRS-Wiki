@@ -4,9 +4,9 @@ description: Welcome to the public BLRS wiki and knowledge base!
 
 # Welcome!
 
-## Here you'll find electronics, hardware, and software information that we've made public for the VRC, VEXU, and VEX AI Challenge, everything from [PID Control](software/control-algorithms/pid-controller.md), [Double Reverse Four Bars](hardware/lifts/dr4b.md), [VEX Electronics](vex-electronics/vex-electronics/) and much more.
+## Here you'll find electronics, hardware, and software information that we've made public for the VRC, VEXU, and VEX AI Challenge, everything from [PID Control](software/control-algorithms/pid-controller.md), [Double Reverse Four Bars](hardware/lifts/dr4b.md), [VEX Electronics](vex-electronics/vex-electronics/), [V5 ESD Protection](vex-electronics/v5-esd-protection-board.md), and much more!
 
-This wiki is built on the backs of many SIGBots alumni and [VEX's own documentation](https://kb.vex.com/hc/en-us) and we are grateful for their contributions to the VEX Community. We will keep this wiki up to date with new products and new knowledge as we head into the next 10 years of SIGBots History. New articles on the new VEX AI competition will also be added as we get closer to the launch of a new VEX Competition.
+This wiki is built on the backs of many SIGBots alumni, open source contributors, and [VEX's own documentation](https://kb.vex.com/hc/en-us) and we are grateful for their contributions to the VEX Community over the past 10 years. We will keep this wiki up to date with new products and new knowledge as we head into the next 10 years of SIGBots History. New articles on the new VEX AI competition will also be added as we get closer to the launch of a new VEX Competition.
 
 If you are interested in contributing to the wiki feel free to open a pull request on the [wiki's repo](https://github.com/purduesigbots/BLRS-Wiki). Simply click edit on github on any of the pages to see where in the repo that specific page is.
 

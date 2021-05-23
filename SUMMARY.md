@@ -24,10 +24,10 @@
 
 ## VEX Electronics
 
+* [V5 ESD Protection Board](vex-electronics/v5-esd-protection-board.md)
 * [VEX Electronics](vex-electronics/vex-electronics/README.md)
   * [VEX V5 Brain](vex-electronics/vex-electronics/vex-v5-brain/README.md)
     * [V5 Electronics Observations and Issues](vex-electronics/vex-electronics/vex-v5-brain/v5-electronics-observations.md)
-    * [V5 ESD Protection Board](vex-electronics/vex-electronics/vex-v5-brain/v5-esd-protection-board.md)
   * [VEX Controller](vex-electronics/vex-electronics/vex-joystick.md)
   * [VEXnet and V5 Robot Radio](vex-electronics/vex-electronics/vexnet.md)
   * [VEX Battery](vex-electronics/vex-electronics/vex-battery.md)

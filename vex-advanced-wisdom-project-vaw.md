@@ -4,7 +4,7 @@ After extensive discussion with many of the top tier VEXU programs, it became ob
 
 #### How are we achieving this goal?
 
-With this Wiki, we \(UMICH and BLRS\) seek to centralize the wealth of information between generations of robotics students in one location. Many of these articles have been passed down in the Purdue SIGBots internal wiki and have been updated for public usage. 
+With this Wiki, we seek to centralize the wealth of information between generations of robotics students in one location. Many of these articles have been passed down in the Purdue SIGBots internal wiki and have been updated for public usage. 
 
 By making this project open sourced, we can help expand this knowledgebase with diverse viewpoints and sources. For more information on how you can help, check out our [contributing guidelines page](contributing-guidelines.md).
 
@@ -12,5 +12,5 @@ The VEX community is one that is better together, we believe that the increased 
 
 **Thank you,**
 
-* VEXU Teams BLRS and MTBR
+* The SIGBots Wiki Development Team
 
