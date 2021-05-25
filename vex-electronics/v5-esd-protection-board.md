@@ -37,3 +37,5 @@ To download the board file, please visit the OSHPark page.
 
 Special thanks to Jess from team EZ for helping test out the V2 iteration of the boards.
 
+Original board design credit goes to Ritwik Pandey, a BLRS alumni.
+
