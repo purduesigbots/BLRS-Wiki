@@ -35,3 +35,5 @@ To download the board file, please visit the OSHPark page.
 
 * [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 
+Special thanks to Jess from team EZ for helping test out the V2 iteration of the boards.
+
