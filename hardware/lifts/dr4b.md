@@ -8,7 +8,7 @@ description: The mighty Double Reverse Four Bar.
 
 ![Double Reverse Four Bar from 118](../../.gitbook/assets/118.jpg)
 
-The double reverse four bar \(also referred to as DR4B or RD4B\) lift is one of the more complicated lift designs used in Vex Robotics competitions. The lift is comprised of two iterations of a four bar lift. One iteration is mounted in the same manner as for a standard four bar lift. The second iteration is mounted at the end of the ﬁrst iteration at the location where the intake or object manipulation mechanisms would normally be positioned. The second four bar lift faces the opposite direction as the ﬁrst iteration. This allows the overall lift to rise almost completely vertically as opposed to a single four bar lift that rises forward and up simultaneously. This can be an advantage or disadvantage depending on the desired task.
+The double reverse four bar \(also referred to as DR4B or RD4B\) lift is one of the more complicated lift designs used in VEX Robotics competitions. The lift is comprised of two iterations of a four bar lift. One iteration is mounted in the same manner as for a standard four bar lift. The second iteration is mounted at the end of the ﬁrst iteration at the location where the intake or object manipulation mechanisms would normally be positioned. The second four bar lift faces the opposite direction as the ﬁrst iteration. This allows the overall lift to rise almost completely vertically as opposed to a single four bar lift that rises forward and up simultaneously. This can be an advantage or disadvantage depending on the desired task.
 
 Double reverse four bar lifts keep the weight of a load centered over the base of the robot instead of lifting it up in front of the robot. To be more specific, the center of gravity of the robot goes slightly backwards before going forwards when lifting a load up. This helps prevent the robot from tipping over. The double reverse four bar lift has a signiﬁcant height advantage over a four bar lift without the lifting the load in front of the robot. The double reverse four bar lift design is much more complex than a four bar lift or a six bar lift and thus is more difficult and time consuming to build. Double reverse four bar lifts must be carefully constructed, coded, and maintained to ensure optimal functionality. They are more prone to breaking parts and motors than other lift designs.
 
@@ -63,11 +63,13 @@ These terms are fairly arbitrary and are just to group together similar designs.
 
 **Heavyweight**
 
-![&quot;Big Mac&quot; AURA \(Skyrise 2014\)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
+![&quot;Big Mac&quot; \(AURA Skyrise 2014\)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
 
-![&quot;Big Chungus&quot; BLRS \(Tower Takeover 2019\)](../../.gitbook/assets/image%20%2833%29.png)
+![&quot;Big Chungus&quot; \(BLRS Tower Takeover 2019\)](../../.gitbook/assets/image%20%2833%29.png)
 
-This weight class is typically only found in Vex U because of size and motor restrictions. But nonetheless highlights important design considerations to make an All Rounded lift more sturdy and stable.
+![&quot;Big Chungus&quot; Expanded \(BLRS Tower Takeover 2019\)](../../.gitbook/assets/cjr_0286.jpg)
+
+This weight class is typically only found in VEXU because of size and motor restrictions. But nonetheless highlights important design considerations to make an all rounded lift more sturdy and stable. It should also be noted that its ability to be used as a 24" robot as a relatively wide lift allows for more cross bracing between the two sides of the lift \(as shown in the "Big Chungus" pictures\), or potentially another subsystem if the team plans accordingly.
 
 Characteristics:
 
