@@ -21,6 +21,7 @@
   * [Catapult](hardware/shooting-mechanisms/catapult.md)
   * [Flywheel](hardware/shooting-mechanisms/flywheel.md)
   * [Linear Puncher](hardware/shooting-mechanisms/linear-puncher.md)
+* [Embed CADs in Wiki Articles](hardware/embed-cads-in-wiki-articles.md)
 
 ## VEX Electronics
 
