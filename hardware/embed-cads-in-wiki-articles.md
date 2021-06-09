@@ -1,5 +1,5 @@
 ---
-description: (A Step to Step Guide)
+description: A Step to Step Guide!
 ---
 
 # Embed CADs in Wiki Articles
