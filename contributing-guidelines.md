@@ -1,10 +1,18 @@
 # Contributing Guidelines
 
+## PDF or Word Document Submissions
+
+The Purdue SIGBots Wiki provides access for contributors without the ability to create markdown documents with this [google form](https://forms.gle/La5r4CVCzxH2wnb67). Please note that this does not guarantee that your article will be accepted, and we may make revisions to the original article for different reasons. All contributing guidelines still apply. All content submitted through this form will be considered SIGBots Wiki property, but we will try to attribute teams for their work.
+
+**Direct Link:** [https://forms.gle/La5r4CVCzxH2wnb67](https://forms.gle/La5r4CVCzxH2wnb67)
+
+## Github Markdown Submissions
+
 The Purdue SIGBots Wiki uses Github integration for contributing, moderation, and general version control. It uses Github markdown for formatted text in our articles, and a guide for this can be found [here.](https://guides.github.com/features/mastering-markdown/) More on using Github for version control[ here](software/general/version-control.md).
 
 If you are looking to contribute and don't know where to start, a good place to look is the projects and issues section on our github page!
 
-### Making Modifications:
+### Making Modifications \(Advanced\):
 
 To make a modification to an article or create a new article, submit a **pull request \(PR\)** on our github page which can be found [here](https://github.com/purduesigbots/BLRS-Wiki/).
 
