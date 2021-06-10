@@ -8,8 +8,9 @@
 
 * [VEX Drivetrains](hardware/vex-drivetrains.md)
 * [VEX Joints](hardware/vex-joints.md)
-* [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
+* [Pneumatics](hardware/pneumatics.md)
 * [Intakes](hardware/intakes.md)
+* [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar \(DR4B or RD4B\)](hardware/lifts/dr4b.md)
