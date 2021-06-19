@@ -1,6 +1,6 @@
 # Rotation Sensor
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![Rotation Sensor](../../../.gitbook/assets/image%20%2850%29.png)
 
 ### Functionality
 
