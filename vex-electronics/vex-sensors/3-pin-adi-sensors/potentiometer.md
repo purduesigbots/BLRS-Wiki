@@ -6,7 +6,7 @@ description: The VEX Potentiometer helps track the rotations of shafts
 
 ![](https://phabricator.purduesigbots.com/file/data/ftan5koigk6lnucqdhx7/PHID-FILE-k3c33rkyjx5xmpmwbgiq/vex_potentiometer.jpg)
 
-The [**VEX Potentiometer**](https://www.vexrobotics.com/276-2216.html) **\*\*is a simple analog sensor which returns a voltage between 0 and +5 V linearly proportional to its angular offset from one side. Its range of measurement can vary from 240 to 280 degrees; the unit** must\*\* be protected against external stresses past its limits to prevent breaking the device.
+The [**VEX Potentiometer**](https://www.vexrobotics.com/276-2216.html) is a simple analog sensor which returns a voltage between 0 and +5 V linearly proportional to its angular offset from one side. Its range of measurement can vary from 240 to 280 degrees; the unit must be protected against external stresses past its limits to prevent breaking the device.
 
 ## Installation
 
