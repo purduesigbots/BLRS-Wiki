@@ -29,7 +29,7 @@ Finite state machines have a large but countable number of discrete states in wh
 
 ### VEX Gateway
 
-A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](../vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](https://phabricator.purduesigbots.com/w/pid_controller/) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
+A somewhat primitive 10-state machine was implemented in Honey Badger and Coby for VEX Gateway, controlled by software flow. In the dark days of [Easyc](../vex-programming-software/easyc.md), the state machine suffered from the shortcomings of the [VEX Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) and the lack of multi-tasking. Therefore, even simple commands such as delay had to be implemented as states, to allow the [PID controller](../control-algorithms/pid-controller.md) to continue to run cooperatively with the main program. Such a configuration, along with smart division into functions, allowed one programmer to write four autonomous scripts in under two hours of coding.
 
 ### VEX Sack Attack
 

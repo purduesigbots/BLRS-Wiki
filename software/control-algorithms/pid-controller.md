@@ -37,7 +37,7 @@ Generally speaking, you want to first tune proportion \(P\), then derivative \(D
 
 ## Example:
 
-Check out this Vex Forum thread for generalized PID code made in RobotC: [https://www.vexforum.com/t/a-pid-controller-in-robotc/20105](https://www.vexforum.com/t/a-pid-controller-in-robotc/20105)
+Check out this [VEX Forum thread](https://www.vexforum.com/t/a-pid-controller-in-robotc/20105) for generalized PID code made in RobotC.
 
 ## Refinements
 

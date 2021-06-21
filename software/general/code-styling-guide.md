@@ -99,8 +99,6 @@ Also, note that this brace-placement also minimizes the number of empty \(or alm
 
 Do not unnecessarily use braces where a single statement will do.
 
-and
-
 ```c
 if (condition)
         do_this();
