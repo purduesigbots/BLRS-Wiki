@@ -6,9 +6,7 @@ description: >-
 
 # VEX Joints
 
-This video from team BNS highlights the main joints used in Vex:
-
-[![VEX Joints](http://img.youtube.com/vi/rhfNeMwAKnI/0.jpg)](https://www.youtube.com/watch?v=rhfNeMwAKnI)
+{% embed url="https://www.youtube.com/watch?v=rhfNeMwAKnI" caption="This video from team BNS highlights the main joints used in VEX" %}
 
 These are the four most common types of Vex Joints:
 

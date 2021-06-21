@@ -8,7 +8,7 @@ description: >-
 
 This video highlights several drivetrains commonly used in Vex:
 
-![VEX Drivetrains](http://img.youtube.com/vi/VfuA2EqaIso/0.jpg)
+{% embed url="https://www.youtube.com/watch?v=VfuA2EqaIso" caption="VEX Drivetrains" %}
 
 In addition, [this article by Vex](https://kb.vex.com/hc/en-us/articles/360035952771-How-to-Select-a-Drivetrain) goes into great detail about the nuances of each drive as well as how to select one.
 
