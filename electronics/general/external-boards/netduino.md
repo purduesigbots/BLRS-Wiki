@@ -7,31 +7,19 @@ description: >-
 
 # Netduino
 
-{% hint style="danger" %}
-The Netduino has reached end of life and is no longer sold or supported. The Netduino has been superseded by the [Meadow](meadow.md).
-{% endhint %}
+## Operation
 
-![](https://phabricator.purduesigbots.com/file/data/a3rlibpxcczl67zkkf4a/PHID-FILE-ekxjc5b35w25n4i5apdy/processor_netduino.jpg)
+![ RS-232 ports on a computer use the same protocol as a UART with only voltage differences](https://phabricator.purduesigbots.com/file/data/luq7cf5gw4qtsazvpmnj/PHID-FILE-a74hi2uen6tvtl6piwrx/uart_serial_port.jpg)
 
-## Features
+Logic-level serial protocols usually use a high voltage as a "space" signal and a low voltage as a "mark" signal \(known as _non-inverted mode_\). If a protocol uses the opposite, it is known as _inverted mode_.
 
-The **Netduino** features the same footprint as the [Arduino](arduino.md) platform, so many existing "[shields](http://www.shieldlist.org/)" providing prepackaged functionality are readily available. However, it provides a [32-bit platform](https://www.wildernesslabs.co/Netduino) which outperforms the Arduino in object-oriented programs and mathematical processing. Additional features include:
+Serial communication proceeds in much the same way as in a standard RS-232 port. The most common settings are 8 data bits, no parity bit, and one stop bit, with no flow control. Available baud rates tend to remain the same as conventional serial ports, but can go much faster, as much as 2 Mbaud for some microcontrollers.
 
-* Fast and easy development and testing
-* Object-oriented programming language
-* Built-in debugger
-* [5\_volt\_tolerance](../5-volt-tolerant.md) and moderate [Output Drive](../output-drive.md) allow it to be used with realistic configurations of sensors
-* [Active community](http://forums.netduino.com/) and manufacturer support
+## Applications
 
-## Shortcomings
+UARTs are cheap to implement and easy to use; most advanced microcontrollers such as the [LeafLabs Maple](leaflabs-maple.md) and [Netduino](netduino.md) come with more than one. Serial communication through a UART is usually the easiest way to pass debugging messages to a PC. Many microcontrollers also accept programming downloads through a UART connection. Almost every microcontroller supports at least one UART, making it a quick and universal way to communicate. However, UARTs are very slow and vulnerable to noise compared to protocols such as [SPI](../spi.md).
 
-* .NET Micro Framework's overhead leads to[ poor interrupt response](https://www.sparkfun.com/products/retired/10107).
-* [Cannot rapidly poll or update its GPIOs](http://forums.netduino.com/index.php/topic/1440-gpio-speed-mhz)
-* Internal processes like garbage collection interfere with timing, leading to software [Jitter](../jitter.md)
-
-## History
-
-The Netduino was first tested in VEX Gateway to read [SPI](../spi.md) and [I2C](../i2c.md) data from an Optical Mouse Sensor. However, it did not perform very well in these duties due to the slow response times of the .NET Micro Framework.
+Due to the lack of RS-232 ports on modern computers \(which can be connected to a UART using only a voltage level translator\), most computers must use a USB to UART converter such as [\(ref\)](http://www.sparkfun.com/products/9716) to connect to a logic-level UART on a microcontroller.
 
 ### Teams Contributed to this Article:
 

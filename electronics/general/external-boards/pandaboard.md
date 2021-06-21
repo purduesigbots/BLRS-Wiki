@@ -18,18 +18,18 @@ description: >-
 | **Power:** 5 W |
 | **Flash:** SD/MMC Card |
 | **RAM:** 1024 MB |
-| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/5_volt_tolerant/README.md)_\)_ |
+| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_\)_ |
 | **Peripherals:** USB On-The-Go, 2x USB 2.0, 2x HDMI, 3.5mm audio out, [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/uart/README.md), JTAG debug |
 
-The Pandaboard is a community supported development platform [\(ref\)](http://omappedia.org/wiki/PandaBoard) and is available for a somewhat subsidized [\(ref\)](http://omappedia.org/wiki/PandaBoard_FAQ#Is_TI_subsidizing_the_PandaBoard.3F) cost of $174. A newer version, the PandaBoard ES [\(ref\)](http://pandaboard.org/content/pandaboard-es), has been available for $182 since November 16, 2011 with the CPU and GPU on the OMAP4460 platform running at higher clock rates.
+The Pandaboard is a community supported development platform and is available for a somewhat subsidized cost of $174. A newer version, the PandaBoard ES, has been available for $182 since November 16, 2011 with the CPU and GPU on the OMAP4460 platform running at higher clock rates.
 
 ## Features
 
 [![](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard_ports.png)](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard_ports.png)
 
-The PandaBoard measures about 100 x 110 mm [\(ref\)](http://pandaboard.org/content/platform) and features a dual-core 1 GHz CPU, a dedicated GPU, a DSP for audio and video processing, and 1 GB of RAM. It lacks a hard drive or solid-state drive, starting an operating system and primarily running from an SD/MMC card.
+The PandaBoard measures about 100 x 110 mm and features a dual-core 1 GHz CPU, a dedicated GPU, a DSP for audio and video processing, and 1 GB of RAM. It lacks a hard drive or solid-state drive, starting an operating system and primarily running from an SD/MMC card.
 
-The board includes wired Ethernet as well as WiFi and Bluetooth connectivity. The board can output video signals via the two HDMI interfaces [\(ref\)](http://pandaboard.org/sites/default/files/board_reference/EA1/Panda_Board_Spec_REVEA1_04.pdf), and can also take input signals from one of the ports. It has two USB host ports and one USB On-The-Go port, supporting USB 2.0. Android and Ubuntu [\(ref\)](http://omappedia.org/wiki/Ubuntu_Pre-built_Binaries_Guide) will operate on the board, without many of the [BeagleBoard](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/beagleboard/README.md)'s unusual driver issues.
+The board includes wired Ethernet as well as WiFi and Bluetooth connectivity. The board can output video signals via the two HDMI interfaces, and can also take input signals from one of the ports. It has two USB host ports and one USB On-The-Go port, supporting USB 2.0. Android and Ubuntu will operate on the board, without many of the [BeagleBoard's](beagleboard.md) unusual driver issues.
 
 The GPIO connectors follow the standard Linux format, where one can export pins to userspace via the file system in /sys and control them using any programming language.
 
@@ -39,11 +39,11 @@ The GPIO connectors follow the standard Linux format, where one can export pins 
 
 The **PandaBoard** in its protective shell as seen on Honey Badger
 
-With the PandaBoard's low [Power Consumption](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/power_consumption/README.md) and high performance, algorithms such as [Opencv](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/opencv/README.md) and [AMS](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/ams/README.md) can be run at productive frame rates. The dual-core architecture lends itself better to performing multiple tasks than the BeagleBoard, even though the board is a bit larger. For [Object Recognition](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/cs/object_recognition/README.md), it was used on [Honey Badger](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/past_robots/honeybadger/README.md) and [Coby](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/past_robots/coby/README.md) during VEX Gateway.
+With the PandaBoard's low [Power Consumption](../power-consumption.md) and high performance, algorithms such as [OpenCV](../../../software/object-recognition/opencv.md) and [AMS](../../../software/object-recognition/ams.md) can be run at productive frame rates. The dual-core architecture lends itself better to performing multiple tasks than the BeagleBoard, even though the board is a bit larger. For [Object Recognition](../../../software/object-recognition/), it was used on Honey Badger and Coby \(BLRS bots\) during VEX Gateway.
 
-The PandaBoard returned in VEX Sack Attack on [Artemis](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/past_robots/artemis/README.md) as the frontend for another object recognition algorithm. As the dark green sacks were difficult to distinguish from the environment, the PandaBoard was assigned to hunt opposing teams' robots using their colored VEX flags. Acrylic cases with built-in cooling fans were installed to prevent CPU clocks from throttling due to excessive heat dissipation.
+The PandaBoard returned in VEX Sack Attack on Artemis as the frontend for another object recognition algorithm. As the dark green sacks were difficult to distinguish from the environment, the PandaBoard was assigned to hunt opposing teams' robots using their colored VEX flags. Acrylic cases with built-in cooling fans were installed to prevent CPU clocks from throttling due to excessive heat dissipation.
 
-However, [ODROID-XU](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/odroid/README.md). The PandaBoard has gained a second life for [testing](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/behind_the_scenes/README.md) and as a new version of the Lab Status Monitor.
+However, [ODROID-XU](odroid-xu.md). The PandaBoard has gained a second life for testing and as a new version of the Lab Status Monitor.
 
 ### Teams Contributed to this Article:
 

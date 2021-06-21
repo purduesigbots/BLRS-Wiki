@@ -8,7 +8,7 @@ description: >-
 
 This video highlights several drivetrains commonly used in Vex:
 
-[![VEX Drivetrains](http://img.youtube.com/vi/VfuA2EqaIso/0.jpg)](https://www.youtube.com/watch?v=VfuA2EqaIso)
+![VEX Drivetrains](http://img.youtube.com/vi/VfuA2EqaIso/0.jpg)
 
 In addition, [this article by Vex](https://kb.vex.com/hc/en-us/articles/360035952771-How-to-Select-a-Drivetrain) goes into great detail about the nuances of each drive as well as how to select one.
 
@@ -37,7 +37,7 @@ The reasoning behind and process of making locked omni wheels is explained in [t
 
 This type of drive was utilized by [240P's Early Season Turning Point Robot](https://www.youtube.com/watch?v=06cEBmGx7Fo) and by [8059's Turning Point Robot\(s\)](https://www.youtube.com/watch?v=NX6mLf8iO34). The locked omni drive was common in Vex Turning Point because of the defensive nature of the game.
 
-An alternative to locked omni wheels which is becoming more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alterative for those who don't wish to lock their omni wheels.
+An alternative to locked omni wheels which is becoming more prevalent is wrapping a Vex traction tire around a 30-tooth sprocket as shown in [7700R's Tower Takeover Robot Explanation](https://youtu.be/1mLc1jOCxck?t=324). This diameter of this assembly is very close to the diameter of a 4" Vex omni wheel, making it a viable alternative for those who don't wish to lock their omni wheels.
 
 ## Mecanum Drive
 
