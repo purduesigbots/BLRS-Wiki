@@ -41,7 +41,6 @@ Below is VCAT Robotic’s nothing but net early season 15” VexU robot. It is o
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 * [91A](https://www.vexmen.com/about/) VEX-Men
 
 

@@ -73,5 +73,7 @@ Some modifications that could be done to the linear puncher include adding a rat
   </tbody>
 </table>
 
+### Teams Contributed to this Article:
 
+* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
 
