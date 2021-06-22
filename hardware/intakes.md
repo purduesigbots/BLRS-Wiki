@@ -4,6 +4,10 @@ description: 'Tips on building a good intake, regardless of the game.'
 
 # Intakes
 
+{% hint style="warning" %}
+Note: This page is still a Work In Progress. Feel free to contribute by opening up a pull request!
+{% endhint %}
+
 It's difficult to generalize intake design principles, since the majority of the intake's design will be largely dependent on the game objects for the year. There are, however, two general principles that tend to identify the best intakes - the intake must be the fastest subsystem on the robot, and the intake must allow the driver a lot of room for error.
 
 ## Fast Intakes
