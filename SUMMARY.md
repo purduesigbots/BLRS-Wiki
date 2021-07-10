@@ -6,11 +6,6 @@
 
 ## Hardware
 
-* [VEX Drivetrains](hardware/vex-drivetrains.md)
-* [VEX Joints](hardware/vex-joints.md)
-* [Pneumatics](hardware/pneumatics.md)
-* [Intakes](hardware/intakes.md)
-* [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar \(DR4B or RD4B\)](hardware/lifts/dr4b.md)
@@ -22,6 +17,12 @@
   * [Catapult](hardware/shooting-mechanisms/catapult.md)
   * [Flywheel](hardware/shooting-mechanisms/flywheel.md)
   * [Linear Puncher](hardware/shooting-mechanisms/linear-puncher.md)
+* [VEX CAD](hardware/vex-cad.md)
+* [VEX Drivetrains](hardware/vex-drivetrains.md)
+* [VEX Joints](hardware/vex-joints.md)
+* [Pneumatics](hardware/pneumatics.md)
+* [Intakes](hardware/intakes.md)
+* [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Embed CADs in Wiki Articles](hardware/embed-cads-in-wiki-articles.md)
 
 ## Software
