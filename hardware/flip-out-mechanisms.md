@@ -16,7 +16,7 @@ One example of several flip-out mechanisms being utilized on one robot was [9793
 
 Another successful flip-out mechanism was the [2019 Ri3D team's intake flipout](https://youtu.be/BC4ZlIcBB7I?t=145). It utilized a standoff to hold in the intakes until the lift was raised. Then, the intakes flipped out and locked with another standoff.
 
-![2019 NorCal RI3D Intake Flipout](../.gitbook/assets/bens-intake-flipout.png)
+![2019 SoCal RI3D Intake Flipout](../.gitbook/assets/bens-intake-flipout.png)
 
 This mechanism was not a "flip-out" mechanism in the conventional way, but [Antichamber's Modular Cone Launcher](https://www.youtube.com/watch?v=zHS9VIAxNNM) was certainly interesting. In Vex In the Zone, several teams utilized their preload by launching it across the field to block another teams autonomous function. This was one particular mechanism for doing so.
 
