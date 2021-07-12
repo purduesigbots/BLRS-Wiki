@@ -8,29 +8,34 @@ description: One Punch Bot
 
 ![](../../.gitbook/assets/puncherfinal.png)
 
-In games where shooting game elements is a scoring method, linear punchers are an effective method of shooting a ball in a fairly consistent, near-linear path. The name of the mechanism comes from it's linear actuation and the forceful impact on the ball that sends it flying.
+Linear punchers are one of the simplest, yet most effective ball launching mechanisms. The name of the mechanism comes from it's linear actuation and the forceful impact on the ball that sends it flying.
 
 A couple of things to note about the design:
 
 * The shooting is powered by rubber bands \(not shown, but connected from the standoff on the back of the rack c-channel to the front of the assembly\)
 * The puncher is drawn as the rack and pinion set moves the rack away from the ball, and then when the shaved section of the pinion gear reaches the rack, the rack is released and shoots forward
-* The rack shown in the photo is stopped from exiting the assembly by the horizontal bolts with black spacers. This will cause metal fatigue over time, and is not recommended. Instead, use nylon rope tied between the rack and the bottom of the assembly. 
+* The rack shown in the photo is stopped from exiting the assembly by the horizontal bolts with black spacers.
 
 ### Applications
 
-Linear punchers are used most commonly when needing to launch an object \(normally a ball\), a far distance. In the past, they were used in Turning Point \(2018-19\) and in Nothing But Net \(2015-16\) where teams needed to launch balls \(relatively small\) across the field. In the case of Turning Point, they were often used because they could be used in different points on the field with angle changing mechanisms. They were also preferred in Turning Point because they give the ball extra force forwards, as opposed to a flywheel where some energy is lost in the spinning rotation of a ball after being fired.
+Linear punchers are used most commonly when needing to launch an object \(normally a ball\), a far distance. In the past, they were used in Turning Point \(2018-19\) and in Nothing But Net \(2015-16\) where teams needed to launch balls \(relatively small\) across the field. In the case of Turning Point, they were often used because they could be used in different points on the field with angle changing mechanisms.
 
 {% embed url="https://photos.google.com/share/AF1QipN0jwXxqNDwy9DtWGPXFATiUTebUFokOV658dnWOwOKR-J0c7-7DHp815LCPTjkWQ/photo/AF1QipNpkMSh71V1Yi9dSR8vwux6wDhbCc7jXBd3B6dF?key=aDBraUhjZmJoZnRRTmNCbTRCZkFmS2pCeUhvOVFB" caption="Linear Puncher Firing Demonstration \(Courtesy of 574C\)" %}
 
 ### Construction
 
-There are multiple methods in creating a linear puncher. One such method consists of a gear that has some of its teeth shaven down, with a rack placed underneath the shaven gear \(Rack and Pinion idea\). This gear with its shaven teeth is then connected to an axle that is then powered by a motor. This, in turn, would allow the rack \(the puncher part of the launcher\) to be drawn back and then released with the tensions of the rubber bands. These rubber bands that are used to power the launcher when released utilizes standoffs that are attached to the back of the linear puncher, with the rubber banding stretching across towards the front of the linear puncher. 
+There is no single best method for creating a puncher. Different game objects require different mechanisms, but there are a number of best practices.
 
-![Shaved Gear Connected to Rack \(Courtesy of Team 574C\)](../../.gitbook/assets/image%20%2856%29.png)
+* Use a short linear slide length. Longer slides have more power, but suffer from high friction. Shorter lengths have less friction, higher consistency, and will increase the lifespan of the rubber bands.
+* Make sure the rubber bands are parallel with the linear slide. If the rubber bands pull the slide up or down, it will add friction and reduce exit velocity of the ball significantly.
+* The slide should have a loose fit in the slide trucks. This can be achieved by filing the slide trucks down. The extra slop is negligible on performance, and the reduction in friction is massive.
+* Utilize some form of lubrication to reduce friction even further. Common choices for lubricants are white lithium grease or graphite
+
+{% embed url="https://www.youtube.com/watch?v=RXhJdks78ec" caption="A simple puncher design for Turning Point \(2018-19\)" %}
 
 ### Modifications
 
-Some modifications that could be done to the linear puncher include adding a ratchet system that would allow the puncher to stay in place when pulled back. This would be good in scenarios that would require you to quickly launch the object, rather than having to pull back the puncher before firing. Another modification that could be done to the linear puncher is including an angle adjuster to modify the trajectory of the robot. This can be integrated with other sensors such as the [vision sensor](../../vex-electronics/vex-sensors/smart-port-sensors/vision-sensor.md) to create automatic or assisted aiming for the driver. Below are examples of the angle adjust and ratchet system:
+Some modifications that could be done to the linear puncher include adding a ratchet system that would allow the puncher to stay in place when pulled back. This would be good in scenarios that would require you to quickly launch the object, rather than having to pull back the puncher before firing. Another modification that could be done to the linear puncher is including an angle adjuster to modify the trajectory of the shot. This can be integrated with other sensors such as the [vision sensor](../../vex-electronics/vex-sensors/smart-port-sensors/vision-sensor.md) to create automatic or assisted aiming for the driver. Below are examples of the angle adjust and ratchet system:
 
 ![Close Up of Puncher Ratchet \(Courtesy of 574C\)](../../.gitbook/assets/image%20%2853%29.png)
 
@@ -51,22 +56,19 @@ Some modifications that could be done to the linear puncher include adding a rat
     <tr>
       <td style="text-align:left">
         <ul>
-          <li>Relatively straight trajectory with no spin on ball, leading to higher
-            velocity per shot.</li>
           <li>Relatively compact compared to other launchers.</li>
-          <li>A straighter trajectory also means more consistent shooting.</li>
-          <li>A design without an angle changer may only require one motor.</li>
+          <li>Easy to build.</li>
+          <li>Loses no energy to spin.</li>
+          <li>Less violent firing action than a catapult.</li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Shaving a gear down may be hard to do for beginners or too costly for
             teams that are short on parts.</li>
-          <li>The firing action of a linear puncher is very violent.</li>
-          <li>Due to the violent nature of the linear puncher, build quality and maintenance
-            are key to peak performance.</li>
-          <li>May have a slower fire-rate or less capacity per shot compared to a catapult
-            or flywheel.</li>
+          <li>Lots of wear and tear on the back stop over time.</li>
+          <li>Slower fire-rate than a flywheel.</li>
+          <li>Can only shoot one ball at a time, unlike a catapult.</li>
         </ul>
       </td>
     </tr>
