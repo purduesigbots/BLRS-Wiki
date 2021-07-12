@@ -59,7 +59,7 @@ Some modifications that could be done to the linear puncher include adding a rat
           <li>Relatively compact compared to other launchers.</li>
           <li>Easy to build.</li>
           <li>Loses no energy to spin.</li>
-          <li>Less violent firing action than a catapult.</li>
+          <li>Less violent firing action than a <a href="https://app.gitbook.com/@blrs/s/blrs-wiki/~/drafts/-MeQQTCKOL9hLb2sTils/hardware/shooting-mechanisms/catapult">catapult</a>.</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -67,8 +67,8 @@ Some modifications that could be done to the linear puncher include adding a rat
           <li>Shaving a gear down may be hard to do for beginners or too costly for
             teams that are short on parts.</li>
           <li>Lots of wear and tear on the back stop over time.</li>
-          <li>Slower fire-rate than a flywheel.</li>
-          <li>Can only shoot one ball at a time, unlike a catapult.</li>
+          <li>Slower fire-rate than a <a href="https://app.gitbook.com/@blrs/s/blrs-wiki/hardware/shooting-mechanisms/flywheel">flywheel</a>.</li>
+          <li>Can only shoot one ball at a time, unlike a <a href="https://app.gitbook.com/@blrs/s/blrs-wiki/~/drafts/-MeQQTCKOL9hLb2sTils/hardware/shooting-mechanisms/catapult">catapult</a>.</li>
         </ul>
       </td>
     </tr>
