@@ -6,11 +6,15 @@ description: >-
 
 # VEX Drivetrains
 
-This video highlights several drivetrains commonly used in Vex:
+This video highlights several drivetrains commonly used in VEX:
 
 {% embed url="https://www.youtube.com/watch?v=VfuA2EqaIso" caption="VEX Drivetrains" %}
 
-In addition, [this article by Vex](https://kb.vex.com/hc/en-us/articles/360035952771-How-to-Select-a-Drivetrain) goes into great detail about the nuances of each drive as well as how to select one.
+This video highlights performance difference between several drive trains commonly used in VEX:
+
+{% embed url="https://www.youtube.com/watch?v=Py14YTHCth0" caption="VEX Drivetrain Performance Comparisons \(Courtesy of Team 12401A\)" %}
+
+In addition, [this article by VEX](https://kb.vex.com/hc/en-us/articles/360035952771-How-to-Select-a-Drivetrain) goes into great detail about the nuances of each drive as well as how to select one.
 
 These are the four most common types of Vex Drivetrains:
 
@@ -99,4 +103,5 @@ There are 4 main components to designing and building a quality drive:
 ### Contributing Teams to this Article:
 
 * [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) \(Jackson Area Robotics\)
+* [12401A](https://www.youtube.com/channel/UCAzzKKNSyt7bmP-ZqxP5Ygw) 
 
