@@ -1,24 +1,18 @@
 # Kalman Filter
 
-reference: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+A Kalman Filter is a filtering algorithm that tries to estimate values based on measurements and pre-determined models. This can be applied in VEX Robotics to reduce noise in different sensor measurements, such as a noisy [ultrasonic rangefinder](../../vex-electronics/vex-sensors/3-pin-adi-sensors/ultrasonic.md) measurement or when averaging values obtained from multiple sensors.
 
-## Definition
-
-A Kalman Filter is a filtering algorithm that tries to estimate values based on measurements and pre-determined models. This can be applied in VEX Robotics to reduce noise in different sensor measurements, such as a noisy [ultrasonic rangefinder](../../vex-electronics/vex-sensors/3-pin-adi-sensors/ultrasonic.md) measurement or a noisy trend in an average value obtained from multiple sensors.
+Note: the code snippets in this article are written as python-like pseudocode. The snippets aren't written to be copied into your code directly.
 
 ## Concept
 
-Robot is being commanded to drive forward at 100rpm (1256 in per min with 4" wheels). Measure position with encoders
+Let's consider a robot that is being commanded to drive forward at 100rpm (21 in per sec with 4" wheels). We measure its position with encoders. We expect that the robot will be 21 inches from its previous measurement after a second. But our encoders measure 19.5 inches from the previous measurement. This could be from wheel slip or missed encoder ticks, or imperfect calculations of the wheel diameter. We can't say for sure that our calculated expectation of 21 inches was accurate either though; factors like wheel slip, friction, and dropping battery voltage could make this incorrect too. What is the true distance?
 
-We expect that the robot will be x feet from its previous measurement after y seconds. But our encoders measure z feet from the previous measurement. This could be from wheel slip or missed encoder ticks, or imperfect calculations of the wheel diameter. What is the true distance?
+Intuitively, the true distance is some combination of our predicted distance and the measured distance. A reasonable guess would be that our true distance is between the prediction and measurement, like the average. The average would be a safe guess but is not _that_ much better of an estimate than we had before. We want a method for determining how reliable each of these values is -- should we trust our calculations or the encoder measurements more?
 
-Adding additional sensors gives us additional data points to limit the range of real values. Originally value had to be between expectation and encoders, now it can be between expectation, encoders, and ultrasonics
+Adding additional sensors gives us additional data points to point to the true distance. Originally the value had to be between the expectation and encoder measurement, now it has to be between expectation, encoders, and ultrasonics, for instance. This additional constraint gives us a more accurate estimate _and_ additional confidence that our guess is correct.
 
-Next part of jupyter notebook uses multiple steps to show the effect of the prediction and then talks about calculating an estimate from the previous measurements. Here we would use our previous computed velocity as the prediction instead of 1256 inpermin. G-H filter part uses a constant to modify the expectation gradually rather than replacing it, so our new prediction would be 2/3 \* old velocity (1256) + 1/3 \_ new velocity (calculated).
-
-Detail the steps thus far, in jupyter notebook
-
-Exercise: right generic function to compute a new value given a measurement, past prediction, and past filtered val
+A Kalman Filter's simpler, but less accurate cousin, the **G-H Filter**, uses a single gain value to represent our trust in our prediction compared to the measurements. Averaging the two could be represented as a gain of 0.5 -- the prediction and measurement each make up half of our guess. We can increase this gain if we think the measurements are more reliable than our calculated prediction, weighting the average toward our better input. The gain can similarly be decreased if we are working with bad sensors.
 
 ### Bayesian statistics
 
@@ -58,7 +52,7 @@ def updateBayesian():
   var = (var * sensor_var) / (var + sensor_var) # var
 
 def updateTraditional():
-  x, P = prevState
+ x, P = prevState
   z, R = measurement
 
   y = z - x # residual
@@ -135,6 +129,97 @@ def update():
 `K` is the Kalman Gain.
 `I` is the identity matrix, which consists of 1s in the diagonal of the matrix.
 
+## Designing the filter
+
+### Choosing State Variables
+
+- We for sure want the state that we're going to use elsewhere in the app, like `[x, y, theta]` for a robot's odometry
+- We then want each derivative for these variables until we get to a value we know will be constant. For instance, a robot that is limited to a constant acceleration would track the position, velocity, and acceleration for each dimension.
+
+### Design the State Transition Function
+
+This is often called `F`. We want to use kinematic equations from physics to show how the next state is affected by the previous state's values.
+
+In the example of a robot's odometry, we know that in each dimension, position is a factor of the following equation:
+
+$$x = x_{prev} + v * \Delta t + a * 0.5 * (\Delta t)^2$$
+
+And velocity is a factor of the following equation:
+
+$$v = v_{prev} + a * \Delta t$$
+
+We can use these equations, and the knowledge that acceleration is constant, to write the following transition matrix for one dimension:
+
+$$
+\begin{bmatrix}
+1 & \Delta t & 0.5 * (\Delta t)^2\\
+0 & 1        & \Delta t\\
+0 & 0        & 1
+\end{bmatrix}
+$$
+
+This matrix can be replicated across the diagonal for each dimension.
+
+### Design the Process Noise Matrix
+
+The Process Noise Matrix (`Q`) sets the variance for how much we think the model changes between steps. This should usually start out as a small value like `0.001` but will need to be tuned for the system once the filter is operational.
+
+If we assume that there is no covariance between dimensions, as is typically the case with examples like our odometry here, the Q matrix will contain a diagonal submatrix for each dimension like the following 2d example:
+
+$$
+Q = \begin{bmatrix}
+0     & 0.001 & 0     & 0 \\
+0.001 & 0.001 & 0     & 0 \\
+0     & 0     & 0     & 0.001 \\
+0     & 0     & 0.001 & 0.001
+\end{bmatrix}
+$$
+
+Adding a third dimension, like heading, would add another matrix of the shape
+
+$$
+\begin{bmatrix}
+0     & 0.001 \\
+0.001 & 0.001
+\end{bmatrix}
+$$
+
+To the bottom right corner of our previous matrix.
+
+### Design the Measurement Function
+
+The Measurement Function (`H`) is a matrix of size `m x n` where m is the number of state variables and n is the number of measurement variables. We use this function to convert a _state_ variable to a _measurement_ variable. This usually involves trigonometry to go from a state like heading to a measurement like a difference in encoder ticks between tracking wheels or a simple conversion of units from, for example, feet to meters.
+
+### Design the Measurement Noise Matrix
+
+The Measurement Noise Matrix (`R`) defines the variance in our measurements. This matrix will be of size `n x n` where n is the number of measurement variables. The matrix is of the form:
+
+$$
+R = \begin{bmatrix}
+\sigma_x^2        & \sigma_x \sigma_y \\
+\sigma_x \sigma_y & \sigma_y^2
+\end{bmatrix}
+$$
+
+If we have no covariance between measurements, which is often the case with our robotics measurements, the above matrix will be a diagonal matrix ($\sigma_x \sigma_y$ will be zero).
+
+### Set Initial Conditions
+
+The initial state (`x0`) and the inital covariance (`P`) are our expected position and confidence in that variable, respectively. For a VEX robot, this initial state would be the coordinates where the robot is placed on the starting square or other starting position. The initial covariance is a tunable valuable that says that we expect the robot to be within $+- \sqrt{variance}$ units away from the initial state more than half of the time. This confidence should not be zero, saying that we know _exactly_ where the robot, but placing the robot consistently for auton means that this value can be pretty small.
+
+For our example state of `[x, dx, y, dy]` we would have the following initial covariance:
+
+$$
+P = \begin{bmatrix}
+0.5 & 0 & 0   & 0 \\
+0   & 0 & 0   & 0 \\
+0   & 0 & 0.5 & 0 \\
+0   & 0 & 0   & 0
+\end{bmatrix}
+$$
+
+The above matrix says that we expect that the robot will always be still (velocity of zero) at start, and that the robot will typically be within $\sqrt{0.5}$ inches of the set starting coordinates.
+
 ## Discretization
 
 Reference Tyler's FRC book here
@@ -165,6 +250,10 @@ Reference Tyler's FRC book here
 - Hidden variables: These are variables that we can infer from other measurements, like inferring velocity from the change in ultrasonic readings over time.
 - Unobserved variables: These are variables that we can't measure or infer, like the robot's tilt or the robot's name.
 - Prior: The predicted next state of the system
+
+## References
+
+- [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ### Contributing Teams to this Article:
 
