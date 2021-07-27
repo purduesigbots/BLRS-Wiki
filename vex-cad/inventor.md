@@ -8,7 +8,7 @@ description: VEX CAD Inventor Library.
 
 This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.
 
-Library 1.3 is a quality of life update including shorter metal names, sizing tools, fixed shafts, smooth screws, fixed chain generator, and all of the new parts over the past year \(flex wheels, sensors, HS hardware, Robosource shoulder screws, 2.5" screws, etc\). It is **NOT** compatible with previous versions.
+Library 1.3 is a quality of life update including consistent file names, more sizing tools, improved shafts, smooth screws, improved chain generator, and new part releases from the past year \(flex wheels, sensors, HS hardware, Robosource shoulder screws, 2.5" screws, etc\). It is **NOT** compatible with previous versions.
 
 ### [Parts Library Download](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
