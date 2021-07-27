@@ -17,4 +17,5 @@ The left green section is your `Model Browser`.
 ## Contributors to this Article:
 
 * Jess - EZ
+* Cameron - QUEEN
 
