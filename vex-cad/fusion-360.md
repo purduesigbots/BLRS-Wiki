@@ -20,9 +20,9 @@ We know that the current installation process for the library isn’t the easies
 
 To install the add-in, download the [zip file](https://github.com/vexcad/fusion-library/releases/download/v1.0.0/fusion_addin_1_0_0.zip) and follow [this written tutorial](https://tapnair.github.io/installation.html).
 
-## [FAQ](https://github.com/VEX-CAD/VEX-CAD-Fusion/wiki/FAQ)
+## [FAQ](https://github.com/VEX-CAD/VEX-CAD-Fusion/wiki)
 
-Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Fusion/wiki/FAQ) if you're having installation issues.
+Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Fusion/wiki) if you're having installation issues.
 
 ## [VEX CAD Discord](https://discord.gg/BKV3DJm)
 
