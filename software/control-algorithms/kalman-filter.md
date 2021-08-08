@@ -6,7 +6,7 @@ Note: the code snippets in this article are written as python-like pseudocode. T
 
 ## Concept
 
-Let's consider a robot that is being commanded to drive forward at 100rpm (21 in per sec with 4" wheels). We measure its position with encoders. We expect that the robot will be 21 inches from its previous measurement after a second. But our encoders measure 19.5 inches from the previous measurement. This could be from wheel slip or missed encoder ticks, or imperfect calculations of the wheel diameter. We can't say for sure that our calculated expectation of 21 inches was accurate either though; factors like wheel slip, friction, and dropping battery voltage could make this incorrect too. What is the true distance?
+Let's consider a robot that is being commanded to drive forward at 100rpm (21 inches per sec with 4" wheels). We measure its position with encoders. We expect that the robot will be 21 inches from its previous measurement after a second. But our encoders measure 19.5 inches from the previous measurement. This could be from wheel slip or missed encoder ticks, or imperfect calculations of the wheel diameter. We can't say for sure that our calculated expectation of 21 inches was accurate either though; factors like wheel slip, friction, and dropping battery voltage could make this incorrect too. What is the true distance?
 
 Intuitively, the true distance is some combination of our predicted distance and the measured distance. A reasonable guess would be that our true distance is between the prediction and measurement, like the average. The average would be a safe guess but is not _that_ much better of an estimate than we had before. We want a method for determining how reliable each of these values is -- should we trust our calculations or the encoder measurements more?
 
@@ -16,60 +16,47 @@ A Kalman Filter's simpler, but less accurate cousin, the **G-H Filter**, uses a 
 
 ### Bayesian statistics
 
-"prior"s used to indicate the chances of a single event, like the chance of rain today being 50%. Use field tiles to represent this, there's an X% chance we are in tile 1, Y% in tile 2, etc. Use the "Tracking and Control" section to write this
+We can expand upon this idea by modeling our expected and measured values with **Bayesian Statistics**. With Bayesian statistics we create a "prior" that represents the possibility of each value for a variable. For our distance measurement, we would assign a probability to each possible distance measurement. 19.5 inches would get a high probability of 0.6, perhaps, but then 21 inches, since it is a decent bit larger than our measurement, would get a lower probability of 0.2 perhaps. As we discussed before, it's entirely possible that the true measurement was a number other than 19.5 inches, but it is more likely that the measurement is actually 19.5 inches instead of 17 or 21 inches. We can also pretty confidently say that a much smaller or larger distance, like 100 inches, has a probability of basically zero. All of this to say, each of our values can be modeled as **Gaussian**, or **Normal** distributions.
 
-Might be able to combine the gaussian distribution section with this one
+A Gaussian distribution is defined by two parameters, the _mean_ and the _variance_. The mean is easy to set for our example problem, the mean can be our expected value of 21 inches for the expected value's Gaussian or 19.5 inches for the measurement's Gaussian. The tough parameter to set is the variance. The variance represents the width of the Gaussian; a higher variance means that it's more likely that values further from the mean could be the "true" value. A lower variance would mean that we have high confidence that the mean is the "true" value; the other values further from the mean are unlikely. Some sensors will publish variance values for their measurements, but oftentimes this is a value that the filter designer will need to set and tweak themselves. This is particularly true for the variance of the expected value, which can only be tuned through trial and error.
 
 ### Kalman Gain
+
+The **Kalman Gain** is the crux of the Kalman Filter. This gain replaces the constant `0.5` we had used when discussing the G-H filter before and determines how we should combine our measurement and expected values. We calculate a new Kalman Gain on each step of the filter to use the latest data in our calculation. The formula for the Kalman Gain is as follows:
+
+$$
+Kalman Gain (K) = \frac{variance_{expected}}{variance_{expected} + variance_{measurement}}
+$$
+
+### Pseudocode
 
 - Need to start with a starting estimate as a gaussian. We are trying to be at 0m but there's a slight possibility that we placed the robot wrong, so our standard variance is _x_ meters. This means that we are 99.7% sure that the robot is within +- 3\*x meters of 0.
 - Set the process gaussian as the expected velocity (0 to start) and the variance in this value (should be very small to start)
 
-For each step:
-
-- calculate the next step with the `predict` function. This should have a higher variance, as always happens during the prediction state
-- calculate the "likelihood" as a gaussian from the sensor value and its variance
-- calculate the next state with the `update()` function ?
-
 ```py
-def predictBayesian():
-  dx = velocity * dt # integrate velocity to get position
-  pos = pos + dx # add the change in position to our previous position
-  var = var + process_var # we always add the process variance to our prediction variance on each step
+PROCESS_VAR = 0.1 # This is a tuneable value that represents the uncertainty in our model
+MEASUREMENT_VAR = 0.1 # This a tuneable value that represents the uncertainty in our
+TIME_STEP = 0.01 # The duration between steps of the filter, in seconds
 
-def predictTraditional():
-  x, P = prevState
-  dx, Q = movement
+def predict(prev_state):
+  dx = prev_state.velocity * TIME_STEP # integrate velocity to get position
+  pos = prev_state.pos + dx # add the change in position to our previous position
+  var = prev_state.var + PROCESS_VAR # we always add the process variance to our prediction variance on each step
+  return pos, var
 
-  x = x + dx # predicted next state
-  P = P + Q # prediction variance
+def update(state, var, measurement):
+  residual = measurement - state
+  kalman_gain = var / (var + MEASUREMENT_VAR)
+
+  new_state = state + kalman_gain
+  new_var = (1 - kalman_gain) * var
+  return new_state, new_var
+
+for time_step in autonomous:
+  predict_state, predict_var = predict(prev_state)
+
+  new_state, new_var = update(predict_state, predict_var, measurement)
 ```
-
-```py
-def updateBayesian():
-  # multiplying the likelihood and prior gaussians
-  pos = (var * z + sensor_var * pos) / (var + sensor_var) # mean
-  var = (var * sensor_var) / (var + sensor_var) # var
-
-def updateTraditional():
- x, P = prevState
-  z, R = measurement
-
-  y = z - x # residual
-  K = P / (P + R) # Kalman Gain
-
-  x = x + K * y  # new state
-  P = (1 - K) * P # new state variance
-```
-
-z = measurement (z)
-P = state variance (var)
-Q = process noise (process_var)
-R = measurement noise (sensor_var)
-
-Link to the examples of bad setups in the kalman filters book
-
-A link to the book with explanation of how our normal kalman filter only works if we assume that the velocity is constant
 
 ### Multivariate Gaussians
 
@@ -222,27 +209,7 @@ The above matrix says that we expect that the robot will always be still (veloci
 
 ## Discretization
 
-Reference Tyler's FRC book here
-
-## Steps to Calculation
-
-### Initialization
-
-1. Initialize the state of the filter
-2. Initialize our belief in the state
-
-### Predict
-
-1. Use process model to predict state at the next time step
-2. Adjust belief to account for the uncertainty in prediction
-
-### Update
-
-1. Get a measurement and associated belief about its accuracy
-2. Compute residual between estimated state and measurement
-3. Compute scaling factor based on whether the measurement or prediction is more accurate.
-4. Set state between the prediction and measurement based on the scaling factor.
-5. Update belief in the state based on how certain we are in the measurement prediction.
+If continuous models are used for the system model or variances, discretization must be performed to run these models on a robot. A **zero-order hold** is sufficient for most VEX applications. The full set of calculations for this discretization is out of the scope for this article but can be found in [Controls Engineering in FRC](https://file.tavsys.net/control/controls-engineering-in-frc.pdf).
 
 ## Glossary
 
@@ -254,6 +221,7 @@ Reference Tyler's FRC book here
 ## References
 
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+- [Controls Engineering in FRC](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
 
 ### Contributing Teams to this Article:
 
