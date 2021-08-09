@@ -16,7 +16,7 @@ Please look over the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki) if 
 
 If you want more assistance, please ask in our [Discord server](https://discord.gg/BKV3DJm)!
 
-![Completed CAD Basics Drive](../../../.gitbook/assets/image%20%28215%29.png)
+![Completed CAD Basics Drive](../../../.gitbook/assets/image%20%28106%29%20%281%29.png)
 
 {% hint style="warning" %}
 Your CAD will not be identical to the robot you construct.  Screws shift in holes, used spacers become slightly different lengths, parts squish because of screws, etc.  

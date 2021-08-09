@@ -8,7 +8,7 @@ Please follow the mirroring article from the basics tutorial.  For the mid-plane
 
 {% page-ref page="../inventor-chassis/mirroring.md" %}
 
-![Completed Chassis Subassembly](../../../.gitbook/assets/image%20%28178%29.png)
+![Completed Chassis Subassembly](../../../.gitbook/assets/image%20%28178%29%20%281%29.png)
 
 {% hint style="info" %}
 Remember to save!

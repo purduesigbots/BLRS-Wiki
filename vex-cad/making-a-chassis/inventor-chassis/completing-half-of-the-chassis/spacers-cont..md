@@ -26,7 +26,7 @@ Remember to save your file with `ctrl+s`!
 
 If completed correctly, your drive should look like this.
 
-![Completed Half of Drive with Spacers](../../../../.gitbook/assets/image%20%28132%29.png)
+![Completed Half of Drive with Spacers](../../../../.gitbook/assets/image%20%28132%29%20%281%29.png)
 
 {% hint style="info" %}
 Remember to save!

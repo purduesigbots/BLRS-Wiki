@@ -65,7 +65,7 @@ These terms are fairly arbitrary and are just to group together similar designs.
 
 ![&quot;Big Mac&quot; \(AURA Skyrise 2014\)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
 
-![&quot;Big Chungus&quot; \(BLRS Tower Takeover 2019\)](../../.gitbook/assets/image%20%2833%29.png)
+![&quot;Big Chungus&quot; \(BLRS Tower Takeover 2019\)](../../.gitbook/assets/image%20%2813%29%20%282%29.png)
 
 ![&quot;Big Chungus&quot; Expanded \(BLRS Tower Takeover 2019\)](../../.gitbook/assets/cjr_0286.jpg)
 
@@ -83,7 +83,7 @@ Characteristics:
 
 **All Round**
 
-![491A \(In the Zone 2017\)](../../.gitbook/assets/image%20%2831%29.png)
+![491A \(In the Zone 2017\)](../../.gitbook/assets/image%20%2828%29%20%283%29.png)
 
 An extremely reliable lift with 2 motors that is both quick and tall is easy to do the with the power of V5 motors. This type of lift is going to fit the needs of most applications.
 

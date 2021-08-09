@@ -10,7 +10,7 @@ First we need to place them.  We can find them in `Motion/Bearing Flat.ipt`.
 
 After placing it, we constrain them the same way we did two c-channels together.  One insert and one mate constraint. 
 
-![Insert Constraint between Bearing and C-Channel](../../../../.gitbook/assets/image%20%28189%29.png)
+![Insert Constraint between Bearing and C-Channel](../../../../.gitbook/assets/image%20%28189%29%20%281%29.png)
 
 ![Mate Constraint between Bearing and C-Channel](../../../../.gitbook/assets/image%20%2890%29.png)
 
