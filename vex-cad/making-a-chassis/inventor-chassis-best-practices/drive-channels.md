@@ -14,7 +14,7 @@ Our drive channels will be 35 hole long aluminum 2xs.  We can find them in `Stru
 
 ![Placed 1x2x1x35 C-Channel](../../../.gitbook/assets/image%20%28179%29.png)
 
-This gets constrained with one insert and one mate constraint, just like the previous tutorial \(LINK\).  
+This gets constrained with one insert and one mate constraint, just like the previous tutorial linked above.  
 
 ![Insert Constraint between two C-Channels](../../../.gitbook/assets/image%20%28173%29.png)
 
