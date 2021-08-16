@@ -44,8 +44,6 @@ By default the constraint window is on `Mate`, so we don't have to select anythi
 
 ![Constraint Window with Mate Selected](../../../.gitbook/assets/image%20%28199%29.png)
 
-Now we need to select the two holes we want to connect.  Because the insert constraint is bringing two faces together, we need to **select the sides of the part that will contact each other.**  In the gif below, I select the top of the 5x and the underneath of the 2x.  
-
 Now we select the **cylinders** we want to connect.  Hover your mouse over the body of the cylinder.  If you're in the right area, you'll see a green arrow appear in the center of the cylinder.  Select this for holes on both c channels. 
 
 After selecting both of your holes, click `Apply` in the constraint window.  You've successfully fully constrained two c-channels!
