@@ -110,6 +110,19 @@
     * [Main Assembly](vex-cad/making-a-chassis/inventor-chassis-best-practices/placing-chassis-in-main.md)
   * [Fusion 360 Chassis](vex-cad/making-a-chassis/fusion-360-chassis.md)
   * [Solidworks Chassis](vex-cad/making-a-chassis/solidworks-chassis.md)
+* [Remembering The Best](vex-cad/remembering-the-best/README.md)
+  * [62A Skyrise](vex-cad/remembering-the-best/62a-skyrise.md)
+  * [400X Nothing But Net](vex-cad/remembering-the-best/400x-nothing-but-net.md)
+  * [2587Z Nothing But Net](vex-cad/remembering-the-best/2587z-nothing-but-net.md)
+  * [365X Starstruck](vex-cad/remembering-the-best/365x-starstruck.md)
+  * [62A In The Zone](vex-cad/remembering-the-best/62a-in-the-zone.md)
+  * [202Z In The Zone](vex-cad/remembering-the-best/202z-in-the-zone.md)
+  * [5225A In The Zone](vex-cad/remembering-the-best/5225a-in-the-zone.md)
+  * [169A Turning Point](vex-cad/remembering-the-best/169a-turning-point.md)
+  * [929u Turning Point](vex-cad/remembering-the-best/929u-turning-point.md)
+  * [7K Tower Takeover](vex-cad/remembering-the-best/7k-tower-takeover.md)
+  * [5225A Tower Takeover](vex-cad/remembering-the-best/5225a-tower-takeover.md)
+  * [62A Change Up](vex-cad/remembering-the-best/62a-change-up.md)
 
 ## VEX Electronics
 
