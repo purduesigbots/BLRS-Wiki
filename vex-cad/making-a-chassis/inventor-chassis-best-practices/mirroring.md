@@ -2,13 +2,15 @@
 description: Mirroring half of the chassis.
 ---
 
-# Mirroring \(Best Practice\)
+# Mirroring (Best Practice)
 
 Please follow the mirroring article from the basics tutorial.  For the mid-plane, select the `YZ Plane` from the `Origin` folder in the model browser. 
 
-{% page-ref page="../inventor-chassis/mirroring.md" %}
+{% content-ref url="../inventor-chassis/mirroring.md" %}
+[mirroring.md](../inventor-chassis/mirroring.md)
+{% endcontent-ref %}
 
-![Completed Chassis Subassembly](../../../.gitbook/assets/image%20%28178%29%20%281%29.png)
+![Completed Chassis Subassembly](<../../../.gitbook/assets/image (206).png>)
 
 {% hint style="info" %}
 Remember to save!
@@ -19,6 +21,4 @@ Remember to save!
 ## Contributors to this Article:
 
 * Jess - EZ
-
-
 

@@ -10,17 +10,16 @@ description: CAD by Ayush
 
 
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.44.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.44.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.47.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.47.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.48.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.48.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.50.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.50.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.51.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.51.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.49.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.49.png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/62-skyrise-1.28.png)
-
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/62 Skyrise 1.28.png>)

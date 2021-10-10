@@ -1,5 +1,5 @@
 ---
-description: 'In this page, we''ll be going over how to setup a file structure for CAD.'
+description: In this page, we'll be going over how to setup a file structure for CAD.
 ---
 
 # Installation
@@ -18,7 +18,7 @@ Every new robot that you want to CAD, you'll make a new folder here with the nam
 
 When done, your file structure should look like this:
 
-![Completed File Structure ](../../../.gitbook/assets/file-structure.png)
+![Completed File Structure ](<../../../.gitbook/assets/File Structure.png>)
 
 
 
@@ -26,6 +26,4 @@ When done, your file structure should look like this:
 
 * Jess - EZ
 
-  
-
-
+\

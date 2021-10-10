@@ -1,10 +1,10 @@
 ---
-description: 'The 4 bar lift, the simplest linkage that for keeping both ends parallel.'
+description: The 4 bar lift, the simplest linkage that for keeping both ends parallel.
 ---
 
 # Four Bar
 
-![](../../.gitbook/assets/4barcad.jpg)
+![](../../.gitbook/assets/4barCAD.jpg)
 
 The four bar lift is one of the most used lifts in Vex competitions due to its simplicity and ease of building. The four bar lift is constructed using two sets of parallel bars that move up and down in unison. Two sets of vertical bars line both the front and back so that the lift can be attached to a robot base and so that object interaction mechanisms can be attached.
 
@@ -14,9 +14,8 @@ Because four bar lifts are simple in nature, it doesnt provide very much height 
 
 ### Pros and Cons Analysis
 
-| Pros | Cons |
-| :--- | :--- |
-| Easy to build | Lack of height |
-| Reliable/Low Maintenance | Center of gravity is not over the base of the robot \(robot could tip when carrying heavy load\) |
-| Lifted end is parallel to static mounting point, preventing objects from falling out | Lift design is constrained by size of robot |
-
+| Pros                                                                                 | Cons                                                                                           |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Easy to build                                                                        | Lack of height                                                                                 |
+| Reliable/Low Maintenance                                                             | Center of gravity is not over the base of the robot (robot could tip when carrying heavy load) |
+| Lifted end is parallel to static mounting point, preventing objects from falling out | Lift design is constrained by size of robot                                                    |

@@ -1,5 +1,5 @@
 ---
-description: 'In this page, we''ll be going over how navigate your CAD workspace.'
+description: In this page, we'll be going over how navigate your CAD workspace.
 ---
 
 # Navigating CAD
@@ -14,13 +14,13 @@ Spin your scroll wheel to zoom in and out of your workspace.
 
 ### Pan
 
-Click your scroll wheel \(or your middle mouse button\) and move your mouse to pan in your workspace.
+Click your scroll wheel (or your middle mouse button) and move your mouse to pan in your workspace.
 
 ![Pan GIF](../../../.gitbook/assets/pan.gif)
 
 ### Orbit
 
-Click shift on your keyboard, select your scroll wheel \(or middle mouse button\) and move your mouse to orbit your workspace.
+Click shift on your keyboard, select your scroll wheel (or middle mouse button) and move your mouse to orbit your workspace.
 
 ![Orbit GIF](../../../.gitbook/assets/orbit.gif)
 
@@ -36,11 +36,10 @@ At the top right of your workspace is the navigation cube.  Bringing your mouse 
 
 Hover over the face of the cube you want to view and left click.
 
-![Navigation Cube Face GIF](../../../.gitbook/assets/select-face.gif)
+![Navigation Cube Face GIF](<../../../.gitbook/assets/select face.gif>)
 
 
 
 ## Contributors to this Article:
 
 * Jess - EZ
-

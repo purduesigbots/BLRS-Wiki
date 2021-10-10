@@ -1,5 +1,5 @@
 ---
-description: 'In this page, we''ll be going over how to toggle visibility on existing parts.'
+description: In this page, we'll be going over how to toggle visibility on existing parts.
 ---
 
 # Toggling Visibility on Existing Parts
@@ -10,15 +10,14 @@ Sometimes when constraining, there is another part in the way and we can't see w
 
 Right click the part in the workspace and select `Visibility`.  This turns visibility off, and the part won't be seen.  The keyboard shortcut for this is `alt+v`.
 
-![Toggling Visibility Off](../../../.gitbook/assets/image%20%28180%29.png)
+![Toggling Visibility Off](<../../../.gitbook/assets/image (63).png>)
 
 In the model browser on the left, the part now appears grayed out.  You can bring it back by either right clicking and selecting `Visibility`, or selecting the part and pressing `alt+v` on your keyboard. 
 
-![Turn Visibility On](../../../.gitbook/assets/image%20%28218%29.png)
+![Turn Visibility On](<../../../.gitbook/assets/image (65).png>)
 
 
 
 ## Contributors to this Article:
 
 * Jess - EZ
-

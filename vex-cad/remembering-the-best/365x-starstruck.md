@@ -12,9 +12,8 @@ description: CAD by Zach
 
 
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/render-1%20%281%29.png)
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 1.png>)
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/render-2%20%281%29.png)
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 2.png>)
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/render-3.png)
-
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 3.PNG>)

@@ -6,18 +6,18 @@ description: Other lifts that could possibly be found on robots
 
 ## Two Bar
 
-![2-Bar with Roller Intakes Mounted in Red \(CAD of 7K Courtesy of Zach 929U\)](../../.gitbook/assets/image%20%2817%29.png)
+![2-Bar with Roller Intakes Mounted in Red (CAD of 7K Courtesy of Zach 929U)](<../../.gitbook/assets/image (21).png>)
 
 ### Description
 
-Compared to other lifts found on robots, the two bar is one of the easiest and lightest lifts to build. Usually consisting of 4 c-channels \(2 used for the tower and 2 for the lift\), the two bars are usually used when a robot would like a lift, but one that does not take a lot of space. One of the main downsides and features of a two bar is that the orientation at the end of the lift stays constant despite lift angle. In addition, compared to other lifts, the two bar cannot carry as much weight compared to other lifts. Some examples of the usage of the two bar lift can be found in the game Tower Takeover as shown above.
+Compared to other lifts found on robots, the two bar is one of the easiest and lightest lifts to build. Usually consisting of 4 c-channels (2 used for the tower and 2 for the lift), the two bars are usually used when a robot would like a lift, but one that does not take a lot of space. One of the main downsides and features of a two bar is that the orientation at the end of the lift stays constant despite lift angle. In addition, compared to other lifts, the two bar cannot carry as much weight compared to other lifts. Some examples of the usage of the two bar lift can be found in the game Tower Takeover as shown above.
 
 ### Pros and Cons Analysis
 
-| Pros | Cons |
-| :--- | :--- |
-| Easy to build | Lack of height |
-| Very light | Cannot carry a large amount of weight |
+| Pros                            | Cons                                                        |
+| ------------------------------- | ----------------------------------------------------------- |
+| Easy to build                   | Lack of height                                              |
+| Very light                      | Cannot carry a large amount of weight                       |
 | Does not take up a lot of space | Orientation at the end of the lift changes with lift angle. |
 
 ### Best Practices
@@ -28,44 +28,21 @@ Compared to other lifts found on robots, the two bar is one of the easiest and l
 
 ## Chain Bar
 
-![Chain Bar With Tensioned Chain \(Courtesy of AURA\)](../../.gitbook/assets/image%20%2818%29.png)
+![Chain Bar With Tensioned Chain (Courtesy of AURA)](<../../.gitbook/assets/image (18).png>)
 
 ### Description
 
 With a similar appearance to a 2-bar, the chainbar has the compactivity of a 2-bar but with the capability to keep its mounting orientation constant throughout its movement.
 
-This is done by adding a fixed orientation sprocket at the base of the lift bar, and then adding a free-turning one at the end of the lift bar with both being constrained by chain. If an intake or mechanism is mounted on the sprocket\(s\) at the end of the lift, the mechanism will maintain the same orientation throughout the lift's movement.
+This is done by adding a fixed orientation sprocket at the base of the lift bar, and then adding a free-turning one at the end of the lift bar with both being constrained by chain. If an intake or mechanism is mounted on the sprocket(s) at the end of the lift, the mechanism will maintain the same orientation throughout the lift's movement.
 
 ### Pros and Cons Analysis
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Pros</th>
-      <th style="text-align:left">Cons</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Very compact and lightweight</td>
-      <td style="text-align:left">Non-Linear Movement (of the lift)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Moderate buildability, with it being comparable to a 2-bar but slightly
-        harder to build</td>
-      <td style="text-align:left">The maintenance might be slightly harder due to the chain needing to be
-        tensioned.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Maintains fixed orientation for the mounted mechanism, unlike a 2-bar.</td>
-      <td
-      style="text-align:left">
-        <p>There is a chance the chain may break</p>
-        <p>during a match.</p>
-        </td>
-    </tr>
-  </tbody>
-</table>
+| Pros                                                                                    | Cons                                                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Very compact and lightweight                                                            | Non-Linear Movement (of the lift)                                                  |
+| Moderate buildability, with it being comparable to a 2-bar but slightly harder to build | The maintenance might be slightly harder due to the chain needing to be tensioned. |
+| Maintains fixed orientation for the mounted mechanism, unlike a 2-bar.                  | <p>There is a chance the chain may break</p><p>during a match.</p>                 |
 
 ### Best Practices
 
@@ -75,9 +52,9 @@ This is done by adding a fixed orientation sprocket at the base of the lift bar,
 
 ## Elevator/Cascade Lift
 
-![Cascade Lift Retracted \(Left\) and Extended \(Right\) Courtesy of Josh 99904A](../../.gitbook/assets/image%20%2821%29.png)
+![Cascade Lift Retracted (Left) and Extended (Right) Courtesy of Josh 99904A](<../../.gitbook/assets/image (22).png>)
 
-Example: NorCal 2021 Robot \(View in .5x or full screen\):
+Example: NorCal 2021 Robot (View in .5x or full screen):
 
 {% embed url="https://codepen.io/willxucodes/pen/MWmZjyO" %}
 
@@ -87,10 +64,10 @@ A cascade or elevator lift is a lift that provides an immense amount of height, 
 
 ### Pros and Cons Analysis
 
-| Pros | Cons |
-| :--- | :--- |
-| Very Linear Movement | Mechanically inefficient due to surface contact |
-| Very compact relative to a bar lift | Relatively hard to build due to multiple stages in the lift |
+| Pros                                              | Cons                                                                                                                             |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Very Linear Movement                              | Mechanically inefficient due to surface contact                                                                                  |
+| Very compact relative to a bar lift               | Relatively hard to build due to multiple stages in the lift                                                                      |
 | Mounting point can be easily made a flat surface. | Maintenance is an issue, as reattaching the chain means looping it around multiple sprockets in potentially hard to reach areas. |
 
 ### Best Practices
@@ -101,5 +78,4 @@ A cascade or elevator lift is a lift that provides an immense amount of height, 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

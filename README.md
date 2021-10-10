@@ -12,11 +12,10 @@ If you are interested in contributing to the wiki feel free to open a pull reque
 
 If you would like to discuss or bring up an issue with the wiki without fixing it yourself, feel free to open up an issue on the aforementioned [wiki repo](https://github.com/purduesigbots/BLRS-Wiki).
 
-![](.gitbook/assets/cjr_0346.jpg)
+![](.gitbook/assets/CJR\_0346.JPG)
 
 As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com)
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](<.gitbook/assets/image (9).png>)
 
  This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](https://creativecommons.org/licenses/by-sa/2.0/).
-

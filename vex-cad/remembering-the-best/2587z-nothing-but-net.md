@@ -10,11 +10,9 @@ description: CAD by Zach
 
 
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/final-2587z-render-1.png)
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Final 2587Z render 1.PNG>)
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/chassis-flywheel-intake-render.png)
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Chassis-Flywheel-Intake Render.png>)
 
-![CAD by Zach\(929u\), Renders by Zach\(929u\)](../../.gitbook/assets/final-2587z-render-2.png)
-
-
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Final 2587Z render 2.PNG>)
 

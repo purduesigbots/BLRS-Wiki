@@ -4,7 +4,7 @@ description: CAD by Jake
 
 # 62A Change Up
 
-![](../../.gitbook/assets/vaderphoto1.png)
+![](../../.gitbook/assets/VaderPhoto1.png)
 
 {% embed url="https://www.youtube.com/watch?v=N-BOmD6EeGw" %}
 
@@ -12,11 +12,10 @@ description: CAD by Jake
 
 
 
-![CAD by Jake \(62A\), Renders by Yuanyang \(1727G\)](../../.gitbook/assets/vader1.png)
+![CAD by Jake (62A), Renders by Yuanyang (1727G)](../../.gitbook/assets/Vader1.png)
 
-![CAD by Jake \(62A\), Renders by Yuanyang \(1727G\)](../../.gitbook/assets/vader4.png)
+![CAD by Jake (62A), Renders by Yuanyang (1727G)](../../.gitbook/assets/Vader4.png)
 
-![CAD by Jake \(62A\), Renders by Yuanyang \(1727G\)](../../.gitbook/assets/vader5.png)
+![CAD by Jake (62A), Renders by Yuanyang (1727G)](../../.gitbook/assets/Vader5.png)
 
-![CAD by Jake \(62A\), Renders by Yuanyang \(1727G\)](../../.gitbook/assets/vader2.png)
-
+![CAD by Jake (62A), Renders by Yuanyang (1727G)](../../.gitbook/assets/Vader2.png)

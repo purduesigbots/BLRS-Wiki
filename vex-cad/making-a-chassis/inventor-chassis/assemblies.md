@@ -1,5 +1,5 @@
 ---
-description: 'In this page, we''ll be going over how to create a new assembly.'
+description: In this page, we'll be going over how to create a new assembly.
 ---
 
 # Assemblies
@@ -10,13 +10,13 @@ Assemblies are files with the extension `.iam`. They let the user assemble multi
 
 Once Inventor is open, click `File` in the top left corner, `New`, then `Assembly`.
 
-![Inventor&apos;s File Menu](../../../.gitbook/assets/1.png)
+![Inventor's File Menu](../../../.gitbook/assets/1.png)
 
 The first thing we do when creating any new file is to **save it** with `ctrl+s`. A window will pop up, name the assembly the name of the robot. Navigate to the robot folder you created in the previous article, click `Save` to save the new assembly.
 
-![Save Pop-Up Window](../../../.gitbook/assets/2%20%281%29.png)
+![Save Pop-Up Window](<../../../.gitbook/assets/2 (1).png>)
 
-When done, if we look in our robot folder, this is what you should see:  
+When done, if we look in our robot folder, this is what you should see:\
 
 
 ![Completed New Assembly](../../../.gitbook/assets/3.png)
@@ -26,6 +26,4 @@ When done, if we look in our robot folder, this is what you should see:
 ## Contributors to this Article:
 
 * Jess - EZ
-
-
 

@@ -10,17 +10,16 @@ description: CAD by Ayush
 
 
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/2%20%282%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/2 (3).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/3%20%281%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/3 (1).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/1%20%281%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/1 (1).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/4%20%282%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/4 (1).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/2%20%283%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/2 (4).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/4%20%281%29.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/4 (2).png>)
 
-![CAD by Ayush\(1961Z, BLRS\), Renders by Ayush\(1961Z, BLRS\)](../../.gitbook/assets/5.png)
-
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](../../.gitbook/assets/5.png)

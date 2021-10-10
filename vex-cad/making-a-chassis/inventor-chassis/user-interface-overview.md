@@ -1,5 +1,5 @@
 ---
-description: 'User Interface, the Overview.'
+description: User Interface, the Overview.
 ---
 
 # User Interface Overview
@@ -10,7 +10,7 @@ The top light blue section is your `Ribbon`.
 
 The left green section is your `Model Browser`. 
 
-![Naming Parts of the CAD](../../../.gitbook/assets/highlighted-colors.png)
+![Naming Parts of the CAD](<../../../.gitbook/assets/highlighted colors (1).png>)
 
 
 
@@ -18,4 +18,3 @@ The left green section is your `Model Browser`.
 
 * Jess - EZ
 * Cameron - QUEEN
-
