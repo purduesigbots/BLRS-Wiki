@@ -14,8 +14,8 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 **Execution path**:
 
 1. Can the program leave the main function? _Doing so will probably execute unintended code._
-2. Do all enabled interrupts have a valid \(even if blank\) interrupt service routine?
-3. Is the watchdog and reset control _\(only available on some processors\)_ configured as desired?
+2. Do all enabled interrupts have a valid (even if blank) interrupt service routine?
+3. Is the watchdog and reset control _(only available on some processors)_ configured as desired?
 
 **Interrupts:**
 
@@ -26,12 +26,12 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 
 1. Can a multiply or divide instruction be replaced with a [bit shift](bit-shift.md)?
 2. Does each bit mask have the correct polarity?
-3. Is the order of operations \(\| and & evaluate _after_ == for example\) respected?
+3. Is the order of operations (| and & evaluate _after_ == for example) respected?
 4. Do bit shifts properly account for a signed or unsigned variable?
 
 **Memory usage**:
 
-1. Can this variable be declared with a type using fewer bits \(possibly using unsigned types\)?
+1. Can this variable be declared with a type using fewer bits (possibly using unsigned types)?
 2. Are dynamic memory allocation calls checked for memory exhaustion?
 3. Will the stack overflow into global variables or the heap?
 4. Are there warnings about sections overlapping after the link? This is almost certainly a sign that a program is too big.
@@ -40,10 +40,9 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 
 1. Will overflow cause a problem with narrow variables?
 2. Will the use of variables larger than the native variable size cause expensive extended-precision arithmetic?
-3. Are large items passed by value \(which may clandestinely copy them\)?
+3. Are large items passed by value (which may clandestinely copy them)?
 4. Could a hardware peripheral perform the task of this software routine?
 
 ## Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

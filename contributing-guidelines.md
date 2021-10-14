@@ -12,9 +12,9 @@ The Purdue SIGBots Wiki uses Github integration for contributing, moderation, an
 
 If you are looking to contribute and don't know where to start, a good place to look is the projects and issues section on our github page!
 
-### Making Modifications \(Advanced\):
+### Making Modifications (Advanced):
 
-To make a modification to an article or create a new article, submit a **pull request \(PR\)** on our github page which can be found [here](https://github.com/purduesigbots/BLRS-Wiki/).
+To make a modification to an article or create a new article, submit a **pull request (PR)** on our github page which can be found [here](https://github.com/purduesigbots/BLRS-Wiki/).
 
 Submitting your Pull Request will allow the SIGBots Wiki Development team to review and process any changes proposed.
 
@@ -22,7 +22,7 @@ Submitting your Pull Request will allow the SIGBots Wiki Development team to rev
 
 * Why your proposed changes should be made.
 * What changes are being proposed.
-* Include you or your team on the bottom of the page in the list of contributors \(make a new section on your new page if you created a new page\).
+* Include you or your team on the bottom of the page in the list of contributors (make a new section on your new page if you created a new page).
   * There's good examples of this under each page.
 
 ### Terminology Guidelines:
@@ -39,4 +39,3 @@ Submitting your Pull Request will allow the SIGBots Wiki Development team to rev
 Mentioning outside sources and other specific teams and their robots are allowed to be mentioned on the wiki, as long as their usage is relevant, respectful, and consensual.
 
 If this is done, please include the source itself with a description and proper embedding for images, videos, and other forms of media.
-

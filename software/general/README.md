@@ -1,5 +1,5 @@
 ---
-description: 'Topics more pertinent to general concepts, not restricted to vex.'
+description: Topics more pertinent to general concepts, not restricted to vex.
 ---
 
 # General

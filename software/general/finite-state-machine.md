@@ -22,7 +22,7 @@ Finite state machines have a large but countable number of discrete states in wh
 ### Shortcomings
 
 * Somewhat harder to implement properly, as states must not depend too heavily on other states
-* Generally cannot perform dynamic autonomous, as that would be an _infinite_ state machine \(although making the entire dynamic section a state in itself is possible\)
+* Generally cannot perform dynamic autonomous, as that would be an _infinite_ state machine (although making the entire dynamic section a state in itself is possible)
 * Does not integrate as well with [object recognition](../object-recognition/) or a [grid system](../control-algorithms/grid-system.md)
 
 ## Usage
@@ -41,7 +41,7 @@ VEX Toss Up brought back Large Balls and Buckyballs, which allowed mapping to ma
 
 ### Example code
 
-The autonomous routine becomes much simpler with the use of the flow-driven state machine and smart function division. With the use of PROS and multi-tasking, the state\(\) function is a relic of the past incarnations of this state machine. Future work might involve getting rid of it altogether to allow states to take more arguments and increase readability and code efficiency.
+The autonomous routine becomes much simpler with the use of the flow-driven state machine and smart function division. With the use of PROS and multi-tasking, the state() function is a relic of the past incarnations of this state machine. Future work might involve getting rid of it altogether to allow states to take more arguments and increase readability and code efficiency.
 
 ```c
 void autonomous() {
@@ -94,5 +94,4 @@ void autonomous() {
 
 #### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

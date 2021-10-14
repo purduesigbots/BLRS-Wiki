@@ -39,7 +39,7 @@ The only downside is that the assembly takes up a lot of space, and it may not h
 
 ### Potentiometers
 
-Potentiometers are sensors that return absolute position and have a range of ~270 degrees, which in theory makes them perfect for lifts. However, in practicality, the tend to be very inconsistent and can suffer from issues like non-linearity \(a movement of 20 degrees can return either 15 or 25 degrees depending on where in the pot's range you are\) and generally breaking and failing to ever again return a value. Some teams have used 3rd party potentiometers \(such as those found on electric guitars\) to reduce friction and improve reliability.
+Potentiometers are sensors that return absolute position and have a range of \~270 degrees, which in theory makes them perfect for lifts. However, in practicality, the tend to be very inconsistent and can suffer from issues like non-linearity (a movement of 20 degrees can return either 15 or 25 degrees depending on where in the pot's range you are) and generally breaking and failing to ever again return a value. Some teams have used 3rd party potentiometers (such as those found on electric guitars) to reduce friction and improve reliability.
 
 One important thing to remember about VEX potentiometers is that they have a hard stop limit at 270 degrees, making them impossible to use on shafts that rotate past that limit.
 
@@ -47,9 +47,8 @@ One important thing to remember about VEX potentiometers is that they have a har
 
 ### Encoder and Limit Switches
 
-The encoder/limit switch combo is a way of emulating the absolute position returned by a potentiometer, but without many of the drawbacks of potentiometers \(bad reliability in particular\). This setup is much more reliable, but does not have as much resolution as a potentiometer \(360 ticks in a revolution compared to 4095 in 270 degrees\) and is more bulky, which has traditionally been the reason for not using this setup.
+The encoder/limit switch combo is a way of emulating the absolute position returned by a potentiometer, but without many of the drawbacks of potentiometers (bad reliability in particular). This setup is much more reliable, but does not have as much resolution as a potentiometer (360 ticks in a revolution compared to 4095 in 270 degrees) and is more bulky, which has traditionally been the reason for not using this setup.
 
 #### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

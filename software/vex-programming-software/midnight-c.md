@@ -16,7 +16,7 @@ Midnight C is for the older VEX Cortex which is no longer supported
 * Native code compilation
 * 32- and 64-bit types
 * Partial multitasking
-* Uses [Eclipse](https://www.eclipse.org/) IDE
+* Uses [Eclipse](https://www.eclipse.org) IDE
 * Interrupt control
 * Pointer and [register](../general/register-programming.md) control
 * Purdue Robotics OS
@@ -27,7 +27,7 @@ The **Midnight C** platform, often referred to in the past as the **"Makefile"**
 
 Midnight C is compatible with Windows, Mac OS X, and Linux.
 
-Firmware \(Mastercode\) reflashing for Midnight C is performed using the same procedure as reflashing EasyC firmware.
+Firmware (Mastercode) reflashing for Midnight C is performed using the same procedure as reflashing EasyC firmware.
 
 ## Features
 
@@ -35,7 +35,7 @@ Firmware \(Mastercode\) reflashing for Midnight C is performed using the same pr
 * Can use any standard C syntax, library, data type, or function
 * Powerful, high-speed library implementation surpasses I/O and interrupt performance of even the EasyC library
 * Low-level access available to system registers, allowing the implementation of protocols such as [SPI](../../electronics/general/spi.md) or [I2C](../../electronics/general/i2c.md)
-* Midnight-C IDE \(based on the Eclipse IDE\) handles routine compilation and upload tasks
+* Midnight-C IDE (based on the Eclipse IDE) handles routine compilation and upload tasks
 * Vast improvements in size and speed
 
 ## Shortcomings
@@ -45,11 +45,10 @@ Firmware \(Mastercode\) reflashing for Midnight C is performed using the same pr
 
 ## Object-oriented programming
 
-**C++** support is also available; if a file is created with a .cpp extension, it will be compiled using arm-none-eabi-g++. The code used must have entry points from one of the built-in C files through a C++ function exposed via extern 'C' { ... }. Otherwise, any standard C++ construct or syntax can be used; the API header files have the appropriate declarations for use of the standard C functions. _**Beware of code size**_ - while using C++ itself imposes only a small penalty, any function in the C++ standard library \(e.g. new, std::\) will often add _50-100 KB_ to the hex file.
+**C++** support is also available; if a file is created with a .cpp extension, it will be compiled using arm-none-eabi-g++. The code used must have entry points from one of the built-in C files through a C++ function exposed via extern 'C' { ... }. Otherwise, any standard C++ construct or syntax can be used; the API header files have the appropriate declarations for use of the standard C functions. _**Beware of code size**_ - while using C++ itself imposes only a small penalty, any function in the C++ standard library (e.g. new, std::) will often add _50-100 KB_ to the hex file.
 
 Please note that object-oriented principles tend to encourage practices such as dynamic memory allocation and excessive indirection which may conflict with the embedded system goals of speed and program size. When possible, use C code.
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

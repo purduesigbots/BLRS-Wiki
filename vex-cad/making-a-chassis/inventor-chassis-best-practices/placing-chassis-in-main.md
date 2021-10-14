@@ -10,23 +10,23 @@ The main assembly is for viewing the entire robot.  It's important we constrain 
 
 In our main assembly file (mine is called `! Bingus`), place your `! Chassis.iam`.  
 
-![Placing Chassis Subassebly](<../../../.gitbook/assets/image (209).png>)
+![Placing Chassis Subassebly](<../../../.gitbook/assets/image (118).png>)
 
 Use a flush constraint between the flange of the cross brace and the `XY Plane`, with an offset of 2.5/2. 
 
-![Flush Constraint between Origin Plane and C-Channel](<../../../.gitbook/assets/image (210).png>)
+![Flush Constraint between Origin Plane and C-Channel](<../../../.gitbook/assets/image (198).png>)
 
 Use a flush constraint between the edge of the cross brace and the `YZ Plane`, with an offset of 15/2. 
 
-![Flush Constraint between Origin Plane and C-Channel](<../../../.gitbook/assets/image (211).png>)
+![Flush Constraint between Origin Plane and C-Channel](<../../../.gitbook/assets/image (115).png>)
 
 The XZ Plane will become our ground plane.  This is an important plane, because it is how we will measure our robot for sizing, or constrain game objects to the "floor".
 
 Use a mate constraint between the bottom of the drive channel and the `XZ Plane`, with an offset of `(4.125/2)-0.5`.  4" wheels are actually 4.125".  We divide that by two, and subtract half because the center of the wheel is 0.5" up from the bottom flange of the drive. 
 
-![Mate Constraint between XZ Plane and C-Channel (Bottom View)](<../../../.gitbook/assets/image (212).png>)
+![Mate Constraint between XZ Plane and C-Channel (Bottom View)](<../../../.gitbook/assets/image (128).png>)
 
-![Mate Constraint between XZ Plane and C-Channel (Side View)](<../../../.gitbook/assets/image (213).png>)
+![Mate Constraint between XZ Plane and C-Channel (Side View)](<../../../.gitbook/assets/image (76).png>)
 
 {% hint style="info" %}
 Remember to save!

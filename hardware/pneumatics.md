@@ -63,9 +63,11 @@ For ideal operation, follow these tips.
 
 * Optimize the airflow into Tanks.
   * The pneumatics kits come with a regulator. Experiment with the amount of airflow through the regulator so that your pneumatics have just enough force to complete your intended action. This will mean the cylinders can actuate more times per full pressurization. 
-* Pressurize tanks at every opportunity.
+*   Pressurize tanks at every opportunity.
 
-  * The legal pressure is set at 100psi, which is quite low for most applications. Due to this, the constant re-pressurization of tanks must be a priority.
+    * The legal pressure is set at 100psi, which is quite low for most applications. Due to this, the constant re-pressurization of tanks must be a priority.
+
+
 
 ### Programming
 
@@ -73,7 +75,6 @@ To program pneumatics, they act as a generalized digital output that can be cont
 
 ## Contributors to this Article
 
-* MTBR \(Michigan Task Based Robotics\)
+* MTBR (Michigan Task Based Robotics)
 
-#### 
-
+####

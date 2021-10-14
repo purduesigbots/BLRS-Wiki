@@ -8,17 +8,17 @@ description: >-
 
 ![](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard_es_omap4460.jpg)
 
-| **Architecture:** 32-bit [Cortex-A9](http://www.arm.com/products/processors/cortex-a/cortex-a9.php/) |
-| :--- |
-| **Processor:** [TI OMAP4430](http://www.ti.com/product/omap4430/) _\(dual-core\)_ |
-| **Languages:** C, C++, Many others |
-| **Clock:** 1 GHz |
-| **Vcore:** 1.2 V |
-| **Vio:** 3.3 V |
-| **Power:** 5 W |
-| **Flash:** SD/MMC Card |
-| **RAM:** 1024 MB |
-| **GPIO:** 20? _\(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_\)_ |
+| **Architecture:** 32-bit [Cortex-A9](http://www.arm.com/products/processors/cortex-a/cortex-a9.php/)                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Processor:** [TI OMAP4430](http://www.ti.com/product/omap4430/) _(dual-core)_                                                                                                                             |
+| **Languages:** C, C++, Many others                                                                                                                                                                          |
+| **Clock:** 1 GHz                                                                                                                                                                                            |
+| **Vcore:** 1.2 V                                                                                                                                                                                            |
+| **Vio:** 3.3 V                                                                                                                                                                                              |
+| **Power:** 5 W                                                                                                                                                                                              |
+| **Flash:** SD/MMC Card                                                                                                                                                                                      |
+| **RAM:** 1024 MB                                                                                                                                                                                            |
+| **GPIO:** 20? _(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_)_                                                                                                                                         |
 | **Peripherals:** USB On-The-Go, 2x USB 2.0, 2x HDMI, 3.5mm audio out, [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/uart/README.md), JTAG debug |
 
 The Pandaboard is a community supported development platform and is available for a somewhat subsidized cost of $174. A newer version, the PandaBoard ES, has been available for $182 since November 16, 2011 with the CPU and GPU on the OMAP4460 platform running at higher clock rates.
@@ -39,7 +39,7 @@ The GPIO connectors follow the standard Linux format, where one can export pins 
 
 The **PandaBoard** in its protective shell as seen on Honey Badger
 
-With the PandaBoard's low [Power Consumption](../power-consumption.md) and high performance, algorithms such as [OpenCV](../../../software/object-recognition/opencv.md) and [AMS](../../../software/object-recognition/ams.md) can be run at productive frame rates. The dual-core architecture lends itself better to performing multiple tasks than the BeagleBoard, even though the board is a bit larger. For [Object Recognition](../../../software/object-recognition/), it was used on Honey Badger and Coby \(BLRS bots\) during VEX Gateway.
+With the PandaBoard's low [Power Consumption](../power-consumption.md) and high performance, algorithms such as [OpenCV](../../../software/object-recognition/opencv.md) and [AMS](../../../software/object-recognition/ams.md) can be run at productive frame rates. The dual-core architecture lends itself better to performing multiple tasks than the BeagleBoard, even though the board is a bit larger. For [Object Recognition](../../../software/object-recognition/), it was used on Honey Badger and Coby (BLRS bots) during VEX Gateway.
 
 The PandaBoard returned in VEX Sack Attack on Artemis as the frontend for another object recognition algorithm. As the dark green sacks were difficult to distinguish from the environment, the PandaBoard was assigned to hunt opposing teams' robots using their colored VEX flags. Acrylic cases with built-in cooling fans were installed to prevent CPU clocks from throttling due to excessive heat dissipation.
 
@@ -47,5 +47,4 @@ However, [ODROID-XU](odroid-xu.md). The PandaBoard has gained a second life for 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

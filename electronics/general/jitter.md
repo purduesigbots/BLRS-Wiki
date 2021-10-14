@@ -8,11 +8,11 @@ description: >-
 
 ![ A diagram showing how jitter might affect a square wave signal](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock_jitter.jpg)
 
-Ideally, clocking signals would always have the same frequency, but in the real world, deviations from the nameplate rate occur due to a wide range of factors. Jitter is usually stated in percentage \(%\) units, or in parts per million \(ppm\) for low values.
+Ideally, clocking signals would always have the same frequency, but in the real world, deviations from the nameplate rate occur due to a wide range of factors. Jitter is usually stated in percentage (%) units, or in parts per million (ppm) for low values.
 
 ### Random jitter
 
-All clock sources have some degree of _random jitter_, where each clock period is slightly longer or shorter than its stated duration. Over many periods, the random noise averages out and the expected number of transitions occur \(usually to very high accuracy\). Due to quantum mechanical fluctuations, random jitter is impossible to remove fully, but its magnitude is usually insignificant for many applications.
+All clock sources have some degree of _random jitter_, where each clock period is slightly longer or shorter than its stated duration. Over many periods, the random noise averages out and the expected number of transitions occur (usually to very high accuracy). Due to quantum mechanical fluctuations, random jitter is impossible to remove fully, but its magnitude is usually insignificant for many applications.
 
 ### Even-odd jitter
 
@@ -20,7 +20,7 @@ A family of variations caused by a clock period that does not divide cleanly is 
 
 ### Temperature drift
 
-Most clock sources that rely on some type of oscillating element will have a frequency that is somewhat dependent on the operating temperature. This can vary from several percentage points for RC oscillators to less than 10 ppm in temperature-compensated crystal oscillators \(TCXOs\). GPS-based time clocks, phase-locked loops, and other external references are generally free of temperature drift.
+Most clock sources that rely on some type of oscillating element will have a frequency that is somewhat dependent on the operating temperature. This can vary from several percentage points for RC oscillators to less than 10 ppm in temperature-compensated crystal oscillators (TCXOs). GPS-based time clocks, phase-locked loops, and other external references are generally free of temperature drift.
 
 ### Software jitter
 
@@ -32,9 +32,9 @@ Software routines such as a [PID Controller](../../software/control-algorithms/p
 
 A typical description in a component datasheet for expected clock **jitter**, showing the effects of both random and temperature drift
 
-Higher-quality, more expensive clocking sources are often designed to reduce or counter the effects of clocking jitter. For applications such as clocking a commodity microcontroller, a few percentage points of jitter may be acceptable for tasks not requiring precise timing. Tightly regulating operating conditions cuts down on age, device, and temperature induced jitter. Using a high-frequency clock source and dividing the frequency, or incorporating a phase-locked loop \(PLL\), can average out jitter over many periods.
+Higher-quality, more expensive clocking sources are often designed to reduce or counter the effects of clocking jitter. For applications such as clocking a commodity microcontroller, a few percentage points of jitter may be acceptable for tasks not requiring precise timing. Tightly regulating operating conditions cuts down on age, device, and temperature induced jitter. Using a high-frequency clock source and dividing the frequency, or incorporating a phase-locked loop (PLL), can average out jitter over many periods.
 
-To reduce software jitter on [PROS](../../software/vex-programming-software/pros/), avoid using delay\(\) to run a loop at a fixed frequency, as delay does not account for the time expended processing other statements in the loop. Use taskDelayUntil\(\) instead, as shown below:
+To reduce software jitter on [PROS](../../software/vex-programming-software/pros/), avoid using delay() to run a loop at a fixed frequency, as delay does not account for the time expended processing other statements in the loop. Use taskDelayUntil() instead, as shown below:
 
 ```c
 // NOT how a timed loop is supposed to be run
@@ -65,5 +65,4 @@ void operatorControl() {
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

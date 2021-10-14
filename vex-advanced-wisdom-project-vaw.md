@@ -13,4 +13,3 @@ The VEX community is one that is better together, we believe that the increased 
 **Thank you,**
 
 * The SIGBots Wiki Development Team
-

@@ -22,5 +22,4 @@ The upgrade to [PROS](../vex-programming-software/pros/) and a full multi-taskin
 
 ### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

@@ -14,19 +14,18 @@ The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi
 
 ## Specifications
 
-| **V5 Vision Sensor** |  |
-| :--- | :--- |
-| Vision Framerate | 50 Frames per second |
-| Color Signatures | 7 independent colors |
-| Color Codes | 2 3 or 4 color signatures per color code |
-| Image Size | 640 x 400 pixels |
-| Microcontroller | Dual ARM Cortex M4 and M0 |
-| Connectivity | V5 Smart Port IQ Smart Port USB Micro |
-| Wireless | 2.4 GHz 802.11 Wi-Fi Direct hotspot with built in webserver |
-| Compatibility | Any device with WiFi and a Browser |
-| Weight | 0.77lbs \(350g\) |
+| **V5 Vision Sensor** |                                                             |
+| -------------------- | ----------------------------------------------------------- |
+| Vision Framerate     | 50 Frames per second                                        |
+| Color Signatures     | 7 independent colors                                        |
+| Color Codes          | 2 3 or 4 color signatures per color code                    |
+| Image Size           | 640 x 400 pixels                                            |
+| Microcontroller      | Dual ARM Cortex M4 and M0                                   |
+| Connectivity         | V5 Smart Port IQ Smart Port USB Micro                       |
+| Wireless             | 2.4 GHz 802.11 Wi-Fi Direct hotspot with built in webserver |
+| Compatibility        | Any device with WiFi and a Browser                          |
+| Weight               | 0.77lbs (350g)                                              |
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

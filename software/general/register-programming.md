@@ -20,5 +20,4 @@ This code looks very little like C; most constants are in hexadecimal, most vari
 
 ### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

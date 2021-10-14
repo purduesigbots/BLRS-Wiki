@@ -6,7 +6,7 @@ description: >-
 
 # ODROID-XU4
 
-![An ODROID-XU4](../../../.gitbook/assets/xu4_1_498x375.jpg)
+![An ODROID-XU4](../../../.gitbook/assets/xu4\_1\_498x375.jpg)
 
 ## Features
 
@@ -16,21 +16,21 @@ The[ ODROID-XU4](https://www.hardkernel.com/shop/odroid-xu4q-special-price/) is 
 
 ## Specifications
 
-| Processor | Samsung Exynos5422 ARM® Cortex™-A15 Quad 2.0GHz/Cortex™-A7 Quad 1.4GHz |
-| :--- | :--- |
-| Memory | 2Gbyte LPDDR3 RAM PoP \(750Mhz, 12GB/s memory bandwidth, 2x32bit bus\) |
-| 3D Accelerator | Mali™-T628 MP6 OpenGL ES 3.1 / 3.0 / 2.0 / 1.1 and OpenCL 1.2 Full profile |
-| Audio | HDMI Digital audio output. Optional USB sound card |
-| USB3.0 Host | SuperSpeed USB standard A type connector x 2 port |
-| USB2.0 Host | HighSpeed USB standard A type connector x 1 port |
-| Display | HDMI 1.4a with a Type-A connector |
-| Storage \(Option\) | eMMC module socket : eMMC 5.0 Flash Storage \(up to 64GByte\) MicroSD Card Slot \(up to 128GByte\) |
-| Fast Ethernet LAN | 10/100/1000Mbps Ethernet with RJ-45 Jack \( Auto-MDIX support\) |
-| WiFi \(Option\) | USB IEEE 802.11 ac/b/g/n 1T1R WLAN with Antenna \(External USB adapter\) |
-| HDD/SSD SATA interface \(Optional\) | SuperSpeed USB \(USB 3.0\) to Serial ATA3 adapter for 2.5″/3.5″ HDD and SSD storage |
-| Power Input | 4.8Volt~5.2Volt  \(5V/4A Power supply is recommended\) |
-| System Software | Ubuntu 16.04 + OpenGL ES + OpenCL on Linux Kernel 4.14 LTS Android 4.4.2 on Kernel LTS 3.10 Android 7.1 is available as a community driven OS development. Full source code is accessible via our Github. |
-| Size | 83 x 58 x 20 mm \(weight: 38gram\) without cooler approx |
+| Processor                         | Samsung Exynos5422 ARM® Cortex™-A15 Quad 2.0GHz/Cortex™-A7 Quad 1.4GHz                                                                                                                                    |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Memory                            | 2Gbyte LPDDR3 RAM PoP (750Mhz, 12GB/s memory bandwidth, 2x32bit bus)                                                                                                                                      |
+| 3D Accelerator                    | Mali™-T628 MP6 OpenGL ES 3.1 / 3.0 / 2.0 / 1.1 and OpenCL 1.2 Full profile                                                                                                                                |
+| Audio                             | HDMI Digital audio output. Optional USB sound card                                                                                                                                                        |
+| USB3.0 Host                       | SuperSpeed USB standard A type connector x 2 port                                                                                                                                                         |
+| USB2.0 Host                       | HighSpeed USB standard A type connector x 1 port                                                                                                                                                          |
+| Display                           | HDMI 1.4a with a Type-A connector                                                                                                                                                                         |
+| Storage (Option)                  | eMMC module socket : eMMC 5.0 Flash Storage (up to 64GByte) MicroSD Card Slot (up to 128GByte)                                                                                                            |
+| Fast Ethernet LAN                 | 10/100/1000Mbps Ethernet with RJ-45 Jack ( Auto-MDIX support)                                                                                                                                             |
+| WiFi (Option)                     | USB IEEE 802.11 ac/b/g/n 1T1R WLAN with Antenna (External USB adapter)                                                                                                                                    |
+| HDD/SSD SATA interface (Optional) | SuperSpeed USB (USB 3.0) to Serial ATA3 adapter for 2.5″/3.5″ HDD and SSD storage                                                                                                                         |
+| Power Input                       | 4.8Volt\~5.2Volt  (5V/4A Power supply is recommended)                                                                                                                                                     |
+| System Software                   | Ubuntu 16.04 + OpenGL ES + OpenCL on Linux Kernel 4.14 LTS Android 4.4.2 on Kernel LTS 3.10 Android 7.1 is available as a community driven OS development. Full source code is accessible via our Github. |
+| Size                              | 83 x 58 x 20 mm (weight: 38gram) without cooler approx                                                                                                                                                    |
 
 {% hint style="danger" %}
 This section below is for the original ODROID-XU
@@ -38,18 +38,18 @@ This section below is for the original ODROID-XU
 
 ![](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor_odroidxu.jpg)
 
-| **Architecture:** 32-bit [Cortex-A15](http://www.arm.com/products/processors/cortex-a/cortex-a15.php/) |
-| :--- |
-| **Processor:** [Exynos 5 Octa](http://www.samsung.com/global/business/semiconductor/minisite/Exynos/products5octa.html/) _\(quad-core\)_ |
-| **Languages:** C, C++, Many others |
-| **Clock:** 1.6 GHz |
-| **Vcore:** 1.2 V |
-| **Vio:**1.8 V |
-| **Power:** 7 W |
-| **Flash:** MicroSD Card |
-| **RAM:** 2048 MB |
-| **GPIO:** 10? _\(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_\)_ |
-| **Peripherals:** 2x USB 3.0, 4x USB 2.0, Mini-HDMI, DisplayPort, 3.5mm audio out, Ethernet, [UART](../uart.md) |
+| **Architecture:** 32-bit [Cortex-A15](http://www.arm.com/products/processors/cortex-a/cortex-a15.php/)                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Processor:** [Exynos 5 Octa](http://www.samsung.com/global/business/semiconductor/minisite/Exynos/products5octa.html/) _(quad-core)_ |
+| **Languages:** C, C++, Many others                                                                                                     |
+| **Clock:** 1.6 GHz                                                                                                                     |
+| **Vcore:** 1.2 V                                                                                                                       |
+| **Vio:**1.8 V                                                                                                                          |
+| **Power:** 7 W                                                                                                                         |
+| **Flash:** MicroSD Card                                                                                                                |
+| **RAM:** 2048 MB                                                                                                                       |
+| **GPIO:** 10? _(none_ [_5 Volt Tolerant_](../5-volt-tolerant.md)_)_                                                                    |
+| **Peripherals:** 2x USB 3.0, 4x USB 2.0, Mini-HDMI, DisplayPort, 3.5mm audio out, Ethernet, [UART](../uart.md)                         |
 
 The ODROID-XU is the first development board for the ARM Cortex-A15 platform available for sale, featuring the big.LITTLE architecture which allows an outstanding standby power usage of less than 3 W, yet unprecedented quad-core Cortex-A15 power on demand at a unit cost of only $170 before shipping.
 
@@ -71,5 +71,4 @@ The ODROID-XU's stellar performance combined with only marginally higher power c
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

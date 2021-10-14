@@ -30,7 +30,7 @@ Competition teams should be able to use one Robot Battery for 2 or 3 matches wit
 
 On of the main issues that has been noted with V5 batteries is the flashing red lights issue. Sometimes while charging or using a V5 battery a loss of power will occur and the battery LEDs will flash red. The V5 Battery LED codes can be seen [here](https://kb.vex.com/hc/en-us/articles/360035589652). The current steps to solve this problem are to first allow the battery to charge to full capacity. If this doesn't solve the problem another solution could be to update the firmware [using the firmware updater](https://www.vexrobotics.com/vexedr/products/firmware). And lastly a hardware reset of the battery by inserting a paperclip into the reset hole.
 
-![](../../.gitbook/assets/Step7pt2.png)
+![](../../.gitbook/assets/step7pt2.png)
 
 {% hint style="danger" %}
 This section refers to the old VEX Cortex Battery which is no longer competition legal.

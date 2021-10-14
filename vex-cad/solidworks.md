@@ -22,5 +22,3 @@ If you need more help, or would like assistance from experienced users, please a
 
 * Owen - 169E
 
-
-

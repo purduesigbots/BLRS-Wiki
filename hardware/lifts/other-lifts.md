@@ -6,7 +6,7 @@ description: Other lifts that could possibly be found on robots
 
 ## Two Bar
 
-![2-Bar with Roller Intakes Mounted in Red (CAD of 7K Courtesy of Zach 929U)](<../../.gitbook/assets/image (21).png>)
+![2-Bar with Roller Intakes Mounted in Red (CAD of 7K Courtesy of Zach 929U)](<../../.gitbook/assets/image (17).png>)
 
 ### Description
 
@@ -52,7 +52,7 @@ This is done by adding a fixed orientation sprocket at the base of the lift bar,
 
 ## Elevator/Cascade Lift
 
-![Cascade Lift Retracted (Left) and Extended (Right) Courtesy of Josh 99904A](<../../.gitbook/assets/image (22).png>)
+![Cascade Lift Retracted (Left) and Extended (Right) Courtesy of Josh 99904A](<../../.gitbook/assets/image (21).png>)
 
 Example: NorCal 2021 Robot (View in .5x or full screen):
 

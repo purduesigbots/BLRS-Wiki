@@ -10,7 +10,7 @@ If you select (left click) your cross brace and drag your mouse, you can move yo
 
 To ground the cross brace, left click the cross brace to select it.  Right click, then select `Grounded`.
 
-![Right Click Menu](<../../../.gitbook/assets/image (57).png>)
+![Right Click Menu](<../../../.gitbook/assets/image (202).png>)
 
 After the part is grounded, you should see a lock next to your mouse when you hover over the part. 
 

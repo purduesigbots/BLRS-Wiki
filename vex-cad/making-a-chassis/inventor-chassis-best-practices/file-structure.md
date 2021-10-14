@@ -10,7 +10,7 @@ First we need to make a new `Folder` in our `CAD` directory.  For this tutorial,
 
 Within this folder, we will create folders for each subsystem on our robot.  In the image below there is a folder for the chassis, claw and lift.  In these folders will go any cut parts for that subsystem and subassembly files for that subsystem. 
 
-![Folders for each Subassembly](<../../../.gitbook/assets/image (117).png>)
+![Folders for each Subassembly](<../../../.gitbook/assets/image (209).png>)
 
 
 

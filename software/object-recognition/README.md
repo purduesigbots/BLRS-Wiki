@@ -1,6 +1,6 @@
 # Object Recognition
 
-**Object recognition** is the process of using a camera \(typically an inexpensive web cam as shown in [External Sensors](../../vex-electronics/vex-sensors/)\) to detect objects of interest. This is essential for adapting autonomous code to a changing environment; object recognition is a useful step for dynamic autonomous modes. At close range, [Red/Green Buoy](red-green-buoy.md) or other passive homing methods using range finders can be used, once the type of object can be determined.
+**Object recognition** is the process of using a camera (typically an inexpensive web cam as shown in [External Sensors](../../vex-electronics/vex-sensors/)) to detect objects of interest. This is essential for adapting autonomous code to a changing environment; object recognition is a useful step for dynamic autonomous modes. At close range, [Red/Green Buoy](red-green-buoy.md) or other passive homing methods using range finders can be used, once the type of object can be determined.
 
 ## Methods
 
@@ -30,5 +30,4 @@ With the use of the Kinect, the **OpenNI** library has shown great promise to re
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

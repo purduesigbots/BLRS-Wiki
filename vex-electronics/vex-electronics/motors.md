@@ -4,7 +4,7 @@ description: A VEX Motor is the primary actuator for a VEX robot.
 
 # VEX Motors
 
-[![](../../.gitbook/assets/276-4840-v5-smart-motor-front-iso_1.jpg)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex_motor_393.jpg)
+[![](../../.gitbook/assets/276-4840-v5-smart-motor-front-iso\_1.jpg)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex_motor\_393.jpg)
 
 A VEX motor converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
 
@@ -12,21 +12,21 @@ A VEX motor converts stored electrical energy from the [VEX battery](vex-battery
 
 Maximum power is 11W continuous and maximum torque is 2.1 Nm. Free speed is software-limited by the motor’s processor to keep consistent performance motor-to-motor and to allow top speed under loads. Metal gears are used in all high torque locations for strength. Plastic gears are used in the low load, high speed locations for smooth and efficient operation. An internal gear cartridge is user changeable for output gear ratios of 6:1, 18:1, and 36:1. The motor’s internal circuit board has a full H-Bridge and its own Cortex M0 microcontroller to measure position, speed, direction, voltage, current and temperature. The microcontroller runs its own [PID](../../software/control-algorithms/pid-controller.md) with velocity control, position control, torque control, feedforward gain, and motion planning. [PID](../../software/control-algorithms/pid-controller.md) is internally calculated at a 10 millisecond rate. The motor’s [PID](../../software/control-algorithms/pid-controller.md) values are pre-tuned by VEX for performance across all operating conditions.
 
-[Stall](../../electronics/general/stalling.md) current is limited to 2.5A to keep heat under control without affecting peak power output. Limiting [stall](../../electronics/general/stalling.md) current eliminates the need for automatic resetting fuses \([PTC devices](../../electronics/general/resettable-fuse-ptc.md)\) in the motor, which can cause unintended motor outages. The 2.5A limit essentially removes the undesirable region of the motor’s performance curve, ensuring users do not unintentionally create stall situations. Finally, to make sure the motor lasts, the internal temperature is monitored. If a motor is approaching an unsafe temperature, the user gets a warning. If the motor reaches its temperature limit, performance is automatically reduced to ensure no damage occurs.
+[Stall](../../electronics/general/stalling.md) current is limited to 2.5A to keep heat under control without affecting peak power output. Limiting [stall](../../electronics/general/stalling.md) current eliminates the need for automatic resetting fuses ([PTC devices](../../electronics/general/resettable-fuse-ptc.md)) in the motor, which can cause unintended motor outages. The 2.5A limit essentially removes the undesirable region of the motor’s performance curve, ensuring users do not unintentionally create stall situations. Finally, to make sure the motor lasts, the internal temperature is monitored. If a motor is approaching an unsafe temperature, the user gets a warning. If the motor reaches its temperature limit, performance is automatically reduced to ensure no damage occurs.
 
 ## Specs
 
-|  | **V5 Smart Motor Specifications** |
-| :--- | :--- |
-| Speed | Approximately 100, 200 or 600 rpm |
-| Peak Power | 11 W |
-| Continuous Power | 11 W |
-| Stall Torque \(with 100 RPM cartridge\) | 2.1 Nm |
-| Low Battery Performance | 100% Power Output |
-| Feedback | Position Velocity \(calculated\) Current Voltage Power Torque \(calculated\) Efficiency \(calculated\) Temperature |
-| Encoder | 1800 ticks/rev with 36:1 gears 900 ticks/rev with 18:1 gears 300 ticks/rev with 6:1 gears |
-| Dimensions | 2.26” W x 2.82” L x 1.30” H 57.3 mm W x 71.6 mm L x 33.0 mm H |
-| Weight | 0.342 lbs 155 grams |
+|                                       | **V5 Smart Motor Specifications**                                                                            |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Speed                                 | Approximately 100, 200 or 600 rpm                                                                            |
+| Peak Power                            | 11 W                                                                                                         |
+| Continuous Power                      | 11 W                                                                                                         |
+| Stall Torque (with 100 RPM cartridge) | 2.1 Nm                                                                                                       |
+| Low Battery Performance               | 100% Power Output                                                                                            |
+| Feedback                              | Position Velocity (calculated) Current Voltage Power Torque (calculated) Efficiency (calculated) Temperature |
+| Encoder                               | 1800 ticks/rev with 36:1 gears 900 ticks/rev with 18:1 gears 300 ticks/rev with 6:1 gears                    |
+| Dimensions                            | 2.26” W x 2.82” L x 1.30” H 57.3 mm W x 71.6 mm L x 33.0 mm H                                                |
+| Weight                                | 0.342 lbs 155 grams                                                                                          |
 
 ## Troubleshooting
 
@@ -52,13 +52,13 @@ Despite the higher current consumption, these motors are more efficient and robu
 
 The stock internal gears of the 2-Wire Motor 393 can be replaced with another set of "high speed" gears included with the motor. This reduces the output torque to the equivalent of a 2-Wire Motor 269, but increases the speed to 160 rpm, making it the fastest motor currently in production. Sets of replacement gears for both the low-speed and high-speed options are available separately as well.
 
-| Operating Point | Speed | Torque | Current |
-| :--- | :--- | :--- | :--- |
-| Free \(no load\) | 100 rpm _\(160 rpm\)\*_ | 0 **in**∗lbs | 0.15 A |
-| Maximum Efficiency | 75 rpm _\(120 rpm\)\*_ | 3.7 **in**∗lbs _\(2.25 **in**∗lbs\)\*_ | 1.4 A |
-| Maximum Power | 50 rpm _\(80 rpm\)\*_ | 6.7 **in**∗lbs _\(3.5 **in**∗lbs\)\*_ | 2.5 A |
-| Maximum Torque | 40 rpm _\(64 rpm\)\*_ | 9.0 **in**∗lbs _\(4.3 **in**∗lbs\)\*_ | 3.0 A _\(fuse trips eventually\)_ |
-| Stall | 0 rpm | 13.5 **in**∗lbs _\(8.4 **in**∗lbs\)\*_ | 4.8 A _\(fuse trips quickly\)_ |
+| Operating Point    | Speed                 | Torque                               | Current                         |
+| ------------------ | --------------------- | ------------------------------------ | ------------------------------- |
+| Free (no load)     | 100 rpm _(160 rpm)\*_ | 0 **in**∗lbs                         | 0.15 A                          |
+| Maximum Efficiency | 75 rpm _(120 rpm)\*_  | 3.7 **in**∗lbs _(2.25 **in**∗lbs)\*_ | 1.4 A                           |
+| Maximum Power      | 50 rpm _(80 rpm)\*_   | 6.7 **in**∗lbs _(3.5 **in**∗lbs)\*_  | 2.5 A                           |
+| Maximum Torque     | 40 rpm _(64 rpm)\*_   | 9.0 **in**∗lbs _(4.3 **in**∗lbs)\*_  | 3.0 A _(fuse trips eventually)_ |
+| Stall              | 0 rpm                 | 13.5 **in**∗lbs _(8.4 **in**∗lbs)\*_ | 4.8 A _(fuse trips quickly)_    |
 
 _\* Indicates specifications when using the "high speed" internal gearing option_
 
@@ -66,7 +66,6 @@ All motor specifications are at 7.2 volts. Actual motor specifications can fall 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
 
-[![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor_393_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor_393_curve.png)
-
+[![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor\_393\_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor\_393\_curve.png)

@@ -10,23 +10,23 @@ The LeafLabs Maple has reached end of life and is no longer sold or supported.
 
 ![](https://phabricator.purduesigbots.com/file/data/au545ntykxeyir2styvt/PHID-FILE-7yzxrysy7jougj4f5fbo/processor_maple.jpg)
 
-The leaflabs Maple is programmed in C using a provided library, libmaple [\(ref\)](https://github.com/leaflabs/libmaple), to make programming similar to the [Arduino](arduino.md) environment. Some of the [GPIO](../gpio.md) pins on the Maple are aligned with the Arduino form factor.
+The leaflabs Maple is programmed in C using a provided library, libmaple [(ref)](https://github.com/leaflabs/libmaple), to make programming similar to the [Arduino](arduino.md) environment. Some of the [GPIO](../gpio.md) pins on the Maple are aligned with the Arduino form factor.
 
 ### Features
 
-* Fast, powerful 32-bit ARM processor with lots of memory [\(ref\)](http://leaflabs.com/devices/maple)
+* Fast, powerful 32-bit ARM processor with lots of memory [(ref)](http://leaflabs.com/devices/maple)
 * Fits the Arduino form factor, so many Arduino shields are usable
 * Low [Power Consumption](../power-consumption.md) for performance, same processor as [VEX Cortex](../../../vex-electronics/legacy/vex-cortex.md)
 * Programmed in native C code with excellent low-level library
-* Extensive peripheral set \([I2C](../i2c.md), [UART](../uart.md), [SPI](../spi.md)\) and large number of GPIOs [\(ref\)](http://leaflabs.com/docs/hardware/maple-ret6.html)
+* Extensive peripheral set ([I2C](../i2c.md), [UART](../uart.md), [SPI](../spi.md)) and large number of GPIOs [(ref)](http://leaflabs.com/docs/hardware/maple-ret6.html)
 * Unmatched [Analog-Digital Converter](../analog-digital-converter.md) complement and resolution
 * Flexible power supply options and built-in regulators
 
 ### Shortcomings
 
-* A little more expensive than other options \(e.g. the [Arduino](arduino.md) or [Netduino](netduino.md)\)
+* A little more expensive than other options (e.g. the [Arduino](arduino.md) or [Netduino](netduino.md))
 * Not all pins are [5 Volt Tolerant](../5-volt-tolerant.md)
-* [Slew Rate](../slew-rate.md) and [Output Drive](../output-drive.md) leave some to be desired \(but are substantially better than [PandaBoard](pandaboard.md)-like alternatives\)
+* [Slew Rate](../slew-rate.md) and [Output Drive](../output-drive.md) leave some to be desired (but are substantially better than [PandaBoard](pandaboard.md)-like alternatives)
 
 ### Versions
 
@@ -40,5 +40,4 @@ The Maple supersedes the somewhat unreliable and slow [Netduino](netduino.md). A
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

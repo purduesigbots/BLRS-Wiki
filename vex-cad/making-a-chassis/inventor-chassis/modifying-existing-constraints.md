@@ -12,11 +12,11 @@ The insert constraint brings two faces together and keeps them concentric.  How 
 
 On the left of our screen is our model browser.  If we click the `Relationships` folder, we can select the constraint we want to modify.  By typing`0.5` here and pressing `Enter` on our keyboards. 
 
-![Insert Constraint Parameter](<../../../.gitbook/assets/image (61).png>)
+![Insert Constraint Parameter](<../../../.gitbook/assets/image (130).png>)
 
 If done correctly, the 2x will now be 0.5" away from the 5x. 
 
-![2x is Raised 0.5"](<../../../.gitbook/assets/image (62).png>)
+![2x is Raised 0.5"](<../../../.gitbook/assets/image (142).png>)
 
 {% hint style="info" %}
 Remember to save!

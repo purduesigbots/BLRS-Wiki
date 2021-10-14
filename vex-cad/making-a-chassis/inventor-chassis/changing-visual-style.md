@@ -14,19 +14,19 @@ This is a personal preference!  We find that Shaded with Edges makes it a little
 
 In the ribbon, select `View` and go to `Visual Style`.  The default view is `Shaded`.  Select `Shaded with Edges`.  
 
-![Visual Style Menu](<../../../.gitbook/assets/image (51).png>)
+![Visual Style Menu](<../../../.gitbook/assets/image (105).png>)
 
 ### Shaded with Edges
 
-![Steel 5 Wide with Shaded with Edges Visual Style](<../../../.gitbook/assets/image (54).png>)
+![Steel 5 Wide with Shaded with Edges Visual Style](<../../../.gitbook/assets/image (113).png>)
 
 ### Shaded 
 
-![Steel 5 Wide with Shaded Visual Style](<../../../.gitbook/assets/image (53).png>)
+![Steel 5 Wide with Shaded Visual Style](<../../../.gitbook/assets/image (61).png>)
 
 ### Realistic
 
-![Steel 5 Wide with Realistic Visual Style](<../../../.gitbook/assets/image (55).png>)
+![Steel 5 Wide with Realistic Visual Style](<../../../.gitbook/assets/image (78).png>)
 
 
 

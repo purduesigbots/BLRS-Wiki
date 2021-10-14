@@ -7,4 +7,3 @@ description: Learn how to use Solidworks by making a chassis.
 {% hint style="warning" %}
 This article is under construction!
 {% endhint %}
-

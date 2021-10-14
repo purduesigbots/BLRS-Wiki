@@ -7,15 +7,14 @@
 * Desktop applications
 
 | Details: |
-| :--- |
-
+| -------- |
 
 * **Not VEX-supported**
 * Object and motion detection
 * Kinect video acquisition
 * GPU/OpenCL support
 
-**OpenNI** \(Open Natural Interaction Library\) is a library of programming functions mainly aimed at interacting with 3D input devices like the Microsoft Kinect, developed by PrimeSense. It is free for use under the open source Apache license. The library is cross-platform, and focuses mainly on interaction with "natural input" devices such as the human recognition features of the Kinect. Unlike [OpenCV](opencv.md), OpenNI does not have image processing capabilities and is mostly a framework for retrieving data and performing skeletal tracking.
+**OpenNI** (Open Natural Interaction Library) is a library of programming functions mainly aimed at interacting with 3D input devices like the Microsoft Kinect, developed by PrimeSense. It is free for use under the open source Apache license. The library is cross-platform, and focuses mainly on interaction with "natural input" devices such as the human recognition features of the Kinect. Unlike [OpenCV](opencv.md), OpenNI does not have image processing capabilities and is mostly a framework for retrieving data and performing skeletal tracking.
 
 While it is true that OpenNI 2 has been released at this point, they continue to support only the official Microsoft Kinect SDK. For the time being OpenNI 1.X will be the preferred SDK for use on Linux systems.
 
@@ -46,7 +45,7 @@ cd OpenNI
 git checkout unstable
 ```
 
-to get the latest version of OpenNI _\(this should not take too long\)_
+to get the latest version of OpenNI _(this should not take too long)_
 
 1. Edit Platform/Linux/Build/Common/Platform.Arm and remove all instances of -mfloat-abi to switch to hard float mode
 2. Execute:
@@ -58,9 +57,9 @@ cd Platform/Linux/CreateRedist
 ./RedistMaker.Arm
 ```
 
-If it breaks on a "-j0" problem, change it to "-j4" inside Redist\_OpenNI.py
+If it breaks on a "-j0" problem, change it to "-j4" inside Redist_OpenNI.py
 
-1. Install OpenNI \(the version number may change\):
+1. Install OpenNI (the version number may change):
 
 ```bash
 lang=
@@ -80,7 +79,7 @@ cd SensorKinect
 ```
 
 1. Once again, get rid of the software floating point flags in Platform/Linux/Build/Common/Platform.arm by removing all instances of -mfloat-abi
-2. Compile the Kinect drivers \(the version number may change\):
+2. Compile the Kinect drivers (the version number may change):
 
 ```bash
 lang=
@@ -92,7 +91,7 @@ cd ../Redist/Sensor-Bin-Linux-Arm-v5.1.2.1
 
 1. Fix the USB drivers by editing Config/GlobalDefaultsKinect.ini and changing ;UsbInterface=2 to UsbInterface=1
 2. Install the USB drivers:
-3. Add yourself to the video group \(replace _username_ with your user name, **requires reboot** to take effect\):
+3. Add yourself to the video group (replace _username_ with your user name, **requires reboot** to take effect):
 
 ```bash
 lang=
@@ -108,5 +107,4 @@ Ultimately, discontinuing the use of OpenNI altogether and switching to a C-only
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

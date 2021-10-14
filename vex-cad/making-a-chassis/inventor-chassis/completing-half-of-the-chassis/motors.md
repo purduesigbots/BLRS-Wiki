@@ -10,13 +10,13 @@ First we need to place them.  We can find them in `Electronics/V5 Simple Motor.i
 
 Motors are constrained the exact same way as bearings and c-channels.  One insert, one mate.  
 
-![Insert Constraint between Motor and C-Channel](<../../../../.gitbook/assets/image (71).png>)
+![Insert Constraint between Motor and C-Channel](<../../../../.gitbook/assets/image (220).png>)
 
-![Mate Constraint between Motor and C-Channel](<../../../../.gitbook/assets/image (72).png>)
+![Mate Constraint between Motor and C-Channel](<../../../../.gitbook/assets/image (86).png>)
 
 After placing the motors where I wanted the motors,
 
-![Completed Motors](<../../../../.gitbook/assets/image (73).png>)
+![Completed Motors](<../../../../.gitbook/assets/image (225).png>)
 
 {% hint style="info" %}
 Remember to save!

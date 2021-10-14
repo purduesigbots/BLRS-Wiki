@@ -8,10 +8,10 @@ description: EasyC is a programming language for the VEX Cortex.
 EasyC is for the older VEX Cortex which is no longer competitve.
 {% endhint %}
 
-| Platforms: |
-| :--- |
-| Windows |
-| OSS \(Partial\) |
+| Platforms:    |
+| ------------- |
+| Windows       |
+| OSS (Partial) |
 
 * VEX Supported
 * Native code compilation
@@ -25,7 +25,7 @@ EasyC is for the older VEX Cortex which is no longer competitve.
 
 ## Features
 
-* Native code compilation \(thus fast execution\)
+* Native code compilation (thus fast execution)
 * Built-in library is a good compromise between ease of use and granularity
 * VEX-supported with strong community following, especially among high school teams
 * IDE integrates firmware updates, code authoring, compilation, and flashing into one program
@@ -41,5 +41,4 @@ EasyC is for the older VEX Cortex which is no longer competitve.
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

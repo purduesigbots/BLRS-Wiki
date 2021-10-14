@@ -1,6 +1,6 @@
 # Operator Control
 
-The **operator control** phase is the second half of a VEX Robotics Challenge match, where human drivers take control using a [VEX Joystick](../../vex-electronics/vex-electronics/vex-joystick.md). In high school, this phase lasts for the lion's share of the game \(two minutes\), but in VEX U, this mode is shortened to 60 seconds. Some rules of the game may change during this period, in an effort to encourage new strategies or place a bonus on scoring during the Autonomous Period.
+The **operator control** phase is the second half of a VEX Robotics Challenge match, where human drivers take control using a [VEX Joystick](../../vex-electronics/vex-electronics/vex-joystick.md). In high school, this phase lasts for the lion's share of the game (two minutes), but in VEX U, this mode is shortened to 60 seconds. Some rules of the game may change during this period, in an effort to encourage new strategies or place a bonus on scoring during the Autonomous Period.
 
 ## Dynamics
 
@@ -10,5 +10,4 @@ Near the end of the match, a special scoring element usually comes into play. Ex
 
 ### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

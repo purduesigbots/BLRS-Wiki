@@ -5,7 +5,7 @@ description: The VEX Gyro returns the rate of rotation around the veritcal axis.
 # Gyroscope
 
 {% hint style="warning" %}
-The Gyroscope is no longer sold on the VEX storefront. Check out the [V5 Inertial Sensor \(IMU\)](../smart-port-sensors/imu.md) for the most up to date sensor carried by VEX.
+The Gyroscope is no longer sold on the VEX storefront. Check out the [V5 Inertial Sensor (IMU)](../smart-port-sensors/imu.md) for the most up to date sensor carried by VEX.
 {% endhint %}
 
 ![](https://phabricator.purduesigbots.com/file/data/p7jm7bskc4bq23bdhvxn/PHID-FILE-w3fvfl5l6ijotesvazfz/vex_gyro.jpg)
@@ -16,5 +16,4 @@ The VEX Gyro is highly vulnerable to [Line Noise](../../../electronics/general/l
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

@@ -12,9 +12,9 @@ Tab characters are generally better for indents.
 
 Rationale: The whole idea behind indentation is to clearly define where a block of control starts and ends. Especially when you've been looking at your screen for 20 straight hours, you'll find it a lot easier to see how the indentation works if you have large indentations.
 
-With tab characters, it is up to user preference how many characters deep indents look. No more flame wars \(We're looking at you Linus. Eight characters, really?\)
+With tab characters, it is up to user preference how many characters deep indents look. No more flame wars (We're looking at you Linus. Eight characters, really?)
 
-If you choose to exclusively use tabs, it is _highly_ recommended that you modify your Atom settings to ensure that tabs are always used for indentation. This setting can be changed by modifying Settings-&gt;Editor-&gt;Tab Type to "hard". This will prevent the editor from using spaces for indentation.
+If you choose to exclusively use tabs, it is _highly_ recommended that you modify your Atom settings to ensure that tabs are always used for indentation. This setting can be changed by modifying Settings->Editor->Tab Type to "hard". This will prevent the editor from using spaces for indentation.
 
 The preferred way to ease multiple indentation levels in a switch statement is to align the switch and its subordinate case labels in the same column instead of double-indenting the case labels. E.g.:
 
@@ -72,7 +72,7 @@ if (x is true) {
 }
 ```
 
-This applies to all non-function statement blocks \(if, switch, for, while, do\). E.g.:
+This applies to all non-function statement blocks (if, switch, for, while, do). E.g.:
 
 ```c
 switch (action) {
@@ -95,7 +95,7 @@ int function(int x) {
 }
 ```
 
-Also, note that this brace-placement also minimizes the number of empty \(or almost empty\) lines, without any loss of readability. Thus, as the supply of new-lines on your screen is not a renewable resource \(think 25-line terminal screens here\), you have more empty lines to put comments on.
+Also, note that this brace-placement also minimizes the number of empty (or almost empty) lines, without any loss of readability. Thus, as the supply of new-lines on your screen is not a renewable resource (think 25-line terminal screens here), you have more empty lines to put comments on.
 
 Do not unnecessarily use braces where a single statement will do.
 
@@ -124,23 +124,23 @@ C is a Spartan language, and so should your naming be. Unlike Modula-2 and Pasca
 
 _However_, while mixed-case names are frowned upon, descriptive names for global variables are a must. To call a global function foo is a shooting offense.
 
-_Global_ variables \(to be used only if you really need them\) need to have descriptive names, as do global functions. If you have a function that counts the number of active users, you should call that `count_active_users()` or similar, you should not call it `cntusr()`.
+_Global_ variables (to be used only if you really need them) need to have descriptive names, as do global functions. If you have a function that counts the number of active users, you should call that `count_active_users()` or similar, you should not call it `cntusr()`.
 
-Encoding the type of a function into the name \(so-called Hungarian notation\) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer. No wonder MicroSoft makes buggy programs.
+Encoding the type of a function into the name (so-called Hungarian notation) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer. No wonder MicroSoft makes buggy programs.
 
-LOCAL variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
+LOCAL variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
 
 If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
 
-Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE
+Functions and variables should be named in camelCase constants and macros should be defined in UPPER_SNAKE_CASE
 
 ## Functions
 
 Functions should be short and sweet, and do just one thing. They should fit on one or two screenfuls of text, and do one thing and do that well.
 
-The maximum length of a function is inversely proportional to the complexity and indentation level of that function. So, if you have a conceptually simple function that is just one long \(but simple\) case-statement, where you have to do lots of small things for a lot of different cases, it's OK to have a longer function.
+The maximum length of a function is inversely proportional to the complexity and indentation level of that function. So, if you have a conceptually simple function that is just one long (but simple) case-statement, where you have to do lots of small things for a lot of different cases, it's OK to have a longer function.
 
-However, if you have a complex function, and you suspect that a less-than-gifted first-year high-school student might not even understand what the function is all about, you should adhere to the maximum limits all the more closely. Use helper functions with descriptive names \(you can ask the compiler to in-line them if you think it's performance-critical, and it will probably do a better job of it than you would have done\).
+However, if you have a complex function, and you suspect that a less-than-gifted first-year high-school student might not even understand what the function is all about, you should adhere to the maximum limits all the more closely. Use helper functions with descriptive names (you can ask the compiler to in-line them if you think it's performance-critical, and it will probably do a better job of it than you would have done).
 
 Another measure of the function is the number of local variables. They shouldn't exceed 5-10, or you're doing something wrong. Re-think the function, and split it into smaller pieces. A human brain can generally easily keep track of about 7 different things, anything more and it gets confused. You know you're brilliant, but maybe you'd like to understand what you did 2 weeks from now.
 
@@ -200,14 +200,14 @@ float Q_rsqrt(float number) {
 In the above example, there is a line of code that has been commented out. This is fine to do while testing, but any commented out lines of code should be removed before any merge into the master branch takes place, unless a compelling reason can be presented for them to remain.
 {% endhint %}
 
-### Notes to Other Developers \(Or Yourself\)
+### Notes to Other Developers (Or Yourself)
 
 When writing code, it can sometimes be useful to leave notes to other developers or to yourself in the future. Examples of these include:
 
 * `// TODO: something that should be done`
 * `// NOTE: a note about something in the code`
 
-Notes starting with these keywords \(case sensitive\) are automatically highlighted in the PROS Editor.
+Notes starting with these keywords (case sensitive) are automatically highlighted in the PROS Editor.
 
 ## Miscellaneous
 
@@ -215,13 +215,13 @@ Notes starting with these keywords \(case sensitive\) are automatically highligh
 * Typedefs may also be used to reduce `struct my_struct` to `my_struct_t` and `enum my_enum` to `my_enum_t`. Neither significantly remove information conveyed by the type name. If you're not sure if it's struct or enum by inference, then either rename the type or it doesn't matter.
 * Pointers go with the type. `char* str` not `char *str`. I probably want to know that it's a pointer when looking at the type, not what it's pointing to and only maybe find out it's a pointer.
 
-Wherever possible, don't use preprocessor conditionals `(#if, #ifdef)` in .c files; doing so makes code harder to read and logic harder to follow. Instead, use such conditionals in a header file defining functions for use in those .c files, providing no-op stub versions in the \#else case, and then call those functions unconditionally from .c files. The compiler will avoid generating any code for the stub calls, producing identical results, but the logic will remain easy to follow.
+Wherever possible, don't use preprocessor conditionals `(#if, #ifdef)` in .c files; doing so makes code harder to read and logic harder to follow. Instead, use such conditionals in a header file defining functions for use in those .c files, providing no-op stub versions in the #else case, and then call those functions unconditionally from .c files. The compiler will avoid generating any code for the stub calls, producing identical results, but the logic will remain easy to follow.
 
 Prefer to compile out entire functions, rather than portions of functions or portions of expressions. Rather than putting an ifdef in an expression, factor out part or all of the expression into a separate helper function and apply the conditional to that function.
 
-If you have a function or variable which may potentially go unused in a particular configuration, and the compiler would warn about its definition going unused, mark the definition as \_\_maybe\_unused rather than wrapping it in a preprocessor conditional. \(However, if a function or variable always goes unused, delete it.\)
+If you have a function or variable which may potentially go unused in a particular configuration, and the compiler would warn about its definition going unused, mark the definition as \__maybe_unused rather than wrapping it in a preprocessor conditional. (However, if a function or variable always goes unused, delete it.)
 
-At the end of any non-trivial `#if` or `#ifdef` block \(more than a few lines\), place a comment after the `#endif` on the same line, noting the conditional expression used. For instance:
+At the end of any non-trivial `#if` or `#ifdef` block (more than a few lines), place a comment after the `#endif` on the same line, noting the conditional expression used. For instance:
 
 ```c
 c
@@ -236,5 +236,4 @@ These rules can be [auto-formatted](autoformatting.md).
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

@@ -1,4 +1,4 @@
-# Take Back Half \(TBH\) Controller
+# Take Back Half (TBH) Controller
 
 ## Concept
 
@@ -12,10 +12,9 @@ Take Back Half excels in velocity control situations, especially in ones where t
 
 ## Resources
 
-1. [Pearman, J. \(2015, June 28\). Flywheel velocity control. Retrieved August 04, 2016](https://www.vexforum.com/t/flywheel-velocity-control/29892)
-2. Harper, C. S. \(2011\). Application of the Take-Back-Half algorithm to voltage source converter current control \(Unpublished master’s thesis\). Mississippi State University. Department of Electrical and Computer Engineering.
+1. [Pearman, J. (2015, June 28). Flywheel velocity control. Retrieved August 04, 2016](https://www.vexforum.com/t/flywheel-velocity-control/29892)
+2. Harper, C. S. (2011). Application of the Take-Back-Half algorithm to voltage source converter current control (Unpublished master’s thesis). Mississippi State University. Department of Electrical and Computer Engineering.
 
 **Teams Contributed to this Article:**
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

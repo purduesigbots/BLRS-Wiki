@@ -14,7 +14,7 @@ The most fundamental part of VEX Electronics is being able to properly wire the 
 
 There are a few fundamental things to consider when wiring a robot:
 
-* Don't route analog sensor wires near motor wires \(two wires, the three wire portion from the motor controllers is fine\). This causes a lot of noise in the signal
+* Don't route analog sensor wires near motor wires (two wires, the three wire portion from the motor controllers is fine). This causes a lot of noise in the signal
 * Don't zip tie wires to wires without the bundle against a piece of metal, there should be a place to clip the zip tie that won't be at risk of cutting the wire
 * Don't route wires over the vexnet key, we need to remove this fairly often
 * Make the power switch on the cortex easily accessible if possible, sometimes it's inevitable to bury it in the bot but it's a royal pain in the ass
@@ -25,7 +25,7 @@ There are a few fundamental things to consider when wiring a robot:
 There are a few aspects of the [VEX Cortex](vex-cortex.md) to keep in mind when designing a port map:
 
 * There are two current-limiting [PTCs](../../electronics/general/resettable-fuse-ptc.md) on the motor ports, one that covers ports 2-5 and one that covers ports 6-9.
-* Ports 1 and 10 are two wire ports, they do not require a motor controller and have a more linear relationship between PWM and motor velocity. They also have their own H-bridges, which can burn out if a motor shorts out. \(which happens all too often\)
+* Ports 1 and 10 are two wire ports, they do not require a motor controller and have a more linear relationship between PWM and motor velocity. They also have their own H-bridges, which can burn out if a motor shorts out. (which happens all too often)
 * 12 motors are available but there are only 10 motor ports. At least two y-cables are needed.
 
 As a result of these characteristics, a few guidelines/rules should govern port map design:
@@ -45,9 +45,8 @@ An update to the original MCH design has produced smaller, four motor clusters f
 
 **Subsystem Clusters**
 
-This is a much more freeform style of wiring, which is good for mechanically dense robots and quick wiring jobs at the expense of a lack of organization. Simply group the motor controllers by subsystem \(or side of a subsystem\) wherever possible, and make sure to keep them separated from other subsystems. This makes the wiring easier to trace in case a motor controller dies, and allows for more creative routing of the wires.
+This is a much more freeform style of wiring, which is good for mechanically dense robots and quick wiring jobs at the expense of a lack of organization. Simply group the motor controllers by subsystem (or side of a subsystem) wherever possible, and make sure to keep them separated from other subsystems. This makes the wiring easier to trace in case a motor controller dies, and allows for more creative routing of the wires.
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

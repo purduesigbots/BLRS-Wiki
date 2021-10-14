@@ -10,7 +10,7 @@ The [**VEX Potentiometer**](https://www.vexrobotics.com/276-2216.html) is a simp
 
 ## Installation
 
-The hole in the middle of the sensor is square, and you run the arm’s shaft through it. The small white inner part of the sensor is square and can rotate \(hard to see until you’re holding one\); the big red part is screwed onto the robot. Then when the arm lifts, its axle turns that inner white portion of the sensor to produce a reading.
+The hole in the middle of the sensor is square, and you run the arm’s shaft through it. The small white inner part of the sensor is square and can rotate (hard to see until you’re holding one); the big red part is screwed onto the robot. Then when the arm lifts, its axle turns that inner white portion of the sensor to produce a reading.
 
 This sensor, along with the optical shaft encoders require some advance planning in your robot design. They take up space. It’s difficult to slap one of these on after the fact; doing so usually involves taking the arm joint apart and changing all of your spacers, etc. to get it to fit. And maybe you have a tight spot, in which it will never fit. That’s why you have to include this sensor at the start of your design process.
 
@@ -22,7 +22,7 @@ A warning: Despite what VEX says in their documentation, the shaft does not “s
 
 Install it “just enough” at first; no need to tighten it completely or put lock nuts on yet. Using the online/debugger window, manually move your robot’s arm up & down to make sure that the sensor data is between 0 and 4095 at all times. If the sensor value does not move smoothly through the range—it stays at one number for a long time, or has a gigantic jump—then you’ve got it on the wrong way.
 
-Your arm’s potentiometer values \(POT, for short\) don’t need to start at zero at the bottom of your robot’s arm movement. The only important thing is that the arm’s lowest position and highest position are both in the sensor’s range as listed above. When doing your testing, write down the minimum and maximum values for your robot’s arm movement and put them in your engineering notebook. Your programmers will need this information.
+Your arm’s potentiometer values (POT, for short) don’t need to start at zero at the bottom of your robot’s arm movement. The only important thing is that the arm’s lowest position and highest position are both in the sensor’s range as listed above. When doing your testing, write down the minimum and maximum values for your robot’s arm movement and put them in your engineering notebook. Your programmers will need this information.
 
 ## How it works
 
@@ -38,5 +38,4 @@ Potentiometers measure absolute position through a short range of motion, so the
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

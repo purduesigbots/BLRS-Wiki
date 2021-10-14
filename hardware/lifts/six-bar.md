@@ -1,10 +1,10 @@
 ---
-description: 'The six bar lift, the four bar''s big brother.'
+description: The six bar lift, the four bar's big brother.
 ---
 
 # Six Bar
 
-![](../../.gitbook/assets/tu_atlas_v1_lift.jpg)
+![](../../.gitbook/assets/tu_atlas_v1\_lift.jpg)
 
 The six bar lift is a derivative of the [four bar lift](four-bar.md). It utilizes the same geometry of four parallel bars, but in two stages. This split into two stages allows the lift to maintain a lower profile on the robot and condense into a smaller space, which then allows for a larger lift to ﬁt within the build limits. This lift design has been used frequently in past Vex games, as the goal heights were typically high enough to be unreachable for a four bar, but just barely short enough for a six bar to reach. It is typically recommended that only the top of the two bars on the static end be driven by the motors, as there will be increased friction on the bottom arm as compared to the top. This can be alleviated by utilizing a PID control on the arm to ensure that one motor does not provide more force than the other on a given side, stressing the lift components and motors.
 
@@ -12,35 +12,9 @@ Because the lift arm is longer on a six bar than a four bar, more torque is requ
 
 ### Pros and Cons Analysis
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Pros</th>
-      <th style="text-align:left">Cons</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>Relatively easy to build and maintain</li>
-          <li>If built properly, can reach higher than a <a href="four-bar.md">four bar</a> lift
-            on its own.</li>
-          <li>Similar to a four bar, this lift has a relatively easy implementation
-            into a<a href="dr4b.md#the-double-reverse-design"> &quot;double reverse&quot; </a>design.</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>More torque necessary to lift to full height than a <a href="four-bar.md">four bar</a>
-          </li>
-          <li>Front heavy when horizontally extended; more likely to tip forward</li>
-          <li>Requires more horizontal space than a four bar due to another section.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Pros                                                                                                                                                                                                                                                                                                                         | Cons                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li>Relatively easy to build and maintain</li><li>If built properly, can reach higher than a <a href="four-bar.md">four bar</a> lift on its own.</li><li>Similar to a four bar, this lift has a relatively easy implementation into a<a href="dr4b.md#the-double-reverse-design"> "double reverse" </a>design.</li></ul> | <ul><li>More torque necessary to lift to full height than a <a href="four-bar.md">four bar</a></li><li>Front heavy when horizontally extended; more likely to tip forward</li><li>Requires more horizontal space than a four bar due to another section.</li></ul> |
 
 ## Resources
 
@@ -50,6 +24,5 @@ Because the lift arm is longer on a six bar than a four bar, more torque is requ
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-* MTBR \(University of Michigan Task Based Robotics\) 
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* MTBR (University of Michigan Task Based Robotics) 

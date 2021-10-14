@@ -7,8 +7,7 @@
 * Desktop applications
 
 | Details: |
-| :--- |
-
+| -------- |
 
 * **Not VEX-Supported**
 * Image and video processing
@@ -19,7 +18,7 @@
 * GPU/OpenCL support
 * Simplified GUI library
 
-**OpenCV** \(Open Source Computer Vision Library\) is a library of programming functions mainly aimed at real time computer vision, developed by Intel and now supported by Willow Garage. It is free for use under the open source BSD license. The library is cross-platform, and focuses mainly on real-time image processing.
+**OpenCV** (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real time computer vision, developed by Intel and now supported by Willow Garage. It is free for use under the open source BSD license. The library is cross-platform, and focuses mainly on real-time image processing.
 
 ## History
 
@@ -31,7 +30,7 @@ Officially launched in 1999, the OpenCV project was initially an Intel Research 
 
 The first alpha version of OpenCV was released to the public at the IEEE Conference on Computer Vision and Pattern Recognition in 2000, and five betas were released between 2001 and 2005. The first 1.0 version was released in 2006. In mid-2008, OpenCV obtained corporate support from Willow Garage, and is now again under active development. A version 1.1 "pre-release" was released in October 2008.
 
-The second major release of the OpenCV was in October 2009. OpenCV 2 includes major changes to the C++ interface, aiming at easier, more type-safe patterns, new functions, and better implementations for existing ones in terms of performance \(especially on multi-core systems\). Official releases now occur every 6 months\[1\] and development is now done by an independent Russian team supported by commercial corporations.
+The second major release of the OpenCV was in October 2009. OpenCV 2 includes major changes to the C++ interface, aiming at easier, more type-safe patterns, new functions, and better implementations for existing ones in terms of performance (especially on multi-core systems). Official releases now occur every 6 months\[1] and development is now done by an independent Russian team supported by commercial corporations.
 
 ## Compatibility
 
@@ -59,7 +58,7 @@ wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.3.1/OpenC
 tar -xvf OpenCV-2.3.1.tar.bz2
 ```
 
-to get the recommended stable version of OpenCV _\(this should not take too long\)_
+to get the recommended stable version of OpenCV _(this should not take too long)_
 
 1. Open up the openCV folder and navigate to the directory that contains INSTALL and CMakeLists.txt, then type:
 
@@ -89,7 +88,7 @@ sudo sh -c 'echo "/usr/local/lib" > /etc/ld.so.conf.d/opencv.conf'
 sudo ldconfig -v
 ```
 
-1. Add yourself to the video group \(replace _username_ with your user name, **requires reboot** to take effect\):
+1. Add yourself to the video group (replace _username_ with your user name, **requires reboot** to take effect):
 
 ```bash
 lang=
@@ -107,5 +106,4 @@ sudo apt-get install libv4l-dev libv4l-0 v4l-conf v4l-utils
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

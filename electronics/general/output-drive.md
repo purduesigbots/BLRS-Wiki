@@ -9,7 +9,7 @@ description: >-
 
 **Output drive**, or **drive strength**, is a measure of the amount of power a microcontroller's [GPIO](gpio.md) pin can safely deliver to its attached load.
 
-Digital pins are generally not designed to drive powerful loads such as [VEX motors](../../vex-electronics/vex-electronics/motors.md). However, even a device as small as an ordinary LED can pose issues for some chips. **Output drive** current is closely related to the resistance of the final output MOSFET inside the microcontroller. Larger \(and therefore more expensive to incorporate\) output drive circuits have higher drive strengths.
+Digital pins are generally not designed to drive powerful loads such as [VEX motors](../../vex-electronics/vex-electronics/motors.md). However, even a device as small as an ordinary LED can pose issues for some chips. **Output drive** current is closely related to the resistance of the final output MOSFET inside the microcontroller. Larger (and therefore more expensive to incorporate) output drive circuits have higher drive strengths.
 
 General-purpose computing devices such as the [PandaBoard](external-boards/pandaboard.md) and [BeagleBoard](external-boards/beagleboard.md) typically have very poor output drives, often less than 4 mA per pin. Most devices such as the [Netduino](external-boards/netduino.md) and [VEX Cortex](../../vex-electronics/legacy/vex-cortex.md) fall in the range from 5-16 mA per pin. If more current is required, a dedicated switching MOSFET or a logic buffer chip can be appended onto the output pin and used to drive the load.
 
@@ -25,5 +25,4 @@ The best known platforms for good output drives are the [Arduino](external-board
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)

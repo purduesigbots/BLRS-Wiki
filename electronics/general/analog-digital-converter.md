@@ -5,7 +5,7 @@ description: >-
   value which a user program can use.
 ---
 
-# Analog-Digital Converter \(ADC\)
+# Analog-Digital Converter (ADC)
 
 The output resolution of the number received from and ADC can vary from 8-bit to 24-bit, corresponding to the number of digital discrete outputs and the smallest detectable difference between input voltage.
 
@@ -13,7 +13,7 @@ The output resolution of the number received from and ADC can vary from 8-bit to
 
 Digital circuits like a microcontroller or computer can only understand binary logic. However, sensors such as the [VEX Line Tracker](../../vex-electronics/vex-sensors/3-pin-adi-sensors/line-tracker.md) and [VEX Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) often provide a continuously varying output voltage level. Since a standard digital input would do a poor job, providing a useless 1-bit value, an analog-to-digital converter is used to convert the voltage to a number. Common ADCs vary from 8-bit to 16-bit precision, which dictates how many different values could theoretically be produced by an input voltage. In practice, noise limits the precision of any ADC to between 0.5 and 2 bits less than its stated value.
 
-Many ADCs found in microcontroller applications operate on SAR \(successive approximation register\) principles. This method begins by guessing a number midway through the range of possible values, and performs a binary search by comparing the input voltage in the analog domain to the voltage produced by a digital-to-analog converter with the current guess as input. After a few iterations, the guesses will converge on the closest numeric representation to the specified input voltage. Alternatively, integrating ADCs are very slow but provide highly accurate readings, and sigma-delta ADCs are commonly used for applications requiring high bit depths at moderate sampling rates.
+Many ADCs found in microcontroller applications operate on SAR (successive approximation register) principles. This method begins by guessing a number midway through the range of possible values, and performs a binary search by comparing the input voltage in the analog domain to the voltage produced by a digital-to-analog converter with the current guess as input. After a few iterations, the guesses will converge on the closest numeric representation to the specified input voltage. Alternatively, integrating ADCs are very slow but provide highly accurate readings, and sigma-delta ADCs are commonly used for applications requiring high bit depths at moderate sampling rates.
 
 Analog inputs are seldom [5-volt tolerant](5-volt-tolerant.md) if the microcontroller's I/O voltage is less than 5 volts, due to the high sensitivity of the conversion circuitry required.
 
@@ -31,7 +31,7 @@ A common use for analog-to-digital converters is to sample a signal from a senso
 
 The input signal must also be _band-limited_ to prevent _aliasing_ problems like those shown in the picture, as the program can easily be misled into thinking that one frequency is present when another is actually the cause. To eliminate this problem, add a low-pass filter to prevent signals higher than **1/2 the sampling rate** from reaching the ADC. Even with such a filter in place, one should sample at least four times faster than the fastest frequency that must be understood for reasons explained in the reconstruction section.
 
-Sampling even faster \(16 times the desired frequency or higher\), known as **oversampling**, allows the precision of the ADC to be increased by averaging multiple samples together. This cancels out noise to increase the signal-to-noise ratio \(SNR\) and therefore the effective number of bits. A frequency analysis of the input signal using an [Oscilloscope](list-of-tools.md#oscilloscope) is the most useful way to determine the maximum expected frequency and appropriate filtering/sampling strategy.
+Sampling even faster (16 times the desired frequency or higher), known as **oversampling**, allows the precision of the ADC to be increased by averaging multiple samples together. This cancels out noise to increase the signal-to-noise ratio (SNR) and therefore the effective number of bits. A frequency analysis of the input signal using an [Oscilloscope](list-of-tools.md#oscilloscope) is the most useful way to determine the maximum expected frequency and appropriate filtering/sampling strategy.
 
 ### Reconstruction
 
@@ -71,9 +71,8 @@ void initialize() {
 }
 ```
 
-If the sensor value must be corrected for a zero-rate offset \(a sensor like a [Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) or [Accelerometer](../../vex-electronics/vex-sensors/3-pin-adi-sensors/accelerometer.md)\), use `analogReadCalibrated()` with an `analogCalibrate()` in the initialize function. When doing so, _make sure that the robot is stable during power-on_.
+If the sensor value must be corrected for a zero-rate offset (a sensor like a [Gyro](../../vex-electronics/vex-sensors/3-pin-adi-sensors/gyroscope.md) or [Accelerometer](../../vex-electronics/vex-sensors/3-pin-adi-sensors/accelerometer.md)), use `analogReadCalibrated()` with an `analogCalibrate()` in the initialize function. When doing so, _make sure that the robot is stable during power-on_.
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com/) \(Purdue SIGBots\)
-
+* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
