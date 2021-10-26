@@ -25,7 +25,7 @@ This is the go-to joint in Vex for low-torque rotation applications. Because it 
 
 ![Single-Bearing Screw Joint ](https://user-images.githubusercontent.com/65926085/83469437-4ffe8380-a445-11ea-9b6a-3cc6337e52f2.png)
 
-![Model of a Single-Bearing Screw Joint in CAD](<../.gitbook/assets/screwjoint (1).png>)
+![Model of a Single-Bearing Screw Joint in CAD](../.gitbook/assets/screwjoint.png)
 
 Each of the components can be seen in** **the model above, which are listed below:
 
@@ -54,7 +54,7 @@ This is a high-slop joint which is effective in applications that require compac
 
 ![Compact Screw Joint](https://user-images.githubusercontent.com/65926085/83469696-006c8780-a446-11ea-867c-2699c3b91796.png)
 
-![Model of a Compact Screw Joint in CAD](../.gitbook/assets/compact_screw_joint.png)
+![Model of a Compact Screw Joint in CAD](../.gitbook/assets/compact\_screw\_joint.png)
 
 Each of the components can be seen in** **the model above, which are listed below:
 
@@ -92,4 +92,4 @@ This high strength axle joint is used on [8066Y's Early Season Tower Takeover Li
 
 ### Contributing Teams to this Article:
 
-* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) (Jackson Area Robotics)
+* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc\_Q?view\_as=subscriber) (Jackson Area Robotics)
