@@ -6,7 +6,7 @@ description: >-
 
 # Pandaboard
 
-![](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard_es_omap4460.jpg)
+![](https://phabricator.purduesigbots.com/file/data/3a6ppzzjxb5hcjzsof7t/PHID-FILE-gqs4l6fjjznsjnrcyvrp/pandaboard\_es\_omap4460.jpg)
 
 | **Architecture:** 32-bit [Cortex-A9](http://www.arm.com/products/processors/cortex-a/cortex-a9.php/)                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ The Pandaboard is a community supported development platform and is available fo
 
 ## Features
 
-[![](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard_ports.png)](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard_ports.png)
+[![](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard\_ports.png)](https://phabricator.purduesigbots.com/file/data/ekqyy5ciw6h2wp4wedd5/PHID-FILE-dgtlep4zogo2gehfknzd/pandaboard\_ports.png)
 
 The PandaBoard measures about 100 x 110 mm and features a dual-core 1 GHz CPU, a dedicated GPU, a DSP for audio and video processing, and 1 GB of RAM. It lacks a hard drive or solid-state drive, starting an operating system and primarily running from an SD/MMC card.
 
@@ -35,7 +35,7 @@ The GPIO connectors follow the standard Linux format, where one can export pins 
 
 ## Usage
 
-[![](https://phabricator.purduesigbots.com/file/data/sqc64rm7l2tooprf4i3i/PHID-FILE-6hnmau75gozlbepdnsv5/pandaboard_inuse.jpg)](https://phabricator.purduesigbots.com/file/data/sqc64rm7l2tooprf4i3i/PHID-FILE-6hnmau75gozlbepdnsv5/pandaboard_inuse.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/sqc64rm7l2tooprf4i3i/PHID-FILE-6hnmau75gozlbepdnsv5/pandaboard\_inuse.jpg)](https://phabricator.purduesigbots.com/file/data/sqc64rm7l2tooprf4i3i/PHID-FILE-6hnmau75gozlbepdnsv5/pandaboard\_inuse.jpg)
 
 The **PandaBoard** in its protective shell as seen on Honey Badger
 

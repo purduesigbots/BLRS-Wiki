@@ -18,4 +18,4 @@ As always if you have any questions or concerns feel free to contact us at: [sig
 
 ![](<.gitbook/assets/image (12).png>)
 
- This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](https://creativecommons.org/licenses/by-sa/2.0/).
+&#x20;This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](https://creativecommons.org/licenses/by-sa/2.0/).

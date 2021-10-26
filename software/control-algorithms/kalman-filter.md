@@ -181,7 +181,7 @@ R = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-If we have no covariance between measurements, which is often the case with our robotics measurements, the above matrix will be a diagonal matrix ($\sigma_x \sigma_y$ will be zero).
+If we have no covariance between measurements, which is often the case with our robotics measurements, the above matrix will be a diagonal matrix ($\sigma\_x \sigma\_y$ will be zero).
 
 ### Set Initial Conditions
 

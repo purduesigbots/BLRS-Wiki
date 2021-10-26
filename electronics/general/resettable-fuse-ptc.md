@@ -7,7 +7,7 @@ description: >-
 
 # Resettable Fuse (PTC)
 
-![ A selection of resettable fuses similar to the types used for protection of VEX components](https://phabricator.purduesigbots.com/file/data/gdetw4bdg3fbd4s6dr6n/PHID-FILE-4koxfkowdeuljh2ejk5j/pptc_fuse.jpg)
+![ A selection of resettable fuses similar to the types used for protection of VEX components](https://phabricator.purduesigbots.com/file/data/gdetw4bdg3fbd4s6dr6n/PHID-FILE-4koxfkowdeuljh2ejk5j/pptc\_fuse.jpg)
 
 Resettable fuses are devices with a very low resistance when cool, so they have little effect when placed in series with a load. However, when large currents flow through the load, the fuse begins to heat up due to ohmic heating. As the temperature of the fuse increases, the resistance increases slowly. However, at a critical point, the resistance begins to increase rapidly, eventually reaching a point where the fuse develops a resistance in the many thousands of ohms, reducing the current to a safe level and disabling the load. After the current overload dies down, the fuse begins to cool and drops in resistance back to its initial value.
 

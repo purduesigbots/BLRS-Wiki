@@ -36,7 +36,7 @@ The[ ODROID-XU4](https://www.hardkernel.com/shop/odroid-xu4q-special-price/) is 
 This section below is for the original ODROID-XU
 {% endhint %}
 
-![](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor_odroidxu.jpg)
+![](https://phabricator.purduesigbots.com/file/data/wq3qd7bzvomweuord2j7/PHID-FILE-ugin4mlcjor6byhfwdcc/processor\_odroidxu.jpg)
 
 | **Architecture:** 32-bit [Cortex-A15](http://www.arm.com/products/processors/cortex-a/cortex-a15.php/)                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ The ODROID-XU is the first development board for the ARM Cortex-A15 platform ava
 
 ### Features
 
-[![](https://phabricator.purduesigbots.com/file/data/gg75v57orkupbru5zg7s/PHID-FILE-dmmfjwsqa3zwnpfznzre/processor_odroidxu_ports.jpg)](https://phabricator.purduesigbots.com/file/data/gg75v57orkupbru5zg7s/PHID-FILE-dmmfjwsqa3zwnpfznzre/processor_odroidxu_ports.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/gg75v57orkupbru5zg7s/PHID-FILE-dmmfjwsqa3zwnpfznzre/processor\_odroidxu\_ports.jpg)](https://phabricator.purduesigbots.com/file/data/gg75v57orkupbru5zg7s/PHID-FILE-dmmfjwsqa3zwnpfznzre/processor\_odroidxu\_ports.jpg)
 
 A diagram of the **ODROID-XU** with all ports labelled
 
@@ -67,7 +67,7 @@ Unlike competing platforms such as the [BeagleBoard](beagleboard.md) and [PandaB
 
 The ODROID-XU's stellar performance combined with only marginally higher power consumption allows it to easily supersede past development boards used by Purdue SIGBots. Starting with VEX Toss Up, Purdue SIGBots is using two ODROID-XU units, one on Atlas and one on Prometheus, to handle the algorithms required for Microsoft Kinect data processing for [Object Recognition](../../../software/object-recognition/). Two additional cores, double the RAM, and a much higher clock speed allow for simultaneous processing of the 3-D image with the color channel, and the USB 3.0 port opens up a possible increased image capture resolution.
 
-[![](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power_supply.jpg)](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power_supply.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power\_supply.jpg)](https://phabricator.purduesigbots.com/file/data/xh3tb6te4ek7cvfwlkl7/PHID-FILE-z4y4vfmjfgp4s4pejjrk/power\_supply.jpg)
 
 ### Teams Contributed to this Article:
 

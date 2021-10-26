@@ -4,7 +4,7 @@ description: The VEX Cortex is the older microcontroller that was used in VRC an
 
 # VEX Cortex
 
-[![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor\_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor\_cortex.jpg)
 
 {% hint style="danger" %}
 This article is about the VEX Cortex, which is the legacy microcontroller for VRC and is no longer competitive
@@ -80,7 +80,7 @@ If VEX releases a firmware update, or the Cortex is acting in an erratic manner,
 
 ### External pinout
 
-[![](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)
+[![](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor\_cortex\_pinout.png)](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor\_cortex\_pinout.png)
 
 The **VEX Cortex** external pin layout
 
@@ -88,29 +88,29 @@ The **VEX Cortex** external pin layout
 
 ### GPIO Pin Mapping
 
-[![](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor\_cortex\_internals\_top.jpg)](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor\_cortex\_internals\_top.jpg)
 
 Inside of a **VEX Cortex** microcontroller
 
-[![](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor\_cortex\_internals\_bottom.jpg)](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor\_cortex\_internals\_bottom.jpg)
 
 Ditto, bottom view
 
 The digital, serial, I2C, and analog pins on the Cortex microcontroller are actually given different names by the microcontroller's registers. By mapping these [GPIO](../../electronics/general/gpio.md) pins with a test program, the following pin to port map was derived:
 
-* Digital 1 - **PE9** _(TIM1\_CH1/FSMC_D6)_
-* Digital 2 - **PE11** _(TIM1\_CH2/FSMC_D8)_
-* Digital 3 - **PC6** _(TIM3\_CH1/I2S2\_MCK/TIM8\_CH1/SDIO_D6)_
-* Digital 4 - **PC7** _(TIM3\_CH2/I2S3\_MCK/TIM8\_CH2/SDIO_D7)_
-* Digital 5 - **PE13** _(TIM1\_CH3/FSMC_D10)_
-* Digital 6 - **PE14** _(TIM1\_CH4/FSMC_D11)_
-* Digital 7 - **PE8** _(TIM1\_CH1N/FSMC_D5)_
-* Digital 8 - **PE10** _(TIM1\_CH2N/FSMC_D7)_
-* Digital 9 - **PE12** _(TIM1\_CH3N/FSMC_D9)_
-* Digital 10 - **PE7** _(TIM1\_ETR/FSMC_D4)_
-* Digital 11 - **PD0** _(CAN_RX/FSMC_D2/OSC_IN)_
-* Digital 12 - **PD1** _(CAN_TX/FSMC_D3/OSC_OUT)_
-* SP - **PA4** _(USART2\_CK/DAC_OUT1/ADC\_4)_
+* Digital 1 - **PE9** _(TIM1\_CH1/FSMC\_D6)_
+* Digital 2 - **PE11** _(TIM1\_CH2/FSMC\_D8)_
+* Digital 3 - **PC6** _(TIM3\_CH1/I2S2\_MCK/TIM8\_CH1/SDIO\_D6)_
+* Digital 4 - **PC7** _(TIM3\_CH2/I2S3\_MCK/TIM8\_CH2/SDIO\_D7)_
+* Digital 5 - **PE13** _(TIM1\_CH3/FSMC\_D10)_
+* Digital 6 - **PE14** _(TIM1\_CH4/FSMC\_D11)_
+* Digital 7 - **PE8** _(TIM1\_CH1N/FSMC\_D5)_
+* Digital 8 - **PE10** _(TIM1\_CH2N/FSMC\_D7)_
+* Digital 9 - **PE12** _(TIM1\_CH3N/FSMC\_D9)_
+* Digital 10 - **PE7** _(TIM1\_ETR/FSMC\_D4)_
+* Digital 11 - **PD0** _(CAN\_RX/FSMC\_D2/OSC\_IN)_
+* Digital 12 - **PD1** _(CAN\_TX/FSMC\_D3/OSC\_OUT)_
+* SP - **PA4** _(USART2\_CK/DAC\_OUT1/ADC\_4)_
 * Analog 1 - **PA0** _(WKUP/USART2\_CTS/TIM2\_CH1\_ETR/TIM5\_CH1/TIM8\_ETR/ADC\_0)_
 * Analog 2 - **PA1** _(USART2\_RTS/TIM5\_CH2/TIM2\_CH2/ADC\_1)_
 * Analog 3 - **PA2** _(USART2\_TX/TIM5\_CH3/TIM2\_CH3/ADC\_2)_
@@ -119,12 +119,12 @@ The digital, serial, I2C, and analog pins on the Cortex microcontroller are actu
 * Analog 6 - **PC3** _(ADC\_13)_
 * Analog 7 - **PC0** _(ADC\_10)_
 * Analog 8 - **PC1** _(ADC\_11)_
-* UART1\_TX - **PD5** _(FSMC_NWE/USART2\_TX)_
-* UART1\_RX - **PD6** _(FSMC_NWAIT/USART2\_RX)_
-* UART2\_TX - **PC10** _(UART4\_TX/SDIO_D2/USART3\_TX)_
-* UART2\_RX - **PC11** _(UART4\_RX/SDIO_D3/USART3\_RX)_
-* I2C1\_SCL - **PB8** _(TIM4\_CH3/SDIO_D4/I2C1\_SCL/CAN_RX)_
-* I2C1\_SDA - **PB9** _(TIM4\_CH4/SDIO_D5/I2C1\_SDA/CAN_TX)_
+* UART1\_TX - **PD5** _(FSMC\_NWE/USART2\_TX)_
+* UART1\_RX - **PD6** _(FSMC\_NWAIT/USART2\_RX)_
+* UART2\_TX - **PC10** _(UART4\_TX/SDIO\_D2/USART3\_TX)_
+* UART2\_RX - **PC11** _(UART4\_RX/SDIO\_D3/USART3\_RX)_
+* I2C1\_SCL - **PB8** _(TIM4\_CH3/SDIO\_D4/I2C1\_SCL/CAN\_RX)_
+* I2C1\_SDA - **PB9** _(TIM4\_CH4/SDIO\_D5/I2C1\_SDA/CAN\_TX)_
 
 ### SPI
 

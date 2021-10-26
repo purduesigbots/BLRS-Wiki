@@ -6,15 +6,15 @@ description: In this page, we'll be going over how to constrain bearings to c-ch
 
 ## Bearing Flats
 
-First we need to place them.  We can find them in `Motion/Bearing Flat.ipt`.  
+First we need to place them.  We can find them in `Motion/Bearing Flat.ipt`. &#x20;
 
-After placing it, we constrain them the same way we did two c-channels together.  One insert and one mate constraint. 
+After placing it, we constrain them the same way we did two c-channels together.  One insert and one mate constraint.&#x20;
 
 ![Insert Constraint between Bearing and C-Channel](<../../../../.gitbook/assets/image (189) (1).png>)
 
 ![Mate Constraint between Bearing and C-Channel](<../../../../.gitbook/assets/image (90).png>)
 
-After placing bearings where my wheels are going to go, 
+After placing bearings where my wheels are going to go,&#x20;
 
 ![Completed Bearings](<../../../../.gitbook/assets/image (137).png>)
 

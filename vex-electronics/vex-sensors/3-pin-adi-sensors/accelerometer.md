@@ -4,7 +4,7 @@ description: An Accelerometer measures proper acceleration.
 
 # Accelerometer
 
-![](https://phabricator.purduesigbots.com/file/data/tolj2gugcwwaa3alvel5/PHID-FILE-v6yde3okscjogvdjcsbi/vex_accelerometer.jpg)
+![](https://phabricator.purduesigbots.com/file/data/tolj2gugcwwaa3alvel5/PHID-FILE-v6yde3okscjogvdjcsbi/vex\_accelerometer.jpg)
 
 While it may seem that acceleration can be used to infer force, this is only valid on movable objects with constant mass and produces a net force estimate, which may be useless if the value of one particular force is to be measured. It is also not feasible to integrate the accelerometer once for velocity and/or twice for position; most accelerometers lack the precision and stability required for this to work. Accelerometers are viable solutions for determining if a robot is leaning to take quick action to prevent tipping over.
 

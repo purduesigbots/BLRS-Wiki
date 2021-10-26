@@ -4,7 +4,7 @@ description: Constraining bearings.
 
 # Bearing Flats (Best Practice)
 
-Reference the inventor basics bearing flat tutorial if you need more clarity. 
+Reference the inventor basics bearing flat tutorial if you need more clarity.&#x20;
 
 {% content-ref url="../../inventor-chassis/completing-half-of-the-chassis/bearing-flats.md" %}
 [bearing-flats.md](../../inventor-chassis/completing-half-of-the-chassis/bearing-flats.md)

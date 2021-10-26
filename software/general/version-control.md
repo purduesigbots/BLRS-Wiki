@@ -47,13 +47,13 @@ Note to PROS users: If you are using the PROS editor, Atom has GUI based Github 
 If you have already created a project locally (this is likely the case for PROS users), you can sync your local repository with a remote.
 
 * Make a new repository on GitHub. Don't add anything to this repository (GitHub will ask if you want to add a README file or .gitignore, but you should not enable either of these.)
-* Open a terminal on your computer. On Mac/Linux, this will be "Terminal"; on Windows, it may either be Command Prompt or the Git Bash program, depending on how you installed Git. 
+* Open a terminal on your computer. On Mac/Linux, this will be "Terminal"; on Windows, it may either be Command Prompt or the Git Bash program, depending on how you installed Git.&#x20;
 * Navigate to your project
 * Run `git init`
-* Run `git add`, usually in the form of `git add .` so that Git knows to track all of the changes made to the project. 
+* Run `git add`, usually in the form of `git add .` so that Git knows to track all of the changes made to the project.&#x20;
 * Run `git commit`, usually with the `-m` flag and a commit message in quotes
-* Run `git remote add origin <link to repository>`. 
-* Run `git push -u origin master`. You won't have to use the additional `-u origin master` flags in the future; this is just to make sure that Git associates the remote version of the repository with the local version of the repository. 
+* Run `git remote add origin <link to repository>`.&#x20;
+* Run `git push -u origin master`. You won't have to use the additional `-u origin master` flags in the future; this is just to make sure that Git associates the remote version of the repository with the local version of the repository.&#x20;
   * This step will ask for your username and password. If you have two factor authentication enabled, you will need to set up a Personal Access Token (which you can read about in GitHub’s documentation). You can also setup SSH and GPG keys in order to push code without entering a password and to make signed commits.
 
 Some of these instructions are usually displayed when creating an empty repository on GitHub, so you can usually copy and paste the commands directly into your terminal.

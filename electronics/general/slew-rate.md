@@ -6,7 +6,7 @@ description: >-
 
 # Slew Rate
 
-![](https://phabricator.purduesigbots.com/file/data/xrlupzhixcjmziaw2gks/PHID-FILE-ybs5wwbrv5nul2ndlwhk/slew_rate.png)
+![](https://phabricator.purduesigbots.com/file/data/xrlupzhixcjmziaw2gks/PHID-FILE-ybs5wwbrv5nul2ndlwhk/slew\_rate.png)
 
 Diagram showing the difference between an _ideal signal_ (the red waveform) and the _actual signal affected by slew rate_ (green waveform)
 

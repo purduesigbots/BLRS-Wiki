@@ -4,7 +4,7 @@
 
 ### Functionality
 
-The **V5 Rotation Sensor** is an smart sensor to determine the angular position bound by \[0,360), degrees rotated, velocity, and acceleration. It connects to the [V5 Brain](../../vex-electronics/vex-v5-brain/) through a smart port on the side of the sensor, and functions similarly to a[ encoder](../3-pin-adi-sensors/encoder.md) or [potentiometer](../3-pin-adi-sensors/potentiometer.md). Multiple rotation sensors can be used to track robot subsystem locations, as well as the robot position itself. 
+The **V5 Rotation Sensor** is an smart sensor to determine the angular position bound by \[0,360), degrees rotated, velocity, and acceleration. It connects to the [V5 Brain](../../vex-electronics/vex-v5-brain/) through a smart port on the side of the sensor, and functions similarly to a[ encoder](../3-pin-adi-sensors/encoder.md) or [potentiometer](../3-pin-adi-sensors/potentiometer.md). Multiple rotation sensors can be used to track robot subsystem locations, as well as the robot position itself.&#x20;
 
 ### How it Works
 

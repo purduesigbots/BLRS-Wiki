@@ -9,7 +9,7 @@ description: >-
 
 ## Operation
 
-![ A typical I2C transaction showing both data reads and data writes](https://phabricator.purduesigbots.com/file/data/vmca3t6sqjoypy6xlnbs/PHID-FILE-ycw35eq5wsb3g32mcx5s/i2c_timing.png)
+![ A typical I2C transaction showing both data reads and data writes](https://phabricator.purduesigbots.com/file/data/vmca3t6sqjoypy6xlnbs/PHID-FILE-ycw35eq5wsb3g32mcx5s/i2c\_timing.png)
 
 An I2C bus consists of two wires: **SDA** (**s**erial **da**ta) and **SCL** (**s**erial **cl**ock). The clock line allows for synchronous transmission, so I2C can achieve higher transmission speeds than an equivalent [UART](uart.md) and does not require clock recovery. However, I2C peripherals are less common and harder to implement than a simple serial interface.
 
@@ -33,7 +33,7 @@ Communication can proceed in one of two ways. If the master indicated a request 
 
 If the master indicated a request to read data, the master will control the SCL line while reading data values on SDA. On each high-to-low transition on SCL, the slave will either pull SDA down or let it float high depending on the bit to be transferred; on the next low-to-high transition of SCL, the master will sample the bit. Bytes are shifted out of the slave starting with the current address, which is usually the last address written. The _master_ will now acknowledge after each byte transferred, and will issue a _no-acknowledge_ (**NAK**) after the last desired byte is read. After each byte is transmitted, the receiver will usually increment its register address, just like when writing data.
 
-[![](https://phabricator.purduesigbots.com/file/data/v5owk2r3whhiajjsk45p/PHID-FILE-4u53woiffcwwrrkp7kx3/i2c_smbus.jpg)](https://phabricator.purduesigbots.com/file/data/v5owk2r3whhiajjsk45p/PHID-FILE-4u53woiffcwwrrkp7kx3/i2c_smbus.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/v5owk2r3whhiajjsk45p/PHID-FILE-4u53woiffcwwrrkp7kx3/i2c\_smbus.jpg)](https://phabricator.purduesigbots.com/file/data/v5owk2r3whhiajjsk45p/PHID-FILE-4u53woiffcwwrrkp7kx3/i2c\_smbus.jpg)
 
 **I2C** is used by computer peripherals to communicate on the System Management Bus (SMBus)
 

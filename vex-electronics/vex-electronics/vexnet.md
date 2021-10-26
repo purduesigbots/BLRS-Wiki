@@ -14,7 +14,7 @@ Both V5 radios also support Bluetooth 4.2, it uses the Texas Instruments CC2640 
 This section refers to the old VEXnet for Cortex which is no longer competitive.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/v3dol2mj34s5grglzgew/PHID-FILE-k6rtpdbjlubu45yj7i2s/vexnet_key\_2.jpg)](https://phabricator.purduesigbots.com/file/data/v3dol2mj34s5grglzgew/PHID-FILE-k6rtpdbjlubu45yj7i2s/vexnet_key\_2.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/v3dol2mj34s5grglzgew/PHID-FILE-k6rtpdbjlubu45yj7i2s/vexnet\_key\_2.jpg)](https://phabricator.purduesigbots.com/file/data/v3dol2mj34s5grglzgew/PHID-FILE-k6rtpdbjlubu45yj7i2s/vexnet\_key\_2.jpg)
 
 A **VEXnet** _2.0_ key used for wireless communication
 
@@ -26,7 +26,7 @@ After the obsolete WiFi radio used in the VEXnet 1.0 key was discontinued, VEXne
 
 Wireless programming, while less likely to drop, has additional issues as VEXnet 2.0 must re-link on a debug channel if switched out of regular mode. The extra delays cause headaches for the [PROS](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/pros/README.md) flash utility, and a possible issue with invalid downloads has yet to be resolved. VEXnet communications must also deal with the initial delay, and the maximum sustained upload rate from Cortex to the PC is lower than VEXnet 1.0 at just 2 KB/sec. On the plus side, download speeds are higher at 3 KB/sec compared to 2.5 KB/sec for VEXnet 1.0.
 
-[![](https://phabricator.purduesigbots.com/file/data/ijnasmlsc4kseipfckzr/PHID-FILE-fsqnjb7wnrmc4nveyetf/preview-vexnet_key.jpg)](https://phabricator.purduesigbots.com/file/data/jgfkwoabg2z5o34zfcwx/PHID-FILE-2l2oiu2r7txjr77ehswb/vexnet_key.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/ijnasmlsc4kseipfckzr/PHID-FILE-fsqnjb7wnrmc4nveyetf/preview-vexnet\_key.jpg)](https://phabricator.purduesigbots.com/file/data/jgfkwoabg2z5o34zfcwx/PHID-FILE-2l2oiu2r7txjr77ehswb/vexnet\_key.jpg)
 
 A **VEXnet** _1.0_ key used for wireless communication
 
@@ -44,12 +44,12 @@ It may be possible to spoof or interfere with VEXnet communications, but no rese
 
 A simple, robust protocol has been developed by Purdue SIGBots to handle these limitations while ensuring reliability. This protocol can send variable length packets and is thus also useful on [UART](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/uart/README.md) or [SPI](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/ee/spi/README.md) communications to send bunches of data. Example communication to send the data "A" is shown below:
 
-| Index   | Value                                   | Description                                                                                                                                                                                                                                                                                                           |
-| ------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ''0-1'' | ''0xAA 0x55 "U"''                       | Byte values with the most number of bit toggles. 0xAA is not actually printable, but it is unique from any other character in the packet.                                                                                                                                                                             |
-| ''2-3'' | ''0x30 "0" 0x31 "1"''                   | The number of bytes in the data packet encoded as two ASCII hex digits. This is **not** the number of bytes remaining to read. As the data is Base64 encoded, the number of bytes to read (excluding checksum) is ''ceiling(4 \* length / 3)''                                                                        |
-| ''4-7'' | ''0x51 "Q" 0x51 "Q" 0x3D "=" 0x3D "="'' | The data payload, Base64 encoded. The Base64 protocol also encodes the data's true length; this should be used to check the length byte.                                                                                                                                                                              |
-| ''8-9'' | ''0x30 "0" 0x30 "1"''                   | The checksum byte encoded as two ASCII hex digits, which should be equal to the XOR of all the data byte values _including the length bytes_. Beware of [sign extensions](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/sign_extension/README.md) when checking. |
+| Index   | Value                                   | Description                                                                                                                                                                                                                                                                                                            |
+| ------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ''0-1'' | ''0xAA 0x55 "U"''                       | Byte values with the most number of bit toggles. 0xAA is not actually printable, but it is unique from any other character in the packet.                                                                                                                                                                              |
+| ''2-3'' | ''0x30 "0" 0x31 "1"''                   | The number of bytes in the data packet encoded as two ASCII hex digits. This is **not** the number of bytes remaining to read. As the data is Base64 encoded, the number of bytes to read (excluding checksum) is ''ceiling(4 \* length / 3)''                                                                         |
+| ''4-7'' | ''0x51 "Q" 0x51 "Q" 0x3D "=" 0x3D "="'' | The data payload, Base64 encoded. The Base64 protocol also encodes the data's true length; this should be used to check the length byte.                                                                                                                                                                               |
+| ''8-9'' | ''0x30 "0" 0x30 "1"''                   | The checksum byte encoded as two ASCII hex digits, which should be equal to the XOR of all the data byte values _including the length bytes_. Beware of [sign extensions](https://github.com/purduesigbots/BLRS-Wiki/tree/3aeb8702c5b3a6c01813fc864764d2c87eb47766/w/wiki/cs/sign\_extension/README.md) when checking. |
 
 As the overhead of this protocol is substantial for small packets, larger packet sizes should be used to group data as appropriate.
 

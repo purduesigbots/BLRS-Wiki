@@ -4,7 +4,7 @@ description: In this page, we'll be going over how to toggle visibility on exist
 
 # Toggling Visibility on Existing Parts
 
-Sometimes when constraining, there is another part in the way and we can't see what we are doing.  We can toggle visibility on the parts so they aren't seen. 
+Sometimes when constraining, there is another part in the way and we can't see what we are doing.  We can toggle visibility on the parts so they aren't seen.&#x20;
 
 ## Toggle in Workspace
 
@@ -12,7 +12,7 @@ Right click the part in the workspace and select `Visibility`.  This turns visib
 
 ![Toggling Visibility Off](<../../../.gitbook/assets/image (180).png>)
 
-In the model browser on the left, the part now appears grayed out.  You can bring it back by either right clicking and selecting `Visibility`, or selecting the part and pressing `alt+v` on your keyboard. 
+In the model browser on the left, the part now appears grayed out.  You can bring it back by either right clicking and selecting `Visibility`, or selecting the part and pressing `alt+v` on your keyboard.&#x20;
 
 ![Turn Visibility On](<../../../.gitbook/assets/image (218).png>)
 

@@ -6,7 +6,7 @@ description: >-
 
 # Jitter
 
-![ A diagram showing how jitter might affect a square wave signal](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock_jitter.jpg)
+![ A diagram showing how jitter might affect a square wave signal](https://phabricator.purduesigbots.com/file/data/q5fv4gl3vwo3yjgdvbqh/PHID-FILE-4lipowbthyt2bsmgzc2k/clock\_jitter.jpg)
 
 Ideally, clocking signals would always have the same frequency, but in the real world, deviations from the nameplate rate occur due to a wide range of factors. Jitter is usually stated in percentage (%) units, or in parts per million (ppm) for low values.
 
@@ -28,7 +28,7 @@ Software routines such as a [PID Controller](../../software/control-algorithms/p
 
 ## Reducing jitter
 
-[![](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock_jitter_datasheet.png)](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock_jitter_datasheet.png)
+[![](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock\_jitter\_datasheet.png)](https://phabricator.purduesigbots.com/file/data/grxt4aivw4hu6f6iuve4/PHID-FILE-6fgwss5vvbwvihgbx6eb/clock\_jitter\_datasheet.png)
 
 A typical description in a component datasheet for expected clock **jitter**, showing the effects of both random and temperature drift
 

@@ -33,7 +33,7 @@ Both above robots can be found in CAD designs [here](https://drive.google.com/dr
 
 ## Double Flywheel
 
-A Double flywheel is similar to a single flywheel but instead of a backboard, has another rotating wheel. These wheels are often placed horizontally next to each other (but have also been done vertically). They are much more advanced and allow for more tuning, most commonly changing the speed of a wheel to adjust the projectile’s path. When vertical, the wheels can have different speeds that allow for more/less backspin to make the object fly different distances. Double flywheels are larger, heavier, but most importantly need more compression because of the reduced contact time with the ball. This means that they take longer to spin up and put more strain on the motor. 
+A Double flywheel is similar to a single flywheel but instead of a backboard, has another rotating wheel. These wheels are often placed horizontally next to each other (but have also been done vertically). They are much more advanced and allow for more tuning, most commonly changing the speed of a wheel to adjust the projectile’s path. When vertical, the wheels can have different speeds that allow for more/less backspin to make the object fly different distances. Double flywheels are larger, heavier, but most importantly need more compression because of the reduced contact time with the ball. This means that they take longer to spin up and put more strain on the motor.&#x20;
 
 Below is VCAT Robotic’s nothing but net early season 15” VexU robot. It is one of the better known double flywheels. They did however change the design soon after this to use a single flywheel.
 

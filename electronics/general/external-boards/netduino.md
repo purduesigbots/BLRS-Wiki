@@ -9,7 +9,7 @@ description: >-
 
 ## Operation
 
-![ RS-232 ports on a computer use the same protocol as a UART with only voltage differences](https://phabricator.purduesigbots.com/file/data/luq7cf5gw4qtsazvpmnj/PHID-FILE-a74hi2uen6tvtl6piwrx/uart_serial_port.jpg)
+![ RS-232 ports on a computer use the same protocol as a UART with only voltage differences](https://phabricator.purduesigbots.com/file/data/luq7cf5gw4qtsazvpmnj/PHID-FILE-a74hi2uen6tvtl6piwrx/uart\_serial\_port.jpg)
 
 Logic-level serial protocols usually use a high voltage as a "space" signal and a low voltage as a "mark" signal (known as _non-inverted mode_). If a protocol uses the opposite, it is known as _inverted mode_.
 

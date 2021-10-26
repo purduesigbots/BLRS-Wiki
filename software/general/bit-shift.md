@@ -51,7 +51,7 @@ Bit rotates are less common than bit shifts; instead of losing shifted bits and 
 ## Uses
 
 * **Multiplication and division** - Bit shifts have the same effect as multiplying or dividing by a power of two, but are usually much, much faster. Instead of dividing by 8, shift right by three.
-* **Exponentiation with a base of 2** - Left shifts by n bits on the constant 1 will produce the value 2^n. When using this feature, beware of arithmetic overflow. 
+* **Exponentiation with a base of 2** - Left shifts by n bits on the constant 1 will produce the value 2^n. When using this feature, beware of arithmetic overflow.&#x20;
 * **Bit mask generation** - Given a bit position n, one can generate a positive bit mask by performing (1 << n) or a negative mask by performing \~(1 << n). This is very useful when manipulating [registers](register-programming.md) or [GPIO](../../electronics/general/gpio.md) pins.
 * **Bit mask checking** - To check to see if a particular bit in a binary number is set, shift it right by that many positions and mask by 0x01. While it is faster to mask the original value by a pre-shifted bit mask, this method works for variable arguments and generates a canonical (0/1) boolean value which is more useful in future instructions.
 * **Wide type generation** - Multi-byte wide types can be generated from their byte components by shifting each byte a specified number of locations (a multiple of eight) to make them fit into the destination number at the correct place.

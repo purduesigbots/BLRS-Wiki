@@ -4,7 +4,7 @@ description: The VEX Encoder helps to determine the rotation of a shaft.
 
 # Encoder
 
-![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical_shaft_encoder-300x300.jpeg)
+![](https://phabricator.purduesigbots.com/file/data/54s75mmpwzdb65b4lgyw/PHID-FILE-jcpdq2662cm3q6ec7wk2/optical\_shaft\_encoder-300x300.jpeg)
 
 The [**VEX Quadrature Encoder**](https://www.vexrobotics.com/276-2156.html), or simply the **VEX Shaft Encoder**, is a two-port device which counts the number of times that a spinning axle has rotated. Both ports are outputs and output periodic pulses corresponding to movements of the shaft in question. This sensor must not be confused with the discontinued "VEX Optical Shaft Encoder" which is not a quadrature device and only counts rotation in one direction.
 
@@ -20,7 +20,7 @@ Once you’ve got a lot of sensors on your robot, the analog & digital ports can
 
 ## How it works
 
-[![](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft_encoder_insides.png)](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft_encoder_insides.png)
+[![](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft\_encoder\_insides.png)](https://phabricator.purduesigbots.com/file/data/paq4de3gkt25tgfelzkx/PHID-FILE-lhgjpb2ysj3h7ff4s6y2/shaft\_encoder\_insides.png)
 
 Inside the red box is an infrared light and a sensor on opposite sides of a wheel with lots of little holes/slots in it (image at right). The sensor can tell when light is shining through the holes and when it is not, and thus can count the number of “clicks” that have gone past its viewing window. One full revolution includes 360 clicks (not 90 clicks, as described on the downloadable info sheet).
 

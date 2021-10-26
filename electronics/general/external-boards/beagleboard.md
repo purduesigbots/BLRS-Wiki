@@ -10,7 +10,7 @@ description: >-
 This document is slightly out of date as Beagleboard has launched new products which can be seen [here](https://beagleboard.org/boards).
 {% endhint %}
 
-![](https://phabricator.purduesigbots.com/file/data/f5tgcragbcdyp7xa7k3z/PHID-FILE-p6bj57joskwfjd5gegjb/beagle_board_big.jpg)
+![](https://phabricator.purduesigbots.com/file/data/f5tgcragbcdyp7xa7k3z/PHID-FILE-p6bj57joskwfjd5gegjb/beagle\_board\_big.jpg)
 
 | **Architecture"** 32-bit [Cortex-A8](http://www.arm.com/products/processors/cortex-a/cortex-a8.php/) |
 | ---------------------------------------------------------------------------------------------------- |
@@ -33,11 +33,11 @@ Android, Angstrom Linux, Arch Linux, Ubuntu, Windows CE, and others have been sh
 
 Video output is provided on an HDMI connection. An SD/MMC card slot, a USB port, an RS-232 serial connection, and two stereo headphone jacks for audio input and output are provided. Built-in storage and memory include 256 MB of Flash memory and 256 MB of RAM (128 MB on earlier models). The board uses up to 2 W of power and can be powered from the USB connector or a separate 5 V power supply; no additional cooling or heat sinks are usually required.
 
-[![](https://phabricator.purduesigbots.com/file/data/5nmjal24dmluiawbjkod/PHID-FILE-csfsjup2vo6jwawz37dp/beagleboard_described.jpg)](https://phabricator.purduesigbots.com/file/data/5nmjal24dmluiawbjkod/PHID-FILE-csfsjup2vo6jwawz37dp/beagleboard_described.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/5nmjal24dmluiawbjkod/PHID-FILE-csfsjup2vo6jwawz37dp/beagleboard\_described.jpg)](https://phabricator.purduesigbots.com/file/data/5nmjal24dmluiawbjkod/PHID-FILE-csfsjup2vo6jwawz37dp/beagleboard\_described.jpg)
 
 ## BeagleBoard-xM
 
-[![](https://phabricator.purduesigbots.com/file/data/qyqxcwi6amgd3ujgycy7/PHID-FILE-ywjlyg44gbfzjkwmyixf/beagleboard_xm_rev_b\_3.jpg)](https://phabricator.purduesigbots.com/file/data/qyqxcwi6amgd3ujgycy7/PHID-FILE-ywjlyg44gbfzjkwmyixf/beagleboard_xm_rev_b\_3.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/qyqxcwi6amgd3ujgycy7/PHID-FILE-ywjlyg44gbfzjkwmyixf/beagleboard\_xm\_rev\_b\_3.jpg)](https://phabricator.purduesigbots.com/file/data/qyqxcwi6amgd3ujgycy7/PHID-FILE-ywjlyg44gbfzjkwmyixf/beagleboard\_xm\_rev\_b\_3.jpg)
 
 | **Architecture"** 32-bit [Cortex-A8](http://www.arm.com/products/processors/cortex-a/cortex-a8.php/) |
 | ---------------------------------------------------------------------------------------------------- |
@@ -61,7 +61,7 @@ An S-Video port complements the HDMI/DVI-D port and theoretically allows the add
 ## Useful Links
 
 * [BeagleBoard for Beginners](http://elinux.org/BeagleBoardBeginners)
-* [BeagleBoard Service Reference Manual](http://beagleboard.org/static/BBxMSRM_latest.pdf)
+* [BeagleBoard Service Reference Manual](http://beagleboard.org/static/BBxMSRM\_latest.pdf)
 
 #### Teams Contributed to this Article:
 

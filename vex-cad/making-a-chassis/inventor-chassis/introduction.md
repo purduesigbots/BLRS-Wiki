@@ -10,7 +10,7 @@ Without a consistent file structure, any attempt at CAD collaboration will cause
 
 ## Creating the File Structure
 
-We recommend creating a new folder called `CAD` in your `Documents` folder on your computer. In the `CAD` folder, place the most [recent version of the Library found here](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest). 
+We recommend creating a new folder called `CAD` in your `Documents` folder on your computer. In the `CAD` folder, place the most [recent version of the Library found here](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest).&#x20;
 
 Every new robot that you want to CAD, you'll make a new folder here with the name of your robot. When collaborating CAD with your teammates, you will send the **robot folder** back and forward.
 

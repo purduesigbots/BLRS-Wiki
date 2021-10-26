@@ -54,7 +54,7 @@ Moral of the story: Avoid decimals if at all possible. Fixed-point is a viable a
 * **Are you implementing a custom data structure (linked list, heap, hash)?** Find a Linux system with a graphical display (or X forwarding) and run ddd.
   * If it is not installed, try using your distribution's package manager; if on a lab machine or SSH server, the error can also be found with the gdb method above.
   * Set a breakpoint on an indicative line, and run the program. The graphical pointer display, available by right-clicking on a variable (as seen in the picture) should hone down the error in a few seconds with some judicious stepping through code.
-  * A good tutorial on [DDD use](http://www.gnu.org/software/ddd/manual/html_mono/ddd.html) is available on the GNU website.
+  * A good tutorial on [DDD use](http://www.gnu.org/software/ddd/manual/html\_mono/ddd.html) is available on the GNU website.
 * **Are you not sure where to start?** [Valgrind](http://valgrind.org) will often find errors that one was never suspecting. Install it if it is not already installed, and run:
 
 ```c
@@ -138,12 +138,12 @@ Optimizing too soon, or neglecting to account for large data sizes, may induce o
 * **Floating point** - Adding one to 1.0e+25 won't do much.
 * **Multiply and divide** - You might be proud that you avoided floating point. What you may not have thought of is what happens if the intermediate multiplication overflows. Consider possible input values, and if issues might show up, cast to the next size up and cast down at the end.
 * **Multiply and accumulate** - The accumulator variable probably needs to be at least one size bigger than the input type to handle large sums.
-* **Type sizes** - C and C++ do not have consistent definitions for the size of char, int, or long. To fix this issue, #include \<stdint.h> and use the platform-independent types such as uint32\_t (**u**nsigned **int**eger **32** bits wide), ssize_t (pointer size), time_t, etc.
+* **Type sizes** - C and C++ do not have consistent definitions for the size of char, int, or long. To fix this issue, #include \<stdint.h> and use the platform-independent types such as uint32\_t (**u**nsigned **int**eger **32** bits wide), ssize\_t (pointer size), time\_t, etc.
 
 ### Threading
 
 * Java users have it easy; a synchronized (variable) { ... } statement may be inserted in concurrent code to lock up a variable while the code is executing. Only one thread can run a synchronized section on a particular variable at once; the rest have to wait until the first one finishes. The lock is reliably dropped even if an Exception occurs. However, Java has added problems as well, since multiple system threads (especially in GUIs) are also running with the user program, causing concurrency where none is expected. Check event and status handlers carefully.
-* C/C++ users must use a **mutex**, like pthread_mutex or a volatile integer serving as a semaphore. A mutex serves to prevent contention on a shared resource or variable, and to prevent different threads from changing a value something else is using. However, the mutex might not be automatically thrown away if something abnormal occurs.
+* C/C++ users must use a **mutex**, like pthread\_mutex or a volatile integer serving as a semaphore. A mutex serves to prevent contention on a shared resource or variable, and to prevent different threads from changing a value something else is using. However, the mutex might not be automatically thrown away if something abnormal occurs.
 * Beware of the _"time of check to time of use"_ issue, where the value of some shared variable or status of some item might change between the if statement which checks its condition and the operation which uses it. This can cause intermittent or bizarre multithreading errors and possibly security or crash issues as well.
 
 ## Rare

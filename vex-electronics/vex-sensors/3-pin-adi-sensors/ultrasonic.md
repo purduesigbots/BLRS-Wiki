@@ -4,7 +4,7 @@ description: The VEX Ultrasonic Sensor helps determine how far away an object is
 
 # Ultrasonic
 
-![](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic_range_finder2-300x300.jpg)
+![](https://phabricator.purduesigbots.com/file/data/4fzc76ks6q5j273mqwzw/PHID-FILE-gi5xevx7y6sekffp3dua/ultrasonic\_range\_finder2-300x300.jpg)
 
 The **VEX Ultrasonic Sensor**, or simply the **VEX Sonar**, is a rangefinding device which uses pulses of high-frequency sound to estimate the distance to an object. It connects to the [VEX Cortex](../../legacy/vex-cortex.md) or [V5 Brain](../../vex-electronics/vex-v5-brain/) using two digital ports; one port to send a pulse, and the other to receive it.
 

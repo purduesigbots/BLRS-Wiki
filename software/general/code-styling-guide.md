@@ -128,11 +128,11 @@ _Global_ variables (to be used only if you really need them) need to have descri
 
 Encoding the type of a function into the name (so-called Hungarian notation) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer. No wonder MicroSoft makes buggy programs.
 
-LOCAL variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
+LOCAL variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
 
 If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
 
-Functions and variables should be named in camelCase constants and macros should be defined in UPPER_SNAKE_CASE
+Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE
 
 ## Functions
 
@@ -219,7 +219,7 @@ Wherever possible, don't use preprocessor conditionals `(#if, #ifdef)` in .c fil
 
 Prefer to compile out entire functions, rather than portions of functions or portions of expressions. Rather than putting an ifdef in an expression, factor out part or all of the expression into a separate helper function and apply the conditional to that function.
 
-If you have a function or variable which may potentially go unused in a particular configuration, and the compiler would warn about its definition going unused, mark the definition as \__maybe_unused rather than wrapping it in a preprocessor conditional. (However, if a function or variable always goes unused, delete it.)
+If you have a function or variable which may potentially go unused in a particular configuration, and the compiler would warn about its definition going unused, mark the definition as \_\_maybe\_unused rather than wrapping it in a preprocessor conditional. (However, if a function or variable always goes unused, delete it.)
 
 At the end of any non-trivial `#if` or `#ifdef` block (more than a few lines), place a comment after the `#endif` on the same line, noting the conditional expression used. For instance:
 

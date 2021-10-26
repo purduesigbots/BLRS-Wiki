@@ -48,7 +48,7 @@ Some of the known issues with the V5 Controller are disconnects and freezes. In 
 This section refers to the old VEX Cortex Controller which is no longer competitive.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex_joystick.jpg)](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex_joystick.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex\_joystick.jpg)](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex\_joystick.jpg)
 
 The **VEX Joystick** is the principal human interface for a VEX robot since the introduction of [VEXnet](vexnet.md). It replaces the bulky 75 MHz transmitter module with a smaller controller resembling a typical PC joystick.
 
@@ -56,11 +56,11 @@ The **VEX Joystick** is the principal human interface for a VEX robot since the 
 
 Two directional thumb sticks, a three-axis accelerometer, and up to twelve buttons are available for the user in [Operator Control](../../software/competition-specific/operator-control.md) mode. Each thumb stick is composed of two axes which return numbers from -127 to 127 with a resolution of two to three units, and two sets of four buttons along with two dual triggers return 1 if pressed and 0 if not pressed. Joystick inputs are still transmitted (but are usually restricted by the firmware) during the autonomous mode.
 
-[![](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power_curve_nimh.jpg)](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power_curve_nimh.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power\_curve\_nimh.jpg)](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power\_curve\_nimh.jpg)
 
 NiMH rechargeable batteries perform much better than alkaline batteries in high-current applications like the **VEX Joystick**
 
-A VEXnet key or USB A to A cable may be plugged into a USB port on the back of the device; the USB cable can be used to tether a robot or to upgrade the Joystick firmware. An 8-pin RJ-45 jack on the top connects to a VEX Competition Switch or VEX Field Control adapter to switch the robot between [autonomous_code](../../software/competition-specific/autonomous-control.md) and driver control. A six-pin RJ-14 adapter is available for transferring programs or optionally power through a Powered Programming Adapter. Lastly, a four-pin RJ-11 adapter is used for connecting a second joystick, which can be operated as a slave to allow two operators to control a robot.
+A VEXnet key or USB A to A cable may be plugged into a USB port on the back of the device; the USB cable can be used to tether a robot or to upgrade the Joystick firmware. An 8-pin RJ-45 jack on the top connects to a VEX Competition Switch or VEX Field Control adapter to switch the robot between [autonomous\_code](../../software/competition-specific/autonomous-control.md) and driver control. A six-pin RJ-14 adapter is available for transferring programs or optionally power through a Powered Programming Adapter. Lastly, a four-pin RJ-11 adapter is used for connecting a second joystick, which can be operated as a slave to allow two operators to control a robot.
 
 The VEX Joystick accepts six AAA batteries accessible via a back cover; the high current consumption of an active wireless VEXnet key limits battery life. To preserve battery power, use of tethering, a wall adapter, or a powered programming adapter is highly encouraged when possible.
 

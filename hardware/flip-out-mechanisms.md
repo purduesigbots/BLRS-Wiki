@@ -24,4 +24,4 @@ This mechanism was not a "flip-out" mechanism in the conventional way, but [Anti
 
 ## Contributing Teams to this Article:
 
-* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) (Jackson Area Robotics)
+* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc\_Q?view\_as=subscriber) (Jackson Area Robotics)

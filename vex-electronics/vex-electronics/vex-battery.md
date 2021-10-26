@@ -36,7 +36,7 @@ On of the main issues that has been noted with V5 batteries is the flashing red 
 This section refers to the old VEX Cortex Battery which is no longer competition legal.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex_battery.jpg)](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex_battery.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex\_battery.jpg)](https://phabricator.purduesigbots.com/file/data/s3zp5pdfcgrjo677fdq3/PHID-FILE-3asdpv5zmuktng45wgna/vex\_battery.jpg)
 
 VEX manufactures a wide variety of **VEX batteries**, but the only model still in wide use is the 7.2 V, 3 Ah NiMH robot battery. The VEX Joystick now uses standard AAA batteries of any chemistry, and power can optionally be provided to either the joystick or using USB over [VEXnet](vexnet.md).
 
@@ -46,7 +46,7 @@ The 7.2V VEX battery is a moderate-quality 6-cell NiMH pack , weighing in at abo
 
 As stated on the package, the nominal output voltage is 7.2 V. However, the voltage actually begins much higher, at up to 8.0 V when fully charged, and can be measured between 7.6 V and 7.0 V for most of the discharge cycle. Note that the battery's voltage measured when unplugged, as what one might obtain using a voltmeter or battery charger, is higher than the voltage that will be displayed under load. Sudden loads such as the startup or [stall](../../electronics/general/stalling.md) of a [Motors](motors.md) may drop the voltage lower; if a backup battery is not installed, this may cause a reset of the [VEX Cortex](../legacy/vex-cortex.md) or pic.
 
-[![](https://phabricator.purduesigbots.com/file/data/o5672g7abjrazh3xmos3/PHID-FILE-l7b3qn7bfl6ori56ozhp/battery_charger.jpg)](https://phabricator.purduesigbots.com/file/data/o5672g7abjrazh3xmos3/PHID-FILE-l7b3qn7bfl6ori56ozhp/battery_charger.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/o5672g7abjrazh3xmos3/PHID-FILE-l7b3qn7bfl6ori56ozhp/battery\_charger.jpg)](https://phabricator.purduesigbots.com/file/data/o5672g7abjrazh3xmos3/PHID-FILE-l7b3qn7bfl6ori56ozhp/battery\_charger.jpg)
 
 A NiMH charger compatible with **VEX batteries**
 
@@ -54,7 +54,7 @@ The battery's nominal capacity is 3000 mAh or 3 Ah, dictating that in theory the
 
 ### Precautions
 
-[![](https://phabricator.purduesigbots.com/file/data/v44fod2agwtn6e5po2b6/PHID-FILE-zaftdak5nfwaa4nwplld/vex_battery_levels.png)](https://phabricator.purduesigbots.com/file/data/v44fod2agwtn6e5po2b6/PHID-FILE-zaftdak5nfwaa4nwplld/vex_battery_levels.png)
+[![](https://phabricator.purduesigbots.com/file/data/v44fod2agwtn6e5po2b6/PHID-FILE-zaftdak5nfwaa4nwplld/vex\_battery\_levels.png)](https://phabricator.purduesigbots.com/file/data/v44fod2agwtn6e5po2b6/PHID-FILE-zaftdak5nfwaa4nwplld/vex\_battery\_levels.png)
 
 When in doubt, **check it out**!
 

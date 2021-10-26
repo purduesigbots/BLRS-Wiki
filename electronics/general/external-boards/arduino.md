@@ -49,7 +49,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 
 ## Arduino Leonardo
 
-[![](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor_arduino_leonardo.jpg)](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor_arduino_leonardo.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor\_arduino\_leonardo.jpg)](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor\_arduino\_leonardo.jpg)
 
 | **Architecture:** 8-bit Atmel AVR                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 
 ## Arduino Mega
 
-[![](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor_arduino_mega.jpg)](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor_arduino_mega.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor\_arduino\_mega.jpg)](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor\_arduino\_mega.jpg)
 
 | **Architecture:** 8-bit Atmel AVR                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

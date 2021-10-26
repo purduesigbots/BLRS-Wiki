@@ -8,7 +8,7 @@ description: Tips and Tricks for building good lifts.
 
 Bracing is the act of securing a lift with bars at the base of the lift, between different lift bars, and other places where there may be a need for structural support. Many teams iteratively find some of these areas as they test their design. This article further discusses the two most common types of bracing seen in good lift designs.
 
-Bracing is the most crucial aspect of designing a stable (and fast) lift. It may seem counter-intuitive, but adding weight for a better braced lift can often improve its speed. 2017-18's game ITZ and 2014-15's Skyrise caused a lot of the research into this topic. 
+Bracing is the most crucial aspect of designing a stable (and fast) lift. It may seem counter-intuitive, but adding weight for a better braced lift can often improve its speed. 2017-18's game ITZ and 2014-15's Skyrise caused a lot of the research into this topic.&#x20;
 
 {% hint style="info" %}
 Note: All references to "X-by" refers to a c-channel of hole width X.
@@ -20,7 +20,7 @@ Note: All references to "X-by" refers to a c-channel of hole width X.
 
 X bracing is the most common strategy used in bracing a lift. Structurally, it has strong tension, but not much else. As a result, it works well with 1 hole wide c-channel on the middle of a DR4b, for instance, but using c-channels won't give you much improvement. It also will not prevent twisting, which the main problem plaguing most VEX lifts.
 
-Be sure not to use this strategy with 1x metal, as it will likely have little noticeable impact. 
+Be sure not to use this strategy with 1x metal, as it will likely have little noticeable impact.&#x20;
 
 ## 5-by bracing
 

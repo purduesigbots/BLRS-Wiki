@@ -57,7 +57,7 @@ cd Platform/Linux/CreateRedist
 ./RedistMaker.Arm
 ```
 
-If it breaks on a "-j0" problem, change it to "-j4" inside Redist_OpenNI.py
+If it breaks on a "-j0" problem, change it to "-j4" inside Redist\_OpenNI.py
 
 1. Install OpenNI (the version number may change):
 

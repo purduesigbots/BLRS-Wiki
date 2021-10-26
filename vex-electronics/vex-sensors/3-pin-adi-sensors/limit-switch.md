@@ -4,7 +4,7 @@ description: The Limit Switch is a sensor that returns a value when it is presse
 
 # Limit Switch
 
-![](https://phabricator.purduesigbots.com/file/data/e6uhtyrngcdmk4rf26js/PHID-FILE-vb2juqo4kc7k2gsoeeea/limit_switch-300x300.jpg)
+![](https://phabricator.purduesigbots.com/file/data/e6uhtyrngcdmk4rf26js/PHID-FILE-vb2juqo4kc7k2gsoeeea/limit\_switch-300x300.jpg)
 
 The limit switch is also a digital sensor (returning 1 or 0) and acts very similarly to the [bump switch](bumper.md). When the little metal lever is up, as in the photo above, it returns a value of 1, when the little metal lever is depressed, it gives a value of 0.
 

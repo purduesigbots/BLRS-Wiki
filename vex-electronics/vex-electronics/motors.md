@@ -4,7 +4,7 @@ description: A VEX Motor is the primary actuator for a VEX robot.
 
 # VEX Motors
 
-[![](../../.gitbook/assets/276-4840-v5-smart-motor-front-iso\_1.jpg)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex_motor\_393.jpg)
+[![](../../.gitbook/assets/276-4840-v5-smart-motor-front-iso\_1.jpg)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex\_motor\_393.jpg)
 
 A VEX motor converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
 
@@ -68,4 +68,4 @@ All motor specifications are at 7.2 volts. Actual motor specifications can fall 
 
 * [BLRS](https://purduesigbots.com) (Purdue SIGBots)
 
-[![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor\_393\_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex_motor\_393\_curve.png)
+[![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex\_motor\_393\_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex\_motor\_393\_curve.png)

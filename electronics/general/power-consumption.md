@@ -10,7 +10,7 @@ While typically applied in the context of electricity use for VEX applications, 
 
 ## Computing devices
 
-![](https://phabricator.purduesigbots.com/file/data/p646icjf2f4zvllte3ic/PHID-FILE-cdqvqtpitlrm2jrrtak5/power_heat_sink.jpg)
+![](https://phabricator.purduesigbots.com/file/data/p646icjf2f4zvllte3ic/PHID-FILE-cdqvqtpitlrm2jrrtak5/power\_heat\_sink.jpg)
 
 A heat sink is used to safely operate devices with high **power consumption**
 

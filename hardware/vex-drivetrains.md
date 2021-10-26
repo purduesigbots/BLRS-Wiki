@@ -99,12 +99,12 @@ The performance of any drivetrain is based not only on the type selected, but al
 
 There are 4 main components to designing and building a quality drive:
 
-* **Planning:** Set constraints for your drive to best accomplish the tasks in the game (i.e. "The width must be less than 13 inches." or "There must be at least 6 inches of room on the front of the drive to attach a mechanism). By setting these constraints before you begin designing, you'll have a much easier time later on. 
+* **Planning:** Set constraints for your drive to best accomplish the tasks in the game (i.e. "The width must be less than 13 inches." or "There must be at least 6 inches of room on the front of the drive to attach a mechanism). By setting these constraints before you begin designing, you'll have a much easier time later on.&#x20;
 * **Designing:** CAD tools such as [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) are especially helpful when designing your drivetrain, as they allow you to visualize the drive in its final form. However, a pen and some graph paper is always an acceptable alternative. Whatever the method, fully designing the drivetrain before beginning the build is very beneficial.
 * **Robustness:** Make sure that your design contains bracing in several places to make a more robust drivetrain. A simple test to determine whether the frame is robust enough is to try to bend it diagonally. If it bends easily, or very far, more bracing should be utilized. One technique to increase a drivetrain's robustness involves placing spacers between opposite sides of a C-channel being attached, as shown [here](https://www.vexforum.com/uploads/default/original/3X/7/6/76ca8cbde060b57aa60ade37a45e920d7cbdaada.png). For a 1x2x1 C-channel, a .375" spacer and a .5" spacer fit snugly between the sides of the channel.
 * **Efficiency:** Ensure that each wheel assembly (and gear or chain assembly, if your drive utilizes these) has as little friction as possible. A good rule of thumb is that if a mechanism can spin freely for more than 5 revolutions, it has minimal friction. Of course, you are the judge of whether or not your mechanisms cause friction, and how much this affects your build. Some common causes of unwanted friction include misalignment (components are not in line, causing rotation to be more difficult) and rubbing (two components are moving against each other; they should be spaced apart).
 
 ### Contributing Teams to this Article:
 
-* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc_Q?view_as=subscriber) (Jackson Area Robotics)
-* [12401A](https://www.youtube.com/channel/UCAzzKKNSyt7bmP-ZqxP5Ygw) 
+* [2775J](https://www.youtube.com/channel/UCxpfFq6ShDvgmU9P4y6rc\_Q?view\_as=subscriber) (Jackson Area Robotics)
+* [12401A](https://www.youtube.com/channel/UCAzzKKNSyt7bmP-ZqxP5Ygw)&#x20;

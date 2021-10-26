@@ -14,7 +14,7 @@ DMMs only update at about 1 Hz and are ill-suited for measuring varying or perio
 
 ## Soldering iron
 
-![](../../.gitbook/assets/71pvqth4xjl.\_ac_sl1500\_.jpg)
+![](../../.gitbook/assets/71pvqth4xjl.\_ac\_sl1500\_.jpg)
 
 For permanent connection of electrical parts, soldering is the most common method. A **soldering iron** is the simplest way to heat up a joint to the melting point of the solder in use, which is usually much less than that of any other metal type in the circuit (but sometimes hot enough to damage nonmetallic insulation). Basic soldering irons have a low-wattage heating element and rely on thermal equilibrium between radiative losses to the environment and heat generation to achieve an unstable temperature reference, whereas better models measure the current temperature and use a [PID Controller](../../software/control-algorithms/pid-controller.md) to improve accuracy.
 

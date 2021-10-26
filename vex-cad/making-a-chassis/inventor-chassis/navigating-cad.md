@@ -8,7 +8,7 @@ description: In this page, we'll be going over how navigate your CAD workspace.
 
 ### Zoom
 
-Spin your scroll wheel to zoom in and out of your workspace. 
+Spin your scroll wheel to zoom in and out of your workspace.&#x20;
 
 ![Zoom GIF](../../../.gitbook/assets/zoom.gif)
 
@@ -28,7 +28,7 @@ Click shift on your keyboard, select your scroll wheel (or middle mouse button) 
 
 ### Home
 
-At the top right of your workspace is the navigation cube.  Bringing your mouse near the cube makes a house appear. 
+At the top right of your workspace is the navigation cube.  Bringing your mouse near the cube makes a house appear.&#x20;
 
 ![Home GIF](../../../.gitbook/assets/home.gif)
 

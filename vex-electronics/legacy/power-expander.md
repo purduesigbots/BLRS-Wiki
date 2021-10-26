@@ -11,7 +11,7 @@ description: >-
 The Power Expander is only compatible with the old VEX Cortex system, which is no longer competitive.
 {% endhint %}
 
-![](https://phabricator.purduesigbots.com/file/data/u3hkrnhchc6435xhe5yy/PHID-FILE-n6pxgdruiodijd4ojjvh/vex_power_expander.jpg)
+![](https://phabricator.purduesigbots.com/file/data/u3hkrnhchc6435xhe5yy/PHID-FILE-n6pxgdruiodijd4ojjvh/vex\_power\_expander.jpg)
 
 Power Expanders are highly recommended to remove at least one subsystem from loading the primary VEX Battery, especially when many 2-Wire Motor 393 modules are in use. Power Expanders sit between the motor (or [digital](../../electronics/general/gpio.md)) output controlling the motor and the [VEX Motor Controller](motor-controller.md), isolating the input system's power and injecting its own on the orange conductor.
 

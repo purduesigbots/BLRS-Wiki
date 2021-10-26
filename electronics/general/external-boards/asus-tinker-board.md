@@ -6,7 +6,7 @@ description: >-
 
 # ASUS Tinker Board S
 
-![ASUS Tinkerboard S](../../../.gitbook/assets/asus\_90me0031\_m0aay0\_tinker_board_s_motherboard\_1418508.jpg)
+![ASUS Tinkerboard S](../../../.gitbook/assets/asus\_90me0031\_m0aay0\_tinker\_board\_s\_motherboard\_1418508.jpg)
 
 ## Features
 

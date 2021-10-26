@@ -12,7 +12,7 @@ The housing of this sensor has a single mounting hole which allows it to be easi
 
 Both the [accelerometer](../3-pin-adi-sensors/accelerometer.md) portion and the [gyroscope](../3-pin-adi-sensors/gyroscope.md) portion of this sensor produce a smart signal feedback to the V5 Brain.
 
-### [**Accelerometer**](../3-pin-adi-sensors/accelerometer.md) 
+### [**Accelerometer**](../3-pin-adi-sensors/accelerometer.md)&#x20;
 
 The [accelerometer](../3-pin-adi-sensors/accelerometer.md) measures how fast the sensor changes its motion (accelerates) along the X-axis, the Y-axis, and/or the Z-axis. These axis are determined by the orientation of the Inertial sensor. For example, one orientation could have a robot’s X-axis as its forward and backward motion, its Y-axis as its side to side motion, and its Z-axis as its up and down motion (such as the robot lifting itself up off the field on a suspension pole).
 
