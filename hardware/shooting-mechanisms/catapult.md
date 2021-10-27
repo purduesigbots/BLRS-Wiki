@@ -92,4 +92,4 @@ The distance between the object and the point of rotation, or the catapult arm, 
 
 Tuning the launch angle of a catapult will allow you fine tune the trajectory of your ball. The vertical height and horizontal distance of your trajectory will have opposite responses to a change in the launch angle. For example, if you change the launch angle to increase the vertical height of your object, then the horizontal distance will decrease, and the same is true for the other way around. Below you can see a diagram of how different launch angles result in different heights and distances. In VEX, the launch angle of a catapult can be changed by implementing or changing the hard-stop of the catapult. The hard-stop is what prevents a catapult from rotating past a certain angle, so changing this angle will change the launch angle.
 
-![Trajectory vs Launch Angle (Conceptual, no real units or numbers)](<../../.gitbook/assets/image (22).png>)
+![Trajectory vs Launch Angle (Conceptual, no real units or numbers)](<../../.gitbook/assets/image (22) (1).png>)

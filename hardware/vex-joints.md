@@ -25,7 +25,7 @@ This is the go-to joint in Vex for low-torque rotation applications. Because it 
 
 ![Single-Bearing Screw Joint ](https://user-images.githubusercontent.com/65926085/83469437-4ffe8380-a445-11ea-9b6a-3cc6337e52f2.png)
 
-![Model of a Single-Bearing Screw Joint in CAD](../.gitbook/assets/screwjoint.png)
+![Model of a Single-Bearing Screw Joint in CAD](<../.gitbook/assets/screwjoint (1).png>)
 
 Each of the components can be seen in** **the model above, which are listed below:
 
