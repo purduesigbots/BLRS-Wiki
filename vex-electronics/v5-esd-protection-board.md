@@ -22,7 +22,7 @@ Technical information about RS-485 Bus Protection can be seen here:&#x20;
 
 {% file src="../.gitbook/assets/ti-iec-esd-rs-485-bus-protection.pdf" %}
 
-![Schematic of the ESD protection board](<../.gitbook/assets/Board Diagram.png>)
+![Diagram of ESD protection board.](<../.gitbook/assets/Board Diagram.png>)
 
 ## Ordering
 
@@ -39,6 +39,10 @@ Please remember when ordering RJ9 Jacks that each ESD protection board requires 
 {% endhint %}
 
 The table below displays all parts you need to order for a complete ESD protection board, as well as links to buy the parts. We have created a walkthrough on ordering from JLC below the table.
+
+{% hint style="info" %}
+The following prices are based on the minimum quantity and unit cost at that quantity, and do not include available coupons or sales. Increasing the quantity will decrease the unit cost, so it is recommended to do one big order instead of multiple small orders.
+{% endhint %}
 
 <table><thead><tr><th>Vendor</th><th>Description</th><th data-type="number">Min. Qty.</th><th>MPN</th><th>Vendor Part #</th><th>Unit Cost</th><th>Ext.</th></tr></thead><tbody><tr><td><a href="https://www.digikey.com/en/products/detail/assmann-wsw-components/A-2004-3-4-LP-N-R/2183632">Digi-Key</a></td><td>RJ9 Jack - 4P4C Unshielded</td><td>100</td><td>A-2004-3-4-LP-N-R</td><td>AE10381-ND</td><td>$0.4385</td><td>$43.85</td></tr><tr><td><a href="https://www.jlcpcb.com">JLC</a></td><td>ESD Board PCB &#x26; TVS Diode</td><td>5</td><td>N/A</td><td>N/A</td><td>$0.3476</td><td>$17.38</td></tr><tr><td><strong>Total</strong></td><td></td><td>null</td><td></td><td></td><td></td><td>$61.23</td></tr><tr><td><strong>Cost per ESD Board</strong></td><td></td><td>null</td><td></td><td></td><td></td><td>$1.2246</td></tr></tbody></table>
 
@@ -60,8 +64,12 @@ File containing TVS Diode placement data.
 
 Then, visit [JLC's website](https://www.jlcpcb.com) and follow the instructions in the video linked below.&#x20;
 
+{% hint style="warning" %}
+Please keep in mind that each panelized board contains ten ESD protection boards, so the number of individual boards you receive is ten times the quantity you input.
+{% endhint %}
+
 {% hint style="info" %}
-Please keep in mind that each panelized board contains 10 ESD protection boards, so the number of individual boards you receive is 10 times the quantity you input.
+JLC offers many coupons for SMT assembly and shipping that will automatically appear during checkout. **Be sure to apply these coupons before you submit your order.**
 {% endhint %}
 
 {% embed url="https://youtu.be/oRecdsYN1K8" %}
