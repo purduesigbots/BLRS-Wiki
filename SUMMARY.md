@@ -57,13 +57,14 @@
   * [Stall Detection](software/general/stall-detection.md)
   * [Register Programming](software/general/register-programming.md)
   * [Sensors and Odometry in Autonomous](software/general/sensors-and-odometry-in-autonomous.md)
-  * [Finite State Machine](software/general/finite-state-machine.md)
   * [Embedded Programming Tips](software/general/embedded-programming-tips.md)
   * [Code Styling Guide](software/general/code-styling-guide.md)
   * [Debugging](software/general/debugging.md)
   * [Bit Shift](software/general/bit-shift.md)
   * [Bit Mask](software/general/bit-mask.md)
   * [Autoformatting](software/general/autoformatting.md)
+  * [Finite State Machine](software/general/finite-state-machine.md)
+* [Odometry](software/odometry.md)
 
 ## VEX CAD
 
