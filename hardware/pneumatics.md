@@ -6,7 +6,15 @@ description: Frankly this is just a lot of hot air...
 
 ## Introduction
 
-The first place to start is always understanding what a specific system is. Pneumatics refers to any mechanism that uses compressed gas to create motion, usually with a linear piston. The VRC legal pneumatics come in two variants, single and double acting. A single acting system uses the compressed gas to move the piston outwards, but have an internal spring which retracts the piston. Double acting systems have the compressed gas being used for both extending and retracting the piston.&#x20;
+Pneumatics are a system of components that use compressed air to create motion. In most cases, this is linear motion from cylinders (sometimes called pistons) but this motion can be used in many different ways. In your life, think about pumps for athletic balls, nail guns, and shocks on bikes. There are 3 subsystems to pneumatics in Vex. There is Air Storage, Air Control, and Pneumatic Cylinders.&#x20;
+
+![Pneumatic Components](<../.gitbook/assets/Screen Shot 2021-12-30 at 9.22.03 PM.png>)
+
+&#x20;      Air Storage is where the pressurized air is held in a robot. For Vex, this is done in aluminum reservoirs. In most seasons, a team can have 2 of these on their robots and they are pressurized to a maximum of 100 psi (pounds per square inch). The 2 main considerations in storage are the volume and the pressure of the air. The volume changes how many times that you can fire the cylinders and the pressure changes how strongly the cylinders fire.&#x20;
+
+&#x20;       Air Control defines when and how actions are taken with pneumatics such as cylinders. In pneumatics, this is done with either flow switches or solenoids. A Finger Valve is a manual 'on and off' switch for cylinders and pneumatics. Most of the time in Vex though, this is used for refilling reservoirs or testing simple systems. Much more commonly, solenoids are used as they plug into the V5 brain and control the flow of air through the system. This is the main way that you will interact with pneumatics on your robot through programming (see Pros guide for more). The pressure regulator is used to control the pressure released from the reservoir to the solenoids. Placed near the reservoir in the system, the pressure can be increased or decreased as needed.&#x20;
+
+&#x20;      Pneumatic cylinders are the third subsystem of pneumatics and are where the motion comes from. In Vex, there are both single, and double-acting pistons. Single-acting pistons are powered outwards and then are released with no force in the other direction. Double-acting pistons on the other hand are powered in both directions with the same amount of force. The two do have different types of solenoids though.&#x20;
 
 ## Components
 
@@ -14,22 +22,28 @@ Pneumatics consist of seven major components:
 
 * **Tubing**
   * Physical carrier for the pressurized air.
-* **Pump Valve**
-  * Bike pump fitting to pressurize entire system.
-* **Regulators**
+* **Reservoir**
+  * Storage for the pressurized air.
+* **Pressure Regulators**
   * Valve to regulate the pressure of air in the system.
-* **Flow Switch**
+* **Finger Valve/Flow Switch**
   * Simple on/off switch for airflow.&#x20;
 * **Solenoids**
-  * Components which turn electrical signals into opening valves for pressurizing tubes.
+  * Control components that turn electrical signals into commands for pressurizing the system. Connected to both V5 Brain(requires drivers) and Pneumatic tubing for control.
 * **Cylinders**
-  * Linearly actuating component.
-* **Reservoirs**
-  * Storage for the pressurized air.
+  * Linearly actuating component
+* **Reservoir Valve**
+  * Used for attaching tubing to reservoir
+* **Solenoid Valve**
+  * Used for attaching tubing to solenoids
+* **Cylinder Valve**
+  *   **Used for attaching tubing to Cylinder**
 
-![](../.gitbook/assets/pneumosanno.png)
 
-The valve, regulator, and reservoir can be sequenced in whichever order, but for the other three components there is one safe configuration. The flow switch must lead into the solenoid, which must lead into the cylinder. The solenoid is the control unit, so it must be directly before the cylinder, and the flow switch allows a safety to work on these two components in isolation.&#x20;
+
+![Example system (from Vex Pneumatics Product Page)](<../.gitbook/assets/Screen Shot 2021-12-30 at 5.02.45 PM.png>)
+
+Above is an ideal system. At the bottom of the reservoir is the bike pump fitting to refill and pressurize the reservoir. The top is the valve for tubing where a pressure regulator could also be installed. Following the tubing is a T-fitting which is used to move air around the system and robot. Following the fitting are the solenoids (with 2 more valves on each) and the drivers (the wires extending out) followed finally by the solenoids. &#x20;
 
 ## Best Practices&#x20;
 
@@ -37,16 +51,16 @@ When using pneumatics, there are many things to keep in mind for optimal perform
 
 ### Design
 
-During your design process, make sure to leave space for the extra components that come with pneumatics. The solenoids are small, but do need to have specific mountings in order to make sure the connections have ample space. Do not design tight corners between your solenoid openings and the expected direction of the tubing, there is a high risk that the connection will be broken or the tubing will be airflow limited.&#x20;
-
 * Leave spacing for Solenoids.
   * The solenoids which control the pistons are small, but make sure that you leave ample space around the connectors for tubing so the connectors fit well.
 * Do not design tight corners for Tubing.
-  * There is a high risk that your connections will be ripped out if you run the tubing around sharp corners, tubing and solenoids can both get damaged.&#x20;
+  * There is a high risk that your connections will be ripped out if you run the tubing around sharp corners, tubing and solenoids can both get damaged. There is also a chance that the tubes could be kinked and stop or limit airflow
+* Consider weight distribution of Reservoirs
+  * The reservoirs may be aluminum but are still fairly large and heavy. It is beneficial to keep these low and centered on your robot. It is also important to keep room for these components as they do take up a lot of space.
 
 ### Construction
 
-During robot construction there are not many helpful tips, but these should always be followed.
+During robot construction, there are not many helpful tips, but these should always be followed.
 
 * Always overuse Tubing.
   * There is never a downside to using too much pneumatic tubing. Using too little can lead to connections being damaged and tubes being stretched. Having slack in tubing lines is important to ensure consistent operation.
@@ -55,7 +69,9 @@ During robot construction there are not many helpful tips, but these should alwa
 * Distribute the Loads.
   * Be certain to even out the force on each side of the pneumatic cylinder. If only one side is loaded, there is a high chance the pneumatics will not function as intended.&#x20;
 * Never work on pressurized pneumatics.
-  * For safety, never work on pneumatics that have pressure, use the regulator and flow switch to depressurize or isolate workable components before doing any maintenance.&#x20;
+  * For safety, never work on pneumatics that has pressure, use the regulator and flow switch to depressurize or isolate workable components before doing any maintenance.&#x20;
+* Use Teflon tape.
+  * Teflon tape is used to seal anywhere that there is a thread in the system. For all valves, Teflon tape helps to reduce the risk of leaks. If your system has leaks, the best place to look is at valves.
 
 ### Operation
 
@@ -71,10 +87,11 @@ For ideal operation, follow these tips.
 
 ### Programming
 
-To program pneumatics, they act as a generalized digital output that can be controlled with whatever ADI API is provided on your respective programming languages.&#x20;
+To program pneumatics, they act as a generalized digital output that can be controlled with whatever ADI API is provided on your respective programming languages. Learn more [here](https://pros.cs.purdue.edu/v5/tutorials/topical/adi.html?highlight=pneumatics#pneumatics)
 
 ## Contributors to this Article
 
-* MTBR (Michigan Task Based Robotics)
+* MTBR (Michigan Task-Based Robotics)
+* Max Johnson (BLRS)
 
 ####

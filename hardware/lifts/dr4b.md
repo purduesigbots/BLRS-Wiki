@@ -22,7 +22,7 @@ Double reverse four bar lifts keep the weight of a load centered over the base o
 
 Depending on whether or not the lift needs speed, height, or torque the core design of the lift changes.
 
-Lifts that are designed for height are usually more heavy because they have **longer arm lengths **and have **a series of bracing and supports** so that the lift and reach its maximum height efficiently keeping the lift very stable and lifting straight up and down without leaning to the right or left.
+Lifts that are designed for height are usually more heavy because they have **longer arm lengths** and have **a series of bracing and supports** so that the lift and reach its maximum height efficiently keeping the lift very stable and lifting straight up and down without leaning to the right or left.
 
 Lifts that are designed of speed are **significantly lighter** than height based DR4Bs so that they have less inertial mass. Things that have less inertial mass are more susceptible to changes in velocity allowing the lift to move up and down very quickly and with significantly reduced recoil.
 

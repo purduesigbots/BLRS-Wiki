@@ -86,7 +86,7 @@ The rotational speed of your catapult arm is the most obvious component of a cat
 
 #### Length of arm
 
-The distance between the object and the point of rotation, or the catapult arm, is very closely related to the rotational speed, and has similar effects. If an arm has a constant _angular _speed, then an object placed farther away from the center will have a faster _linear _than an object placed closer to the center. Because of this, catapults with longer arms will be able to launch objects further, and vice versa
+The distance between the object and the point of rotation, or the catapult arm, is very closely related to the rotational speed, and has similar effects. If an arm has a constant _angular_ speed, then an object placed farther away from the center will have a faster _linear_ than an object placed closer to the center. Because of this, catapults with longer arms will be able to launch objects further, and vice versa
 
 #### Launch angle
 
