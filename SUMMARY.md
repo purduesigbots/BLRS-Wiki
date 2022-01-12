@@ -10,6 +10,7 @@
   * [The Engineering Design Process](hardware/getting-started-with-vex/the-design-process.md)
   * [Misc. Building Techniques](hardware/getting-started-with-vex/misc.-vex-parts.md)
   * [Introduction to VEX Parts](hardware/getting-started-with-vex/misc.-vex-parts-1.md)
+  * [How to Start a Notebook](hardware/getting-started-with-vex/how-to-start-a-notebook.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
@@ -162,7 +163,7 @@
   * [VEX Motor Controller](vex-electronics/legacy/motor-controller.md)
   * [VEX Cortex Wiring Guide](vex-electronics/legacy/legacy-wiring-guide.md)
 
-## General Electronics <a href="electronics" id="electronics"></a>
+## General Electronics <a href="#electronics" id="electronics"></a>
 
 * [General Topics](electronics/general/README.md)
   * [External Boards](electronics/general/external-boards/README.md)
