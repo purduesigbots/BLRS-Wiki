@@ -4,7 +4,7 @@ description: Shooting things and busting encoders
 
 # Flywheel
 
-![General 2-Wheel Flywheel Design, Courtesy of VEX KB](<../../.gitbook/assets/image (45).png>)
+![General 2-Wheel Flywheel Design, Courtesy of VEX KB](<../../.gitbook/assets/image (36).png>)
 
 A flywheel is a mechanism that is designed to store rotational energy as efficiently as possible. This is done by spinning a wheel or disk at very high speeds with very little friction. In VEX, the main application is to launch balls long distances with fairly high accuracy, are often chosen over Catapults and Linear Punchers for their ability to shoot long distances, and shoot multiple objects rapidly. They were most common in the game 2016-2016 Nothing But Net where teams had to collect balls and quickly shoot them into goals across the field. They were also fairly common in the game 2018-2019 Turning Point where teams had to shoot balls in order to toggle flags.
 
@@ -23,7 +23,7 @@ Single flywheels were the dominant design of Nothing But Net. Below is a picture
 \
 Single flywheels were also common in Turning Point where the main goal was precision, and power. Robots like 169A chose flywheels because they are very consistent, and allowed for quick double shots (especially later in the season). 169A’s robot is shown below.
 
-![Team 169A Turning Point](<../../.gitbook/assets/image (43).png>)
+![Team 169A Turning Point](<../../.gitbook/assets/image (34).png>)
 
 \
 This robot used many mechanics similar to what 1104 did in NBN. The biggest innovation of this robot was the addition of an angle changing hood. This hood allowed for the robot to shoot 2 flags(of different heights) very quickly and very accurately.
@@ -37,7 +37,7 @@ A Double flywheel is similar to a single flywheel but instead of a backboard, ha
 
 Below is VCAT Robotic’s nothing but net early season 15” VexU robot. It is one of the better known double flywheels. They did however change the design soon after this to use a single flywheel.
 
-![VCAT Early Season Nothing But Net 15" Robot](<../../.gitbook/assets/image (47).png>)
+![VCAT Early Season Nothing But Net 15" Robot](<../../.gitbook/assets/image (35).png>)
 
 ### Teams Contributed to this Article:
 

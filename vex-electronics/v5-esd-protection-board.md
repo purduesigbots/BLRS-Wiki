@@ -14,13 +14,13 @@ The ESD protection board contains TVS diodes on the two data lines between the c
 
 The table below shows the maximum operating conditions of the TVS diodes used in the boards.
 
-![TVS Diode Specifications](<../.gitbook/assets/image (23).png>)
+![TVS Diode Specifications](<../.gitbook/assets/image (23) (1).png>)
 
 As shown in the table above, the TVS diodes used can redirect up to 30kV (thirty thousand volts) of ESD, meaning it can ground a significant amount of electricity and prevent it from reaching the data line. Adding these ESD protection boards to your robot is a simple and cost-effective way to protect and extend the lifespan of your[ V5 Brain](vex-electronics/vex-v5-brain/).
 
 Technical information about RS-485 Bus Protection can be seen here:&#x20;
 
-{% file src="../.gitbook/assets/ti-iec-esd-rs-485-bus-protection.pdf" %}
+{% file src="../.gitbook/assets/TI-IEC ESD RS-485 Bus Protection.pdf" %}
 
 ![Diagram of ESD protection board.](<../.gitbook/assets/Board Diagram.png>)
 
@@ -50,15 +50,15 @@ The following prices are based on the minimum quantity and unit cost at that qua
 
 Firstly, download all three files attached below.
 
-{% file src="../.gitbook/assets/Panelized Board GERBER.zip" %}
+{% file src="../.gitbook/assets/Panelized Board GERBER (2).zip" %}
 File containing ESD Board PCB data.
 {% endfile %}
 
-{% file src="../.gitbook/assets/Panelized Board BOM.csv" %}
+{% file src="../.gitbook/assets/Panelized Board BOM (1).csv" %}
 File containing TVS Diode part data.
 {% endfile %}
 
-{% file src="../.gitbook/assets/Panelized Board CPL.csv" %}
+{% file src="../.gitbook/assets/Panelized Board CPL (1).csv" %}
 File containing TVS Diode placement data.
 {% endfile %}
 
@@ -78,7 +78,7 @@ Video walkthrough of ordering ESD protection boards with SMT assmebly through JL
 
 ## 3D Printable Case
 
-![Assembled ESD Boards inside 3D printable case.](<../.gitbook/assets/image (8).png>)
+![Assembled ESD Boards inside 3D printable case.](<../.gitbook/assets/image (8) (2).png>)
 
 Jess from VEXU team EZ has designed 3D printed cases to house the ESD protection boards. There are designs for one board, four boards, and eight boards. Attached below are the STL and STEP files for the different case sizes.&#x20;
 
@@ -96,7 +96,7 @@ File containing .stl and .step files for 3D printable case for eight boards.
 
 To print the cases, place the STL files in your slicer with the flat side on the bed. The recommended print settings are 15% infill with 0.2mm resolution. Supports are not needed and brims are optional.&#x20;
 
-![Print orientation for the available ESD Board cases in PrusaSlicer.](<../.gitbook/assets/image (24).png>)
+![Print orientation for the available ESD Board cases in PrusaSlicer.](<../.gitbook/assets/image (24) (1).png>)
 
 ## Installation
 

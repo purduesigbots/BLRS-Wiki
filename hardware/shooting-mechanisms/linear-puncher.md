@@ -6,7 +6,7 @@ description: One Punch Bot
 
 
 
-![](../../.gitbook/assets/puncherfinal.png)
+![](../../.gitbook/assets/PuncherFinal.png)
 
 Linear punchers are one of the simplest, yet most effective ball launching mechanisms. The name of the mechanism comes from it's linear actuation and the forceful impact on the ball that sends it flying.
 
@@ -41,7 +41,7 @@ A simple puncher design for Turning Point (2018-19)
 
 Some modifications that could be done to the linear puncher include adding a ratchet system that would allow the puncher to stay in place when pulled back. This would be good in scenarios that would require you to quickly launch the object, rather than having to pull back the puncher before firing. Another modification that could be done to the linear puncher is including an angle adjuster to modify the trajectory of the shot. This can be integrated with other sensors such as the [vision sensor](../../vex-electronics/vex-sensors/smart-port-sensors/vision-sensor.md) to create automatic or assisted aiming for the driver. Below are examples of the angle adjust and ratchet system:
 
-![Close Up of Puncher Ratchet (Courtesy of 574C)](<../../.gitbook/assets/image (53).png>)
+![Close Up of Puncher Ratchet (Courtesy of 574C)](<../../.gitbook/assets/image (42).png>)
 
 {% embed url="https://photos.google.com/share/AF1QipPnnRUs7Wuxs_RiNKlR3JkEugRYWviU-qm1A-LEDJh5RyWRZbQnADTJ87l1sUYc5w/photo/AF1QipO6NDTuRcRav2fUwOIV5okZxvn_Aoo3UmGZfAe9?key=bUNDbXRNTUlaY05LbFRZOGNvUGt3MzFnd1l3Q2Zn" %}
 Angle Changing Mechanism and Explanation (Courtesy of 574C)

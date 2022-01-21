@@ -14,13 +14,13 @@ This will be constrained the same way as the outer channel in the basics tutoria
 
 Our drive channels will be 35 hole long aluminum 2xs.  We can find them in `Structure/C-Channels/Aluminum 1x2x1/1x2x1x35 Aluminum.ipt`.  Start by placing one of them.&#x20;
 
-![Placed 1x2x1x35 C-Channel](<../../../.gitbook/assets/image (179).png>)
+![Placed 1x2x1x35 C-Channel](<../../../.gitbook/assets/image (160).png>)
 
 This gets constrained with one insert and one mate constraint, just like the previous tutorial linked above. &#x20;
 
-![Insert Constraint between two C-Channels](<../../../.gitbook/assets/image (173).png>)
+![Insert Constraint between two C-Channels](<../../../.gitbook/assets/image (161).png>)
 
-![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (148).png>)
+![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (162).png>)
 
 ## Inner Channel
 
@@ -28,19 +28,19 @@ In the previous tutorial, the inner and outer channel were constrained in the sa
 
 Instead of using one insert and one mate constraint, we will use two mate constraints to constrain the c-channel to the cross brace.&#x20;
 
-![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (191).png>)
+![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (167).png>)
 
 Because there is no insert constraint, this c-channel will be able to move up and down if you left click and drag it.&#x20;
 
-![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (207).png>)
+![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (168).png>)
 
 Now we want to constrain it to the outer channel, so that when we modify the insert constraint on the outer channel, both channels move.  We will do this with another mate constraint between the inner and outer channels.&#x20;
 
-![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (74).png>)
+![Mate Constraint between two C-Channels](<../../../.gitbook/assets/image (169).png>)
 
 If done correctly, when you modify the insert constraint for the outer drive channel, both channels should move up.  But, for now we will leave this insert constraint at 0.&#x20;
 
-![Drive Channels Moving Together](<../../../.gitbook/assets/image (139).png>)
+![Drive Channels Moving Together](<../../../.gitbook/assets/image (170).png>)
 
 {% hint style="info" %}
 Remember to keep that insert constraint 0"!  Remember to save!

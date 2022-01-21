@@ -10,15 +10,15 @@ These can be constrained to.  Constraining to the origin planes makes sure our a
 
 ### YZ Plane
 
-![YZ Plane](<../../../.gitbook/assets/image (93).png>)
+![YZ Plane](<../../../.gitbook/assets/image (140).png>)
 
 ### XZ Plane
 
-![XZ Plane](<../../../.gitbook/assets/image (138).png>)
+![XZ Plane](<../../../.gitbook/assets/image (141).png>)
 
 ### XY Plane
 
-![XY Plane](<../../../.gitbook/assets/image (168).png>)
+![XY Plane](<../../../.gitbook/assets/image (142).png>)
 
 
 

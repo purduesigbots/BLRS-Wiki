@@ -6,7 +6,7 @@ description: >-
 
 # Meadow F7 Micro
 
-![A Meadow F7 Micro](../../../.gitbook/assets/meadow\_golden\_1024x1024\_2x\_65e55563-3639-4791-861c-572717bf2db6\_1024x1024-2x.webp)
+![A Meadow F7 Micro](../../../.gitbook/assets/Meadow\_Golden\_1024x1024\_2x\_65e55563-3639-4791-861c-572717bf2db6\_1024x1024@2x.webp)
 
 ## Specifications
 

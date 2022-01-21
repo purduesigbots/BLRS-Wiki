@@ -4,7 +4,7 @@ description: The 4 bar lift, the simplest linkage that for keeping both ends par
 
 # Four Bar
 
-![](../../.gitbook/assets/4barcad.jpg)
+![](../../.gitbook/assets/4barCAD.jpg)
 
 The four bar lift is one of the most used lifts in VEX Robotics competitions due to its relative simplicity and ease of building. The four bar lift is constructed using two sets of parallel bars that move up and down in unison. Two sets of vertical bars line both the front and back of the linkage, so that the lift can be attached to a robot base parallel to to object interaction mechanisms being attached.
 

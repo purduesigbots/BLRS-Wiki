@@ -8,7 +8,7 @@ description: >-
 
 ## V5 Distance Sensor:
 
-![V5 Distance Sensor](../../../.gitbook/assets/distancesensor.jpg)
+![V5 Distance Sensor](<../../../.gitbook/assets/distancesensor (1).jpg>)
 
 The **V5 Distance Sensor** is a rangefinder which uses a small laser reflecting off of an object to determine distance. It connects to the [V5 Brain](https://app.gitbook.com/s/-M7yGVyBrcpSR8SDSikj/vex-electronics/vex-sensors/vex-electronics/vex-v5-brain/) through a Smart Port on the top of the sensor.
 

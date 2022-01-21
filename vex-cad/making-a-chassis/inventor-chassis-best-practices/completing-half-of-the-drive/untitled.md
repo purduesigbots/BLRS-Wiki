@@ -8,7 +8,7 @@ description: Constraining wheels.
 
 We already created the wheel subassembly, so now we can place it and constrain it to the drive with an insert constraint.  We will use an offset of `0.125"` to create a little space between the drive and wheel.&#x20;
 
-![Insert Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (151).png>)
+![Insert Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (185).png>)
 
 ## Second Wheel
 
@@ -16,17 +16,17 @@ Later on if we want to change the space between the wheel and the c-channel, it'
 
 First, use a mate constraint between the wheel and the bearing.&#x20;
 
-![Mate Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (89).png>)
+![Mate Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (186).png>)
 
 For our second constraint, we will use a flush constraint between both gears. &#x20;
 
-![Flush Constraint between Gears](<../../../../.gitbook/assets/image (188).png>)
+![Flush Constraint between Gears](<../../../../.gitbook/assets/image (187).png>)
 
 Now we have a fully constrained wheels!
 
-![Completed Wheels Top Down](<../../../../.gitbook/assets/image (80).png>)
+![Completed Wheels Top Down](<../../../../.gitbook/assets/image (188).png>)
 
-![Completed Wheels Home ](<../../../../.gitbook/assets/image (161).png>)
+![Completed Wheels Home ](<../../../../.gitbook/assets/image (190).png>)
 
 {% hint style="info" %}
 Remember to save!
