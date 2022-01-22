@@ -151,6 +151,7 @@
     * [Ultrasonic](vex-electronics/vex-sensors/3-pin-adi-sensors/ultrasonic.md)
     * [Line Tracker](vex-electronics/vex-sensors/3-pin-adi-sensors/line-tracker.md)
   * [Smart Port Sensors](vex-electronics/vex-sensors/smart-port-sensors/README.md)
+    * [GPS Sensor](vex-electronics/vex-sensors/smart-port-sensors/vex-gps-sensor.md)
     * [Rotation Sensor](vex-electronics/vex-sensors/smart-port-sensors/rotation-sensor.md)
     * [Vision Sensor](vex-electronics/vex-sensors/smart-port-sensors/vision-sensor.md)
     * [Optical Sensor](vex-electronics/vex-sensors/smart-port-sensors/optical-sensor.md)

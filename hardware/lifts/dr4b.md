@@ -37,11 +37,11 @@ These terms are fairly arbitrary and are just to group together similar designs.
 
 **Heavyweight**
 
-!["Big Mac" (AURA Skyrise 2014)](<../../.gitbook/assets/AURA VEXU 2015 Reveal 0-32 screenshot (2).png>)
+!["Big Mac" (AURA Skyrise 2014)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
 
-!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (1).png>)
+!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (2).png>)
 
-!["Big Chungus" Expanded (BLRS Tower Takeover 2019)](../../.gitbook/assets/CJR\_0286.JPG)
+!["Big Chungus" Expanded (BLRS Tower Takeover 2019)](../../.gitbook/assets/cjr\_0286.jpg)
 
 This weight class is typically only found in VEXU because of size and motor restrictions. But nonetheless highlights important design considerations to make an all rounded lift more sturdy and stable. It should also be noted that its ability to be used as a 24" robot as a relatively wide lift allows for more cross bracing between the two sides of the lift (as shown in the "Big Chungus" pictures), or potentially another subsystem if the team plans accordingly.
 
@@ -57,7 +57,7 @@ Characteristics:
 
 **All Round**
 
-![491A (In the Zone 2017)](<../../.gitbook/assets/image (28) (2).png>)
+![491A (In the Zone 2017)](<../../.gitbook/assets/image (28) (3).png>)
 
 An extremely reliable lift with 2 motors that is both quick and tall is easy to do the with the power of V5 motors. This type of lift is going to fit the needs of most applications.
 
@@ -87,7 +87,7 @@ Characteristics
 
 **Featherweight**
 
-![8000A (In The Zone 2017)](<../../.gitbook/assets/8000 In the Zone VEX Reveal 0-21 screenshot.png>)
+![8000A (In The Zone 2017)](../../.gitbook/assets/8000-in-the-zone-vex-reveal-0-21-screenshot.png)
 
 This design of double reverse 4 bar is a very niche weight class and strips down the "Double Reverse" design to its bare minimum to create a very space efficient lift. These designs typically have another actuating device or lift on the end of the lift and can be used
 
@@ -102,9 +102,9 @@ One thing that may be important to note is that the "Double Reverse 4 Bar" desig
 
 The following lifts are not "DR4Bs" and use different techniques to make the lift taller.
 
-![202Z Double Reverse 4-6 Bar (In The Zone) Renders and Model by Zach 929U ](<../../.gitbook/assets/Render 4.png>)
+![202Z Double Reverse 4-6 Bar (In The Zone) Renders and Model by Zach 929U ](../../.gitbook/assets/render-4.png)
 
-![UCF Double Reverse 8-Bar (Tower Takeover)](../../.gitbook/assets/HBWYc4249bcEgIseqrR9eAEv5I7uJuFgpDuM28ePeEZ9lQENrsn6AoGrnHWYadUlrObK62fhU-pkF3dHP9YsXMqAt9g1JLOUgnfT.png)
+![UCF Double Reverse 8-Bar (Tower Takeover)](../../.gitbook/assets/hbwyc4249bcegiseqrr9eaev5i7ujufgpdum28epeez9lqenrsn6aogrnhwyadulrobk62fhu-pkf3dhp9ysxmqat9g1jlougnft.png)
 
 ## Consensus
 

@@ -12,7 +12,7 @@ We can find 4" wheels in `Motion/Wheels/Omnis/4 Omni, Square.ipt`, and HS 84t ge
 
 Start by grounding our 84t gear so we have a solid thing to constrain to.&#x20;
 
-![Grounding 84t Gear](<../../../.gitbook/assets/image (122).png>)
+![Grounding 84t Gear](<../../../.gitbook/assets/image (144).png>)
 
 ### Flush Constraint
 
@@ -20,31 +20,31 @@ When this is built in real life, the gear and the wheel will be on the same axel
 
 A flush constraint makes two planes flush with each other.  It doesn't force the planes to contact.  They can be selected at the bottom right of the constraint window, they are a modification of mate constraints.&#x20;
 
-![Flush Constraint Selection](<../../../.gitbook/assets/image (124).png>)
+![Flush Constraint Selection](<../../../.gitbook/assets/image (200).png>)
 
-![Flush Selection on Wheel](<../../../.gitbook/assets/image (125).png>)
+![Flush Selection on Wheel](<../../../.gitbook/assets/image (158).png>)
 
-![Flush Selection on Gear](<../../../.gitbook/assets/image (126).png>)
+![Flush Selection on Gear](<../../../.gitbook/assets/image (131).png>)
 
 The wheel cannot move up/down because those plans will always stay flush with each other.&#x20;
 
-![Completed Flush Constraint](<../../../.gitbook/assets/image (127).png>)
+![Completed Flush Constraint](<../../../.gitbook/assets/image (211).png>)
 
 ### Insert Constraint
 
 We will use an insert constraint to get the wheel and the gear concentric and some distance apart.  Now that there is a flush constraint, we need to be careful about the insert we select.  Select the sides that are closer to each other.  In the images below, look at the navigation cube for orientation reference.&#x20;
 
-![Insert Gear Selection](<../../../.gitbook/assets/image (128).png>)
+![Insert Gear Selection](<../../../.gitbook/assets/image (92).png>)
 
-![Insert Wheel Selection](<../../../.gitbook/assets/image (129).png>)
+![Insert Wheel Selection](<../../../.gitbook/assets/image (120).png>)
 
 ### Creating Space between Wheel and Gear
 
 The wheel and the gear are clipping each other a bit.  We can play with the offset until we find an amount that looks about right.  I'm using `0.3125"`.
 
-![Wheel and Gear Before](<../../../.gitbook/assets/image (130).png>)
+![Wheel and Gear Before](<../../../.gitbook/assets/image (212).png>)
 
-![Wheel and Gear After](<../../../.gitbook/assets/image (133).png>)
+![Wheel and Gear After](<../../../.gitbook/assets/image (60).png>)
 
 ## Adding Spacers
 
@@ -58,27 +58,27 @@ We need to constrain both spacers together.  We need two of these assemblies.  I
 
 Select multiple parts by `ctrl+left click` your parts until they are all blue.  Then use `ctrl+c` to copy.
 
-![Selecting Spacer Stack](<../../../.gitbook/assets/image (135).png>)
+![Selecting Spacer Stack](<../../../.gitbook/assets/image (208).png>)
 
 Then use `ctrl+v` to paste.&#x20;
 
-![Two Spacer Stacks](<../../../.gitbook/assets/image (136).png>)
+![Two Spacer Stacks](<../../../.gitbook/assets/image (73).png>)
 
 ### Constraining Spacers to Gear
 
 Use an insert constraint to connect the spacer to the gear.&#x20;
 
-![Insert Constraint between Spacer and Gear](<../../../.gitbook/assets/image (137).png>)
+![Insert Constraint between Spacer and Gear](<../../../.gitbook/assets/image (91).png>)
 
 After adding the second spacer stack, we see that it clips the spokes a little.  This is a something that doesn't look like it works in CAD, but the parts have enough slop in real life that this works very well.&#x20;
 
-![Spacers Clipping the Wheel](<../../../.gitbook/assets/image (138).png>)
+![Spacers Clipping the Wheel](<../../../.gitbook/assets/image (203).png>)
 
 
 
 If completed correctly, our final wheel assembly should look like this.&#x20;
 
-![Completed Wheel Assembly](<../../../.gitbook/assets/image (139).png>)
+![Completed Wheel Assembly](<../../../.gitbook/assets/image (143).png>)
 
 {% hint style="info" %}
 Remember to save!

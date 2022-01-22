@@ -14,7 +14,7 @@ DMMs only update at about 1 Hz and are ill-suited for measuring varying or perio
 
 ## Soldering iron
 
-![](../../.gitbook/assets/71pVqTH4xJL.\_AC\_SL1500\_.jpg)
+![](../../.gitbook/assets/71pvqth4xjl.\_ac\_sl1500\_.jpg)
 
 For permanent connection of electrical parts, soldering is the most common method. A **soldering iron** is the simplest way to heat up a joint to the melting point of the solder in use, which is usually much less than that of any other metal type in the circuit (but sometimes hot enough to damage nonmetallic insulation). Basic soldering irons have a low-wattage heating element and rely on thermal equilibrium between radiative losses to the environment and heat generation to achieve an unstable temperature reference, whereas better models measure the current temperature and use a [PID Controller](../../software/control-algorithms/pid-controller.md) to improve accuracy.
 
@@ -24,7 +24,7 @@ Soldering irons can be used for many types of joints, but soldering a large circ
 
 ## Oscilloscope
 
-![](../../.gitbook/assets/DS4024.jpg)
+![](../../.gitbook/assets/ds4024.jpg)
 
 An **oscilloscope** is an electronic device intended to measure high-frequency periodic changes in electrical circuits or to observe one-time occurrences. The input voltage is sampled rapidly, millions of times per second versus a few times per second by a digital multimeter, and the variation over time displayed on the oscilloscope screen. The iconic graph is updated whenever a user-defined "trigger" event occurs to avoid a scrolling waveform caused by an inability to lock onto a consistent point in the signal; alternatively, a single capture can be set to observe a transient phenomenon. Some oscilloscopes use a computer screen for output and allow the loading and saving of captured waveforms, known as "traces".
 

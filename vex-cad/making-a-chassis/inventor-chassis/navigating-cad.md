@@ -36,7 +36,7 @@ At the top right of your workspace is the navigation cube.  Bringing your mouse 
 
 Hover over the face of the cube you want to view and left click.
 
-![Navigation Cube Face GIF](<../../../.gitbook/assets/select face.gif>)
+![Navigation Cube Face GIF](../../../.gitbook/assets/select-face.gif)
 
 
 

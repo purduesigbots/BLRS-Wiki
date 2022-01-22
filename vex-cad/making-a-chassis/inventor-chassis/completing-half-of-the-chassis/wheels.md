@@ -12,13 +12,13 @@ We will use one insert constraint from the inner drive channel, and that's the o
 
 We will use the insert parameter to set the wheel a distance away from the inner drive c-channel.  My offset is 0.3125" because it's the same as a 0.25" spacer with two washers. &#x20;
 
-![Insert Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (75).png>)
+![Insert Constraint between Wheel and C-Channel](<../../../../.gitbook/assets/image (77).png>)
 
-![Completed Wheel](<../../../../.gitbook/assets/image (76).png>)
+![Completed Wheel](<../../../../.gitbook/assets/image (95).png>)
 
 After placing a wheel on the back, it should look like this.&#x20;
 
-![Completed Wheels](<../../../../.gitbook/assets/image (79).png>)
+![Completed Wheels](<../../../../.gitbook/assets/image (123).png>)
 
 {% hint style="info" %}
 Remember to save!

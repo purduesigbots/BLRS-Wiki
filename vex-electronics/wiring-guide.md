@@ -4,7 +4,7 @@
 
 The V5 brain has 3 different types of ports - 20 motor ports (labeled ports 1-21), a single radio port (port 21), and 8 3-pin analog sensor ports (labeled ports A-H). These analog ports support 3-pin cortex-era sensors and (although not competition legal) 393 3-pin motors.
 
-![V5 Brain Port Locations](<../.gitbook/assets/image (6).png>)
+![V5 Brain Port Locations](<../.gitbook/assets/image (7).png>)
 
 Wiring from sensors/motors to brain ports is relatively simple compared to the legacy cortex system. Here's some tips when doing so -
 
@@ -23,7 +23,7 @@ Wire crimping allows teams to produce custom wire lengths and replace broken wir
 
 Here is the [VEX Guide on Wire Crimping.](https://kb.vex.com/hc/en-us/articles/360036143012-Crimping-Tool-Robot-Brain-for-VEX-V5)
 
-![VEX Crimping Tool, Wire Spool, and Wire Heads](<../.gitbook/assets/image (5).png>)
+![VEX Crimping Tool, Wire Spool, and Wire Heads](<../.gitbook/assets/image (6).png>)
 
 ### Contributing Teams to this Article:
 

@@ -18,7 +18,7 @@ Every new robot that you want to CAD, you'll make a new folder here with the nam
 
 When done, your file structure should look like this:
 
-![Completed File Structure ](<../../../.gitbook/assets/File Structure.png>)
+![Completed File Structure ](../../../.gitbook/assets/file-structure.png)
 
 
 

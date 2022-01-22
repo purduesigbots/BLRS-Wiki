@@ -8,7 +8,7 @@ description: >-
 
 ## Raspberry Pi 4
 
-![](../../../.gitbook/assets/pi4-labelled@2x-0894491e6de97a282dde5a5010cc8b61.webp)
+![](../../../.gitbook/assets/pi4-labelled-2x-0894491e6de97a282dde5a5010cc8b61.webp)
 
 ### Features
 
@@ -33,7 +33,7 @@ The speed and performance of the new [Raspberry Pi 4](https://www.raspberrypi.or
 
 ## Raspberry Pi Zero W
 
-![](<../../../.gitbook/assets/72a529ca180136e5ab43dcf1547253238e273b8b\_pi-zero-w-tilt-1-1620x1080 (1) (1) (1).webp>)
+![](<../../../.gitbook/assets/72a529ca180136e5ab43dcf1547253238e273b8b\_pi-zero-w-tilt-1-1620x1080 (1) (1).webp>)
 
 ### Features
 

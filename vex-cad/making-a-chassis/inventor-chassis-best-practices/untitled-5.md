@@ -10,7 +10,7 @@ Please follow the Model Browser Folders tutorial linked below.  Instead of namin
 [part-tree-folders.md](part-tree-folders.md)
 {% endcontent-ref %}
 
-![Completed Model Browser](<../../../.gitbook/assets/image (204).png>)
+![Completed Model Browser](<../../../.gitbook/assets/image (147).png>)
 
 
 
