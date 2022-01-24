@@ -41,7 +41,9 @@ Here is where the game and overall design problem is analyzed. Add photos, measu
 
 ![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.53.11 PM.png>)
 
-![2020-21 Design Award Rubric](<../../.gitbook/assets/Screen Shot 2021-12-31 at 9.40.42 AM.png>)
+|                        Topic                        |                                                                                   Expert (4-5 points)                                                                                  |                                          Proficient (2-3 points)                                          |                        Emerging (0-1 points)                       |
+| :-------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| Identify game and robot design challenges and goals | Identifies the game challenge or robot design challenge in detail at the start of each design process cycle with words and pictures. States the goals for accomplishing the challenge. | Identifies the challenge at the start of each design cycle. Lacking details in words, pictures, or goals. | Does not identify the challenge at the start of each design cycle. |
 
 Above is a portion of the design award rubric to guide notebook creation. This portion of the notebook is the first section of the rubric and is the basis for showing a team's understanding of the problem at hand. During the judging process, it is common for judges to pass over some notebooks in order to save time. This is the first section that a judge will see and if it is not strong, the rest of the notebook may be passed over.&#x20;
 
@@ -51,7 +53,9 @@ Here, ideas are generated in order to solve the problem that was just analyzed. 
 
 ![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.54.56 PM.png>)
 
-![2020-21 Design Award Rubric](<../../.gitbook/assets/Screen Shot 2021-12-31 at 9.40.51 AM.png>)
+|                     Topic                     |                                                                                Expert (4-5 points)                                                                               |                                                Proficient (2-3 points)                                               |             Emerging (0-1 points)            |
+| :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------: |
+| Brainstorm and diagram or prototype solutions | Lists three or more possible solutions to the challenge with labeled diagrams. Citations provided for ideas that came from outside sources such as online videos or other teams. | Lists one or two possible solutions to the challenge. No citations provided for ideas that came from outside sources | Does not list any solutions to the challenge |
 
 Above is another portion of the design rubric notebook. This portion of the notebook (and design process) will be what the rest of a team's design is based on. It is important to generate several ideas to not only satisfy the rubric but also to make sure all of the possibilities for design are considered.&#x20;
 
@@ -61,7 +65,9 @@ After several ideas have been generated, select one annotated sketch for each id
 
 ![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.57.33 PM.png>)
 
-![2020-21 Design Award Rubric](<../../.gitbook/assets/Screen Shot 2021-12-31 at 9.41.04 AM.png>)
+|               Topic               |                                                        Expert (4-5 points)                                                        |                   Proficient (2-3 points)                  |                            Emerging (0-1 points)                            |
+| :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| Select the best solution and plan | Explains why the solution was selected through testing and/or decision matrix. Fully descries the plan to implement the solution. | Explains why the solution was selected. Mentions the plan. | Does not explain why the solution was selected or does not mention the plan |
 
 After generating ideas, it is important to show the difference in ideas and their perceived ability to succeed as a design. The portion of the rubric above asks for reasoning on the decision and also the plan for implementation. This means that designs should be discussed individually as well as part of a whole system. Here is an opportunity to begin planning out the whole robot and describe future plans.&#x20;
 
@@ -77,7 +83,11 @@ Here is the place to document progress on the robot and to show testing and eval
 
 ![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 7.06.30 PM.png>)
 
-![2020-21 Design Award Rubric](<../../.gitbook/assets/Screen Shot 2021-12-31 at 9.41.19 AM.png>)
+|              Topic             |                                                                      Expert (4-5 points)                                                                     |                                                Proficient (2-3 points)                                                |                       Emerging (0-1 points)                      |
+| :----------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| Build and program the solution | Records the steps to build and program the solution. Includes enough detail that the reader could recreate the solution following the steps in the notebook. |       Records the key steps to build and program the solution. Lacks sufficient detail to recreate the solution.      | Does not record the key steps to build and program the solution. |
+|          Test solution         |                                              Records all the steps to test the solution, including test results.                                             |                                      Records the key steps to test the solution.                                      |          Does not record the steps to test the solution.         |
+|          Repeat design         |       Shows that the design process is repeated multiple times to imporve perfomance on an individual design goal or overall robot or game perfomance.       | Shows that the design process is not often repeated for individual design goals or overall robot or game performance. |           Does not show the design process is repeated.          |
 
 This is the meat of the notebook and also as the rubric. It becomes very cyclical as the design process often is. It is important to be thorough throughout this whole portion so that a judge can understand the process taken and also so that the team can reflect on testing to further future designs.&#x20;
 

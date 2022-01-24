@@ -1,6 +1,6 @@
 # GPS Sensor
 
-![VEX GPS Sensor](<../../../.gitbook/assets/image (22).png>)
+![VEX GPS Sensor](<../../../.gitbook/assets/image (22) (1).png>)
 
 ## Sensor Description
 
@@ -24,11 +24,11 @@ More information about this algorithm can be found on this patent document here:
 
 ## Use and Operation
 
-![GPS Real World Coordinate and Heading (Courtesy of VEX KB, Edited by PROS Development Team)](<../../../.gitbook/assets/image (8).png>)
+![GPS Real World Coordinate and Heading (Courtesy of VEX KB, Edited by PROS Development Team)](<../../../.gitbook/assets/image (8) (2).png>)
 
 The VEX GPS sensor is remarkably simple to install and operate, Just make sure that the sensor is vertically on the same plane as the field strips, or roughly 10.5 inches off of the ground, and initial position values on field and offset values from center of rotation on robot are set correctly. The sensor's position, heading, total degrees rotated throughout the match can be then retrieved from it via whatever API the programming platform used provides.&#x20;
 
-![Example GPS Placement on Robot (Courtesy of VEX KB)](<../../../.gitbook/assets/image (2).png>)
+![Example GPS Placement on Robot (Courtesy of VEX KB)](<../../../.gitbook/assets/image (2) (1).png>)
 
 {% embed url="https://pros.cs.purdue.edu/v5/tutorials/topical/gps.html" %}
 PROS Documentation for GPS Sensor
@@ -38,7 +38,7 @@ Robot Position is the most fundamental data to use for autonomy, check out the [
 
 ## Deadzone
 
-![Approximate GPS Deadzone](<../../../.gitbook/assets/image (23).png>)
+![Approximate GPS Deadzone](<../../../.gitbook/assets/image (23) (1).png>)
 
 Unfortunately, like all camera-based sensing, there is an effective range for the VEX GPS. The measured deadzone is shown to end at approximately 13.5 inches away from the wall. The signal also does not become clear until approximately 20 inches away from the wall. There is an onboard IMU to help with the deadzone and inconsistent read areas, but the accuracy is limited outside of the effective range. The end of the range is beyond 12 feet and is not an issue within the VEX field. &#x20;
 
