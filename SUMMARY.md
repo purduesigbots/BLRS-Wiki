@@ -8,10 +8,7 @@
 
 ## Hardware
 
-* [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
-  * [Attending Competitions](hardware/misc.-vex-parts-1/attending-competitions/README.md)
-    * [Elimination Bracket](hardware/misc.-vex-parts-1/attending-competitions/elimination-bracket.md)
-    * [The Interview](hardware/misc.-vex-parts-1/attending-competitions/the-interview.md)
+* [Introduction to VEX Parts](hardware/misc.-vex-parts-1.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
@@ -36,15 +33,18 @@
 * [New Team Resources](<Team Administration/new-team-resources/README.md>)
   * [Creating The Team](<Team Administration/new-team-resources/creating-the-team.md>)
   * [Gaining Interest for Robotics Teams](<Team Administration/new-team-resources/gaining-interest-for-robotics-teams.md>)
-* [Team Dynamic](<Team Administration/team-dynamic/README.md>)
-  * [Organization Structure and Longevity](<Team Administration/team-dynamic/organization-structure-and-longevity.md>)
-  * [Member Allocation and Management](<Team Administration/team-dynamic/member-allocation-and-management.md>)
+  * [Attending Competitions](<Team Administration/new-team-resources/attending-competitions/README.md>)
+    * [Elimination Bracket](<Team Administration/new-team-resources/attending-competitions/elimination-bracket.md>)
+* [Team Dynamics](<Team Administration/team-dynamics/README.md>)
+  * [Organization Structure and Longevity](<Team Administration/team-dynamics/organization-structure-and-longevity.md>)
+  * [Member Allocation and Management](<Team Administration/team-dynamics/member-allocation-and-management.md>)
 * [Team Finances](<Team Administration/team-finances/README.md>)
   * [One-Year Team Financial Breakdown](<Team Administration/team-finances/one-year-team-financial-breakdown.md>)
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
 * [Team Documentation](<Team Administration/team-documentation/README.md>)
   * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
-  * [How to Start a Notebook](<Team Administration/team-documentation/how-to-start-a-notebook.md>)
+  * [How to Start a Notebook](hardware/lifts/how-to-start-a-notebook.md)
+  * [The Interview](<Team Administration/team-documentation/the-interview.md>)
 
 ## Software
 
