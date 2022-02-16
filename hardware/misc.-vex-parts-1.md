@@ -20,25 +20,25 @@ The most commonly used type of metal in VEX, C-Channels provide a stable, secure
 
 #### 2 Hole Width
 
-![](../../.gitbook/assets/2Channel.PNG)
+![](../.gitbook/assets/2Channel.PNG)
 
 This variety is the most used of the three, as the relatively small form factor makes it ideal for conserving space and weight.
 
 #### 3 Hole Width
 
-![](../../.gitbook/assets/3Channel.PNG)
+![](../.gitbook/assets/3Channel.PNG)
 
 A balance between the smaller 2-hole and larger 5-hole widths, the 3-hole width c-channels are great for saving space and weight, while giving slightly more room for mounting subsystems to the chassis.
 
 #### 5 Hole Width
 
-![](../../.gitbook/assets/5Channel.PNG)
+![](../.gitbook/assets/5Channel.PNG)
 
 The largest of the three widths, 5 hole width maximizes space for mounting, while taking up considerably more space and weight. Ideal for making your bot heavier, and less susceptible to defense as a result.
 
 ### U-Channel
 
-![](../../.gitbook/assets/U.PNG)
+![](../.gitbook/assets/U.PNG)
 
 A variation of the C-Channel, the U-Channel has an extra hole on the bracket portion of the stock, giving it a more “U” shaped appearance. This stock is great for bracing different towers and other supports, as the “U” shape can envelope the towers, adding additional space for box-bolts, making the towers more secure.
 
@@ -48,13 +48,13 @@ Forming the shape of an “L,” these stocks of metal have either 1 or 2 holes 
 
 #### 1x1 Bars
 
-![](../../.gitbook/assets/1x1.PNG)
+![](../.gitbook/assets/1x1.PNG)
 
 1x1 angle bars are mainly used for cross bracing, in the form of triangle or X bracing.
 
 #### 2x2 Bars
 
-![](../../.gitbook/assets/2x2.PNG)
+![](../.gitbook/assets/2x2.PNG)
 
 2x2 angle bars can be used to brace to parallel towers, while providing additional mounting space in the up or down direction.
 
@@ -98,7 +98,7 @@ As described in the chart, sprockets are produced in a both high and low strengt
 
 ### Standard Hex Nuts
 
-![](../../.gitbook/assets/hnut.PNG)
+![](../.gitbook/assets/hnut.PNG)
 
 These nuts are the least used in VRC, as they have no teeth to keep them tight without heavy maintenance, nor rubber to maintain their position on the screw.
 
@@ -106,7 +106,7 @@ These nuts are the least used in VRC, as they have no teeth to keep them tight w
 
 The most common type of nut used in VEX, these nuts have teeth on the inner portion of the nut (the end that contacts the attached surface), which keeps the nut solidly in place without much maintenance.
 
-![](../../.gitbook/assets/knut.PNG)
+![](../.gitbook/assets/knut.PNG)
 
 Able to be used most everywhere without problems.
 
@@ -114,7 +114,7 @@ Able to be used most everywhere without problems.
 
 Nylock Nuts, or Nylocks, these nuts have a rubber ring on the top portion of the nut (that faces away from the attached surface), which keeps it in place on the screw. Able to be used in the same places as Keps Nuts, but generally should not be, as Keps Nuts are easier and more efficient to use.
 
-![](../../.gitbook/assets/lnut.PNG)
+![](../.gitbook/assets/lnut.PNG)
 
 Most commonly used in Screw Joints, as it is not advisable to tighten the outer nut on a screw joint all the way (this would stop whatever is on the joint from moving). Using a Nylock for this purpose allows the nut to retain its place on the screw, without needing to be tightened as far as it can go.
 
@@ -126,7 +126,7 @@ This section covers the difference between various High Strength and Low Strengt
 
 Outside of screw joints, metal shafts are the main way of transferring energy in VEX, by use of sprockets or gears mounted to the shaft.&#x20;
 
-![High Strength (Left), Low Strength (Right)](../../.gitbook/assets/shaft.PNG)
+![High Strength (Left), Low Strength (Right)](../.gitbook/assets/shaft.PNG)
 
 #### Low Strength Shafts
 
@@ -146,7 +146,7 @@ High strength shafts, as the name implies, are much more durable than low streng
 
 As high and low strength sprockets have different size teeth, the different size sprockets cannot be linked to one another, as each requires different size chain.&#x20;
 
-![Low Strength (Left), High Strength (Right)](../../.gitbook/assets/sprockets.PNG)
+![Low Strength (Left), High Strength (Right)](../.gitbook/assets/sprockets.PNG)
 
 In the vast majority of cases, high strength sprockets and chain should be used over low strength. The main reason for this being that you want to make chain as unlikely to snap off as possible, and using high strength chain further decreases those odds.
 
@@ -154,11 +154,11 @@ In the vast majority of cases, high strength sprockets and chain should be used 
 
 Unlike with sprockets, the teeth on high and low strength gears are the same size, and can therefore be used in conjunction with one another.
 
-![Low Strength (Left), High Strength (Right)](../../.gitbook/assets/gears.PNG)
+![Low Strength (Left), High Strength (Right)](../.gitbook/assets/gears.PNG)
 
 Dissimilar to sprockets, there is not so much a clear cut boundary of when to use high and low strength gears. In higher torque situations, using high strength gears is advisable, as the extra thickness reduces the odds of the gear snapping. In lower torque areas, or in places where space is a concern, using low strength gears may be a better option.&#x20;
 
-Due to the popular use of [gears in a drivetrain](../vex-drivetrains.md#tank-drive), it is worthwhile to note that low and high strength gears can be alternated in the gear chain. This is a good balance between the risk of gears snapping in an all low strength gear drive and the bulkiness of an all high strength gear drive.
+Due to the popular use of [gears in a drivetrain](vex-drivetrains.md#tank-drive), it is worthwhile to note that low and high strength gears can be alternated in the gear chain. This is a good balance between the risk of gears snapping in an all low strength gear drive and the bulkiness of an all high strength gear drive.
 
 
 

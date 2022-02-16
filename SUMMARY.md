@@ -2,18 +2,17 @@
 
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
-* [Contributing Guidelines](contributing-guidelines.md)
+* [Contributing Guidelines](contributing-guidelines/README.md)
+  * [Getting Started with VEX](contributing-guidelines/getting-started-with-vex.md)
+  * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
 
 ## Hardware
 
-* [Getting Started with VEX](hardware/getting-started-with-vex/README.md)
-  * [The Engineering Design Process](hardware/getting-started-with-vex/the-design-process.md)
-  * [Misc. Building Techniques](hardware/getting-started-with-vex/misc.-vex-parts.md)
-  * [Introduction to VEX Parts](hardware/getting-started-with-vex/misc.-vex-parts-1.md)
-  * [How to Start a Notebook](hardware/getting-started-with-vex/how-to-start-a-notebook.md)
+* [Introduction to VEX Parts](hardware/misc.-vex-parts-1.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
+  * [How to Start a Notebook](hardware/lifts/how-to-start-a-notebook.md)
   * [Four Bar](hardware/lifts/four-bar.md)
   * [Scissor Lift](hardware/lifts/scissor-lift.md)
   * [Six Bar](hardware/lifts/six-bar.md)
@@ -27,7 +26,22 @@
 * [Pneumatics](hardware/pneumatics.md)
 * [Intakes](hardware/intakes.md)
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
-* [Embed CADs in Wiki Articles](hardware/embed-cads-in-wiki-articles.md)
+* [Misc. Building Techniques](hardware/misc.-vex-parts.md)
+
+## Team Administration <a href="#Team Administration" id="Team Administration"></a>
+
+* [Starting a VRC Team](<Team Administration/starting-a-vrc-team.md>)
+* [New Team Resources](<Team Administration/new-team-resources/README.md>)
+  * [Creating The Team](<Team Administration/new-team-resources/creating-the-team.md>)
+  * [Gaining Interest for Robotics Teams](<Team Administration/new-team-resources/gaining-interest-for-robotics-teams.md>)
+* [Team Dynamic](<Team Administration/team-dynamic/README.md>)
+  * [Organization Structure and Longevity](<Team Administration/team-dynamic/organization-structure-and-longevity.md>)
+  * [Member Allocation and Management](<Team Administration/team-dynamic/member-allocation-and-management.md>)
+* [Team Finances](<Team Administration/team-finances/README.md>)
+  * [One-Year Team Financial Breakdown](<Team Administration/team-finances/one-year-team-financial-breakdown.md>)
+  * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
+* [Team Documentation](<Team Administration/team-documentation/README.md>)
+  * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
 
 ## Software
 

@@ -31,7 +31,7 @@ Here is where the team is introduced and other work from the team is shared. Sta
 
 ### Design Process to Follow (Overall Organization)
 
-Here is where [the design process](the-design-process.md) needs to be broken down. Below is a sample from the Engineering Design Process thread, and one from the International Baccalaureate Program. You can see that one is very specific, and one is very general. It is key that each step is broken down so that the team knows how to follow it, and the judges know what to expect.
+Here is where [the design process](<../../Team Administration/team-documentation/the-design-process.md>) needs to be broken down. Below is a sample from the Engineering Design Process thread, and one from the International Baccalaureate Program. You can see that one is very specific, and one is very general. It is key that each step is broken down so that the team knows how to follow it, and the judges know what to expect.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.42.37 PM.png>)
 

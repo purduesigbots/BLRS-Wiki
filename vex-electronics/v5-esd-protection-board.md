@@ -78,7 +78,7 @@ Video walkthrough of ordering ESD protection boards with SMT assmebly through JL
 
 ## 3D Printable Case
 
-![Assembled ESD Boards inside 3D printable case.](<../.gitbook/assets/image (8).png>)
+![Assembled ESD Boards inside 3D printable case.](<../.gitbook/assets/image (8) (2).png>)
 
 Jess from VEXU team EZ has designed 3D printed cases to house the ESD protection boards. There are designs for one board, four boards, and eight boards. Attached below are the STL and STEP files for the different case sizes.&#x20;
 
