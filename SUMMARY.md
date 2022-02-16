@@ -2,17 +2,19 @@
 
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
-* [Contributing Guidelines](contributing-guidelines/README.md)
-  * [Getting Started with VEX](contributing-guidelines/getting-started-with-vex.md)
+* [Contributing Guidelines](contributing-guidelines.md)
+  * [Getting Started with VEX](hardware/getting-started-with-vex/README.md)
   * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
 
 ## Hardware
 
-* [Introduction to VEX Parts](hardware/misc.-vex-parts-1.md)
+* [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
+  * [Attending Competitions](hardware/misc.-vex-parts-1/attending-competitions/README.md)
+    * [Elimination Bracket](hardware/misc.-vex-parts-1/attending-competitions/elimination-bracket.md)
+    * [The Interview](hardware/misc.-vex-parts-1/attending-competitions/the-interview.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
-  * [How to Start a Notebook](hardware/lifts/how-to-start-a-notebook.md)
   * [Four Bar](hardware/lifts/four-bar.md)
   * [Scissor Lift](hardware/lifts/scissor-lift.md)
   * [Six Bar](hardware/lifts/six-bar.md)
@@ -42,6 +44,7 @@
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
 * [Team Documentation](<Team Administration/team-documentation/README.md>)
   * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
+  * [How to Start a Notebook](<Team Administration/team-documentation/how-to-start-a-notebook.md>)
 
 ## Software
 
