@@ -4,7 +4,7 @@ description: The VEX Potentiometer helps track the rotations of shafts
 
 # Potentiometer
 
-![VEX Potentiometers: Older EDR Model (Left) and Newer V5 Model (Right) (Courtesy of VEX KB)](<../../../.gitbook/assets/image (8) (2) (1) (1).png>)
+![VEX Potentiometers: Older EDR Model (Left) and Newer V5 Model (Right) (Courtesy of VEX KB)](<../../../.gitbook/assets/image (8) (2) (2).png>)
 
 The [**VEX Potentiometer**](https://www.vexrobotics.com/276-2216.html) is a simple analog sensor used to measure angular position. It returns a voltage between 0 and +5 V linearly proportional to its angular offset from one side. Currently, there are two different models: the older red potentiometer, and the newer black potentiometer. While the red potentiometer has a range of motion of approximately 260º, it can only electrically measure up to approximately 250º. Because it is somewhat fragile. it is important that these older units be protected against external stresses past its limits to prevent breaking the device. The new potentiometer, however, is able to rotate a full 360º and has a 333º electrical rotation angle, and this lack of a hard stop means that it is much less easily damaged (although one should always be careful).
 

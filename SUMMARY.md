@@ -2,8 +2,8 @@
 
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
-* [Contributing Guidelines](contributing-guidelines.md)
-  * [Getting Started with VEX](hardware/getting-started-with-vex/README.md)
+* [Contributing Guidelines](contributing-guidelines/README.md)
+  * [Getting Started with VEX](contributing-guidelines/getting-started-with-vex.md)
   * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
 
 ## Hardware
@@ -29,7 +29,6 @@
 
 ## Team Administration <a href="#Team Administration" id="Team Administration"></a>
 
-* [Starting a VRC Team](<Team Administration/starting-a-vrc-team.md>)
 * [New Team Resources](<Team Administration/new-team-resources/README.md>)
   * [Creating The Team](<Team Administration/new-team-resources/creating-the-team.md>)
   * [Gaining Interest for Robotics Teams](<Team Administration/new-team-resources/gaining-interest-for-robotics-teams.md>)
@@ -37,7 +36,7 @@
     * [Elimination Bracket](<Team Administration/new-team-resources/attending-competitions/elimination-bracket.md>)
 * [Team Dynamics](<Team Administration/team-dynamics/README.md>)
   * [Organization Structure and Longevity](<Team Administration/team-dynamics/organization-structure-and-longevity.md>)
-  * [Member Allocation and Management](<Team Administration/team-dynamics/member-allocation-and-management.md>)
+  * [Member Allocation and Management](<Team Administration/team-dynamic/member-allocation-and-management.md>)
 * [Team Finances](<Team Administration/team-finances/README.md>)
   * [One-Year Team Financial Breakdown](<Team Administration/team-finances/one-year-team-financial-breakdown.md>)
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
