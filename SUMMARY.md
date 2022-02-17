@@ -27,7 +27,7 @@
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)
 
-## Team Administration <a href="#Team Administration" id="Team Administration"></a>
+## Team Administration
 
 * [New Team Resources](<Team Administration/new-team-resources/README.md>)
   * [Creating The Team](<Team Administration/new-team-resources/creating-the-team.md>)
