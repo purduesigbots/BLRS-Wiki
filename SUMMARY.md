@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
-* [Contributing Guidelines](contributing-guidelines/README.md)
+* [Contributing Guidelines](contributing-guidelines.md)
   * [Getting Started with VEX](contributing-guidelines/getting-started-with-vex.md)
   * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
 
@@ -56,6 +56,7 @@
   * [Bang Bang](software/control-algorithms/bang-bang.md)
   * [PID Controller](software/control-algorithms/pid-controller.md)
   * [Take Back Half (TBH) Controller](software/control-algorithms/take-back-half-tbh-controller.md)
+  * [Basic Pure Pursuit](software/control-algorithms/basic-pure-pursuit.md)
 * [Object Recognition](software/object-recognition/README.md)
   * [Red Green Buoy](software/object-recognition/red-green-buoy.md)
   * [AMS](software/object-recognition/ams.md)

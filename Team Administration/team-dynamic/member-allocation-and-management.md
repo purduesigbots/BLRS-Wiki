@@ -12,7 +12,7 @@ Optimal team size for a high school VRC team is 4-6 people. This allows at least
 
 The issue with team sizes such as 8 as common in larger organizations, is that there tends to be too many people with not enough things to do (too many chefs in the kitchen). This becomes an even larger issue when evaluating a team based on the design award rubric, which directly contributes to the design award and excellent award.
 
-![Team Management Related Criteria, Interview Section](<../../.gitbook/assets/image (26).png>)
+![Team Management Related Criteria, Interview Section](<../../.gitbook/assets/image (26) (1).png>)
 
 With these sections requiring that teams have **"All students answer questions independently"**, and that **"students were assigned to tasks based on their skills and availability"**, this becomes much harder to explain and show if there simply are not enough tasks at all times for all students to do.&#x20;
 
