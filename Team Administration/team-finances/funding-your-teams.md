@@ -57,14 +57,6 @@ The best way to get a response is by sending an email first, waiting three weeks
 
 To build long-term relationships with sponsors, updating them about build progress and performance at competitions will make it more likely they will choose to sponsor the team in following seasons. If possible, inviting them to competitions or meetings to showcase the team is also a good way to keep the relationship intact.
 
-### Scholarships and Grants
-
-(WIP)
-
-### Hosting Competitions
-
-(WIP)
-
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com) (Purdue SIGBots)
