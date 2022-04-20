@@ -14,11 +14,16 @@ PROS is Open Source C/C++ Development for VEX V5 and VEX Cortex made by SIGBots.
 | macOS      |
 | Linux      |
 
+
+
+Features:
+
 * Open source
 * Native C/C++
 * Cross-platform
-* Integrated with [Atom](https://atom.io)
+* Integrated with [Atom](https://atom.io) and VSCode
 * Developed by students
+* CLI Available
 
 ## Teams Contributed to this Article:
 
