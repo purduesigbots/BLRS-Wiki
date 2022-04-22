@@ -3,7 +3,6 @@
 * [Welcome!](README.md)
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
 * [Contributing Guidelines](contributing-guidelines/README.md)
-  * [Getting Started with VEX](contributing-guidelines/getting-started-with-vex.md)
   * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
 
 ## Hardware
