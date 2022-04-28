@@ -7,10 +7,6 @@ description: >-
 
 # Funding Your Teams
 
-{% hint style="info" %}
-This article is WIP, feel free to leave feedback or contribute to it yourself!
-{% endhint %}
-
 ### School or Organization Funding
 
 The most direct way to receive funding for your team is through a parent organization, such as a school or umbrella organization. When forming your team or teams, it is important to reach out to school or organization administration, to inquire about the status of club and team funding.
@@ -55,7 +51,17 @@ The best way to get a response is by sending an email first, waiting three weeks
 
 #### Keep in Touch with your Sponsors
 
-To build long-term relationships with sponsors, updating them about build progress and performance at competitions will make it more likely they will choose to sponsor the team in following seasons. If possible, inviting them to competitions or meetings to showcase the team is also a good way to keep the relationship intact.
+To build long-term relationships with sponsors, updating them about build progress and performance at competitions will make it more likely they will choose to sponsor the team in the following seasons. If possible, inviting them to competitions or meetings to showcase the team is also a good way to keep the relationship intact.
+
+Grants and scholarships are one of the fastest ways to gain large amounts of funding for new or expanding organizations. These often come from large companies (Fortune 500, S\&P 500, DOWJ index, etc) as well as nonprofits or schools.&#x20;
+
+The best way to find these is to look at a company that has a presence in the local area (office near organization, funding other local organizations or programs) and to a few internet searches for grants that they fund. Once a grant or scholarship is found, look for application schedules, application requirements, and goals of the funder. From there work through the application process while focusing on achievements of the organization seeking funding, and community impact of the organization (educating students, volunteering, larger research projects, etc.).&#x20;
+
+Another way to get grants is to find a person at a company that will fund you personally. Lots of large companies will either match donations from an employee or make a direct donation to an organization. To find an employee, find alumnae, parents or involved members in the community that either work for a large company, or may have a connection. Reach out to them and ask if their company has any programs for funding student organizations or other educational grants. Be super friendly, and again focus on the goals and achievements of the organization seeking funding.&#x20;
+
+Competitions are a great supporter of organizations. They both help gain name recognition, qualify teams for other competitions (regional events, signature events, and worlds), and can provide lots of funding for a club. This is done in many ways. Registration fees paid by every team attending the event are split between REC Foundation and the hosting organization. A VRC event will range from $60-$85 per team most of the time where the majority of this will go to the event organizers. Concessions can also be a large source of funding (especially for larger competitions) with both snacks throughout the day and larger lunch orders by team (Pizza, hoagies, etc.).&#x20;
+
+The best way to get the most funding from the competition is by planning ahead and asking for favors. If a team is coming and they own a field, ask them to bring it, waive their registration for a team, and save the money from buying a new field. Ask for donations for concession foods (bake sale, local stores, etc.). Get corporate sponsors. Lots of companies love seeing students learning engineering and computer science so reach out to some to see if they will help out by giving a location for the competition to be hosted or by funding or donating to cover costs.&#x20;
 
 ### Teams Contributed to this Article:
 

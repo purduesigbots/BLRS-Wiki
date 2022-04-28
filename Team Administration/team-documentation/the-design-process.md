@@ -17,7 +17,7 @@ Outside of gaining points on the Design Rubric, using the Engineering Design Pro
 
 #### 1. Define the Problem
 
-Simply put, this step consists of stating, clarifying, or determining the problem to be solved. This could be as big as "what should the first design be," or as small as "how to fix the intakes." 
+Simply put, this step consists of stating, clarifying, or determining the problem to be solved. This could be as big as "what should the first design be," or as small as "how to fix the intakes."&#x20;
 
 #### 2. Research
 
@@ -29,11 +29,11 @@ Starting this step can consist of creating a list of a handful of designs or sol
 
 #### 4. Choose the Best Solution
 
-With the information gathered and compiled in previous steps, it is now time to choose which design or solution would solve the proposed problem most effectively. There are many decision matrices that can help with this, in order to thoroughly compare the benefits and drawbacks of each solution in order to determine which is best. 
+With the information gathered and compiled in previous steps, it is now time to choose which design or solution would solve the proposed problem most effectively. There are many decision matrices that can help with this, in order to thoroughly compare the benefits and drawbacks of each solution in order to determine which is best.&#x20;
 
 #### 5. Prototype and Design
 
-In this step, primary actions will be designing and planning out the solution in much more detail, before finally building or enacting the design. In terms of robot construction, [CAD software](../../vex-cad/making-a-chassis/) can help to construct a fully virtual rendition of a prototype, before spending time and resources building it with real parts.  
+In this step, primary actions will be designing and planning out the solution in much more detail, before finally building or enacting the design. In terms of robot construction, [CAD software](../../vex-cad/making-a-chassis/) can help to construct a fully virtual rendition of a prototype, before spending time and resources building it with real parts. &#x20;
 
 #### 6. Test and Refine
 
@@ -48,4 +48,3 @@ The Engineering Design Process is not something that should be used once at the 
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com) (Purdue SIGBots)
-* [94999E](https://www.youtube.com/channel/UCp1jTU7WF3PEVukDW3qOGpA) (Yokai Robotics)

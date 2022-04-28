@@ -10,7 +10,7 @@ This wiki is built on the backs of many SIGBots alumni, open source contributors
 
 ![SIGBots Wiki Logo](.gitbook/assets/imageedit\_2\_8332098914.png)
 
-If you are interested in contributing to the wiki feel free to open a pull request on the [wiki's repo](https://github.com/purduesigbots/BLRS-Wiki). Simply click edit on github on any of the pages to see where in the repo that specific page is. We also allow contributions by PDF and Word Documents, so check it out under [contributing guidelines.](contributing-guidelines/)
+If you are interested in contributing to the wiki feel free to open a pull request on the [wiki's repo](https://github.com/purduesigbots/BLRS-Wiki). Simply click edit on github on any of the pages to see where in the repo that specific page is. We also allow contributions by PDF and Word Documents, so check it out under [contributing guidelines.](contributing-guidelines.md)
 
 If you would like to discuss or bring up an issue with the wiki without fixing it yourself, feel free to open up an issue on the aforementioned [wiki repo](https://github.com/purduesigbots/BLRS-Wiki).
 
