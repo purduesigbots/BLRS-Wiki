@@ -8,7 +8,7 @@ The Purdue SIGBots Wiki provides access for contributors without the ability to 
 
 ## Github Markdown Submissions
 
-The Purdue SIGBots Wiki uses Github integration for contributing, moderation, and general version control. It uses Github markdown for formatted text in our articles, and a guide for this can be found [here.](https://guides.github.com/features/mastering-markdown/) More on using Github for version control[ here](software/general/version-control.md).
+The Purdue SIGBots Wiki uses Github integration for contributing, moderation, and general version control. It uses Github markdown for formatted text in our articles, and a guide for this can be found [here.](https://guides.github.com/features/mastering-markdown/) More on using Github for version control[ here](../software/general/version-control.md).
 
 If you are looking to contribute and don't know where to start, a good place to look is the projects and issues section on our github page!
 

@@ -16,17 +16,23 @@ It is typically recommended that only the top bar on the static end be driven by
 
 ### Pros and Cons Analysis
 
-| Pros                                                                                                                                                                                                                                                                                                                         | Cons                                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>Relatively easy to build and maintain</li><li>If built properly, can reach higher than a <a href="four-bar.md">four bar</a> lift on its own.</li><li>Similar to a four bar, this lift has a relatively easy implementation into a<a href="dr4b.md#the-double-reverse-design"> "double reverse" </a>design.</li></ul> | <ul><li>More torque necessary to lift to full height than a <a href="four-bar.md">four bar</a></li><li>Front heavy when horizontally extended; more likely to tip forward</li><li>Requires more horizontal space than a four bar due to another section.</li></ul> |
+| Pros                                                                                                                                                                                                                                                                                                                         | Cons                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Relatively easy to build and maintain</li><li>If built properly, can reach higher than a <a href="four-bar.md">four bar</a> lift on its own.</li><li>Similar to a four bar, this lift has a relatively easy implementation into a<a href="dr4b.md#the-double-reverse-design"> "double reverse" </a>design.</li></ul> | <ul><li>More torque necessary to lift to full height than a <a href="four-bar.md">four bar</a></li><li>Front heavy when horizontally extended; more likely to tip forward</li><li>Increased potential for friction and slop due to the increased number of joints</li></ul> |
 
-Because the lift arm is longer on a six bar than a four bar, more torque is required in order to lift the arm to its full height. The weight and length of the six bar lift also creates additional friction on the joint of the lift and the motors powering it. This can lead to more issues than would be encountered with a four bar lift such as burnt out motors or broken parts. The added length of the lift arm can create a greater tendency for the robot to tip forward when lifting or moving. Heavier loads will increase this chance of tipping. Despite these issues, the six bar lift is a very common lift system as well because it is relatively easy to build and maintain when compared to scissor lifts and reverse six bar lifts. Like the four bar lift, the six bar lift keeps the lifted end at the same angle throughout a lift or decent.
+Because the lifting length is longer on a six bar than a four bar, more torque is required in order to lift the arm to its full height. The weight and length of the six bar lift also creates additional friction on the joint of the lift and the motors powering it. This can lead to more issues than would be encountered with a four bar lift such as burnt out motors or broken parts. The added length of the lift arm can create a greater tendency for the robot to tip forward when lifting or moving. Heavier loads will increase this chance of tipping. Despite these issues, the six bar lift is a very common lift system as well because it is relatively easy to build and maintain when compared to scissor lifts and reverse six bar lifts. Like the four bar lift, the six bar lift keeps the lifted end at the same angle throughout a lift or decent.
 
 ## Resources
 
-[http://www.aura.org.nz/archives/672](http://www.aura.org.nz/archives/672)
+{% embed url="http://www.aura.org.nz/archives/672" %}
+Article from VexU team AURA overviewing six bar lifts
+{% endembed %}
 
 
+
+{% embed url="https://youtu.be/rp8gDKTkC0g" %}
+Video demonstrating the basic geometry of a six bar lift, courtesy of team 10D
+{% endembed %}
 
 ### Teams Contributed to this Article:
 
