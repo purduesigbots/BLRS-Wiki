@@ -43,6 +43,7 @@
   * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
   * [How to Start a Notebook](hardware/lifts/how-to-start-a-notebook.md)
   * [The Interview](<Team Administration/team-documentation/the-interview.md>)
+* [VEX Worlds Livestream Archive](team-administration/vex-worlds-livestream-archive.md)
 
 ## Software
 
