@@ -4,7 +4,197 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 
 # VEX Worlds Livestream Archive
 
-## 2019
+## 2022 - VRC Tipping Point & VIQC Pitching In
+
+#### VEX U, VRC Middle School, and JROTC Opening Ceremonies
+
+[VEX U, VRC Middle School, and JROTC Opening Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=ouxozlvjpchdl588bwfu)
+
+#### VEX U
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=e5yk256igi3vgxafgye9)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=texaklii8baktujayhg3)
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=pbxfzaj7ttgadjan56su)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=k8gywspblntiufcivehh)
+
+#### VRC Middle School
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=kwiccu0gxs0ps9jbbdk3)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=c88w9zyfyyb8hqtytxva)
+
+Arts Division[\
+Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=rj78gz9opv8gtjq910dw)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=y2lnu3nenqoko1n8fujw)
+
+Innovate Division\
+[Practice & Qualification Matche](https://www.vexworlds.tv/#/viewer/?broadcast=ig2iyvrxj5jzlu7yfa7r)s\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=qrc3xjrqvluovaoekvkh)
+
+Spirit Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=shjpoaxocstvkkk9f4jv)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=ayv1tczhnk0qnxsbcvak)
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=o75hc6ahb4k4emodt5gc)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=ptuatx4h9phz31kdgk6x)
+
+Research Division\
+[Practice & Qualification Matches\
+](https://www.vexworlds.tv/#/viewer/?broadcast=tzl3aidplhokob9cnooc)[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=w6ht2rrzn4izdepkq1h5)
+
+Opportunity Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=yj8t27drnoqkg65rokzt)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=vagkemmvg1tpyqaisoaj)
+
+#### JROTC
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=a5rmskvhahcirrz0sdh6)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=yvmo37azhleahxtsnxng)
+
+#### VEX U, VRC Middle School, and JROTC Closing Ceremonies and Finals
+
+[VEX U, VRC Middle School, and JROTC Closing Ceremonies and Finals](https://www.vexworlds.tv/#/viewer/?broadcast=pfrg9oxuyodlpi2nopib)
+
+#### VRC High School
+
+[VRC HS Opening Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=picps4cx7b5m0wvm746a)
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=nwmidrmv5pnq7i47ybp2)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=crtce6ldqfkfb2vggpva)
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=cakdzlkwejabieosr68j)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=t9nfrotv3oicxo3owlwh)
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ozyxuhgkhg5llyzfmhwk)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=rke96s1y3icwie15hp5c)
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=dq1q7srxnezqbov3r8dd)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=uxkbwktpummotdtc3st1)
+
+Arts Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=fqsx8qhvy1yiq3lft6zd)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=aqrcikx0gfmaryvvhkgv)
+
+Innovate Division\
+****[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ixlycetgjm3ak39wlyvu)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=vovijouvk7edgd8tieyq)
+
+Spirit Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=liyehl26bd9elxb4wuem)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=agllwxiyzvcfhoehrunc)
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=qt02klugkpdqdholdnx5)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=kdwnzb5pzmeqsmfdvtxg)
+
+Research Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=u1io1m0irmpr62dg1vkp)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=wyn7kitverxlhkevcidl)
+
+Opportunity Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=kar0p6ua8rxndgkhjvxl)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=n4lphvta4r45mwp8ha0q)
+
+[VRC HS Finals and Closing Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=eol4h3fgxkzpdjikyoqe)
+
+#### VEX IQ Middle School
+
+[VIQC MS Opening Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=z5e8znlzdemnvausseji)
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=v3pv5iwikvubqb8wanmj)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=lwlflgw5eu9bsi0joare)
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=bkdjcpb87woeopd2qt4b)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=iq3shnfjkgv6pxdmt6tw)
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=tsdkntcxup9tcckfnwa1)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=oqruuldzarhwjix9lhbe)
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=yzsqpppyrax9p4coc1h8)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=ojzj0av2x2a6r4oex94a)
+
+Arts Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=qylnv90cjkwrvn868wjx)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=ttdy8tbdizbnd67xazbd)
+
+Innovate Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=wi4ebvnwedgdcptlumws)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=zdyrdrvozff28yw7rv0v)
+
+Spirit Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=z5nnnv94kv9aaqukrwwe)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=nivuivdut1zgemtxkpmu)
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ywaqu6fmdytfiyjppjup)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=nivuivdut1zgemtxkpmu)
+
+Research Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=o8onc4crsrtjahwsqiov)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=puqpi58yvpxks7ij3dgd)
+
+Opportunity Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=heuebokkejog0orblsnn)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=xutbjfvw4v0z4very7bk)
+
+[VIQC MS Finals and Closing Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=xn9fwjjnsnmaq64vz1ph)
+
+#### VEX IQ Elementary School
+
+[VIQC ES Opening Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=nhehjp6wpzgftb3s0hwx)
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=mw5owsym52kbq3taseur)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=qtcarxy8hiivs6rs7t9f)
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=x6xqm96hjpyeoryn3q5o)\
+[Matches, Playoffs, & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=gnxd7qdknixq9gy7kj6v)
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=i0bxxcatyazfgzpbx9kv)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=j9zlps9r5mmf2sve8jjb)
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=mrjz35g84tc67wfjmb5m)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=eqttnzunckrfnslnythn)
+
+Arts Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=pozs5498ewqfk56smukv)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=k3mfppdxobnx7ph9nbir)
+
+Innovate Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=cho2z0p879qsrfrzgotj)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=ddhmpin1r1vrk66oncxh)
+
+Spirit Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ovir91er9ljtjntnmomm)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=szd7ibjs6vma2pq3o4xy)
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=thkk8ghkhdbz2jxyjbae)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=cokrzm6l86ve9ddbdrvl)
+
+Research Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=fhergqy2ecynk3s5rctp)\
+[Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=hjrgbgesoixqlqzckqtf)
+
+[VIQC ES Finals and Closing Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=zutl6oh3dyngt0ivfvbd)
+
+## 2019 - VRC Turning Point & VIQC Next Level
 
 #### VRC Parade of Nations
 
@@ -61,7 +251,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 
 [VEX IQ Championship Matches](https://livestream.com/vrctv1/2019-iq-freedom-hall/videos/190674478)
 
-## 2018
+## 2018 - VRC In The Zone & VIQC Ringmaster
 
 #### VRC Parade of Nations
 
@@ -111,7 +301,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 [Viking Division](https://livestream.com/vrctv6/2018-iq-viking-es)\
 
 
-## 2017
+## 2017 - VRC Starstruck & VIQC Crossover
 
 #### VRC Parade of Nations
 
@@ -162,7 +352,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 [Engineering Division](https://livestream.com/vrctv4/2017-vexiq-engineering-elem)\
 [Math Division](https://livestream.com/vrctv5/2017-vexiq-math-elem)
 
-## 2016
+## 2016 - VRC Nothing But Net & VIQC Bank Shot
 
 #### VEX U
 
@@ -193,7 +383,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 [Engineering Division](https://livestream.com/vrctv13/2016-worlds-vexiq-engineering)\
 [Math Division](https://livestream.com/vrctv14/2016-worlds-vexiq-math)
 
-## 2015
+## 2015 - VRC Skyrise & VIQC Highrise
 
 #### VEX U
 
@@ -224,7 +414,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 
 [VEX IQ Elementary School](https://livestream.com/vrctv9/2015-vrwc-vexiq-elem)
 
-## 2014
+## 2014 - VRC Toss Up & VIQC Add It Up
 
 #### VEX U
 
@@ -247,7 +437,7 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 
 [VEX IQ Challenge](https://livestream.com/vrctv9/2014-vrwc-vex-iq-challenge)
 
-## 2013
+## 2013 - VRC Sack Attack & VIQC Rings-N-Things
 
 #### VEX U
 
