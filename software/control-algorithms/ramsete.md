@@ -16,7 +16,9 @@ The RAMSETE controller is in a unique class of control algorithms, along with [P
 In order to control the robot's global position, we must first know the robot's current position and know the _desired_ global position of the robot.
 We can find the robot's current position through [Odometry](../odometry.md). The desired global position for the robot can be a single `(x, y, theta)` point or a point along a computed path.
 
-The first step with any control algorithm is determining the current error. We can easily compute robot's error in the global frame by subtracting the desired position from the current position.
+## Computing Error
+
+The first step with any control algorithm is determining the current error value. We can easily compute the robot's error in the global frame by subtracting the desired position from the current position.
 
 $$
 \begin{bmatrix}
@@ -26,16 +28,16 @@ y_{desired} - y_{actual}\\
 \end{bmatrix}
 $$
 
-These error values don't give us much _actionable_ data to control the robot though. If the robot is facing the positive Y direction we can command the robot to drive forward to reduce the error in Y. If the robot is facing the positive X direction, though, commanding the robot to drive forward will reduce error in X this time and have no impact on the error in Y. We need to transform the error into a more useful form, the robot's local frame.
+These error values don't give us much _actionable_ data to control the robot though. For example, if the robot is facing the positive Y direction we can command the robot to drive forward to reduce the error in Y. However, if the robot is facing the positive X direction, commanding the robot to drive forward will reduce error in X this time and have no impact on the error in Y. We need to transform the error into a more useful form, the robot's local frame.
 
 Applying the following transformation matrix to the global error vector gives us the robot's local error:
 
 $$
 \begin{equation*}
   \begin{bmatrix}
-    error_x \\
-    error_y \\
-    error_\theta
+    e_x \\
+    e_y \\
+    e_\theta
   \end{bmatrix} =
   \begin{bmatrix}
     \cos\theta_{actual} & \sin\theta_{actual} & 0 \\
@@ -63,17 +65,36 @@ The first step is defining our controller's gain value. That gain comes from a f
 - $v_d$: The desired linear velocity. This can come from a computed path or can be another tuning factor.
 - $\omega_d$: The desired angular velocity. This can come from a computed path or can be another tuning factor.
 
-These factors combine with the following equation to give us the controller's output:
+These factors combine with the following equation to give us a gain value $k$ for the controller:
 
 $$
-k = 2\zeta\sqrt{\omega_d^2 + bv_d^2}
+k = 2 * \zeta * \sqrt{\omega_d^2 + b * v_d^2}
 $$
 
-This gain value is applied to the desired linear velocity, angular velocity, and the local error to give us those velocity commands:
+### Tuning the Desired Velocities
+
+Tuning the $v_d$ and $\omega_d$ values is a bit tricky when they are not provided from a pre-computed path. If the controller is being used for correcting the robot's pose to a desired stopped position, for example, the desired velocity for the robot would be zero. However, setting these desired velocity values to zero will result in no output from the controller.
+
+In a situation like this, it is recommended to set the desired velocity values to a small, non-zero value roughly scaled to the current error in the robot's local frame.
 
 $$
-v = v_d \cos{e_\theta} + k e_x\\
-\omega = \omega_d + k e_\theta + \frac{b v_d \sin(e_\theta) e_y}{e_\theta}
+smallScalar = 0.01\\
+v_d = smallScalar * e_x\\
+\omega_d = smallScalar * e_\theta
+$$
+
+Do bear in mind, though, that the RAMSETE controller performs best when provided with a motion profile to follow rather than tuned, constant desired velocity values.
+
+### Outputs
+
+The gain value is applied to the desired linear velocity ($v_d$), angular velocity ($\omega_d$), and the local error ($e_x$, $e_y$, and $e_\theta$) to give us these velocity commands:
+
+$$
+
+v = v * d * \cos{e_\theta} + k * e_x\\
+\omega = \omega_d + k * e_\theta + \frac{b * v_d * \sin(e_\theta) * e_y}{e_\theta}
+
+
 $$
 
 ## Commanding the Robot
@@ -83,18 +104,37 @@ The output of the RAMSETE controller is a linear velocity and an angular velocit
 The linear velocity can be converted to the robot's left and right wheel velocities using the following equation:
 
 $$
-linearMotorVelocity = linearVelocity / wheelCircumference
+
+linearMotorVelocity = \frac{v}{wheelCircumference}
+
+
 $$
 
 The angular velocity can be converted to the robot's left and right wheel velocities using the following equation:
 
 $$
-angularMotorVelocity = angularVelocity * drivetrainRadius / wheelCircumference
+
+angularMotorVelocity = \frac{\omega * drivetrainRadius}{wheelCircumference}
+
+
 $$
 
 Since the positive $\theta$ direction is turning the robot to the right, we'll apply the the angularMotorVelocity to get the following left and right wheel velocities:
 
 $$
+
 left = linearMotorVelocity + angularMotorVelocity\\
 right = linearMotorVelocity - angularMotorVelocity
+
+
 $$
+
+## References:
+
+- [Controls Engineering in FRC](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.529.3557&rep=rep1&type=pdf
+
+### Teams Contributed to this Article:
+
+- [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+  $$
