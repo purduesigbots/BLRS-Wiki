@@ -18,4 +18,4 @@ Set up clang-format on your path with your terminal of choice (as found online),
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

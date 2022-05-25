@@ -24,4 +24,4 @@ The highest slew rates are found among high-speed purpose-built microcontrollers
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

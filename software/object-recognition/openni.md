@@ -107,4 +107,4 @@ Ultimately, discontinuing the use of OpenNI altogether and switching to a C-only
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

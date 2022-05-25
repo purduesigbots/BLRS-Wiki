@@ -16,4 +16,4 @@ The VEX Gyro is highly vulnerable to [Line Noise](../../../electronics/general/l
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

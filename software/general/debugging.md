@@ -55,7 +55,7 @@ Moral of the story: Avoid decimals if at all possible. Fixed-point is a viable a
   * If it is not installed, try using your distribution's package manager; if on a lab machine or SSH server, the error can also be found with the gdb method above.
   * Set a breakpoint on an indicative line, and run the program. The graphical pointer display, available by right-clicking on a variable (as seen in the picture) should hone down the error in a few seconds with some judicious stepping through code.
   * A good tutorial on [DDD use](http://www.gnu.org/software/ddd/manual/html\_mono/ddd.html) is available on the GNU website.
-* **Are you not sure where to start?** [Valgrind](http://valgrind.org) will often find errors that one was never suspecting. Install it if it is not already installed, and run:
+* **Are you not sure where to start?** [Valgrind](http://valgrind.org/) will often find errors that one was never suspecting. Install it if it is not already installed, and run:
 
 ```c
 lang=
@@ -170,4 +170,4 @@ Optimizing too soon, or neglecting to account for large data sizes, may induce o
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

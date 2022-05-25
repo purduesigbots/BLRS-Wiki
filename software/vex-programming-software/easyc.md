@@ -41,4 +41,4 @@ EasyC is for the older VEX Cortex which is no longer competitve.
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

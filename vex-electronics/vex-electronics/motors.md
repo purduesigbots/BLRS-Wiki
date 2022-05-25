@@ -68,6 +68,6 @@ All motor specifications are at 7.2 volts. Actual motor specifications can fall 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
 
 [![](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex\_motor\_393\_curve.png)](https://phabricator.purduesigbots.com/file/data/xfsxac7r5dlrvgtw2ai2/PHID-FILE-yh73ypyibvbwlvmj5sue/vex\_motor\_393\_curve.png)

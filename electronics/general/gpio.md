@@ -27,4 +27,4 @@ The actual values of these voltages may vary depending on what type of load is c
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

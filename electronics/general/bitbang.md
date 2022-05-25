@@ -66,4 +66,4 @@ uint8_t spiWriteRead(uint8_t value) {
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

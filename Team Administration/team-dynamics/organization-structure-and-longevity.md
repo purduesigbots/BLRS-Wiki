@@ -12,7 +12,7 @@ The best In-House resource for a club's longevity is passionate students who wil
 
 Another good way to develop resources is a shared drive folder (on a preferred platform). Teams take hundreds of photos and videos throughout a season. Compiling these will allow for new students to get a boot camp of what the process will look like. This is a great spot as well to compile build techniques or interesting mechanisms that have been developed in the club. Haverford (169) has employed this in the past where teams will compile their photos towards the end of the season to the drive and will share everything they have learned.&#x20;
 
-Code libraries are very helpful in organizations to assist in the start-up process for a new team, or new students. Commonly, this is done on Github. Compile all code that is created throughout the year, and in past seasons. BLRS has a GitHub [here](http://pros.cs.purdue.edu) with past seasons of code as well as PID, Odometry, and Pure Pursuit libraries (some of which are private for team use only right now).
+Code libraries are very helpful in organizations to assist in the start-up process for a new team, or new students. Commonly, this is done on Github. Compile all code that is created throughout the year, and in past seasons. BLRS has a GitHub [here](http://pros.cs.purdue.edu/) with past seasons of code as well as PID, Odometry, and Pure Pursuit libraries (some of which are private for team use only right now).
 
 Past robot libraries, displays, and notebook libraries are also helpful. Similar to the shared drive mentioned earlier, this is a great way to document designs, mechanisms, and build techniques. The easiest way to teach robotics is to show someone a past robot. If it is possible, displaying some past robots (ones that have done well for example) in the club meeting space helps to show a team close up how robots work. Some teams like [SJTU](https://github.com/organizations/SJTU-VEX) have CAD models of their past robots as well. And notebook libraries can just be a shelf in a meeting space that show past notebooks that people can look through as needed.
 
@@ -30,4 +30,4 @@ Another great thing to look into is communication with other teams across region
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

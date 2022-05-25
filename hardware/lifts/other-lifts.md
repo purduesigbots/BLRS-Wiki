@@ -78,4 +78,4 @@ A cascade or elevator lift is a lift that provides an immense amount of height, 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

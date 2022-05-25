@@ -20,9 +20,9 @@ The code to copy should be located here.
 
 ![](<../.gitbook/assets/image (48).png>)
 
-### 2. Paste the Code in a [CodePen](https://codepen.io) Project
+### 2. Paste the Code in a [CodePen](https://codepen.io/) Project
 
-Sign up for [CodePen](https://codepen.io), and paste the code under the "HTML" section. Once the code is in the project, you should see a preview of the CAD. Your project is already public, and what you need to copy now is the URL in your browser tab.
+Sign up for [CodePen](https://codepen.io/), and paste the code under the "HTML" section. Once the code is in the project, you should see a preview of the CAD. Your project is already public, and what you need to copy now is the URL in your browser tab.
 
 If this wasn't cleaer enough, this is what we mean:
 
@@ -46,5 +46,5 @@ Note that the CAD takes a bit to load, and the ratio for the viewing window is s
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
 * [319K](https://www.instagram.com/319buildit/) (319K Kodiak)

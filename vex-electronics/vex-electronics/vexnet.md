@@ -59,4 +59,4 @@ To ease the connection of two VEX Joysticks in a competition situation and impro
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

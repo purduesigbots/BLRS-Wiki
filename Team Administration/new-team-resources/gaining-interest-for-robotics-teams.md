@@ -20,4 +20,4 @@ Robots are pretty cool, so showcasing a robot at an event is always a good way t
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

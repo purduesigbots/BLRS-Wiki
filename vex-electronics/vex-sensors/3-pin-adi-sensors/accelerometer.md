@@ -14,4 +14,4 @@ Most accelerometers, like their cousins the [Gyroscope](gyroscope.md), output an
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

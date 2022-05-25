@@ -54,4 +54,4 @@ Member allocation and management is something that does not have a cookie cutter
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

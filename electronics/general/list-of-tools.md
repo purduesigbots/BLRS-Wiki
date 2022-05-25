@@ -40,4 +40,4 @@ The high speed and channel count comes at the cost of not recording the actual v
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

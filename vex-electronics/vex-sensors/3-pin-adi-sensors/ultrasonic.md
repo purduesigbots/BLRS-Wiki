@@ -14,4 +14,4 @@ Soft or rounded objects do not reflect sound as well and can confuse or elude th
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

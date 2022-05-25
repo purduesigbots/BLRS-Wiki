@@ -10,7 +10,7 @@ description: >-
 
 ## Specifications
 
-The [**Meadow F7 Micro**](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7) features the same footprint as the [Arduino](arduino.md) platform, so many existing [shields](http://www.shieldlist.org) providing prepackaged functionality are readily available. The Wilderness Labs Meadow F7 Micro Development Kit is based on the [STM32F7 microcontroller](https://www.st.com/en/microcontrollers-microprocessors/stm32f7-series.html). This development kit comes with WiFi®, BLUETOOTH® Low Energy (BLE), integrated battery charger, 216MHz, and 16MB RAM. The Meadow F7 micro development kit incorporates 32MB flash, 2D graphics, and JPEG acceleration. This development kit includes a breadboard that helps to start building projects out of the box. The Meadow F7 micro development kit employs [GPIO](../gpio.md), PWM, [I2C](../i2c.md), [SPI](../spi.md), CAN, and [UART](../uart.md) interfaces.
+The [**Meadow F7 Micro**](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7) features the same footprint as the [Arduino](arduino.md) platform, so many existing [shields](http://www.shieldlist.org/) providing prepackaged functionality are readily available. The Wilderness Labs Meadow F7 Micro Development Kit is based on the [STM32F7 microcontroller](https://www.st.com/en/microcontrollers-microprocessors/stm32f7-series.html). This development kit comes with WiFi®, BLUETOOTH® Low Energy (BLE), integrated battery charger, 216MHz, and 16MB RAM. The Meadow F7 micro development kit incorporates 32MB flash, 2D graphics, and JPEG acceleration. This development kit includes a breadboard that helps to start building projects out of the box. The Meadow F7 micro development kit employs [GPIO](../gpio.md), PWM, [I2C](../i2c.md), [SPI](../spi.md), CAN, and [UART](../uart.md) interfaces.
 
 ## Features
 
@@ -22,4 +22,4 @@ The [**Meadow F7 Micro**](https://store.wildernesslabs.co/collections/frontpage/
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

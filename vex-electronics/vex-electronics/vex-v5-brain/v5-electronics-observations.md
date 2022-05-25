@@ -33,4 +33,4 @@ Although not officially supported by vex, it's theorized that ports dead from ES
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

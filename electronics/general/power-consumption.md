@@ -26,4 +26,4 @@ Pneumatics are considerably more efficient at converting the stored air pressure
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

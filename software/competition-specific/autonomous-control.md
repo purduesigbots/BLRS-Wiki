@@ -6,4 +6,4 @@ Although autonomous constitutes a small fraction of the total time in a match, t
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -148,4 +148,4 @@ The Crystal ports and Communications ports are connected directly to their outpu
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

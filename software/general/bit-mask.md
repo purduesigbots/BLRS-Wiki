@@ -49,4 +49,4 @@ Clear bit position 4 in the number 00111001 using a negative bit mask:
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

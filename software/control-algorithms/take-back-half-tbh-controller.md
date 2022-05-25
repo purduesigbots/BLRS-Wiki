@@ -17,4 +17,4 @@ Take Back Half excels in velocity control situations, especially in ones where t
 
 **Teams Contributed to this Article:**
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

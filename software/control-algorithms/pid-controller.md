@@ -51,4 +51,4 @@ PID controllers have been used by Purdue SIGBots for almost every lift mechanism
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

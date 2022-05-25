@@ -12,4 +12,4 @@ Note: There was an older version of this known as VEX Coding Studio (VCS) that h
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -12,4 +12,4 @@ USART peripherals typically have a register setting which can select either sync
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

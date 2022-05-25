@@ -32,4 +32,4 @@ Some processors go to sleep while sampling analog inputs, reducing the impact of
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

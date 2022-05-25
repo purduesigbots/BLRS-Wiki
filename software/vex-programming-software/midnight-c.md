@@ -16,7 +16,7 @@ Midnight C is for the older VEX Cortex which is no longer supported
 * Native code compilation
 * 32- and 64-bit types
 * Partial multitasking
-* Uses [Eclipse](https://www.eclipse.org) IDE
+* Uses [Eclipse](https://www.eclipse.org/) IDE
 * Interrupt control
 * Pointer and [register](../general/register-programming.md) control
 * Purdue Robotics OS
@@ -51,4 +51,4 @@ Please note that object-oriented principles tend to encourage practices such as 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

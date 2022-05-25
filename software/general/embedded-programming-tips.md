@@ -45,4 +45,4 @@ By no means is this guide meant to be an _exhaustive_ list of all considerations
 
 ## Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

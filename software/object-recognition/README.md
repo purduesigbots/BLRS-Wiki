@@ -30,4 +30,4 @@ With the use of the Kinect, the **OpenNI** library has shown great promise to re
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

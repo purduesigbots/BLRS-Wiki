@@ -30,4 +30,4 @@ SPI is also known as Microwire (an older implementation). Some devices such as t
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

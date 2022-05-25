@@ -51,4 +51,4 @@ The encoder/limit switch combo is a way of emulating the absolute position retur
 
 #### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

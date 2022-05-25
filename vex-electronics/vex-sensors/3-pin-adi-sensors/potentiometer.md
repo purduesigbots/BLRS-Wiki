@@ -40,4 +40,4 @@ Potentiometers measure absolute position through a short range of motion, so the
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

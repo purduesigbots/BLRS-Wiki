@@ -28,4 +28,4 @@ The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

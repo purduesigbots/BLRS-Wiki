@@ -85,4 +85,4 @@ The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identi
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

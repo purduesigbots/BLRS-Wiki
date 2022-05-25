@@ -32,4 +32,4 @@ Many see the [ASUS Tinker Board S ](https://www.asus.com/us/Single-Board-Compute
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -20,4 +20,4 @@ Documentation for OkapiLib versions 3.x.x and below hosted on the PROS site: [Ol
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

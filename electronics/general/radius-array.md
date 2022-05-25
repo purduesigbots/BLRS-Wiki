@@ -31,4 +31,4 @@ To rectify the shortcomings, a more complex [perpendicular least squares method]
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

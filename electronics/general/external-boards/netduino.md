@@ -23,4 +23,4 @@ Due to the lack of RS-232 ports on modern computers (which can be connected to a
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

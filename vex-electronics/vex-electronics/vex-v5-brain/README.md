@@ -76,4 +76,4 @@ VEX has stated that the V5 will bring a new batch of smart sensors:
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -28,4 +28,4 @@ Registering a team, in an VEX Robotics competition, can be done on [RobotEvents]
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

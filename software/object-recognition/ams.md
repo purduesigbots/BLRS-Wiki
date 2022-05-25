@@ -36,4 +36,4 @@ Then, the resulting blobs would be scaled back up using a nearest-neighbor appro
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

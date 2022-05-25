@@ -118,7 +118,7 @@ To use your newly assembled ESD protection board, connect your [VEX Motors](vex-
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
 * EZ
 
 Original board design credit goes to Ritwik Pandey, a BLRS alumni.

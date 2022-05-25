@@ -36,5 +36,5 @@ Video demonstrating the basic geometry of a six bar lift, courtesy of team 10D
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
 * MTBR (University of Michigan Task Based Robotics)&#x20;

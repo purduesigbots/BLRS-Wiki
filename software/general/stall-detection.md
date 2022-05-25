@@ -32,4 +32,4 @@ Voltage sensing is passive and is connected in parallel with the motor, so it ma
 
 #### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

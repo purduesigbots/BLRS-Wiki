@@ -21,4 +21,4 @@ VEX Power Expanders have been notorious in the past for tripping their internal 
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

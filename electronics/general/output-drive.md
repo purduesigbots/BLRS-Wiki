@@ -25,4 +25,4 @@ The best known platforms for good output drives are the [Arduino](external-board
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

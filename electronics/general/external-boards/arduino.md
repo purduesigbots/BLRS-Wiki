@@ -31,7 +31,7 @@ As an evolution of the first Arduino boards (first the Arduino USB, then the NG,
 ### Features
 
 * Widely used; code examples are easy to find and comprehensive
-* Form factor fits hundreds of [aftermarket shields](http://www.shieldlist.org) which provide ready-made functionality
+* Form factor fits hundreds of [aftermarket shields](http://www.shieldlist.org/) which provide ready-made functionality
 * Phenomenal 40 mA output drive ([Slew Rate](../slew-rate.md) is actually faster than the system clock!)
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) makes development relatively easy, and library is chunky but easy to use
 * [Bootloader](https://github.com/Optiboot/optiboot) makes the impact of programming errors small and reprogramming easy over USB
@@ -85,4 +85,4 @@ The **Arduino Mega** is an expanded version of the Arduino meant for memory or I
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

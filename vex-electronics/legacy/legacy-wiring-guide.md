@@ -49,4 +49,4 @@ This is a much more freeform style of wiring, which is good for mechanically den
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

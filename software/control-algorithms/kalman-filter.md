@@ -218,4 +218,4 @@ If continuous models are used for the system model or variances, discretization 
 
 ### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

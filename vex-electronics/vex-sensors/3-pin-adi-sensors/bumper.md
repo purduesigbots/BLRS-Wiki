@@ -16,4 +16,4 @@ There also used to be an older model that works the same exact way, but with a s
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

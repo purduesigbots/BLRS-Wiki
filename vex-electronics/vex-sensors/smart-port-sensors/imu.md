@@ -30,4 +30,4 @@ An electronic [gyroscope](../3-pin-adi-sensors/gyroscope.md) also has a maximum 
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -75,4 +75,4 @@ If the sensor value must be corrected for a zero-rate offset (a sensor like a [G
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

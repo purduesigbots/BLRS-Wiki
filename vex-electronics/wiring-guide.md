@@ -27,4 +27,4 @@ Here is the [VEX Guide on Wire Crimping.](https://kb.vex.com/hc/en-us/articles/3
 
 ### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com)
+* [BLRS](https://purduesigbots.com/)

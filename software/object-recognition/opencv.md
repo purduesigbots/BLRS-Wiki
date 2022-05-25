@@ -106,4 +106,4 @@ sudo apt-get install libv4l-dev libv4l-0 v4l-conf v4l-utils
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

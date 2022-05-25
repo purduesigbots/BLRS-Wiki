@@ -17,4 +17,4 @@ The Optical Sensor also has a secondary function, determining the relative motio
 ## Teams Contributed to this Article:
 
 * MTBR (Michigan Task Based Robotics)
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

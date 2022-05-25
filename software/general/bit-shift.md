@@ -59,4 +59,4 @@ Bit rotates are less common than bit shifts; instead of losing shifted bits and 
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -23,7 +23,7 @@ Finite state machines have a large but countable number of discrete states in wh
 
 * Somewhat harder to implement properly, as states must not depend too heavily on other states
 * Generally cannot perform dynamic autonomous, as that would be an _infinite_ state machine (although making the entire dynamic section a state in itself is possible)
-* Does not integrate as well with [object recognition](../object-recognition/) or a [grid system](../control-algorithms/grid-system.md)
+* Does not integrate as well with [object recognition](../object-recognition/) or a [grid system](broken-reference)
 
 ## Usage
 
@@ -33,7 +33,7 @@ A somewhat primitive 10-state machine was implemented in Honey Badger and Coby f
 
 ### VEX Sack Attack
 
-In the age of VEX Sack Attack, the [grid system](../control-algorithms/grid-system.md) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](../vex-programming-software/midnight-c.md) and later [PROS](../vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../../vex-electronics/vex-sensors/3-pin-adi-sensors/encoder.md).
+In the age of VEX Sack Attack, the [grid system](broken-reference) was deemed too unreliable to make a good autonomous mode when dealing with Sacks. The Unified State Machine version 2 featured basic velocity control on the drive motors of Artemis to limit overshoot and make best use of the upgraded Pololu MinIMU-9 digital gyro. Velocity control could be disabled when driving for very short distances where the ramp-down would be useless. With the switch to the first versions of [Midnight C](../vex-programming-software/midnight-c.md) and later [PROS](../vex-programming-software/pros/), multi-tasking capabilities simplified the PID controller and increased the precision of gyros and [VEX Shaft Encoders](../../vex-electronics/vex-sensors/3-pin-adi-sensors/encoder.md).
 
 ### VEX Toss Up
 
@@ -94,4 +94,4 @@ void autonomous() {
 
 #### Contributing Teams to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

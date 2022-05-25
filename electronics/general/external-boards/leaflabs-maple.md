@@ -40,4 +40,4 @@ The Maple supersedes the somewhat unreliable and slow [Netduino](netduino.md). A
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

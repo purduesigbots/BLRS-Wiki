@@ -14,4 +14,4 @@ This sensor requires only a tiny amount of force to trigger it, as compared to t
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

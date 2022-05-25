@@ -33,4 +33,4 @@ Lower-voltage parts (2.8 V, 1.8 V, or 1.2 V for example) can also be interfaced 
 
 #### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

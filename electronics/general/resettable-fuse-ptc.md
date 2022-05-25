@@ -19,4 +19,4 @@ The [VEX Cortex](../../vex-electronics/legacy/vex-cortex.md) has a 4 A resettabl
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

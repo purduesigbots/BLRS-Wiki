@@ -18,4 +18,4 @@ For example, the Line Tracker will not follow a strip of black electrical tape p
 
 ## Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

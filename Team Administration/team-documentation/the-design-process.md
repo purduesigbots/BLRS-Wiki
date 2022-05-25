@@ -47,4 +47,4 @@ The Engineering Design Process is not something that should be used once at the 
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

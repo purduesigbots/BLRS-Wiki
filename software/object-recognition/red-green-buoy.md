@@ -30,4 +30,4 @@ These compromises unfortunately led to an inability to properly sense which obje
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

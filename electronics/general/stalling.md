@@ -18,4 +18,4 @@ Stalls often occur when a mechanism becomes jammed or when a motor is run too cl
 
 ### Teams Contributed to this Article:
 
-* [BLRS](https://purduesigbots.com) (Purdue SIGBots)
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
