@@ -40,12 +40,12 @@ Now that we know the local error that the robot needs to correct for, we can cal
 
 The first step is defining our controller's gain value. That gain comes from a few factors:
 
-* $b$: Roughly a proportional term for the controller. Large values of $b$ will result in a more aggressive controller. Must be > 0.
-* $\zeta$: Roughly a damping term (like the D term of a PID controller). Must be between 0 and 1.
-* $v\_d$: The desired linear velocity. This can come from a computed path or can be another tuning factor.
-* $\omega\_d$: The desired angular velocity. This can come from a computed path or can be another tuning factor.
+* $$b$$: Roughly a proportional term for the controller. Large values of $$b$$ will result in a more aggressive controller. Must be > 0.
+* $$\zeta$$: Roughly a damping term (like the D term of a PID controller). Must be between 0 and 1.
+* $$v_d$$: The desired linear velocity. This can come from a computed path or can be another tuning factor.
+* $$\omega_d$$: The desired angular velocity. This can come from a computed path or can be another tuning factor.
 
-These factors combine with the following equation to give us a gain value $k$ for the controller:
+These factors combine with the following equation to give us a gain value $$k$$ for the controller:
 
 $$
 k = 2 * \zeta * \sqrt{\omega_d^2 + b * v_d^2}
@@ -53,7 +53,7 @@ $$
 
 ### Tuning the Desired Velocities
 
-Tuning the $v\_d$ and $\omega\_d$ values is a bit tricky when they are not provided from a pre-computed path. If the controller is being used for correcting the robot's pose to a desired stopped position, for example, the desired velocity for the robot would be zero. However, setting these desired velocity values to zero will result in no output from the controller.
+Tuning the $$v_d$$ and $$\omega_d$$ values is a bit tricky when they are not provided from a pre-computed path. If the controller is being used for correcting the robot's pose to a desired stopped position, for example, the desired velocity for the robot would be zero. However, setting these desired velocity values to zero will result in no output from the controller.
 
 In a situation like this, it is recommended to set the desired velocity values to a small, non-zero value roughly scaled to the current error in the robot's local frame.
 
@@ -65,7 +65,7 @@ Do bear in mind, though, that the RAMSETE controller performs best when provided
 
 ### Outputs
 
-The gain value is applied to the desired linear velocity ($v\_d$), angular velocity ($\omega\_d$), and the local error ($e\_x$, $e\_y$, and $e\_\theta$) to give us these velocity commands:
+The gain value is applied to the desired linear velocity ($$v_d$$), angular velocity ($$\omega_d$$), and the local error ($$e_x$$, $$e_y$$, and $$e_\theta$$) to give us these velocity commands:
 
 $$
 v = v * d * \cos{e_\theta} + k * e_x\\ \omega = \omega_d + k * e_\theta + \frac{b * v_d * \sin(e_\theta) * e_y}{e_\theta}
@@ -87,7 +87,7 @@ $$
 angularMotorVelocity = \frac{\omega * drivetrainRadius}{wheelCircumference}
 $$
 
-Since the positive $\theta$ direction is turning the robot to the right, we'll apply the the angularMotorVelocity to get the following left and right wheel velocities:
+Since the positive $$\theta$$ direction is turning the robot to the right, we'll apply the the angularMotorVelocity to get the following left and right wheel velocities:
 
 $$
 left = linearMotorVelocity + angularMotorVelocity\\ right = linearMotorVelocity - angularMotorVelocity
