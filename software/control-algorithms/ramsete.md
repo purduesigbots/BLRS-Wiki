@@ -78,20 +78,16 @@ The output of the RAMSETE controller is a linear velocity and an angular velocit
 The linear velocity can be converted to the robot's left and right wheel velocities using the following equation:
 
 $$
-linearMotorVelocity = \frac{v}{wheelCircumference}
+\it{linearMotorVelocity} = \frac{v}{\it{wheelCircumference}}
 $$
 
 The angular velocity can be converted to the robot's left and right wheel velocities using the following equation:
 
 $$
-angularMotorVelocity = \frac{\omega * drivetrainRadius}{wheelCircumference}
+{\it{left} = \it{linearMotorVelocity} + \it{angularMotorVelocity}}\\right = {\it{linearMotorVelocity} - \it{angularMotorVelocity}}
 $$
 
-Since the positive $$\theta$$ direction is turning the robot to the right, we'll apply the the angularMotorVelocity to get the following left and right wheel velocities:
-
-$$
-left = linearMotorVelocity + angularMotorVelocity\\ right = linearMotorVelocity - angularMotorVelocity
-$$
+Since the positive $$\theta$$ direction is turning the robot to the right, we'll apply the the `angularMotorVelocity` to get the following left and right wheel velocities
 
 ## References:
 
