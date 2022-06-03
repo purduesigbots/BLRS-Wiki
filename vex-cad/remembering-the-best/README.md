@@ -10,9 +10,10 @@ Each of the robots featured is well known for their design, and performance duri
 
 **We recommend opening the Code Pens for each robot in a new tab to view it in full screen.** **They are the largest they can be on this website and are viewable in all browsers, but they may appear small. If you click the \*.5\* button on the bottom, it may work better as well.**
 
-Many people have contributed to this project since it's start. Each contributor is credited next to the robot that they modeled, and the photos that they rendered. If you would like to contribute to the project, please reach out to Max Johnson (91A, BLRS) at `mhjohnso@purdue.edu` so that he can help you get started and share your model here.
+Many people have contributed to this project since its start. Each contributor is credited next to the robot that they modeled, and the photos that they rendered. If you would like to contribute to the project, please reach out to Max Johnson (91A, BLRS) at `mhjohnso@purdue.edu` so that he can help you get started and share your model here.
 
-Full Google Drive of all.STEP files and renders:
+GitHub from contributors:
 
-{% embed url="https://drive.google.com/drive/folders/1ZnRL8jq9E2jQJKYvb96y2rm86BvNj6sA?usp=sharing" %}
-
+{% embed url="https://github.com/VEX-CAD/Remembering-The-Best" %}
+^Github^
+{% endembed %}

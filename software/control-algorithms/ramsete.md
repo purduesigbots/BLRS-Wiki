@@ -14,7 +14,7 @@ description: >-
 
 The RAMSETE controller is in a unique class of control algorithms, along with [Pure Pursuit](basic-pure-pursuit.md), that are designed to be used with the 2D motion of mobile robots. Typical controllers like [PID](pid-controller.md) operate in the local frame of the robot, controlling the robot's forward and backwards motion for example. The RAMSETE controller, on the other hand, controls the robot's global x, y, and heading position.
 
-In order to control the robot's global position, we must first know the robot's current position and know the _desired_ global position of the robot. We can find the robot's current position through [Odometry](../odometry.md). The desired global position for the robot can be a single `(x, y, theta)` point or a point along a computed path.
+In order to control the robot's global position, we must first know the robot's current position and know the _desired_ global position of the robot. We can find the robot's current position through [Odometry](../odometry.md). The desired global position for the robot can be a single `(x, y, theta)` point or a point along a [computed path](../path-planning.md).
 
 ## Computing Error
 
@@ -42,8 +42,8 @@ The first step is defining our controller's gain value. That gain comes from a f
 
 * $$b$$: Roughly a proportional term for the controller. Large values of $$b$$ will result in a more aggressive controller. Must be > 0.
 * $$\zeta$$: Roughly a damping term (like the D term of a PID controller). Must be between 0 and 1.
-* $$v_d$$: The desired linear velocity. This can come from a computed path or can be another tuning factor.
-* $$\omega_d$$: The desired angular velocity. This can come from a computed path or can be another tuning factor.
+* $$v_d$$: The desired linear velocity. This can come from a [computed path](../path-planning.md) or can be another tuning factor.
+* $$\omega_d$$: The desired angular velocity. This can come from a [computed path](../path-planning.md) or can be another tuning factor.
 
 These factors combine with the following equation to give us a gain value $$k$$ for the controller:
 

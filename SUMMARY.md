@@ -83,6 +83,7 @@
   * [Autoformatting](software/general/autoformatting.md)
   * [Finite State Machine](software/general/finite-state-machine.md)
 * [Odometry](software/odometry.md)
+* [Path Planning](software/path-planning.md)
 
 ## VEX CAD
 
