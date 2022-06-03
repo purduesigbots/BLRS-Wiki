@@ -30,7 +30,7 @@ Maximum power is 11W continuous and maximum torque is 2.1 Nm. Free speed is soft
 
 ## Troubleshooting
 
-One on the main issues that arises with the VEX V5 motors are dead motors. Many times this means that a motor stops working often without any notice. Sometimes the led in port compartment of a motor may flash red. This could be sign that the motor is dead or there is a loose wire connection. A good idea to make sure a motor is dead is to test it with another wire and if possible test is with another [V5 Brain](vex-v5-brain/). If these steps are unsuccessful there is as of right now no reproducible method of fixing a dead motor.
+One on the main issues that arises with the VEX V5 motors are dead motors. Many times this means that a motor stops working often without any notice. Sometimes the led in port compartment of a motor may flash red. This could be sign that the motor is dead or there is a loose wire connection. A good idea to make sure a motor is dead is to test it with another wire and, if possible, test it with another [V5 Brain](vex-v5-brain/). If these steps are unsuccessful there is as of right now no reproducible method of fixing a dead motor.
 
 Static buildup in motors could be a reason for them dying suddenly. When this static buildup discharges (commonly referred to as electrostatic discharge, or ESD), the connected port on the [V5 Brain](vex-v5-brain/) may be permanently damaged. Please consider using our [ESD protection boards](../v5-esd-protection-board.md) to help ensure that you do not lose any ports on the [V5 Brain](vex-v5-brain/).
 

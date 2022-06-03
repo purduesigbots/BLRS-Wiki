@@ -10,24 +10,24 @@ description: >-
 
 ## Product Specs
 
-|                    | **V5 Robot Brain Specifications**                               |
-| ------------------ | --------------------------------------------------------------- |
-| Motor Ports        | Any of the 21 Smart Ports                                       |
-| Smart Sensor Ports | Any of the 21 Smart Ports                                       |
-| Digital Ports      | Any of the 8 built-in 3-Wire Ports                              |
-| Analog Ports       | Any of the 8 built-in 3-Wire Ports                              |
-| VEXos Processor    | One Cortex A9 at 667 MHz Two Cortex M0 at 32 MHz each One FPGA1 |
-| User Processor     | One Cortex A9 1333 Million Instructions per second (MIPS)       |
-| RAM                | 128 MB                                                          |
-| Flash              | 32 MB                                                           |
-| User Program Slots | 8                                                               |
-| USB                | 2.0 High Speed (480 Mbit/s)                                     |
-| Color Touch Screen | 4.25”, 480 x 272 pixels, 65k colors                             |
-| Expansion          | up to 16 GB, FAT32                                              |
-| Wireless           | VEXnet 3.0 and Bluetooth 4.2                                    |
-| System Voltage     | 12.8 V                                                          |
-| Size               | 4.0” W x 5.5” H x 1.3” L (101.6 mm x 139.7 mm x 33.02 mm)       |
-| Weight             | 0.63 lbs (285g)                                                 |
+|                    | **V5 Robot Brain Specifications**                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------------- |
+| Motor Ports        | Any of the 21 Smart Ports                                                                           |
+| Smart Sensor Ports | Any of the 21 Smart Ports                                                                           |
+| Digital Ports      | Any of the 8 built-in 3-Wire Ports                                                                  |
+| Analog Ports       | Any of the 8 built-in 3-Wire Ports                                                                  |
+| VEXos Processor    | <ul><li>One Cortex A9 at 667 MHz </li><li>Two Cortex M0 at 32 MHz each </li><li>One FPGA1</li></ul> |
+| User Processor     | One Cortex A9 1333 Million Instructions per second (MIPS)                                           |
+| RAM                | 128 MB                                                                                              |
+| Flash              | 32 MB                                                                                               |
+| User Program Slots | 8                                                                                                   |
+| USB                | 2.0 High Speed (480 Mbit/s)                                                                         |
+| Color Touch Screen | 4.25”, 480 x 272 pixels, 65k colors                                                                 |
+| Expansion          | up to 16 GB, FAT32                                                                                  |
+| Wireless           | VEXnet 3.0 and Bluetooth 4.2                                                                        |
+| System Voltage     | 12.8 V                                                                                              |
+| Size               | 4.0” W x 5.5” H x 1.3” L (101.6 mm x 139.7 mm x 33.02 mm)                                           |
+| Weight             | 0.63 lbs (285g)                                                                                     |
 
 ## Features
 
