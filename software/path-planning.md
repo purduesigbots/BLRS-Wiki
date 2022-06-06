@@ -42,5 +42,4 @@ Okapilib and Squiggles only provide the Path Planning part of 2D movement -- you
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
-* [94999E](https://www.youtube.com/channel/UCp1jTU7WF3PEVukDW3qOGpA) (Yokai Robotics)
 
