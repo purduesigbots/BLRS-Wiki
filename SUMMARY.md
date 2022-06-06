@@ -147,6 +147,7 @@
   * [7K Tower Takeover](vex-cad/remembering-the-best/7k-tower-takeover.md)
   * [5225A Tower Takeover](vex-cad/remembering-the-best/5225a-tower-takeover.md)
   * [62A Change Up](vex-cad/remembering-the-best/62a-change-up.md)
+* [Scuff Controller](vex-cad/scuff-controller.md)
 
 ## VEX Electronics
 
