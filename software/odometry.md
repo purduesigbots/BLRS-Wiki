@@ -33,13 +33,13 @@ The following variables are used in this document to represent physical paramete
 
 This is the core of the position tracking system, providing the rest of the robots’ code with live data on the current position and orientation (represented as a position vector 𝑑 , and orientation 𝜃) of a predefined point on the robot (called the “tracking center”, see Figure 1). Note that the tracking wheels can be placed anywhere along the dotted lines without affecting the math; it is the perpendicular distance to the tracking center that matters, as explained below.&#x20;
 
-![Figure 1: A sample robot base with tracking wheels](<../.gitbook/assets/odom 1.png>)
+![Figure 1: A sample robot base with tracking wheels](<../.gitbook/assets/odom 1 invert.png>)
 
 ### Tracking Using Arcs&#x20;
 
 Position tracking works by modelling the robot's motion (i.e. the motion of the tracking center) as an arc over an infinitely short time interval. Figure 2 shows the same robot as above following an arc with a 5' radius for 15°. Note that we are assuming for this simple example that the robot does not move toward or away from the arc center during the maneuver, and that the tracking wheels are lined up with the center of the robot; we'll show after that neither of these are necessary. The final robot position is shown in light gray. The left and right wheel paths are both arcs that are concentric with the tracking center's arc. (Concentric means that the arcs have the same center point; this applies in this case, as the robot is effectively rotating around the arc center.)
 
-![Figure 2: A simple example maneuver, with the left and right wheel paths shown](<../.gitbook/assets/odom 2.png>)
+![Figure 2: A simple example maneuver, with the left and right wheel paths shown](<../.gitbook/assets/odom 2 invert.png>)
 
 There are a few important points to realize from this diagram. Firstly, the arc angle is the same as the change in orientation of the robot. This angle (call it Δ𝜃) can easily be calculated by starting with the arc length formula:&#x20;
 
@@ -91,7 +91,7 @@ There are two types of motion that the robot can undergo: translational and rota
 
 As a scenario, we set up a wheel that is rotating around a point at $${\Delta x}\brack{\Delta y}$$ from the center of the wheel (using the forward direction of the wheel as a positive y-axis), as shown in Figure 3.&#x20;
 
-![Figure 3: Scenario for position independence proof](<../.gitbook/assets/odom 3.png>)
+![Figure 3: Scenario for position independence proof](<../.gitbook/assets/odom 3 invert.png>)
 
 By combining the radius of the arc followed by the wheel with the angular velocity with respect to the rotation center, $$\omega$$, the tangential velocity of the wheel, $$v_t$$, can be found:
 
