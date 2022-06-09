@@ -214,3 +214,4 @@
   * [USART](electronics/general/usart.md)
   * [UART](electronics/general/uart.md)
   * [5 Volt Tolerant](electronics/general/5-volt-tolerant.md)
+  * [DC Motor Basics](electronics/general/dc-motor-basics.md)
