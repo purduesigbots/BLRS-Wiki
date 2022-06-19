@@ -21,25 +21,25 @@ It should be noted that this is not a perfect notebook but is a good start. For 
 
 There is not much to say here. This is where you will document the outline of your notebook with specific page numbers (and page ranges) referenced. The biggest tip, leave enough space. How specific you are depending on how much effort you want to put in but more specifics never hurts. Highlight special entries, and color code as you see fit.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.37.41 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.37.41 PM.png>)
 
 ### The Team
 
 Here is where the team is introduced and other work from the team is shared. Start out with a photo of the whole team together (if possible) with a brief introduction. Then have individual bios of each team member as well as a professional photo. Talk about their grade, how long they have done vex, other interests, and goals for the season. At the end of this section, talk about team goals, as well as other projects the team works on. For example, mentoring other teams, volunteering together. BLRS for example talks about this Wiki.
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.40.20 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.40.20 PM.png>)
 
 ### Design Process to Follow (Overall Organization)
 
-Here is where [the design process](<../../Team Administration/team-documentation/the-design-process.md>) needs to be broken down. Below is a sample from the Engineering Design Process thread, and one from the International Baccalaureate Program. You can see that one is very specific, and one is very general. It is key that each step is broken down so that the team knows how to follow it, and the judges know what to expect.
+Here is where [the design process](<../../../Team Administration/team-documentation/the-design-process.md>) needs to be broken down. Below is a sample from the Engineering Design Process thread, and one from the International Baccalaureate Program. You can see that one is very specific, and one is very general. It is key that each step is broken down so that the team knows how to follow it, and the judges know what to expect.
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.42.37 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.42.37 PM.png>)
 
 ### The Problem
 
 Here is where the game and overall design problem is analyzed. Add photos, measurements, and more to make sure there is lots of detail. The biggest issue here is to just repeat the rules instead of analyzing them. This is the basis for the rest of the notebook so make sure to go in depth and study every facet of the game.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.53.11 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.53.11 PM.png>)
 
 |                        Topic                        |                                                                                   Expert (4-5 points)                                                                                  |                                          Proficient (2-3 points)                                          |                        Emerging (0-1 points)                       |
 | :-------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -51,7 +51,7 @@ Above is a portion of the design award rubric to guide notebook creation. This p
 
 Here, ideas are generated in order to solve the problem that was just analyzed. When doing this, it is best to break the robot into different subsystems. Think Drive (how it will traverse the field), Manipulator (how it will interact with game elements), and scoring mechanisms (how it will get game elements into scoring zones). After you break apart the robot, create 3-5 (or more) ideas for each of the subsystems. Draw sketches, annotate ideas and take photos of mock-ups or other robots for inspiration. Anything goes here, just make sure that the process can be followed.
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.54.56 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.54.56 PM.png>)
 
 |                     Topic                     |                                                                                Expert (4-5 points)                                                                               |                                                Proficient (2-3 points)                                               |             Emerging (0-1 points)            |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------: |
@@ -63,7 +63,7 @@ Above is another portion of the design rubric notebook. This portion of the note
 
 After several ideas have been generated, select one annotated sketch for each idea and as a team, discuss the attributes of the idea. This can be done however the team sees fit but two suggestions are to use either pros/cons lists or weighted decision matrices. Use discussions and testing in order to decide on an approach to continue with.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.57.33 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.57.33 PM.png>)
 
 |               Topic               |                                                        Expert (4-5 points)                                                        |                   Proficient (2-3 points)                  |                            Emerging (0-1 points)                            |
 | :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------: |
@@ -75,13 +75,13 @@ After generating ideas, it is important to show the difference in ideas and thei
 
 Take some time before regular meetings to outline a schedule and outline how the team will stay on track throughout the season. Start with outlining meeting times, and weekly hours to put in. Then outline a schedule for the season including competitions, scrimmages, and time you need to complete parts of the robot (building, testing, programming, driving practice). Try using GANTT charts or month view schedules to show goals and timelines. Keep it all realistic, and add additional updates to the goals and schedules as it seems necessary (monthly or after each competition is recommended).&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 6.48.15 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 6.48.15 PM.png>)
 
 #### Daily Logs
 
 Here is the place to document progress on the robot and to show testing and evaluations. Begin each entry with the goals for the meeting, a basic timeline of what you want to accomplish, and everyone who attended the meeting. Add lots of annotated photos, any testing that occurs, and an analysis of the progress. End each entry with what was accomplished, and what should be accomplished by the next meeting. This does not need to be a full team report every time. If one person does something on their own, make sure it is logged. &#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-25 at 7.06.30 PM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-25 at 7.06.30 PM.png>)
 
 |              Topic             |                                                                      Expert (4-5 points)                                                                     |                                                Proficient (2-3 points)                                                |                       Emerging (0-1 points)                      |
 | :----------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |

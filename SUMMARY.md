@@ -41,7 +41,8 @@
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
 * [Team Documentation](<Team Administration/team-documentation/README.md>)
   * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
-  * [How to Start a Notebook](hardware/lifts/how-to-start-a-notebook.md)
+  * [How to Start a Notebook](team-administration/team-documentation/how-to-start-a-notebook/README.md)
+    * [Integrating Inventor Models into Documentation](team-administration/team-documentation/how-to-start-a-notebook/the-design-process.md)
   * [The Interview](<Team Administration/team-documentation/the-interview.md>)
 * [VEX Worlds Livestream Archive](team-administration/vex-worlds-livestream-archive.md)
 
