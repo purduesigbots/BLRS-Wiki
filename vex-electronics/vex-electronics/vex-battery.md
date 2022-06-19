@@ -6,7 +6,7 @@ description: The V5 Robot Battery is a Li-Ion 1100mAh battery that powers the V5
 
 ![V5 Robot Battery](../../.gitbook/assets/battery.jpg)
 
-The V5 Robot Battery Li-Ion 1100mAh was designed to run ten [V5 motors](motors.md) at full power continuously. The V5 Robot Battery has a higher 12.8v nominal voltage. The battery charges up to 14.6v and runs down to 10v. Due to the very steady output voltage of these batteries, the [V5 Brain](vex-v5-brain/) cannot determine remaining capacity using the typical method of measuring voltage and estimating capacity. Instead, the V5 battery pack has an battery management system that measures changes in electrical charge (coulombs) into and out of the battery during charge and discharge. From this data, the battery determines the actual amount of remaining power.
+The V5 Robot Battery Li-Ion 1100mAh was designed to run ten [V5 motors](motors.md) at full power continuously. The V5 Robot Battery has a higher 12.8v nominal voltage. The battery charges up to 14.6v and runs down to 10v. Due to the very steady output voltage of these batteries, the [V5 Brain](vex-v5-brain/) cannot determine remaining capacity using the typical method of measuring voltage and estimating capacity. Instead, the V5 battery pack has a battery management system that measures changes in electrical charge (coulombs) into and out of the battery during charge and discharge. From this data, the battery determines the actual amount of remaining power.
 
 ![](https://content.vexrobotics.com/images/v5architecture/image13.png)
 
@@ -65,3 +65,7 @@ The VEX batteries have high self-discharge rates; a battery charged one day may 
 ### Usage
 
 Batteries are traditionally mounted on VEX robots using battery straps. However, this is slow to switch and cumbersome to install. A better solution comes from using a slightly modified rack and pinion gearbox with a rotating latchable top to hold the battery securely in place, yet allow fast swapping in under five seconds.
+
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
