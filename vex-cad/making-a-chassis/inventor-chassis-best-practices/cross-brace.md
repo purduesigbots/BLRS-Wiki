@@ -36,7 +36,7 @@ Before constraining to the drive channels, we need to **temporarily** ground one
 
 ![Enable Grounded on Component](<../../../.gitbook/assets/image (177).png>)
 
-Now we can constrain the standoff assembly to the drive.  To make this easier, we are first going to vanish the spacers by selecting all of them with `ctrl+left click` and pressing `ctrl+v` on our keyboards.&#x20;
+Now we can constrain the standoff assembly to the drive.  To make this easier, we are first going to vanish the spacers by selecting all of them with `ctrl+left click` and pressing `alt+v` on our keyboards.&#x20;
 
 ![Selecting all Spacers](<../../../.gitbook/assets/image (133).png>)
 
