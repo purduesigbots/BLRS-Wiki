@@ -12,8 +12,8 @@ description: CAD by Zach
 
 
 
-![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/169A render 1.PNG>)
+![CAD by Zach(929u), Renders by Zach(929u)](../../.gitbook/assets/169a-render-1.png)
 
-![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/169A render 2.png>)
+![CAD by Zach(929u), Renders by Zach(929u)](../../.gitbook/assets/169a-render-2.png)
 
-![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/169A render 7 (Fixed fuzziness).PNG>)
+![CAD by Zach(929u), Renders by Zach(929u)](../../.gitbook/assets/169a-render-7-fixed-fuzziness-.png)
