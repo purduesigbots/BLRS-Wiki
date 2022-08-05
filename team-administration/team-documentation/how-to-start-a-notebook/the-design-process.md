@@ -47,7 +47,7 @@ When importing the model, keep in mind that the base view should always be the f
 
 ![The completed multi-view sketch of the mecanum wheel.](../../../.gitbook/assets/mecanumwheelmultiview.png)
 
-The final step of integrating these drawings into documentation is to export the drawing. Click on "File" at the very top of the window, then click "Export", and select "Image". Drawings can then br exported as a BMP, GIF, JPEG, PNG, or TIFF file.
+The final step of integrating these drawings into documentation is to export the drawing. Click on "File" at the very top of the window, then click "Export", and select "Image". Drawings can then be exported as a BMP, GIF, JPEG, PNG, or TIFF file.
 
 ### Teams Contributed to this Article:
 

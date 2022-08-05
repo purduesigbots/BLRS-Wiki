@@ -1,6 +1,6 @@
 # Rotation Sensor
 
-![V5 Rotation Sensor](<../../../.gitbook/assets/image (50).png>)
+![V5 Rotation Sensor](../../../.gitbook/assets/rotationsensor.png)
 
 ### Functionality
 

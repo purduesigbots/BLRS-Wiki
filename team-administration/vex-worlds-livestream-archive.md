@@ -278,7 +278,7 @@ Research Division\
 
 #### VRC Division Champion Round Robin and Playoffs
 
-[Division Champion Round Robin and Playoffs](javascript:void\(0\))
+[Division Champion Round Robin and Playoffs](broken-reference)
 
 #### VEX IQ Parade of Nations
 
@@ -336,7 +336,7 @@ Research Division\
 
 #### VEX IQ Parade of Nations
 
-[VEX IQ Parade of Nations](javascript:void\(0\))
+[VEX IQ Parade of Nations](broken-reference)
 
 #### VEX IQ Middle School
 

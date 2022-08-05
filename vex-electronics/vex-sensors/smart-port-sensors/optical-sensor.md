@@ -6,7 +6,7 @@ description: >-
 
 # Optical Sensor
 
-![V5 Optical Sensor](https://www.vexrobotics.com/media/catalog/product/cache/d64bdfbef0647162ce6500508a887a85/2/7/276-7043.jpg)
+![V5 Optical Sensor](../../../.gitbook/assets/opticalsensor.png)
 
 The **VEX V5 Optical** Sensor is used to determine the color of an object. It does this by shining an LED light in front of a set of simple cameras. It connects to the [V5 Brain](../../vex-electronics/vex-v5-brain/) through a Smart Port located at the top of the sensor.
 

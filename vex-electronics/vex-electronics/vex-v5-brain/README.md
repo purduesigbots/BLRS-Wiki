@@ -69,9 +69,9 @@ The V5 has has some issues and other setback more can be seen in [V5 Electronics
 
 VEX has stated that the V5 will bring a new batch of smart sensors:
 
-* LiDAR
-* 3-Wire Expander
-* Rotation Sensor
+* [LiDAR](../../vex-sensors/smart-port-sensors/distance.md)
+* [3-Wire Expander](../../vex-sensors/smart-port-sensors/3-wire-expander.md)
+* [Rotation Sensor](../../vex-sensors/smart-port-sensors/rotation-sensor.md)
 * ~~The Bluetooth radio unlocks the ability of robot-to-robot communications along with custom iOS and Android apps written by users~~.
 
 ### Teams Contributed to this Article:

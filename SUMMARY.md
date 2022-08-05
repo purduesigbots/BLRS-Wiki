@@ -179,6 +179,7 @@
     * [Optical Sensor](vex-electronics/vex-sensors/smart-port-sensors/optical-sensor.md)
     * [Distance Sensor](vex-electronics/vex-sensors/smart-port-sensors/distance.md)
     * [Inertial Sensor (IMU)](vex-electronics/vex-sensors/smart-port-sensors/imu.md)
+    * [3-Wire Expander](vex-electronics/vex-sensors/smart-port-sensors/3-wire-expander.md)
 * [V5 Brain Wiring Guide](vex-electronics/wiring-guide.md)
 * [Legacy](vex-electronics/legacy/README.md)
   * [VEX Cortex](vex-electronics/legacy/vex-cortex.md)

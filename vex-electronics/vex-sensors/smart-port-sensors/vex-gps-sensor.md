@@ -1,6 +1,6 @@
 # GPS Sensor
 
-![VEX GPS Sensor](<../../../.gitbook/assets/image (22) (1) (1).png>)
+![VEX GPS Sensor](../../../.gitbook/assets/gpssensor.png)
 
 ## Sensor Description
 
