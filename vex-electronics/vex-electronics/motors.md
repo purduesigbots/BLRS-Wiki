@@ -4,9 +4,9 @@ description: A VEX Motor is the primary actuator for a VEX robot.
 
 # VEX Motors
 
-[![](../../.gitbook/assets/276-4840-v5-smart-motor-front-iso\_1.jpg)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex\_motor\_393.jpg)
+[![](../../.gitbook/assets/smartmotor.png)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex\_motor\_393.jpg)
 
-A VEX motor is a [DC Motor ](../../electronics/general/dc-motor-basics.md)that converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
+The <img src="../../.gitbook/assets/smartmotor_icon.png" alt="" data-size="line"> VEX V5 Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-basics.md)that converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
 
 ![](../../.gitbook/assets/image66.png)
 

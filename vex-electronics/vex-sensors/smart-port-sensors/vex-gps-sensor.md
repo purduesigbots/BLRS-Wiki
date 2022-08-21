@@ -4,7 +4,7 @@
 
 ## Sensor Description
 
-The VEX GPS Sensor is a next step for getting robot position data with the VEX ecosystem. The sensor does have some confusion amongst the community.&#x20;
+The <img src="../../../.gitbook/assets/gpssensor_icon.png" alt="" data-size="line"> VEX V5 GPS Sensor is a next step for getting robot position data with the VEX ecosystem. The sensor does have some confusion amongst the community.&#x20;
 
 The name "GPS" can be misleading. It is not like the Global Positioning System, which uses time-of-flight from many known points(satellites) to determine position. The VEX GPS uses a QR-like system to develop unique patterns at different locations around the field. An onboard camera in the sensor can then determine position based on the sequence shown, and the relative size of the sequence.&#x20;
 
@@ -18,9 +18,7 @@ Second, the GPS is not a "learning failure" for robot positioning. Many in the c
 
 The GPS contains a camera and an integrated [IMU](https://app.gitbook.com/o/-M7yKuZ9tKe3dQn\_jauL/s/-M7yGVyBrcpSR8SDSikj/\~/changes/-Mh-onBeL4BrNyOz8rkD/vex-electronics/vex-sensors/smart-port-sensors/imu) as well as a camera to determine location. The IMU uses gyroscopic movement to track position, which is then cross referenced with the GPS's camera that tracks the wall strip around the field, by the corners of the black squares on the strip.
 
-More information about this algorithm can be found on this patent document here:
-
-{% embed url="https://patentimages.storage.googleapis.com/4f/74/30/eccf334da0ae38/WO2020219788A1.pdf" %}
+More information about this algorithm can be found on this patent document [here](https://docs.google.com/viewerng/viewer?url=https://patentimages.storage.googleapis.com/4f/74/30/eccf334da0ae38/WO2020219788A1.pdf).
 
 ## Use and Operation
 

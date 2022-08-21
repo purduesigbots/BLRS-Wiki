@@ -8,7 +8,7 @@ description: Use up to eight more 3-wire ports with the V5 3-Wire Expander.
 
 ## Overview
 
-The VEX V5 3-Wire Expander is an electronic that acts as a method to provide eight additional [3-wire ports](../3-pin-adi-sensors/) while only using one [V5 port](./) on the [Brain](../../vex-electronics/vex-v5-brain/). This is useful when all eight 3-wire ports on the V5 Brain are already occupied, but more ADI sensors need to be used.&#x20;
+The <img src="../../../.gitbook/assets/3wireicon.png" alt="" data-size="line"> VEX V5 3-Wire Expander is an electronic that acts as a method to provide eight additional [3-wire ports](../3-pin-adi-sensors/) while only using one [V5 port](./) on the [Brain](../../vex-electronics/vex-v5-brain/). This is useful when all eight 3-wire ports on the V5 Brain are already occupied, but more ADI sensors need to be used.&#x20;
 
 The 3-Wire Expander can be attached to the robot via the attachment hole as well as the 0.05" long plastic peg on the bottom of the casing. The casing has very similar dimensions to the [V5 Rotation Sensor](rotation-sensor.md), meaning a 1" screw and nut should suffice for securing it.
 

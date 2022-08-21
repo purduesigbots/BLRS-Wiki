@@ -6,7 +6,7 @@ description: VEXnet is a wireless robot communications system developed by VEX R
 
 ![A V5 Robot Radio](../../.gitbook/assets/radio.jpg)
 
-The V5 Robot Radio and V5 Controller use the VEXnet 3 protocol, VEXnet 3 supports 500 simultaneous robot channels.
+The <img src="../../.gitbook/assets/robotradio_icon.png" alt="" data-size="line"> V5 Robot Radio and V5 Controller use the VEXnet 3 protocol, VEXnet 3 supports 500 simultaneous robot channels.
 
 Both V5 radios also support Bluetooth 4.2, it uses the Texas Instruments CC2640 Bluetooth Smart Wireless MCU. With this, tablets will be able to download programs to the Robot Brain. This also allows connectivity to multiple devices at once. Future updates will add Robot-to-Robot communications. VEXnet 3 and Bluetooth can be used for driving, downloading, and debugging. Controllers can be tethered together for dual driver support.
 

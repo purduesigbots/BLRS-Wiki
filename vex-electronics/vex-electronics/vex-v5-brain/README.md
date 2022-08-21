@@ -6,7 +6,7 @@ description: >-
 
 # VEX V5 Brain
 
-![The V5 Brain](<../../../.gitbook/assets/robotbrain\_1 (1).jpg>)
+![The  V5 Robot Brain](<../../../.gitbook/assets/robotbrain\_1 (1).jpg>)
 
 ## Product Specs
 
