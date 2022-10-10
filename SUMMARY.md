@@ -25,6 +25,11 @@
 * [Intakes](hardware/intakes.md)
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)
+* [Robot Decorations](hardware/robot-decorations/README.md)
+  * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)
+  * [Metal Coloring](hardware/robot-decorations/metal-coloring.md)
+  * [Custom Plastic](hardware/robot-decorations/custom-plastic.md)
+  * [License Plate Holders](hardware/robot-decorations/license-plate-holders.md)
 
 ## Team Administration
 
