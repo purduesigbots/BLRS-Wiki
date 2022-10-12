@@ -4,11 +4,11 @@ description: VEX CAD Inventor Library.
 
 # Inventor
 
-## [Latest Release: 1.3.0](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
+## [Latest Release: 1.4.0](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
 This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.
 
-Library 1.3 is a quality of life update including consistent file names, more sizing tools, improved shafts, smooth screws, improved chain generator, and new part releases from the past year (flex wheels, sensors, HS hardware, Robosource shoulder screws, 2.5" screws, etc). It is **NOT** compatible with previous versions.
+Library 1.4 is a large update with a lot of new parts, a lot of fixed textures, and a new set of metals structure that fixes the inaccuracies with the published Vex parts. There are also some naming inconsistencies that are fixed. As well as quality of life fixes for pneumatics, hinges, chain generation, and for rendering. It is **NOT** compatible with previous versions
 
 ### [Parts Library Download](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
