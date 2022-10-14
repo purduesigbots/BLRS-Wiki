@@ -43,7 +43,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 **"Alpha Edition** - Generally refers to the leader in a wolf pack, α / Alpha. It will also be the leader in the LattePanda series, the most powerful in performance. Known as the leader of the Pandas, or "AlphaPanda" for short.**"**
 
-![LattePanda Alpha Series](<../../../.gitbook/assets/image (11) (1).png>)
+![LattePanda Alpha Series](<../../../.gitbook/assets/image (11).png>)
 
 ## **Specifications:**
 
