@@ -4,9 +4,9 @@ description: Welcome to the public BLRS wiki and knowledge base!
 
 # Welcome!
 
-## Here you'll find electronics, hardware, and software information that we've made public for the VRC, VEXU, and VEX AI Challenge, everything from [PID Control](software/control-algorithms/pid-controller.md), [Double Reverse Four Bars](hardware/lifts/dr4b.md), [VEX Electronics](vex-electronics/vex-electronics/), [V5 ESD Protection](vex-electronics/v5-esd-protection-board.md), and much more!
+## Here on the Purdue SIGBots Wiki, you will find a place to grow your robotics knowledge. Whether you need to start a club with our [Team Financials](https://wiki.purduesigbots.com/team-administration/team-finances) article, or you want to learn some more about programming with our [Odometry](https://wiki.purduesigbots.com/software/odometry) article, there is more to learn here.
 
-This wiki is built on the backs of many SIGBots alumni, open source contributors, and [VEX's own documentation](https://kb.vex.com/hc/en-us) and we are grateful for their contributions to the VEX Community over the past 10 years. We will keep this wiki up to date with new products and new knowledge as we head into the next 10 years of SIGBots History. New articles on the new VEX AI competition will also be added as the competition matures.
+The wiki was created to host the knowledge of the Vex community with resources for competitors at all levels. It started with years of SIGBots documentation but has expanded with many open-source contributors, and new articles always being added. The wiki will stay up to date with new knowledge and continue to strengthen the articles already published.&#x20;
 
 ![SIGBots Wiki Logo](.gitbook/assets/imageedit\_2\_8332098914.png)
 
@@ -14,7 +14,7 @@ If you are interested in contributing to the wiki feel free to open a pull reque
 
 If you would like to discuss or bring up an issue with the wiki without fixing it yourself, feel free to open up an issue on the aforementioned [wiki repo](https://github.com/purduesigbots/BLRS-Wiki).
 
-![Team SIGBots 2022](.gitbook/assets/teampicture.jpg)
+<figure><img src=".gitbook/assets/IMG_1748-1.JPG" alt=""><figcaption></figcaption></figure>
 
 As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com)
 
