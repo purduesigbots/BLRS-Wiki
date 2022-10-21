@@ -24,6 +24,7 @@
 * [Pneumatics](hardware/pneumatics.md)
 * [Intakes](hardware/intakes.md)
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
+* [Defensive Mechanisms](hardware/defensive-mechanisms.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)
 * [Robot Decorations](hardware/robot-decorations/README.md)
   * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)

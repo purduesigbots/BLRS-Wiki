@@ -14,7 +14,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 
 ## LattePanda V1.0
 
-![LattePanda V1.0](<../../../.gitbook/assets/image (1).png>)
+![LattePanda V1.0](<../../../.gitbook/assets/image (1) (1).png>)
 
 ## **Specifications:**
 
@@ -68,7 +68,7 @@ The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identi
 
 **"** **Delta Edition -** Mathematical Character △; a triangle. In terms of product design, performance, and price, it signals a compromise between the three. It keeps the perfect balancing, while balancing best reflects the beauty of engineering.**"**
 
-![LattePanda Delta 432](<../../../.gitbook/assets/image (10).png>)
+![LattePanda Delta 432](<../../../.gitbook/assets/image (10) (1).png>)
 
 | Specification        |  **Delta 432**                                                                                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -23,7 +23,7 @@ Wire crimping allows teams to produce custom wire lengths and replace broken wir
 
 Here is the [VEX Guide on Wire Crimping.](https://kb.vex.com/hc/en-us/articles/360036143012-Crimping-Tool-Robot-Brain-for-VEX-V5)
 
-![VEX Crimping Tool, Wire Spool, and Wire Heads](<../.gitbook/assets/image (6).png>)
+![VEX Crimping Tool, Wire Spool, and Wire Heads](<../.gitbook/assets/image (6) (1).png>)
 
 ### Contributing Teams to this Article:
 

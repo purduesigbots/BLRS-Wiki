@@ -37,7 +37,7 @@ This is by far the most common and simplest drivetrain in Vex. It generally uses
 
 **Advantages and Disadvantages:** The Tank Drive is very simple to build and consistently performs well. Many former world champions have used the Tank Drive for its simplicity. However, it suffers both from being able to be pushed sideways and from an inability to strafe.
 
-One solution to the problem of being pushed from the side utilizes **locked omni wheels** and is sometimes referred to as the "Bling Drive":
+One solution to the problem of being pushed from the side utilizes [**locked omni wheels**](defensive-mechanisms.md#defensive-wheel-setups) and is sometimes referred to as the "Bling Drive":
 
 The reasoning behind and process of making locked omni wheels is explained in [this video by the Rolling Robots](https://www.youtube.com/watch?v=cKM5kPYdWVU). Twenty-four 0.5" screws can be used to make one locked omni wheel. The locked omni wheels should be placed in the center of the robot (more or less in line with the robot's center of gravity) to optimize turning. In addition, only two locked omnis should be used per robot, as more will create difficulty turning and possibly damage the wheels.
 
