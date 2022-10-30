@@ -7,7 +7,14 @@
 
 ## Hardware
 
-* [Introduction to VEX Parts](hardware/misc.-vex-parts-1.md)
+* [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
+  * [Structure](hardware/misc.-vex-parts-1/structure/README.md)
+    * [C-Channels and Angles](hardware/misc.-vex-parts-1/structure/c-channels-and-angles.md)
+    * [Fasteners](hardware/misc.-vex-parts-1/structure/fasteners.md)
+  * [Motion](hardware/misc.-vex-parts-1/motion/README.md)
+    * [High Strength Components](hardware/misc.-vex-parts-1/motion/high-strength-components.md)
+    * [Gears and Sprockets](hardware/misc.-vex-parts-1/motion/gears-and-sprockets.md)
+    * [Flex Wheels](hardware/misc.-vex-parts-1/motion/flex-wheels.md)
 * [Lifts](hardware/lifts/README.md)
   * [Best Practices](hardware/lifts/best-practices.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)

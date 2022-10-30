@@ -28,7 +28,7 @@ Compared to other lifts found on robots, the two bar is one of the easiest and l
 
 ## Chain Bar
 
-![Chain Bar With Tensioned Chain (Courtesy of AURA)](<../../.gitbook/assets/image (18).png>)
+![Chain Bar With Tensioned Chain (Courtesy of AURA)](<../../.gitbook/assets/image (18) (1).png>)
 
 ### Description
 

@@ -6,7 +6,7 @@ description: Welcome to the public BLRS wiki and knowledge base!
 
 ## Here on the Purdue SIGBots Wiki, you will find a place to grow your robotics knowledge. Whether you need to start a club with our [Team Financials](https://wiki.purduesigbots.com/team-administration/team-finances) article, or you want to learn some more about programming with our [Odometry](https://wiki.purduesigbots.com/software/odometry) article, there is more to learn here.
 
-The wiki was created to host the knowledge of the Vex community with resources for competitors at all levels. It started with years of SIGBots documentation but has expanded with many open-source contributors, and new articles always being added. The wiki will stay up to date with new knowledge and continue to strengthen the articles already published.&#x20;
+The wiki was created to host the knowledge of the VEX community with resources for competitors at all levels. It started with years of SIGBots documentation but has expanded with many open-source contributors, and new articles always being added. The wiki will stay up to date with new knowledge and continue to strengthen the articles already published.&#x20;
 
 ![SIGBots Wiki Logo](.gitbook/assets/imageedit\_2\_8332098914\_50.png)
 

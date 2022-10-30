@@ -1,6 +1,6 @@
 # Mission Statement
 
-Purdue SIGBots Wiki works to provide Vex robotics competitors at all skill levels with a wealth of community-driven knowledge that has been developed over a rich history of BLRS competition and work within the community. We also envision a place for students to share what they have learned, and host a location for learning to begin, and grow.&#x20;
+Purdue SIGBots Wiki works to provide VEX Robotics competitors at all skill levels with a wealth of community-driven knowledge that has been developed over a rich history of BLRS competition and work within the community. We also envision a place for students to share what they have learned, and host a location for learning to begin, and grow.&#x20;
 
 #### How are we achieving this goal?
 
