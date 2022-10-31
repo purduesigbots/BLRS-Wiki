@@ -28,7 +28,7 @@ The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi
 
 ## Vision Utility
 
-![The Vision Utility recognizing a red gear's color signature, creating a white rectangular overlay to show object recognition.](<../../../.gitbook/assets/image (13) (2).png>)
+![The Vision Utility recognizing a red gear's color signature, creating a white rectangular overlay to show object recognition.](<../../../.gitbook/assets/image (13) (5).png>)
 
 The Vision Utility is the primary tool used to calibrate the Vision Sensor such that it will be able to locate objects of a particular color. The user-calibrated color that the Vision Sensor tries to locate is known as a "signature". The Vision Sensor can store seven signatures total. To use the Vision Utility, the Vision Sensor must be plugged into a computer via a mini-USB cable. Then, after opening the Vision Utility, the sensor's camera should become active, and should relay the video feed to the Vision Utility window.
 

@@ -43,7 +43,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 **"Alpha Edition** - Generally refers to the leader in a wolf pack, α / Alpha. It will also be the leader in the LattePanda series, the most powerful in performance. Known as the leader of the Pandas, or "AlphaPanda" for short.**"**
 
-![LattePanda Alpha Series](<../../../.gitbook/assets/image (11) (1).png>)
+![LattePanda Alpha Series](<../../../.gitbook/assets/image (11).png>)
 
 ## **Specifications:**
 
@@ -68,7 +68,7 @@ The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identi
 
 **"** **Delta Edition -** Mathematical Character △; a triangle. In terms of product design, performance, and price, it signals a compromise between the three. It keeps the perfect balancing, while balancing best reflects the beauty of engineering.**"**
 
-![LattePanda Delta 432](<../../../.gitbook/assets/image (10) (1).png>)
+![LattePanda Delta 432](<../../../.gitbook/assets/image (10).png>)
 
 | Specification        |  **Delta 432**                                                                                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

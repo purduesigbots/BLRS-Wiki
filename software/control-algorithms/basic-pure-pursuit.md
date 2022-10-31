@@ -1433,7 +1433,7 @@ Next, consider the diagram below:
 \
 
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (2).png>)
 
 Denote the distance traveled by the left side of the robot as $$Ll$$ and the distance traveled by the right side of the robot as $$Lr$$. Assume the robot finishes traveling the arc after time $$Δt$$. Since the left side of the robot has velocity `linearVel - turnVel` and the right side of the robot has velocity `linearVel + turnVel`, we can obtain the following equations:
 

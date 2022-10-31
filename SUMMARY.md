@@ -59,6 +59,21 @@
     * [Integrating Inventor Models into Documentation](team-administration/team-documentation/how-to-start-a-notebook/the-design-process.md)
   * [The Interview](<Team Administration/team-documentation/the-interview.md>)
 * [VEX Worlds Livestream Archive](team-administration/vex-worlds-livestream-archive.md)
+* [Hosting Competitions](team-administration/hosting-competitions/README.md)
+  * [Live Streaming](team-administration/hosting-competitions/live-streaming.md)
+  * [Tournament Manager](team-administration/hosting-competitions/tournament-manager/README.md)
+    * [Competition Electronics](team-administration/hosting-competitions/tournament-manager/competition-electronics.md)
+    * [Creating a Tournament](team-administration/hosting-competitions/tournament-manager/creating-a-tournament.md)
+    * [Tools](team-administration/hosting-competitions/tournament-manager/tools/README.md)
+      * [Field Set Control](team-administration/hosting-competitions/tournament-manager/tools/field-set-control.md)
+      * [Connecting Mobile Devices](team-administration/hosting-competitions/tournament-manager/tools/connecting-mobile-devices.md)
+      * [Connecting Raspberry Pis](team-administration/hosting-competitions/tournament-manager/tools/connecting-raspberry-pis.md)
+    * [Match Control](team-administration/hosting-competitions/tournament-manager/match-control/README.md)
+      * [Inputting Match Scores](team-administration/hosting-competitions/tournament-manager/match-control/inputting-match-scores.md)
+      * [Inputting Skills Scores](team-administration/hosting-competitions/tournament-manager/match-control/inputting-skills-scores.md)
+      * [Inputting Scores on TM Mobile](team-administration/hosting-competitions/tournament-manager/match-control/inputting-scores-on-tm-mobile.md)
+    * [Displays](team-administration/hosting-competitions/tournament-manager/displays.md)
+    * [Alliance Selection](team-administration/hosting-competitions/tournament-manager/alliance-selection.md)
 
 ## Software
 
