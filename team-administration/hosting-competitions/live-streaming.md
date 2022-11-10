@@ -41,7 +41,10 @@ https://gstreamer.freedesktop.org/download/
 
 Here are some troubleshooting tips:
 
-- Once everything is installed, you may still not get the GStreamer Source to show up in OBS if Windows isn't finding the GStreamer framework. This may be caused by the framework not being in Windows PATH. I got it to work on some machines, but on others it didn't want to work even after setting it up the same way. The fix I found was launching OBS with a bat file that mounts GStreamer to path at time of launch. I attached it to this email (had to change it from .bat to .txt for it to accept the attachment).
+- Once everything is installed, you may still not get the GStreamer Source to show up in OBS if Windows isn't finding the GStreamer framework. This may be caused by the framework not being in the Windows PATH environment variable. The fix I found was launching OBS with a batch file that mounts GStreamer to PATH when run. The steps for this fix are as follows:
+  - Create a new file called `start_obs.bat`. Make sure that the file extension is `.bat`.
+  - Add the following code to the file: `insert whatever code it is here`.
+  - Save the file.
 
 - You may need play around with the format of the RTSP stream for a while before it works. Try this syntax
 uridecodebin uri=rtsp://admin:password@192.168.1.200 ! queue ! video.
