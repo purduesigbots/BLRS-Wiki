@@ -26,7 +26,7 @@ You will need to modify your GoPros to ensure they don't overheat during a long 
 5. Set field of view to the widest setting
 6. Disable video stabilization
 
-If your venue is particularly warm, you may also need to invest in heat sinks to ensure that the cameras are properly cooled. Some Event Partners have had success repurposes Raspberry Pi heatsinks for this purpose. You will likely want to target the area of your GoPro directly below the sensor, but experimentation with your particular model is warranted.
+If your venue is particularly warm, you may also need to invest in heat sinks to ensure that the cameras are properly cooled. Some Event Partners have found success in repurposing Raspberry Pi heatsinks. You will likely want to target the area of your GoPro directly below the sensor, but experimentation with your particular model is warranted.
 
 ### Networked Cameras
 Another approach is to use a PoE network camera, which are commonly produced as security cameras. This approach is significantly more flexible than HDMI cameras, but careful considerations must be made to ensure you have access to a low-latency stream from the cameras. 
