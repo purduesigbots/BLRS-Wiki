@@ -68,7 +68,7 @@ Do bear in mind, though, that the RAMSETE controller performs best when provided
 The gain value is applied to the desired linear velocity ($$v_d$$), angular velocity ($$\omega_d$$), and the local error ($$e_x$$, $$e_y$$, and $$e_\theta$$) to give us these velocity commands:
 
 $$
-v = v * d * \cos{e_\theta} + k * e_x\\ \omega = \omega_d + k * e_\theta + \frac{b * v_d * \sin(e_\theta) * e_y}{e_\theta}
+v = v_d * \cos{e_\theta} + k * e_x\\ \omega = \omega_d + k * e_\theta + \frac{b * v_d * \sin(e_\theta) * e_y}{e_\theta}
 $$
 
 ## Commanding the Robot
