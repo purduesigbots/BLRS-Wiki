@@ -112,6 +112,7 @@
   * [Bit Mask](software/general/bit-mask.md)
   * [Autoformatting](software/general/autoformatting.md)
   * [Finite State Machine](software/general/finite-state-machine.md)
+* [🤖 AI in VRC: Pac-Man Pete](software/ai-in-vrc-pac-man-pete.md)
 * [Odometry](software/odometry.md)
 * [Path Planning](software/path-planning.md)
 
