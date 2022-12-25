@@ -4,7 +4,7 @@ description: The tall and controversial scissor lift.
 
 # Scissor Lift
 
-![Scissor Lift General Design (Courtesey of VEX KB)](<../../.gitbook/assets/image (40).png>)
+![](../../.gitbook/assets/scissorLift.gif)
 
 The scissor lift is named because of its overlapping metal bars that open and close similarly to scissors. Scissors lifts are comprised of two sets of overlapping bars, one on each side, that are able to freely rotate in respect to one another. The lift can be as simple as two crossed bars on either side of the lift, but it can also contain many repeated iterations, stacked vertically, of the ﬁrst one and be able to extend to many feet off of the ground. The upward motion is created by motors located at the base of the lift that move one edge (either the front or the back) while the other edge remains stationary but is allowed to rotate. Moving the two edges closer together will extend the lift upwards and moving them apart will lower it.
 
