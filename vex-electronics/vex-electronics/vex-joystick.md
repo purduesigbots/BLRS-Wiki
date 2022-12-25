@@ -1,7 +1,7 @@
 ---
 description: >-
-  The VEX Controler is the principal human interface for a VEX robot since the
-  introduction of VEXnet.
+  The VEX Controller is the principal human interface for a VEX robot since the
+  introduction of VEXNet.
 ---
 
 # VEX Controller
