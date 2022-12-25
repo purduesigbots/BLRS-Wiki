@@ -66,8 +66,8 @@ const int deadzone = 5;
 int main(void) {
     while(1) {
         // Retrieve the necessary joystick values
-        int leftY = Controller1.Axis3.position(percent);
-        int rightY = Controller1.Axis2.position(percent);
+        int left = Controller1.Axis3.position(percent);
+        int right = Controller1.Axis2.position(percent);
         
         // std::abs takes the absolute value of whatever it is called on.
         // Thus, any values in range (-5,5) are discarded as 0.
@@ -79,10 +79,10 @@ int main(void) {
         }
         
         // Move the left side of the robot
-        motors_left.spin(vex::directionType::fwd, leftY);
+        motors_left.spin(vex::directionType::fwd, left);
         
         // Move the right side of the robot 
-        motors_right.spin(vex::directionType::fwd, rightY);
+        motors_right.spin(vex::directionType::fwd, right);
         wait(20, msec);
     }
 }

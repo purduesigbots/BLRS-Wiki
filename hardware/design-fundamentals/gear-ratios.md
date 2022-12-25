@@ -16,4 +16,12 @@ $$
 Gear Ratio = \frac{Driven}{Driving} = Driven : Driving
 $$
 
-The benefit of gear ratios is the ability to choose **speed** vs **torque** in a system. These have an inverse relationship however where a faster output will have lower torque. With the above example, the output shaft has 3x the torque, but also 1/3 the speed. &#x20;
+The benefit of gear ratios is the ability to choose **speed** vs **torque** in a system. These have an inverse relationship however where a faster output will have lower torque. With the above example, the output shaft has 3x the torque, but also 1/3 the speed.&#x20;
+
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
+
+
+
+&#x20;

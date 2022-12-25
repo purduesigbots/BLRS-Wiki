@@ -9,3 +9,7 @@ In general, the torque required to rotate a shaft increases with the speed of th
 Conversely, the speed of a shaft is directly proportional to the torque applied to it, assuming the load and efficiency of the system remain constant. This means that increasing the torque applied to a shaft will result in an increase in its speed, and decreasing the torque will result in a decrease in its speed.
 
 The RPM and torque of a shaft are important factors to consider in the design and operation of mechanical systems. Engineers must carefully balance these variables to ensure that the system operates efficiently and safely and that the shaft is able to withstand the forces acting on it.
+
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

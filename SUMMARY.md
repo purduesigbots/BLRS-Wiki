@@ -34,7 +34,7 @@
 * [Defensive Mechanisms](hardware/defensive-mechanisms.md)
 * [Design Fundamentals](hardware/design-fundamentals/README.md)
   * [Gear Ratios](hardware/design-fundamentals/gear-ratios.md)
-  * [Internal Forces (stress)](hardware/design-fundamentals/internal-forces-stress.md)
+  * [Internal Forces (Stress)](hardware/design-fundamentals/internal-forces-stress.md)
   * [Torque](hardware/design-fundamentals/torque.md)
   * [RPM](hardware/design-fundamentals/rpm.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)

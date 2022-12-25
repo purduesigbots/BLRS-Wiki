@@ -1,4 +1,4 @@
-# Internal Forces (stress)
+# Internal Forces (Stress)
 
 <figure><img src="../../.gitbook/assets/Stress Types.png" alt=""><figcaption><p>Types of Stress - Mechanics Tips</p></figcaption></figure>
 
@@ -23,3 +23,7 @@ Torsion is very common in underdeveloped robots. Torsion is caused by force appl
 ### Compression / Tension
 
 These two are opposite forces where a force is being applied through an axis of an object either pushing (compression) or pulling (tension). In robotics, this is often times seen at connections between pieces through screws, standoffs, or spacers that become inconsistent over time.&#x20;
+
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -19,3 +19,7 @@ Torque is an important concept in mechanics, as it is used to measure the abilit
 In robotics, the most common way that torque is important is anything relating to motors. In a drive train, torque is needed to accelerate quickly, hold a top speed, and be able to push opponents on the field. In a lift, more torque allows the ability to lift heavier loads, lift items faster, and maintain speeds during lifting. For a flywheel, torque allows for higher speed, less loss of speed between shots, and easier tuning of speeds.&#x20;
 
 In summary, torque is a measure of rotational force that is essential in the design and operation of machines and structures. It is used to calculate the ability of an object to rotate, transmit power, and withstand external forces.
+
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
