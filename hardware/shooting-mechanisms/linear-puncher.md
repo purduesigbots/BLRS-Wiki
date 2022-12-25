@@ -1,14 +1,8 @@
----
-description: One Punch Bot
----
-
 # Linear Puncher
 
+![Photo from online challenge (team not connected)](../../.gitbook/assets/0007196\_original.jpg)
 
-
-![](../../.gitbook/assets/puncherfinal.png)
-
-Linear punchers are one of the simplest, yet most effective ball launching mechanisms. The name of the mechanism comes from it's linear actuation and the forceful impact on the ball that sends it flying.
+Linear punchers are one of the simplest, yet most effective ball-launching mechanisms. The name of the mechanism comes from its linear actuation and the forceful impact on the ball that sends it flying.
 
 A couple of things to note about the design:
 
@@ -18,7 +12,7 @@ A couple of things to note about the design:
 
 ### Applications
 
-Linear punchers are used most commonly when needing to launch an object (normally a ball), a far distance. In the past, they were used in Turning Point (2018-19) and in Nothing But Net (2015-16) where teams needed to launch balls (relatively small) across the field. In the case of Turning Point, they were often used because they could be used in different points on the field with angle changing mechanisms.
+Linear punchers are used most commonly when needing to launch an object (normally a ball), a far distance. In the past, they were used in Turning Point (2018-19) and in Nothing But Net (2015-16) where teams needed to launch balls (relatively small) across the field. In the case of Turning Point, they were often used because they could be used in different points on the field with angle-changing mechanisms.
 
 {% embed url="https://photos.google.com/share/AF1QipN0jwXxqNDwy9DtWGPXFATiUTebUFokOV658dnWOwOKR-J0c7-7DHp815LCPTjkWQ/photo/AF1QipNpkMSh71V1Yi9dSR8vwux6wDhbCc7jXBd3B6dF?key=aDBraUhjZmJoZnRRTmNCbTRCZkFmS2pCeUhvOVFB" %}
 Linear Puncher Firing Demonstration (Courtesy of 574C)
@@ -28,7 +22,7 @@ Linear Puncher Firing Demonstration (Courtesy of 574C)
 
 There is no single best method for creating a puncher. Different game objects require different mechanisms, but there are a number of best practices.
 
-* Use a short linear slide length. Longer slides have more power, but suffer from high friction. Shorter lengths have less friction, higher consistency, and will increase the lifespan of the rubber bands.
+* Use a short linear slide length. Longer slides have more power but suffer from high friction. Shorter lengths have less friction, and higher consistency, and will increase the lifespan of the rubber bands.
 * Make sure the rubber bands are parallel with the linear slide. If the rubber bands pull the slide up or down, it will add friction and reduce exit velocity of the ball significantly.
 * The slide should have a loose fit in the slide trucks. This can be achieved by filing the slide trucks down. The extra slop is negligible on performance, and the reduction in friction is massive.
 * Utilize some form of lubrication to reduce friction even further. Common choices for lubricants are white lithium grease or graphite

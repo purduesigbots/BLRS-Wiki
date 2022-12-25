@@ -40,7 +40,7 @@ If we had any parts that needed to be mirrored (like an asymmetrically cut part 
 
 If completed correctly, you have a drive base!
 
-![Completed Drive](<../../../.gitbook/assets/image (106) (1).png>)
+![Completed Drive](<../../../.gitbook/assets/image (106).png>)
 
 {% hint style="info" %}
 Remember to save!

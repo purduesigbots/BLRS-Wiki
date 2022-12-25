@@ -30,7 +30,7 @@ It should be noted that wedges have been met with controversy. With the legality
 
 In order to prevent wedges from getting under a robot, skirts have become one prominent tool in securing the ground game. Rather than acting in an offensive fashion, such as [Wedges](defensive-mechanisms.md#wedges), skirts defend a robot by extending its ground clearance to almost floor-level.
 
-<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption><p>1961Z Change Up, Riptide 4.0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3) (1).png" alt=""><figcaption><p>1961Z Change Up, Riptide 4.0</p></figcaption></figure>
 
 Skirts are typically mounted to the robot in a sloped fashion, such as in the picture mounted above. When a robot is engaging in defensive play, pushing a robot from the side with a sloped surface can cause the offensive robot to ride up the skirt slightly, losing traction and mechanical advantage - the main exception to this being if the offensive robot can get wedges under the defensive robot, lifting them instead. Keeping that exception in mind, it is important to design skirts to be as low to the ground as possible or alternatively, fold out of the way if lifted from the bottom.
 
@@ -44,7 +44,7 @@ In addition to the ground game mechanisms defined above, defensive wheel setups 
 
 Traction Wheels are, as the name implies, wheels added to the [drivetrain](vex-drivetrains.md) of a robot to increase the amount of traction a robot has with the ground.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>BLRS 15" Robot, Tipping Point</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption><p>BLRS 15" Robot, Tipping Point</p></figcaption></figure>
 
 Traction wheels can be constructed in numerous ways, the most common of which is by using a flex wheel as the middle wheel of a chassis, though other ways could include using the stock traction wheels sold by VEX or stretching a traction wheel tire over a sprocket, as pictured above, to increase the outer diameter and function as a traction wheel.
 

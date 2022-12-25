@@ -16,7 +16,7 @@ Spin your scroll wheel to zoom in and out of your workspace.&#x20;
 
 Click your scroll wheel (or your middle mouse button) and move your mouse to pan in your workspace.
 
-![Pan GIF](<../../../.gitbook/assets/pan (1).gif>)
+![Pan GIF](../../../.gitbook/assets/pan.gif)
 
 ### Orbit
 
