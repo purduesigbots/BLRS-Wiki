@@ -86,6 +86,7 @@
   * [Arcade Drive](software/robotics-basics/arcade-drive.md)
   * [Tank Drive](software/robotics-basics/tank-drive.md)
   * [Joystick Deadzones](software/robotics-basics/joystick-deadzones.md)
+  * [Subsystem Toggling](software/robotics-basics/subsystem-toggling.md)
 * [Competition Specific](software/competition-specific/README.md)
   * [Operator Control](software/competition-specific/operator-control.md)
   * [Autonomous Control](software/competition-specific/autonomous-control.md)

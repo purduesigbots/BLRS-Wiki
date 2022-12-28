@@ -48,7 +48,7 @@ Locking screws are normal #8-32 screws that have thread locker brushed onto the 
 
 #### Thumbscrews
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 While not particularly useful, VEX's thumbscrews offer a simplistic way to tighten screws. The method of tightening these screws is as the name suggests: they can be tightened by hand using the knurled head. One benefit that competitors have found within the thumbscrew is the fact that it is made of plastic compared to the typical stainless steel. This would make it a lightweight alternative to using any other screw. They can only be purchased from the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html).
 

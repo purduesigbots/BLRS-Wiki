@@ -14,7 +14,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 
 ## LattePanda V1.0
 
-![LattePanda V1.0](<../../../.gitbook/assets/image (1).png>)
+![LattePanda V1.0](<../../../.gitbook/assets/image (1) (1).png>)
 
 ## **Specifications:**
 
