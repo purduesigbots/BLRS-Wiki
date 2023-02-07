@@ -12,7 +12,7 @@ A single flywheel is by far the most common flywheel used in Vex because of its 
 
 Single flywheels were the dominant design of Nothing But Net. Below is a picture of 1104M in the world finals with a single flywheel (3/6 finals teams in NBN were 1104 with essentially the same robot).
 
-![1104M in Nothing But Net](<../../.gitbook/assets/image (46) (2) (1).png>)
+![1104M in Nothing But Net](<../../.gitbook/assets/image (46) (1) (1).png>)
 
 [\
 ](https://photos.google.com/share/AF1QipNNjcP0x0m8bZmBkSu5inbOiscVHZwB8Fp6W825U3eTzoIW0\_acUYFtxjSFceFQ4w/photo/AF1QipNV5kItJyJIBCltrm17i8POyO5yCpN8sWXEORM2?key=UjBoUlJTVjR3djlObzFjQlRzREdSd2dYeHlYdnRn)This flywheel spun at extremely high RPMs and had the majority of the wheel’s mass on the very outside of the wheel which increased it’s moment of inertia thus making it easier to fire several balls in succession. This was paired with a ratchet and pawl that allowed the wheel to coast with no motor power and maintain most of its speed.

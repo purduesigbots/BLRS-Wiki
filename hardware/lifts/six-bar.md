@@ -8,7 +8,7 @@ description: The six bar lift, the four bar's big brother.
 
 The six bar lift is a derivative of the [four bar lift](four-bar.md). It utilizes the same geometry of four parallel bars, but in two stages. This split into two stages allows the lift to maintain a lower profile on the robot and condense into a smaller space, allowing for a larger lift to ﬁt within the build limits.
 
-![Visual comparison of the difference in compactness between a six bar and a four bar](../../.gitbook/assets/six\_bar\_height2.png)
+![Visual comparison of the difference in compactness between a six bar and a four bar](<../../.gitbook/assets/six\_bar\_height2 (1).png>)
 
 ![Visual comparison of the height difference between a six bar and a four bar when fully raised](../../.gitbook/assets/six\_bar\_height.png)
 

@@ -58,6 +58,18 @@ Drop-Centered Wheels are another method of increasing traction on the field. Wit
 
 <figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>BLRS2 15" Robot, Tipping Point</p></figcaption></figure>
 
+## Defensive Wings
+
+Defensive wings are a strategy more commonly used by VexU team that are designed to block opponents from portions of the field without havinga. fully deployed wall. Defensive wings are usually retractable.&#x20;
+
+This design is shown below in 2 VexU robot designs. In Change Up, YNOT used these wings to block teams from half the field after autonomous, with the ability to continue match play later after wings are retracted.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-07 at 10.55.22 AM.png" alt=""><figcaption><p>YNOT - Change Up QIPE Finals</p></figcaption></figure>
+
+Similarly, BLRS used a similar mechanism in Turning Point in order to control robots with more contact area allowing blocking from portions of the field.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-07 at 10.57.13 AM.png" alt=""><figcaption><p>BLRS - Turning Point Worlds Reveal</p></figcaption></figure>
+
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

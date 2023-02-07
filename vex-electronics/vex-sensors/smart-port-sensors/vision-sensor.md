@@ -4,11 +4,11 @@ description: The Vision Sensor tells you where colored objects are located.
 
 # Vision Sensor
 
-![](<../../../.gitbook/assets/visionsensor (1).png>)
+![](../../../.gitbook/assets/visionsensor.png)
 
 ## Features
 
-At its most basic mode, the <img src="../../../.gitbook/assets/visionsensor_icon (1).png" alt="" data-size="line"> Vision Sensor tells you where a colored object is located. The location's X value represents the right and left position. When the camera is tilted down, the Y value represents the distance to the object, with some basic trigonometry necessary.
+At its most basic mode, the <img src="../../../.gitbook/assets/visionsensor_icon.png" alt="" data-size="line"> Vision Sensor tells you where a colored object is located. The location's X value represents the right and left position. When the camera is tilted down, the Y value represents the distance to the object, with some basic trigonometry necessary.
 
 The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi, and USB into a single sensor. The sensor can be trained to locate objects by color. Every 200 milliseconds, the camera provides a list of the object found matching up to eight unique colors. The object’s height, width, and location is provided. Multi-colored objects can also be programmed, allowing color codes to provide new information to the robot. Color-codes can represent anything, including location, object type, street signs, movement instructions, robot identifiers, etc. The Vision Sensor has USB for a direct connection to your computer. The Vision Sensor also has WiFi Direct and acts like a web server. This allows you to wirelessly view “live” video from any computer equipped with a browser and WiFi.
 
