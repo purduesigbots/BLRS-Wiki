@@ -4,10 +4,11 @@ The Scuff Controller Add-on was created by team MCC in order to increase the num
 
 {% embed url="https://challenges.robotevents.com/challenge/94/entry/6044" %}
 
-Below is a GitHub hosting all parts as STP, IPT, and STL files instead of the fusion files in the original submission.
+There was a V2 version made of the scuff controller, with a less fragile clamshell design and upgraded triggers that were easier to print.
 
-{% embed url="https://github.com/VEX-CAD/scuff-controllers.git" %}
+{% embed url="https://www.printables.com/model/392038-vex-scuff-controller-v2" %}
 
 ## Contributors to this Article
 
 * MCC (Manchester Community College)
+* Michael - 2088X
