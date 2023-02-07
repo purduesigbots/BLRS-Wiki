@@ -118,7 +118,7 @@ The algorithm itself consists of a single procedure to perform calculations, whi
 5. Calculate new absolute orientation $$\theta_1=\theta_r+\frac{\Delta L_r-\Delta R_r}{s_L+s_R}$$ ; please note that the second term will be in radians, regardless of the units of other variables&#x20;
 6. Calculate the change in angle $$\Delta\theta=\theta_1-\theta_0$$&#x20;
 7. If $$\Delta\theta=0$$ (i.e. $$\Delta L=\Delta R$$), then calculate the local offset $$\Delta\overrightarrow{d_t}=$$$${\Delta S}\brack{\Delta R}$$
-8. Otherwise, calculate the local offset $$\Delta {\overrightarrow{d_t}}=2sin\frac{\theta}{2}\times$$$${\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$(Equation 6)
+8. Otherwise, calculate the local offset $$\Delta {\overrightarrow{d_t}}=2sin\frac{\Delta\theta}{2}\times$$$${\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$(Equation 6)
 9. Calculate the average orientation $$\theta_m=\theta_0+\frac{\Delta\theta}{2}$$
 10. Calculate global offset $$\Delta{\overrightarrow{d}}$$ as $$\Delta{\overrightarrow{d_l}}$$rotated by $$-\theta_m$$; this can be done by converting your existing Cartesian coordinates to polar coordinates, changing the angle, then converting back
 11. Calculate new absolute position  $$\overrightarrow{d_1}=\overrightarrow{d_0}+\Delta\overrightarrow{d}$$
