@@ -24,7 +24,7 @@ Be sure not to use this strategy with 1x metal, as it will likely have little no
 
 ## 5-by bracing
 
-Bracing with horizontal 5 hole wide C-Channels (often doubled up) was a common and very effective technique used by New Zealand teams in 2017-18's ITZ to brace the bottom section of DR4Bs. This is the most effective way to prevent the lift from twisting, and while the doubled 5-by is very heavy, the additional stability causes the lift's joints to be more efficient and the lift to be faster.
+Bracing with horizontal 5 hole wide C-Channels (often doubled up) was a common and very effective technique used by New Zealand teams in 2017-18's ITZ to brace the bottom section of DR4Bs. This is the most effective way to prevent the lift from twisting, and while the doubled 5-by is very heavy, the additional stability causes the lift's joints to be more efficient and the lift to be faster. To make this approach more effective, use shoulder screws to keep holes aligned better.
 
 ![Single 5-by Bracing on "Big Chungus" (BLRS Tower Takeover) ](<../../.gitbook/assets/image (35).png>)
 

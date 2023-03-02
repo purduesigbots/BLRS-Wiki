@@ -99,7 +99,7 @@ This segment is the place to document all of the progress in programming for the
 
 In documenting your program, it is important to write about all facets of the code, describing the reasoning behind decisions using the Engineering Design Process in much the same fashion as mechanics entries. In addition to including a fully commented print of the code in the notebook, it is even more important to describe and highlight important pieces of the notebook separately, as well as describing the rational behind them. As an aside, main autonomous route planning, done with a specific robot in mind, should be included chronologically within the main notebook - separated entries should mainly be reserved for backend development on complex algorithms.
 
-![Design Process Used in 91A's Code Documentation](<../../../.gitbook/assets/image (6) (1).png>)
+![Design Process Used in 91A's Code Documentation](<../../../.gitbook/assets/image (6).png>)
 
 ### Recording Testing Data
 
