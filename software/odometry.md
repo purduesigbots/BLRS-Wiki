@@ -79,7 +79,7 @@ A local coordinate system is also needed. Theoretically, any will work, but one 
 
 Now, it is important to consider what happens if the robot strays from the arc somewhat, resulting in additional translation. This forms a second arc, representing a second component of the robot's movement. This time, the axis is offset from the robot's initial "right" by 𝜃 2 , making it perpendicular to our y component (and thus representative of our local x axis). This arc's radius and chord length can be calculated in much the same as the y component, giving our complete local translation vector:&#x20;
 
-&#x20;                                                          $$\Delta\overrightarrow{d_t}=2sin\frac{\theta}{2} \times$$$${\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$                                                          (6)​
+&#x20;                                                          $$\Delta\overrightarrow{d_t}=2sin\frac{\theta}{2} \times{\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$                                                          (6)​
 
 This coordinate system is offset by $$\theta_0+\frac{\Delta\theta}{2}$$ from the global coordinate system. Therefore, by rotating $$\Delta\overrightarrow{d_l}$$ back by that amount, the global translation vector can be calculated. The current position at any time is simply the starting position, plus the summation of all global translation vectors up to that time.&#x20;
 
@@ -109,7 +109,7 @@ As can be seen, the radius (which is dependent on the y-axis offset of the wheel
 
 ## Tracking Algorithm&#x20;
 
-The algorithm itself consists of a single procedure to perform calculations, which should be called frequently (a cycle period of no more than 10 milliseconds). We recommend using a dedicated runtime task/thread for this process. The procedure can be broken down into a few steps:
+The algorithm itself consists of a single procedure to perform calculations, which should be called frequently (a cycle period of no more than 10 milliseconds, although it should be noted keeping the cycle time too low will cause undershoots due to the limited resolution of the optical shaft encoders). We recommend using a dedicated runtime task/thread for this process. The procedure can be broken down into a few steps:
 
 1. &#x20;Store the current encoder values in local variables
 2. Calculate the change in each encoders’ value since the last cycle, and convert to distance of wheel travel (for example, if the wheel has a radius 2" and turned 5°, then it travelled approximately 0.1745"); call these $$\Delta L, \Delta R,$$ and$$\Delta S$$
@@ -118,7 +118,7 @@ The algorithm itself consists of a single procedure to perform calculations, whi
 5. Calculate new absolute orientation $$\theta_1=\theta_r+\frac{\Delta L_r-\Delta R_r}{s_L+s_R}$$ ; please note that the second term will be in radians, regardless of the units of other variables&#x20;
 6. Calculate the change in angle $$\Delta\theta=\theta_1-\theta_0$$&#x20;
 7. If $$\Delta\theta=0$$ (i.e. $$\Delta L=\Delta R$$), then calculate the local offset $$\Delta\overrightarrow{d_t}=$$$${\Delta S}\brack{\Delta R}$$
-8. Otherwise, calculate the local offset $$\Delta {\overrightarrow{d_t}}=2sin\frac{\Delta\theta}{2}\times$$$${\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$(Equation 6)
+8. Otherwise, calculate the local offset $$\Delta {\overrightarrow{d_t}}=2sin\frac{\Delta\theta}{2}\times{\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$(Equation 6)
 9. Calculate the average orientation $$\theta_m=\theta_0+\frac{\Delta\theta}{2}$$
 10. Calculate global offset $$\Delta{\overrightarrow{d}}$$ as $$\Delta{\overrightarrow{d_l}}$$rotated by $$-\theta_m$$; this can be done by converting your existing Cartesian coordinates to polar coordinates, changing the angle, then converting back
 11. Calculate new absolute position  $$\overrightarrow{d_1}=\overrightarrow{d_0}+\Delta\overrightarrow{d}$$
