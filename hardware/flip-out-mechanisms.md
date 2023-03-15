@@ -20,7 +20,7 @@ Another successful flip-out mechanism was the [2019 Ri3D team's intake flipout](
 
 This mechanism was not a "flip-out" mechanism in the conventional way, but [Antichamber's Modular Cone Launcher](https://www.youtube.com/watch?v=zHS9VIAxNNM) was certainly interesting. In Vex In the Zone, several teams utilized their preload by launching it across the field to block another teams autonomous function. This was one particular mechanism for doing so.
 
-![Antichamber's Modular Cone Launcher](<../.gitbook/assets/antichambers-modular-cone-launcher (2) (2) (1).png>)
+![Antichamber's Modular Cone Launcher](<../.gitbook/assets/antichambers-modular-cone-launcher (2) (2) (1) (1) (1).png>)
 
 ## Contributing Teams to this Article:
 

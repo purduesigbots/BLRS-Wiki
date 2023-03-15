@@ -14,6 +14,7 @@
   * [Motion](hardware/misc.-vex-parts-1/motion/README.md)
     * [High Strength Components](hardware/misc.-vex-parts-1/motion/high-strength-components.md)
     * [Gears and Sprockets](hardware/misc.-vex-parts-1/motion/gears-and-sprockets.md)
+    * [Mecanum Wheels](hardware/misc.-vex-parts-1/motion/mecanum-wheels.md)
     * [Flex Wheels](hardware/misc.-vex-parts-1/motion/flex-wheels.md)
 * [Lifts](hardware/lifts/README.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)

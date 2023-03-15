@@ -14,7 +14,7 @@ The ESD protection board contains TVS diodes on the two data lines between the c
 
 The table below shows the maximum operating conditions of the TVS diodes used in the boards.
 
-![TVS Diode Specifications](<../.gitbook/assets/image (23).png>)
+![TVS Diode Specifications](<../.gitbook/assets/Maximum ESD Protection.png>)
 
 As shown in the table above, the TVS diodes used can redirect up to 30kV (thirty thousand volts) of ESD, meaning it can ground a significant amount of electricity and prevent it from reaching the data line. Adding these ESD protection boards to your robot is a simple and cost-effective way to protect and extend the lifespan of your[ V5 Brain](vex-electronics/vex-v5-brain/).
 
@@ -82,7 +82,7 @@ Video walkthrough of ordering ESD protection boards with SMT assmebly through JL
 
 Jess from VEXU team EZ has designed 3D printed cases to house the ESD protection boards. There are designs for one board, four boards, and eight boards. Attached below are the STL and STEP files for the different case sizes.&#x20;
 
-{% file src="../.gitbook/assets/1 ESD Board Case (1).zip" %}
+{% file src="../.gitbook/assets/1 ESD Board Case.zip" %}
 File containing .stl and .step files for 3D printable case for one board.
 {% endfile %}
 
