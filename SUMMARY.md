@@ -7,6 +7,11 @@
 
 ## Hardware
 
+* [Design Fundamentals](hardware/design-fundamentals/README.md)
+  * [Gear Ratios](hardware/design-fundamentals/gear-ratios.md)
+  * [Internal Forces (Stress)](hardware/design-fundamentals/internal-forces-stress.md)
+  * [Torque](hardware/design-fundamentals/torque.md)
+  * [RPM](hardware/design-fundamentals/rpm.md)
 * [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
   * [Structure](hardware/misc.-vex-parts-1/structure/README.md)
     * [C-Channels and Angles](hardware/misc.-vex-parts-1/structure/c-channels-and-angles.md)
@@ -14,8 +19,14 @@
   * [Motion](hardware/misc.-vex-parts-1/motion/README.md)
     * [High Strength Components](hardware/misc.-vex-parts-1/motion/high-strength-components.md)
     * [Gears and Sprockets](hardware/misc.-vex-parts-1/motion/gears-and-sprockets.md)
+    * [Traction Wheels](hardware/misc.-vex-parts-1/motion/traction-wheels.md)
     * [Mecanum Wheels](hardware/misc.-vex-parts-1/motion/mecanum-wheels.md)
     * [Flex Wheels](hardware/misc.-vex-parts-1/motion/flex-wheels.md)
+* [Robot Decorations](hardware/robot-decorations/README.md)
+  * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)
+  * [Metal Coloring](hardware/robot-decorations/metal-coloring.md)
+  * [Custom Plastic](hardware/robot-decorations/custom-plastic.md)
+  * [License Plate Holders](hardware/robot-decorations/license-plate-holders.md)
 * [Lifts](hardware/lifts/README.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
   * [Four Bar](hardware/lifts/four-bar.md)
@@ -33,17 +44,7 @@
 * [Intakes](hardware/intakes.md)
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Defensive Mechanisms](hardware/defensive-mechanisms.md)
-* [Design Fundamentals](hardware/design-fundamentals/README.md)
-  * [Gear Ratios](hardware/design-fundamentals/gear-ratios.md)
-  * [Internal Forces (Stress)](hardware/design-fundamentals/internal-forces-stress.md)
-  * [Torque](hardware/design-fundamentals/torque.md)
-  * [RPM](hardware/design-fundamentals/rpm.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)
-* [Robot Decorations](hardware/robot-decorations/README.md)
-  * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)
-  * [Metal Coloring](hardware/robot-decorations/metal-coloring.md)
-  * [Custom Plastic](hardware/robot-decorations/custom-plastic.md)
-  * [License Plate Holders](hardware/robot-decorations/license-plate-holders.md)
 
 ## Team Administration
 
