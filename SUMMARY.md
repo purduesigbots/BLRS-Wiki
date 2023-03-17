@@ -21,6 +21,7 @@
     * [Gears and Sprockets](hardware/misc.-vex-parts-1/motion/gears-and-sprockets.md)
     * [Traction Wheels](hardware/misc.-vex-parts-1/motion/traction-wheels.md)
     * [Mecanum Wheels](hardware/misc.-vex-parts-1/motion/mecanum-wheels.md)
+    * [Omnidirectional Wheels](hardware/misc.-vex-parts-1/motion/omnidirectional-wheels.md)
     * [Flex Wheels](hardware/misc.-vex-parts-1/motion/flex-wheels.md)
 * [Robot Decorations](hardware/robot-decorations/README.md)
   * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)
