@@ -62,7 +62,7 @@ Video from WingusDingusRobotics (Team 7682)
 
 ## Pneumatic Catapults
 
-[Pneumatics](../pneumatics.md) can also be used in a catapult to launch objects, as the quick actuation in tandem with a lever arm can be used to send objects flying through the air. As with elastic catapults, there are many pros and cons to this type of catapult:
+[Pneumatics](../pneumatics/) can also be used in a catapult to launch objects, as the quick actuation in tandem with a lever arm can be used to send objects flying through the air. As with elastic catapults, there are many pros and cons to this type of catapult:
 
 | Pros                                                                         | Cons                                                     |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------- |

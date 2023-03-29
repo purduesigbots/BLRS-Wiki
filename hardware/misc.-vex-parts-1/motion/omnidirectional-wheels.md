@@ -39,7 +39,7 @@ The original 3.25 inch omnidirectional wheels have been less favored by the VRC 
 
 <figure><img src="../../../.gitbook/assets/5225drivetrain.png" alt=""><figcaption><p>Omnidirectional wheels used on <a href="../../../vex-cad/remembering-the-best/5225a-tower-takeover.md">5225A's X-drive in Tower Takeover.</a></p></figcaption></figure>
 
-Omnidirectional wheels have been commonplace on VRC drivetrains since their creation. They are especially useful when creating [X-drives](../../vex-drivetrains/) or "Kiwi" (three wheel holonomic) drives because of their ability to expand the amount of degrees of freedom the drivetrain has. When the wheels are arranged diagonally, the robot is still able to move smoothly because as it moves in any direction, the wheel's rollers spin along with the wheel, accounting for the movement in both the sideways and forwards direction.
+Omnidirectional wheels have been commonplace on VRC drivetrains since their creation. They are especially useful when creating [X-drives](../../vex-drivetrains.md) or "Kiwi" (three wheel holonomic) drives because of their ability to expand the amount of degrees of freedom the drivetrain has. When the wheels are arranged diagonally, the robot is still able to move smoothly because as it moves in any direction, the wheel's rollers spin along with the wheel, accounting for the movement in both the sideways and forwards direction.
 
 2.75" omnidirectional wheels can make great tracker wheels for odometry purposes due to their small diameter. In fact, 2.75" omnidirectional wheels used to only be used for odometry, until more recent seasons in which teams have begun to get more creative with their drivetrain gear ratios.&#x20;
 

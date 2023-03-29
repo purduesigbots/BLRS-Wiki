@@ -37,7 +37,7 @@ These terms are fairly arbitrary and are just to group together similar designs.
 
 !["Big Mac" (AURA Skyrise 2014)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
 
-!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (1) (1).png>)
+!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (2) (1).png>)
 
 !["Big Chungus" Expanded (BLRS Tower Takeover 2019)](../../.gitbook/assets/cjr\_0286.jpg)
 
@@ -55,7 +55,7 @@ Characteristics:
 
 **All Round**
 
-![491A (In the Zone 2017)](<../../.gitbook/assets/image (28) (1) (1).png>)
+![491A (In the Zone 2017)](<../../.gitbook/assets/image (28) (2) (2).png>)
 
 An extremely reliable lift with 2 motors that is both quick and tall is easy to do the with the power of V5 motors. This type of lift is going to fit the needs of most applications.
 
@@ -71,7 +71,7 @@ Characteristics:
 
 **Lightweight**
 
-![5225A (In The Zone 2017) Renders and Model by Ayush 1961Z](<../../.gitbook/assets/2 (3).png>)
+![5225A (In The Zone 2017) Renders and Model by Ayush 1961Z](../../.gitbook/assets/2.png)
 
 The lightweight weight class is a good option for motor count efficiency or lighter game elements (Example: Cones in In The Zone and Caps in Turning Point).
 
@@ -100,7 +100,7 @@ One thing that may be important to note is that the "Double Reverse 4 Bar" desig
 
 The following lifts are not "DR4Bs" and use different techniques to make the lift taller.
 
-![202Z Double Reverse 4-6 Bar (In The Zone) Renders and Model by Zach 929U ](<../../.gitbook/assets/Render 4 (1).png>)
+![202Z Double Reverse 4-6 Bar (In The Zone) Renders and Model by Zach 929U ](<../../.gitbook/assets/render-4 (2).png>)
 
 ![UCF Double Reverse 8-Bar (Tower Takeover)](../../.gitbook/assets/hbwyc4249bcegiseqrr9eaev5i7ujufgpdum28epeez9lqenrsn6aogrnhwyadulrobk62fhu-pkf3dhp9ysxmqat9g1jlougnft.png)
 

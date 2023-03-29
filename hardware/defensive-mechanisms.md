@@ -42,7 +42,7 @@ In addition to the ground game mechanisms defined above, defensive wheel setups 
 
 ### Traction Wheels
 
-Traction Wheels are, as the name implies, wheels added to the [drivetrain](vex-drivetrains/) of a robot to increase the amount of traction a robot has with the ground.&#x20;
+Traction Wheels are, as the name implies, wheels added to the [drivetrain](vex-drivetrains.md) of a robot to increase the amount of traction a robot has with the ground.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption><p>BLRS 15" Robot, Tipping Point</p></figcaption></figure>
 

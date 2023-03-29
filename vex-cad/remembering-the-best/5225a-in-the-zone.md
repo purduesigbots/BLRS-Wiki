@@ -10,7 +10,7 @@ description: CAD by Ayush
 
 
 
-![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](../../.gitbook/assets/2.png)
+![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/2 (3).png>)
 
 ![CAD by Ayush(1961Z, BLRS), Renders by Ayush(1961Z, BLRS)](<../../.gitbook/assets/3 (1).png>)
 

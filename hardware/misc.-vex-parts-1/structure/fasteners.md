@@ -14,7 +14,7 @@ Of more importance to the user of a screw is the drive style and its specialty f
 
 #### Star/Torx Drive
 
-![](<../../../.gitbook/assets/image (5) (3).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 Star Drive, otherwise known by its trade name as "Torx" Drive, is the most common drive style in VEX. It offers the advantage of being generally more resistant to stripping than its hexagonal predecessor, but has the tradeoff of being difficult to purchase at a hardware store. Convenient sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html), [Robosource](https://www.robosource.net/star-drive-screws-steel), and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size\~8-32/drive-style\~torx/).
 
@@ -48,7 +48,7 @@ Locking screws are normal #8-32 screws that have thread locker brushed onto the 
 
 #### Thumbscrews
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (2).png>)
 
 While not particularly useful, VEX's thumbscrews offer a simplistic way to tighten screws. The method of tightening these screws is as the name suggests: they can be tightened by hand using the knurled head. One benefit that competitors have found within the thumbscrew is the fact that it is made of plastic compared to the typical stainless steel. This would make it a lightweight alternative to using any other screw. They can only be purchased from the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html).
 

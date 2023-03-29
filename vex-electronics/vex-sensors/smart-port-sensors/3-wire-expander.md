@@ -14,7 +14,7 @@ The 3-Wire Expander can be attached to the robot via the attachment hole as well
 
 ## Usage
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 On the V5 Brain's "devices" UI, the 3-Wire Expander behaves exactly as the native 3-wire ports menu, showing inputs and outputs on ports A-H.
 

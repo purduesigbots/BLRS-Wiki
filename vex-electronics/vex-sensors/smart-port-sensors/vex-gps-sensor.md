@@ -26,7 +26,7 @@ More information about this algorithm can be found on this patent document [here
 
 The VEX GPS sensor is remarkably simple to install and operate, Just make sure that the sensor is vertically on the same plane as the field strips, or roughly 10.5 inches off of the ground, and initial position values on field and offset values from center of rotation on robot are set correctly. The sensor's position, heading, total degrees rotated throughout the match can be then retrieved from it via whatever API the programming platform used provides.&#x20;
 
-![Example GPS Placement on Robot (Courtesy of VEX KB)](<../../../.gitbook/assets/image (2) (1).png>)
+![Example GPS Placement on Robot (Courtesy of VEX KB)](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
 {% embed url="https://pros.cs.purdue.edu/v5/tutorials/topical/gps.html" %}
 PROS Documentation for GPS Sensor
