@@ -4,7 +4,7 @@ description: Use up to eight more 3-wire ports with the V5 3-Wire Expander.
 
 # 3-Wire Expander
 
-![](<../../../.gitbook/assets/3wireexpander (1).png>)
+![](../../../.gitbook/assets/3wireexpander.png)
 
 ## Overview
 
@@ -14,7 +14,7 @@ The 3-Wire Expander can be attached to the robot via the attachment hole as well
 
 ## Usage
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (5).png>)
 
 On the V5 Brain's "devices" UI, the 3-Wire Expander behaves exactly as the native 3-wire ports menu, showing inputs and outputs on ports A-H.
 

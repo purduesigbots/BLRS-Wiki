@@ -42,7 +42,7 @@ In addition to the ground game mechanisms defined above, defensive wheel setups 
 
 ### Traction Wheels
 
-Traction Wheels are, as the name implies, wheels added to the [drivetrain](vex-drivetrains.md) of a robot to increase the amount of traction a robot has with the ground.&#x20;
+Traction Wheels are, as the name implies, wheels added to the [drivetrain](vex-drivetrains/) of a robot to increase the amount of traction a robot has with the ground.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption><p>BLRS 15" Robot, Tipping Point</p></figcaption></figure>
 
@@ -51,6 +51,8 @@ Traction wheels can be constructed in numerous ways, the most common of which is
 <figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>BLRS2 15" Robot, Tipping Point</p></figcaption></figure>
 
 When adding traction wheels to a robot, it is important to consider where on a drivetrain the traction wheels are located. This is because the farther the traction wheel is from the center of the drivetrain, the more the center of rotation will be offset. This would be due to the traction differential between the two sides (front to back) of the drivetrain. In addition, it would be inadvisable to use traction wheels on a holonomic chassis, due to the increase in traction.
+
+### Bling Drive
 
 ### Drop-Centered Wheels
 

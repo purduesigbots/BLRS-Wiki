@@ -9,7 +9,7 @@ description: >-
 
 ## Introduction
 
-This page contains information that can be applied to a variety of subsystems on a robot in many different circumstances. If you are looking for more information on specific subsystems, such as [drive variations](vex-drivetrains.md) and [lifts](lifts/), please see the corresponding articles in the sidebar.
+This page contains information that can be applied to a variety of subsystems on a robot in many different circumstances. If you are looking for more information on specific subsystems, such as [drive variations](vex-drivetrains/) and [lifts](lifts/), please see the corresponding articles in the sidebar.
 
 ## Gear and Sprocket Ratios
 

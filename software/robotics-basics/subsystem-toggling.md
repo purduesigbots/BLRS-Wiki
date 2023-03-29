@@ -8,7 +8,7 @@ This is widely used on subsystems that may need to run for prolonged periods of 
 
 ## Concept
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>State Machine Diagram</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>State Machine Diagram</p></figcaption></figure>
 
 Conceptually, we want to visualize our "toggle" feature as a state machine with 2 states. We start in state 1 where the subsystem is off by default, and turn on the subsystem by pressing the toggle button. In order to keep track of this state, we can use a Boolean variable to do so. If more states are needed, we simply expand the diagram above to have more states where the subsystem has different actions than off and on, and use an integer value or an enumeration to keep track of current state.&#x20;
 

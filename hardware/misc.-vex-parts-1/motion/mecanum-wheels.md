@@ -16,7 +16,7 @@ In VRC, there are only two legal sizes of mecanum wheels: 2 inch and 4 inch. Eac
 
 <figure><img src="../../../.gitbook/assets/mecanumwheelvariants.png" alt=""><figcaption><p>Left/right variants arranged next to each other.</p></figcaption></figure>
 
-The proper placement of these wheels based on their variants is described in the article "[VEX Drivetrains](../../vex-drivetrains.md)"; this placement holds true for any mecanum wheel, regardless of its size.
+The proper placement of these wheels based on their variants is described in the article "[VEX Drivetrains](../../vex-drivetrains/)"; this placement holds true for any mecanum wheel, regardless of its size.
 
 ## Traits and Performance
 

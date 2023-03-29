@@ -12,7 +12,7 @@ The gain control for the TBH can be treated very similarly to the proportional g
 
 The code is typically set up so that there are two TBH parameters, TBH and TBHInitial. TBHInitial is kept consist for as long as the setpoint is kept constant, while TBH is reduced every time that the error crosses zero. This allows the controllers guess to remain very close to desired output in spite of noise, while still being able to ramp up the guess and accelerate hard if there is a change in setpoint. This could cause slow response times if there is a repeated action causing the system to stray from the setpoint when in a hold state, but will provide stability against noise in the data.
 
-![ Example output of a TBH control](<../../.gitbook/assets/image (34).png>)
+![ Example output of a TBH control](<../../.gitbook/assets/image (4).png>)
 
 ## Application
 

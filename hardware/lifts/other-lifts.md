@@ -52,7 +52,7 @@ This is done by adding a fixed orientation sprocket at the base of the lift bar,
 
 ## Elevator/Cascade Lift
 
-![Cascade Lift Retracted (Left) and Extended (Right) Courtesy of Josh 99904A](<../../.gitbook/assets/image (21) (1).png>)
+![Cascade Lift Retracted (Left) and Extended (Right) Courtesy of Josh 99904A](<../../.gitbook/assets/image (21).png>)
 
 Example: NorCal 2021 Robot (View in .5x or full screen):
 

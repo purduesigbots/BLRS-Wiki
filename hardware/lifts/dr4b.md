@@ -37,7 +37,7 @@ These terms are fairly arbitrary and are just to group together similar designs.
 
 !["Big Mac" (AURA Skyrise 2014)](../../.gitbook/assets/aura-vexu-2015-reveal-0-32-screenshot-2-.png)
 
-!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (1).png>)
+!["Big Chungus" (BLRS Tower Takeover 2019)](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 !["Big Chungus" Expanded (BLRS Tower Takeover 2019)](../../.gitbook/assets/cjr\_0286.jpg)
 
