@@ -1,7 +1,7 @@
 # Worlds Interviews
 
 {% hint style="info" %}
-This rubric and questionaire serup was used for 2023 Vex Worlds remote judging. This may be out of date, but reflects nearly identical processes to that of 2022 worlds as well as Ontario regionals 2022, Vegas Sig 2023, and other events.&#x20;
+This rubric and questionaire setup was used for 2023 Vex Worlds remote judging. This may be out of date, but reflects nearly identical processes to that of 2022 worlds as well as Ontario regionals 2022, Vegas Sig 2023, and other events.&#x20;
 {% endhint %}
 
 ## Interview Questions
