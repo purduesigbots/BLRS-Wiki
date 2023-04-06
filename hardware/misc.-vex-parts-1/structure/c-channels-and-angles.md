@@ -1,6 +1,6 @@
 # C-Channels and Angles
 
-The most commonly used type of metal in VEX, C-Channels provide a stable, secure grounding for a majority of subsystems that can be used. The “C” shape contains two corners, which give the C-Channel a strong, sturdy form, making it ideal for structural use and bracing. **** There are three variations of C-Channel, in terms of their width:
+The most commonly used type of metal in VEX, C-Channels provide a stable, secure grounding for a majority of subsystems that can be used. The “C” shape contains two corners, which give the C-Channel a strong, sturdy form, making it ideal for structural use and bracing. There are three variations of C-Channel, in terms of their width:
 
 #### 2 Hole Width
 

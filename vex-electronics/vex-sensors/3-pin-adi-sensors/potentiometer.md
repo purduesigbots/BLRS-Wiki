@@ -24,7 +24,7 @@ Despite what VEX says in their documentation, the shaft may not “slide easily�
 Install it “just enough” at first; no need to tighten it completely or put lock nuts on yet. Using the online/debugger window, manually move the robot’s arm up & down to make sure that the sensor data is between 0 and 4095 at all times. If the sensor value does not move smoothly through the range, that is, if it stays at one number for a long time, or has a gigantic jump, then it is likely on the wrong way.&#x20;
 
 The arm’s potentiometer values (POT, for short) don’t need to start at zero at the bottom of your robot’s arm movement; the important thing is that the arm’s lowest position and highest position are both in the sensor’s range as listed above. When doing testing, make sure to write down the minimum and maximum values for your robot’s arm movement and put them in the engineering notebook. The programmers for your team will need this information.\
-****
+
 
 ## How it works
 

@@ -85,7 +85,7 @@ Arts Division\
 [Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=aqrcikx0gfmaryvvhkgv)
 
 Innovate Division\
-****[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ixlycetgjm3ak39wlyvu)\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/?broadcast=ixlycetgjm3ak39wlyvu)\
 [Matches, Playoffs & Awards](https://www.vexworlds.tv/#/viewer/?broadcast=vovijouvk7edgd8tieyq)
 
 Spirit Division\

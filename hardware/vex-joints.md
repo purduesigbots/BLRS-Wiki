@@ -27,7 +27,7 @@ This is the go-to joint in Vex for low-torque rotation applications. Because it 
 
 ![Model of a Single-Bearing Screw Joint in CAD](../.gitbook/assets/screwjoint.png)
 
-Each of the components can be seen in **** the model above, which are listed below:
+Each of the components can be seen in the model above, which are listed below:
 
 1. The c-channel that the joint is mounted to, which is typically mounted to the base
 2. The screw that the arm rotates around
@@ -56,7 +56,7 @@ This is a high-slop joint which is effective in applications that require compac
 
 ![Model of a Compact Screw Joint in CAD](../.gitbook/assets/compact\_screw\_joint.png)
 
-Each of the components can be seen in **** the model above, which are listed below:
+Each of the components can be seen in the model above, which are listed below:
 
 1. The c-channel that the joint is mounted to, which is typically mounted to the base
 2. The screw that the arm rotates around

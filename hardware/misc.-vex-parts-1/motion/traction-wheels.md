@@ -6,7 +6,7 @@ description: Mitigate the effects of opposing defense with traction wheels.
 
 <figure><img src="../../../.gitbook/assets/tractionwheelprogression.png" alt=""><figcaption><p>From left to right: 2.75", 3.25", and 4" Anti-Static Wheels </p></figcaption></figure>
 
-**Traction wheels**, mostly only referred to plainly as "wheels" by VEX, **** are the simplest wheel type offered in the VEX Robotics Competition, only having one degree of freedom (forward and backward). They are made up of two simple parts: an acetal frame and a tire that fits around said frame, typically made of rubber or a material similar to rubber. They are typically used in the center of drivetrains to restrict unwanted sideways movement (such as from defense).
+**Traction wheels**, mostly only referred to plainly as "wheels" by VEX, are the simplest wheel type offered in the VEX Robotics Competition, only having one degree of freedom (forward and backward). They are made up of two simple parts: an acetal frame and a tire that fits around said frame, typically made of rubber or a material similar to rubber. They are typically used in the center of drivetrains to restrict unwanted sideways movement (such as from defense).
 
 ## Variations
 
