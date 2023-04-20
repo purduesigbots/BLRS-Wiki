@@ -31,11 +31,11 @@ The GoPros may need to be modified to ensure they don't overheat during a long c
 
 _If the venue is particularly warm, invest in heat sinks to ensure that the cameras are properly cooled. Some Event Partners have found success in repurposing Raspberry Pi heatsinks. Target the area of the GoPro directly below the sensor, but experimentation with each particular model is warranted._
 
-## Networked Cameras
+### Networked Cameras
 
 Another approach is to use a PoE network camera, which are commonly produced as security cameras. This approach is significantly more flexible than HDMI cameras, but careful considerations must be made to ensure access to a low-latency stream from the cameras.
 
-### Recommended Setup: Amcrest PoE Camera (Used by Nathan Nolte)
+#### Recommended Setup: Amcrest PoE Camera (Used by Nathan Nolte)
 
 Camera: [https://amcrest.com/amcrest-1080p-poe-video-security-ip-camera-pt.html](https://amcrest.com/amcrest-1080p-poe-video-security-ip-camera-pt.html)
 
@@ -69,6 +69,22 @@ All the checkboxes are cleared in the GStreamer source properties except for the
 
 _Note: thanks so much to Nathan Nolte for his advice with this setup!_
 
+### USB Webcams
+
+USB webcams are often times cheap, and readily available. There are some limits to a USB webcam though. First, most PC/Mac USB ports can only use one webcam, or two with a hub. Because of this, streams with multiple fields, or multiple angles, may need to add additional hardware. Second, USB cables can usually only span about 20'-30' without additional hardware.
+
+#### Recommended Setup: Anker C200 (used by Purdue SIGBots)
+
+Camera: [https://www.amazon.com/dp/B09MFMTMPD?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details](https://www.amazon.com/dp/B09MFMTMPD?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details)
+
+USB Extension Cable: [https://www.amazon.com/dp/B07GCHXPDW?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details](https://www.amazon.com/dp/B07GCHXPDW?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details)
+
+USB-Ethernet Hub: [https://www.amazon.com/dp/B09QPMBHDG?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details](https://www.amazon.com/dp/B09QPMBHDG?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details)
+
+With this setup, 2 cameras connect via the extension cables to the ethernet hub that will allow both cameras into 1 usb port with an extension via cat5/cat6 ethernet up to 100'.&#x20;
+
+This has been tested a few times in competition by SIGBots and has been the least problematic.&#x20;
+
 ## Audio
 
 Audio is one of the most important aspects of the stream, and distinguishes a functional stream from an excellent one. Event Partners will likely need to purchase a USB Audio Interface to connect the venue's microphones to the live stream. To minimize copyright strikes on the streams, be sure to only capture the Emcee's microphones and Tournament Manager's Audio, and exclude any music that may be playing in the venue. It is best practice to mix in stream-friendly music through OBS. It is also possible to pipe Tournament Manager Audio into OBS instead of capturing it from the venue's audio mixer.
@@ -88,6 +104,13 @@ It is recommended to follow the installation and setup instructions given by Mr.
 Below is a recommended tool that can be used to automate many of the aspects of a robotics live stream, including field switching, showing saved match scores, and automatically recording matches.
 
 {% embed url="https://github.com/MayorMonty/tm-obs-switcher" %}
+
+**Some notes from SIGBots after use of the switcher:**
+
+* Make sure TM is running on port 80. Port 8080 will not work. Often, there is a service called World Wide Web Publishing that takes port 80 and should be ended before starting TM.&#x20;
+* The plugin requires an OBS tool called [Websockets](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-using-websockets.466/). This can be confusing but is simple so do some testing before arriving at the venue.
+* Make sure NodeJS is installed and up to date.
+* Using the program via source is ideal and more consistent.&#x20;
 
 ### Contributing Teams to this Article:
 
