@@ -76,7 +76,16 @@ Nylock Nuts, or Nylocks, these nuts have a rubber ring on the top portion of the
 
 Most commonly used in Screw Joints, as it is not advisable to tighten the outer nut on a screw joint all the way (this would stop whatever is on the joint from moving). Using a Nylock for this purpose allows the nut to retain its place on the screw, without needing to be tightened as far as it can go.
 
+## Standoffs
+
+Standoffs are a fairly common part with a wide variety of use-cases in the VEX Robotics Competition.
+
+<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+
+Comprised of a long, threaded interior formed into a hexagonal shape, standoffs are often used to space pieces of structure over long dimensions, as screws can be threaded into either end of the cylinder. Due to their versatile dimensions, standoffs are often used in bracing components of a robot, and are sometimes used as main structural components themselves.&#x20;
+
+In the VEX Robotics Competition rules, there is a maximum length of 2.5 inches (63.5mm) for any commercially available standoff. Common sources of standoffs include the [VEX Robotics website](https://www.vexrobotics.com/standoffs-8-32.html), [RoboSource](https://www.robosource.net/screws-hardware), and [McMaster-Carr](https://www.mcmaster.com/products/spacers/female-threaded-hex-standoffs-6/thread-size\~8-32/hex-size\~1-4-1/).
+
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
-* [94999E](https://www.youtube.com/channel/UCp1jTU7WF3PEVukDW3qOGpA) (Yokai Robotics)

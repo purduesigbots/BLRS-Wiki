@@ -20,7 +20,7 @@ For the second selection, select the c-channel hole you want. &#x20;
 
 For the second constraint we will use another insert constraint with the remainder iMate.&#x20;
 
-![Insert Constraint between iMate and C-Channel](<../../../.gitbook/assets/image (82).png>)
+![Insert Constraint between iMate and C-Channel](<../../../.gitbook/assets/image (82) (1).png>)
 
 The simple motor is constrained with iMates!
 

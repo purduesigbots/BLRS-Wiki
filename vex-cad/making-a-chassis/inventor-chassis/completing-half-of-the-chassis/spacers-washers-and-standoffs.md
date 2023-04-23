@@ -44,7 +44,7 @@ Start by constraining the washers to each other.
 
 Then the spacers to washer stack.&#x20;
 
-![Insert Constraint between Washer Stack and Spacer](<../../../../.gitbook/assets/image (122).png>)
+![Insert Constraint between Washer Stack and Spacer](<../../../../.gitbook/assets/image (122) (1).png>)
 
 Then the spacer to the standoff.
 
