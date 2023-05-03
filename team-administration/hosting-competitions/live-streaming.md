@@ -14,13 +14,13 @@ Unlike traditional web live streams, robotics event live streams have multiple c
 
 Many cameras will offer an HDMI out signal, which can be an efficient way to achieve a low-latency stream. Before purchasing, ensure that the cameras that will be used have a clean HDMI out signal. Additionally,  several 50ft HDMI cords may be needed, which is the maximum length that can be reasonably gotten without signal degradation or the need for an active extension.
 
-#### Recommended Setup: GoPro (Used by Team BCUZ)
+#### Recommended Setup: GoPro (Used by Brendan McGuire)
 
 GoPros provide a great option for live streaming robotics events, due to their cost and wide field of view. If GoPros are purchased, try to purchase a Hero 8 or newer. In this version, the USB C port can be directly connected to a computer and be used as a web camera, which can provide flexibility for additional cameras. In most cases, older models are acceptable.
 
 Connect the micro-HDMI port to an external switcher or capture card. For most competition purposes, the Blackmagic ATEM Mini is an acceptable option. The ATEM Mini Pro is a slightly more expensive alternative but would allow streaming directly from the switcher without a dedicated streaming computer.
 
-The GoPros may need to be modified to ensure they don't overheat during a long competition day. Overheating cameras can be identified by
+The GoPros may need to be modified to ensure they don't overheat during a long competition day. Overheating cameras can be identified by intermittent black outs of video output. 
 
 * Remove the battery and leave the battery compartment open
 * Disable H.264. In Video Compression, Select HVEC. The older encoding is not needed for our purposes and only increases temperatures
@@ -28,6 +28,7 @@ The GoPros may need to be modified to ensure they don't overheat during a long c
 * Set video mode to 1080p60
 * Set field of view to the widest setting
 * Disable video stabilization
+* Utilize compressed air to cool camera
 
 _If the venue is particularly warm, invest in heat sinks to ensure that the cameras are properly cooled. Some Event Partners have found success in repurposing Raspberry Pi heatsinks. Target the area of the GoPro directly below the sensor, but experimentation with each particular model is warranted._
 
@@ -108,10 +109,11 @@ Below is a recommended tool that can be used to automate many of the aspects of 
 **Some notes from SIGBots after use of the switcher:**
 
 * Make sure TM is running on port 80. Port 8080 will not work. Often, there is a service called World Wide Web Publishing that takes port 80 and should be ended before starting TM.&#x20;
-* The plugin requires an OBS tool called [Websockets](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-using-websockets.466/). This can be confusing but is simple so do some testing before arriving at the venue.
-* Make sure NodeJS is installed and up to date.
-* Using the program via source is ideal and more consistent.&#x20;
+* The plugin in requires using at least OBS v28, which integrates a new WebSocket control system. 
+* If you are using the switcher with an ATEM device, you will need to connect your switcher to the network, as switchers connected via USB cannot be remotely controlled. See [this](https://www.youtube.com/watch?v=L2dAqeVHPzM) guide on connecting your switcher to the network. Input the same address you would use to connect to the switcher via the ATEM Control Software.
+* Make sure the latest [LTS version](https://nodejs.org) of NodeJS is installed if you are running the program from source. 
+* Using the program via source is ideal and more consistent if you have NodeJS installed. 
 
 ### Contributing Teams to this Article:
 
-* [BCUZ](https://www.instagram.com/bcuz.robotics/?hl=en) (Clemson University)
+* Brendan McGuire
