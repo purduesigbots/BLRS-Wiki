@@ -94,6 +94,7 @@
       * [Inputting Scores on TM Mobile](team-administration/hosting-competitions/tournament-manager/match-control/inputting-scores-on-tm-mobile.md)
     * [Displays](team-administration/hosting-competitions/tournament-manager/displays.md)
     * [Alliance Selection](team-administration/hosting-competitions/tournament-manager/alliance-selection.md)
+  * [Additional Event Partner Resources](team-administration/hosting-competitions/additional-event-partner-resources.md)
 
 ## Software
 

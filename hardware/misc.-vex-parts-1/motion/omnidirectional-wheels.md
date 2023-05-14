@@ -14,7 +14,7 @@ Unlike a typical wheel which only has one degree of freedom in the forward/backw
 
 | Wheel                                                                                                 | Width (in.) | Diameter (in.) |
 | ----------------------------------------------------------------------------------------------------- | ----------- | -------------- |
-| 2.75" Omnidirectional Wheel ![](<../../../.gitbook/assets/2.75omniwheelicon (1).png>)                 | 1.225       | 2.75           |
+| 2.75" Omnidirectional Wheel ![](../../../.gitbook/assets/2.75omniwheelicon.png)                       | 1.225       | 2.75           |
 | 3.25" Omnidirectional Wheel ![](../../../.gitbook/assets/3.25omniwheelicon.png)                       | 1.00        | 3.25           |
 | 4" Omni-Directional Wheel ![](../../../.gitbook/assets/4omniwheelicon.png)                            | 1.125       | 4.125          |
 | 2.75" Omnidirectional Anti-Static Wheel ![](../../../.gitbook/assets/2.75antistaticomniwheelicon.png) | 1.00        | 2.75           |

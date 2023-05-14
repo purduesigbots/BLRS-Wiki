@@ -32,7 +32,7 @@ Additionally, one common use for C-Channel Coupler Gussets is to reinforce exist
 
 Though less popular than other available gussets, Angle Coupler Gussets are still an effective way to connect or reinforce structural components.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Rather than attaching or reinforcing [C-Channels](c-channels-and-angles.md) from within the flanges, such as is the case with C-Channel Coupler Gussets, Angle Coupler Gussets mount to components from the outside faces. This makes Angle Gussets an effective way to "patch" weaker areas that are more vulnerable to [stress](../../design-fundamentals/internal-forces-stress.md), but due to the extra space taken up, are generally considered the weaker option compared to C-Channel Coupler Gussets.
 

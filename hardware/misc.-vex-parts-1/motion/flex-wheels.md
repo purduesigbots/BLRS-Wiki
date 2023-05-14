@@ -51,7 +51,11 @@ There are two types of adapters relevant to Flex Wheels: VersaHexes and VersaHub
 
 #### VersaHex Adapters
 
+<div align="center">
+
 <figure><img src="../../../.gitbook/assets/2inchflexwheel_withadapters.png" alt=""><figcaption><p>A 2 inch Flex Wheel with a VersaHex Adapter.</p></figcaption></figure>
+
+</div>
 
 The VersaHex Adapter is the primary adapter used for any Flex Wheel with an outer diameter smaller than 3 inches. The adapter is slightly larger than the hexagonal bore in the Flex Wheel, meaning the wheel has to be stretched a bit to allow the adapter to fit. This is easy to use on small wheels with durometer readings of 30A or 45A, but it may make it difficult for the adapter to fit on a very hard wheel like a 60A wheel.&#x20;
 

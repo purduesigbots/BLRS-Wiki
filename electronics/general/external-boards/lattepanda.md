@@ -33,7 +33,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 | Board Size           | 88 x 70mm / 3.46 x 2.76"                                                                                                                                            |
 | Board Weight         | 55 grams                                                                                                                                                            |
 
-![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (1).png>)
 
 ## LattePanda Alpha Series
 
