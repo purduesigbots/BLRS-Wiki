@@ -1,5 +1,5 @@
 ---
-description: Originally written by Sarah Xiang from VRC team 97963A and VEXU team iCTRL
+description: Originally written by Sarah Xiang from VRC team 97963A and VEXU team ILLINI
 ---
 
 # Basic Pure Pursuit
@@ -1487,4 +1487,4 @@ There is a lot more if you dig deeper - optimizing the robot velocity according 
 #### Contributing Teams to this Article:
 
 * VRC team 97963A
-* [iCTRL (University of Illinois Urbana-Champagne)](https://vexrobotics.ece.illinois.edu/wp/)
+* VEXU Team [ILLINI (University of Illinois Urbana-Champagne)](https://illinivex.web.illinois.edu/)
