@@ -8,7 +8,7 @@ description: CAD by Zach
 
 {% embed url="https://www.youtube.com/watch?v=OqWdOM3Z4Cg" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/VwWEVwY" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/VwWEVwY" fullWidth="true" %}
 
 
 

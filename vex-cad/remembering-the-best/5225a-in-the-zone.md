@@ -6,7 +6,7 @@ description: CAD by Ayush
 
 {% embed url="https://www.youtube.com/watch?v=sux3YbbbkYY" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/ExXdOxr" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/ExXdOxr" fullWidth="true" %}
 
 
 

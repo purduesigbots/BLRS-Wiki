@@ -4,7 +4,7 @@ description: CAD by Matthew
 
 # 5225A Tower Takeover
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/LYLgXxE" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/LYLgXxE" fullWidth="true" %}
 
 
 

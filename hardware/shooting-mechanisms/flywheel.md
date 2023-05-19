@@ -25,7 +25,7 @@ Single flywheels were also common in Turning Point where the main goal was preci
 This robot used many mechanics similar to what 1104 did in NBN. The biggest innovation of this robot was the addition of an angle changing hood. This hood allowed for the robot to shoot 2 flags(of different heights) very quickly and very accurately.
 
 \
-Both above robots can be found in CAD designs [here](https://drive.google.com/drive/folders/1ZnRL8jq9E2jQJKYvb96y2rm86BvNj6sA). (Courtesy of Zach from 929)
+Both above robots can be found in CAD designs [here](../../vex-cad/remembering-the-best/). (Courtesy of Zach from 929)
 
 ## Double Flywheel
 

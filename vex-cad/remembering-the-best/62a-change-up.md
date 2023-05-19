@@ -8,7 +8,7 @@ description: CAD by Jake
 
 {% embed url="https://www.youtube.com/watch?v=N-BOmD6EeGw" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/qBjJQrB" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/qBjJQrB" fullWidth="true" %}
 
 
 

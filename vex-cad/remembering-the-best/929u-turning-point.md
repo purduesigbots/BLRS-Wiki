@@ -6,7 +6,7 @@ description: CAD by Max
 
 {% embed url="https://www.youtube.com/watch?v=6zsKGdXAfBU" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/yLXRQOE" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/yLXRQOE" fullWidth="true" %}
 
 
 

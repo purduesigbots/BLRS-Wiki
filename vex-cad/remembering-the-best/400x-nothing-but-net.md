@@ -6,7 +6,7 @@ description: CAD by Zach
 
 {% embed url="https://www.youtube.com/watch?v=Z65A3DCgbJ4" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/vYZVVOb" %}
+{% embed url="https://codepen.io/mhjohnso-purdue/pen/vYZVVOb" fullWidth="true" %}
 
 
 
