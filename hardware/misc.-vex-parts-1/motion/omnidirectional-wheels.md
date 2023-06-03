@@ -12,14 +12,7 @@ Unlike a typical wheel which only has one degree of freedom in the forward/backw
 
 ## Variations
 
-| Wheel                                                                                                 | Width (in.) | Diameter (in.) |
-| ----------------------------------------------------------------------------------------------------- | ----------- | -------------- |
-| 2.75" Omnidirectional Wheel ![](../../../.gitbook/assets/2.75omniwheelicon.png)                       | 1.225       | 2.75           |
-| 3.25" Omnidirectional Wheel ![](../../../.gitbook/assets/3.25omniwheelicon.png)                       | 1.00        | 3.25           |
-| 4" Omni-Directional Wheel ![](../../../.gitbook/assets/4omniwheelicon.png)                            | 1.125       | 4.125          |
-| 2.75" Omnidirectional Anti-Static Wheel ![](../../../.gitbook/assets/2.75antistaticomniwheelicon.png) | 1.00        | 2.75           |
-| 3.25" Omnidirectional Anti-Static Wheel ![](../../../.gitbook/assets/3.25antistaticomniwheelicon.png) | 1.00        | 3.25           |
-| 4" Omnidirectional Anti-Static Wheel ![](../../../.gitbook/assets/4antistaticomniwheelicon.png)       | 1.00        | 4.00           |
+<table><thead><tr><th width="401">Wheel</th><th width="165.33333333333331">Width (in.)</th><th>Diameter (in.)</th></tr></thead><tbody><tr><td>2.75" Omnidirectional Wheel <img src="../../../.gitbook/assets/2.75omniwheelicon.png" alt=""></td><td>1.225</td><td>2.75</td></tr><tr><td>3.25" Omnidirectional Wheel <img src="../../../.gitbook/assets/3.25omniwheelicon.png" alt=""></td><td>1.00</td><td>3.25</td></tr><tr><td>4" Omni-Directional Wheel <img src="../../../.gitbook/assets/4omniwheelicon.png" alt=""></td><td>1.125</td><td>4.125</td></tr><tr><td>2.75" Omnidirectional Anti-Static Wheel <img src="../../../.gitbook/assets/2.75antistaticomniwheelicon.png" alt=""></td><td>1.00</td><td>2.75</td></tr><tr><td>3.25" Omnidirectional Anti-Static Wheel <img src="../../../.gitbook/assets/3.25antistaticomniwheelicon.png" alt=""></td><td>1.00</td><td>3.25</td></tr><tr><td>4" Omnidirectional Anti-Static Wheel <img src="../../../.gitbook/assets/4antistaticomniwheelicon.png" alt=""></td><td>1.00</td><td>4.00</td></tr></tbody></table>
 
 There are six variations of the omnidirectional wheel that are legal for use in VRC. The wheels come in three sizes, and also have two functional variants: original or anti-static.&#x20;
 

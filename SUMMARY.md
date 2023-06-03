@@ -4,6 +4,13 @@
 * [Mission Statement](vex-advanced-wisdom-project-vaw.md)
 * [Contributing Guidelines](contributing-guidelines/README.md)
   * [Embed CADs in Wiki Articles](contributing-guidelines/embed-cads-in-wiki-articles.md)
+* [VEX Worlds Livestream Archive](vex-worlds-livestream-archive/README.md)
+  * [VEX U](vex-worlds-livestream-archive/vex-u.md)
+  * [VRC High School](vex-worlds-livestream-archive/vrc-high-school.md)
+  * [VRC Middle School](vex-worlds-livestream-archive/vrc-middle-school.md)
+  * [VIQC Middle School](vex-worlds-livestream-archive/viqc-middle-school.md)
+  * [VIQC Elementary School](vex-worlds-livestream-archive/viqc-elementary-school.md)
+  * [JROTC](vex-worlds-livestream-archive/jrotc.md)
 
 ## Hardware
 
@@ -78,13 +85,6 @@
     * [Segments of the Notebook](team-administration/team-documentation/how-to-start-a-notebook/segments-of-the-notebook.md)
     * [Integrating Inventor Models into Documentation](team-administration/team-documentation/how-to-start-a-notebook/the-design-process.md)
   * [The Interview](team-administration/team-documentation/the-interview.md)
-* [VEX Worlds Livestream Archive](team-administration/vex-worlds-livestream-archive/README.md)
-  * [VEX U](team-administration/vex-worlds-livestream-archive/vex-u.md)
-  * [VRC High School](team-administration/vex-worlds-livestream-archive/vrc-high-school.md)
-  * [VRC Middle School](team-administration/vex-worlds-livestream-archive/vrc-middle-school.md)
-  * [VIQC Middle School](team-administration/vex-worlds-livestream-archive/viqc-middle-school.md)
-  * [VIQC Elementary School](team-administration/vex-worlds-livestream-archive/viqc-elementary-school.md)
-  * [JROTC](team-administration/vex-worlds-livestream-archive/jrotc.md)
 * [Hosting Competitions](team-administration/hosting-competitions/README.md)
   * [Live Streaming](team-administration/hosting-competitions/live-streaming.md)
   * [Tournament Manager](team-administration/hosting-competitions/tournament-manager/README.md)

@@ -58,11 +58,7 @@ int main(void) {
 
 ## Summary
 
-| Pros                                                                                    | Cons                                                                          |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Easy to Program                                                                         | Always requires 2 joysticks                                                   |
-| Direct control to motors allows a skilled driver to be more maneuverable with the robot | Imprecise Linear Forwards and Backwards Movement, as well as In-Place Turning |
-| Easy to Debug                                                                           | May be less intuitive for less experienced drivers.                           |
+<table><thead><tr><th width="366">Pros</th><th>Cons</th></tr></thead><tbody><tr><td>Easy to Program</td><td>Always requires 2 joysticks</td></tr><tr><td>Direct control to motors allows a skilled driver to be more maneuverable with the robot</td><td>Imprecise Linear Forwards and Backwards Movement, as well as In-Place Turning</td></tr><tr><td>Easy to Debug</td><td>May be less intuitive for less experienced drivers.</td></tr></tbody></table>
 
 ### Contributing Teams to this Article:
 

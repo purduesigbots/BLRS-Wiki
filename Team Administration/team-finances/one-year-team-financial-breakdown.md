@@ -4,18 +4,7 @@ To help with budgeting for VRC teams, the following spreadsheet and breakdown re
 
 ### Cost Spreadsheet
 
-| Item(s) Purchased                   | Approximate Cost\* | Percentage of Total |
-| ----------------------------------- | ------------------ | ------------------- |
-| VEX Parts                           | $3,352.58          | 43.81%              |
-| VEX Game/Field Elements             | $645.67            | 8.44%               |
-| Tournament Registration Fees        | $745.00            | 9.73%               |
-| State Championship Registration Fee | $100.00            | 1.31%               |
-| World Championship Registration Fee | $495.00            | 6.47%               |
-| Transportation, Lodging, Food       | _$1,940.00_        | 25.35%              |
-| Tools                               | _$75.00_           | 0.98%               |
-| Marketing Material                  | _$150.00_          | 1.96%               |
-| Team Registration                   | $150.00            | 1.96%               |
-| **Total Cost**                      | _**$7653.25**_     | 100%                |
+<table><thead><tr><th width="150">Item(s) Purchased</th><th width="194.7692307692308">Approximate Cost*</th><th>Percentage of Total</th></tr></thead><tbody><tr><td>VEX Parts</td><td>$3,352.58</td><td>43.81%</td></tr><tr><td>VEX Game/Field Elements</td><td>$645.67</td><td>8.44%</td></tr><tr><td>Tournament Registration Fees</td><td>$745.00</td><td>9.73%</td></tr><tr><td>State Championship Registration Fee</td><td>$100.00</td><td>1.31%</td></tr><tr><td>World Championship Registration Fee</td><td>$495.00</td><td>6.47%</td></tr><tr><td>Transportation, Lodging, Food</td><td><em>$1,940.00</em></td><td>25.35%</td></tr><tr><td>Tools</td><td><em>$75.00</em></td><td>0.98%</td></tr><tr><td>Marketing Material</td><td><em>$150.00</em></td><td>1.96%</td></tr><tr><td>Team Registration</td><td>$150.00</td><td>1.96%</td></tr><tr><td><strong>Total Cost</strong></td><td><em><strong>$7653.25</strong></em></td><td>100%</td></tr></tbody></table>
 
 \*Costs are italicized if approximate
 

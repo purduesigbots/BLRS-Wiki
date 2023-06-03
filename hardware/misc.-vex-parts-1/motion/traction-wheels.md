@@ -10,15 +10,7 @@ description: Mitigate the effects of opposing defense with traction wheels.
 
 ## Variations
 
-| Wheel                                                                                | Width (in.) | Diameter (in.) |
-| ------------------------------------------------------------------------------------ | ----------- | -------------- |
-| 2.75" Wheel ![](../../../.gitbook/assets/2.75wheelicon.png)                          | 0.75        | 2.75           |
-| 3.25" Traction Wheel ![](../../../.gitbook/assets/3.25tractionicon.png)              | 0.75        | 3.25           |
-| 4" Wheel ![](../../../.gitbook/assets/4wheelicon.png)                                | 0.875       | 4.00           |
-| 4" Wheel w/ High Traction Tire ![](../../../.gitbook/assets/4tractionicon.png)       | 0.75        | 4.00           |
-| 2.75" Anti-Static Wheel ![](../../../.gitbook/assets/2.75antistatictractionicon.png) | 1.00        | 2.75           |
-| 3.25" Anti-Static Wheel ![](../../../.gitbook/assets/3.25antistatictractionicon.png) | 1.00        | 3.25           |
-| 4" Anti-Static Wheel ![](../../../.gitbook/assets/4antistatictractionicon.png)       | 1.00        | 4.00           |
+<table><thead><tr><th width="419">Wheel</th><th width="171.33333333333331">Width (in.)</th><th>Diameter (in.)</th></tr></thead><tbody><tr><td>2.75" Wheel <img src="../../../.gitbook/assets/2.75wheelicon.png" alt=""></td><td>0.75</td><td>2.75</td></tr><tr><td>3.25" Traction Wheel <img src="../../../.gitbook/assets/3.25tractionicon.png" alt=""></td><td>0.75</td><td>3.25</td></tr><tr><td>4" Wheel <img src="../../../.gitbook/assets/4wheelicon.png" alt=""></td><td>0.875</td><td>4.00</td></tr><tr><td>4" Wheel w/ High Traction Tire <img src="../../../.gitbook/assets/4tractionicon.png" alt=""></td><td>0.75</td><td>4.00</td></tr><tr><td>2.75" Anti-Static Wheel <img src="../../../.gitbook/assets/2.75antistatictractionicon.png" alt=""></td><td>1.00</td><td>2.75</td></tr><tr><td>3.25" Anti-Static Wheel <img src="../../../.gitbook/assets/3.25antistatictractionicon.png" alt=""></td><td>1.00</td><td>3.25</td></tr><tr><td>4" Anti-Static Wheel <img src="../../../.gitbook/assets/4antistatictractionicon.png" alt=""></td><td>1.00</td><td>4.00</td></tr></tbody></table>
 
 Although all anti-static wheels perform identically, the original wheels and traction wheels all have very different functionality.
 
