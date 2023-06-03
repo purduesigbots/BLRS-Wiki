@@ -44,3 +44,6 @@ While taking up more space than a standard Bearing Flat, Ball Bearings do offer 
 
 Ball Bearings can be found on [vexrobotics.com](https://www.vexrobotics.com/276-8402.html).
 
+### Teams Contributed to this Article:
+
+* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
