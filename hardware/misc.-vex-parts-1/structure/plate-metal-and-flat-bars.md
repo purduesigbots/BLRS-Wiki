@@ -23,7 +23,3 @@ Similar to Plate Metal, Flat Bars are flat surfaces consisting of the standard V
 While not as apt for making custom pieces as Plate Metal, Flat Bars are still effective as a source of mounting parts that require little rigidity over longer distances. Use-cases that require stronger connections, such as bracing important subsystems on a robot, should be left to stronger components such as [C-Channels](c-channels-and-angles.md) or [Standoffs](fasteners.md).
 
 Flat Bars can be found at [vexrobotics.com](https://www.vexrobotics.com/aluminum-kits.html).&#x20;
-
-### Teams Contributed to this Article:
-
-* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -43,7 +43,3 @@ Brackets are a relatively uncommon part used in the VEX Robotics Competition, ma
 <figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption><p>(Left to Right) Top: Bevel Gearbox Bracket, Rack Gearbox Bracket, Swerve Bracket<br>Bottom: Winch Bracket, Worm Gearbox Bracket</p></figcaption></figure>
 
 With their relatively large profile and strict purposes, the various different Brackets rarely see much use, in favor of custom [plastic](../../robot-decorations/custom-plastic.md) components and use of more efficient mounting solutions. Brackets are more commonly used to cut into unique bracing and custom metal components, as they have a relatively large amount of material to work with. All brackets can be found on [vexrobotics.com](https://www.vexrobotics.com/advanced-gearbox-brackets.html).
-
-### Teams Contributed to this Article:
-
-* [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
