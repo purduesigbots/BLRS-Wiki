@@ -37,7 +37,7 @@ Be very careful around heat and chemicals. Only use acetone and dye in a well-ve
 
 * The best color to aim for is black. Anything lighter is difficult to produce with green parts especially. Colors such as purple and orange are possible with basic color combinations however will take more practice and tuning to get right.&#x20;
 * When working with smaller parts such as nylon spacers, stir more often as the dye tends to settle and parts may come out cloudy or inconsistent.&#x20;
-* Dyeing of wheel rollers (omni / meccanum) is possible but tend to wear out over time. Assure that no residue is left behind in testing as damage to field or game elements can be cause for disqualification from a tournament.&#x20;
+* Dyeing of wheel rollers (omni / mecanum) is possible but tend to wear out over time. Assure that no residue is left behind in testing as damage to field or game elements can be cause for disqualification from a tournament.&#x20;
 * If a part is heated too high or for too long, it can alter the physical attributes of the part which would render the part illegal for use in VRC and IQ competition.&#x20;
 
 

@@ -16,9 +16,9 @@ Maximum power is 11W continuous and maximum torque is 2.1 Nm. Free speed is soft
 
 ## Current Limiting
 
-The Vex V5 Motors have a variable current limit that is determined by VexOS. Robots that use 8 or fewer motors, the competition-legal max in VRC, will have a default current limit of 2.5A set for each motor. Robots using more than 8 motors, typical with Vex U teams, will have a lower default current limit per motor than 2.5A. That current limit is determined in Vex OS by a calculation accounting for the number of motors plugged in, _and_ the user's manually set current limits. That calculation is described in [a Vex Forum post by James Pearman](https://www.vexforum.com/t/how-does-the-decreased-current-affect-the-robot-when-using-more-than-8-motors/72650/4) and used in the GUI below.&#x20;
+The VEX V5 Motors have a variable current limit that is determined by VEXos. Robots that use 8 or fewer motors, the competition-legal max in VRC, will have a default current limit of 2.5A set for each motor. Robots using more than 8 motors, typical with VEXU teams, will have a lower default current limit per motor than 2.5A. That current limit is determined in VEXos by a calculation accounting for the number of motors plugged in, _and_ the user's manually set current limits. That calculation is described in [a Vex Forum post by James Pearman](https://www.vexforum.com/t/how-does-the-decreased-current-affect-the-robot-when-using-more-than-8-motors/72650/4) and used in the GUI below.&#x20;
 
-The V5 Motor Current Calculator embedded below will display the Vex OS current limit for each motor based on that calculation. Entering a value for the Current Limit field on any of the motors will limit that motor's current and recalculate the limits for the other motors.
+The V5 Motor Current Calculator embedded below will display the VEXos current limit for each motor based on that calculation. Entering a value for the Current Limit field on any of the motors will limit that motor's current and recalculate the limits for the other motors.
 
 {% embed url="https://codepen.io/baylessj/pen/MWQVRmE" %}
 

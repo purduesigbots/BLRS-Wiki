@@ -1,6 +1,6 @@
 # Holonomic Drive
 
-Holonomic drives have become a popular choice for Vex Robotics teams due to their enhanced maneuverability and flexibility in movement. These drives allow for precise and agile movement in all directions, providing a distinct advantage in Vex Robotics competitions where accuracy, and agility are crucial. Holonomic drives in Vex Robotics can be further categorized into mecanum drives and omni drives, each with its own unique strengths and limitations. As the demand for advanced robotics technology increases in Vex Robotics competitions, holonomic drives are becoming increasingly popular among teams seeking to gain a competitive edge.
+Holonomic drives have become a popular choice for VEX Robotics teams due to their enhanced maneuverability and flexibility in movement. These drives allow for precise and agile movement in all directions, providing a distinct advantage in VEX Robotics competitions where accuracy, and agility are crucial. Holonomic drives in VEX Robotics can be further categorized into mecanum drives and omni drives, each with its own unique strengths and limitations. As the demand for advanced robotics technology increases in VEX Robotics competitions, holonomic drives are becoming increasingly popular among teams seeking to gain a competitive edge.
 
 {% hint style="info" %}
 Mecanum drives are a type of holonomic drive but are constructed similarly to tank drives so more information can be found at [this link](../../software/control-algorithms/kalman-filter.md).

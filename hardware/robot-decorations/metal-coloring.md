@@ -2,7 +2,7 @@
 
 ### Painting
 
-Painting of Vex metal is legal and is a relatively quick way to add some color to a robot. All that is needed is a safe (Well Ventilated) area and a can of spray paint ([Rust-Oleum Enamel](https://amzn.to/3TbVPQM) is well tested).
+Painting of VEX metal is legal and is a relatively quick way to add some color to a robot. All that is needed is a safe (Well Ventilated) area and a can of spray paint ([Rust-Oleum Enamel](https://amzn.to/3TbVPQM) is well tested).
 
 Some helpful notes
 

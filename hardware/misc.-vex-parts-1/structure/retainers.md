@@ -44,7 +44,6 @@ Both hex nut retainers and standoff retainers alike have significant use cases t
 * Utilizing 1-post standoff retainers to make the following fasteners impervious to vibrations and therefore viable:
   * Narrow 8-32 hex nut
   * 4-40 hex nut
-  * 4-40 nylon lock nut
 * Using a 1-post hex nut/standoff retainer's protruding square peg to eliminate slop between two pieces of metal while also potentially saving weight in the process.
   * Rather than using two shoulder screws to fasten the two surfaces together, only one is needed since the retainer's square peg will inherently eliminate slop.&#x20;
 * Using a 4-post hex nut retainer to save weight (by only requiring one pair of fasteners instead of two) and eliminate slop at an attachment point of two perpendicular C-channels.

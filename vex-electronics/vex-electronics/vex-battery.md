@@ -6,7 +6,7 @@ description: The V5 Robot Battery is a Li-Ion 1100mAh battery that powers the V5
 
 ![V5 Robot Battery](../../.gitbook/assets/battery.jpg)
 
-The <img src="../../.gitbook/assets/robotbattery_icon.png" alt="" data-size="line"> V5 Robot Battery Li-Ion 1100mAh was designed to run ten [V5 motors](motors.md) at full power continuously. The V5 Robot Battery has a higher 12.8v nominal voltage. The battery charges up to 14.6v and runs down to 10v. Due to the very steady output voltage of these batteries, the [V5 Brain](vex-v5-brain/) cannot determine remaining capacity using the typical method of measuring voltage and estimating capacity. Instead, the V5 battery pack has a battery management system that measures changes in electrical charge (coulombs) into and out of the battery during charge and discharge. From this data, the battery determines the actual amount of remaining power.
+The <img src="../../.gitbook/assets/robotbattery_icon.png" alt="" data-size="line"> V5 Robot Battery Li-Ion 1100mAh was designed to run ten [V5 motors](motors.md) at full power continuously. The V5 Robot Battery has a higher 12.8V nominal voltage. The battery charges up to 14.6V and runs down to 10V. Due to the very steady output voltage of these batteries, the [V5 Brain](vex-v5-brain/) cannot determine remaining capacity using the typical method of measuring voltage and estimating capacity. Instead, the V5 battery pack has a battery management system that measures changes in electrical charge (coulombs) into and out of the battery during charge and discharge. From this data, the battery determines the actual amount of remaining power.
 
 ![](https://content.vexrobotics.com/images/v5architecture/image13.png)
 

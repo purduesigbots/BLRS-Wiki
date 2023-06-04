@@ -18,7 +18,7 @@ It has been observed that the V5 brain ports are extremely susceptible to ESD (e
 
 * Try to prevent metal shavings from getting into the brain ports.
 * Use anti-static tiles or anti-static spray if necessary at competitions.
-* Try to use pre-crimped vex wires if possible.
+* Try to use pre-crimped VEX wires if possible.
 * Use the[ V5 ESD Protection Board](../../v5-esd-protection-board.md)\*
 
 Although this may not be a 100% fix for the issue, it can help prevent ports from dying according to VEX and others experiencing similar issues.
@@ -27,7 +27,7 @@ Although this may not be a 100% fix for the issue, it can help prevent ports fro
 
 ### **(**_**Potentially**_**) Fixing V5 Ports**
 
-Although not officially supported by vex, it's theorized that ports dead from ESD could be fixed if the RS485 chip for a dead port could be desoldered and replaced with a new one. The general procedure for this is discussed in [**this VEX Forum post.**](https://www.vexforum.com/t/broken-v5-ports-and-how-to-fix-them/76342)
+Although not officially supported by vex, it's theorized that ports dead from ESD could be fixed if the RS485 chip for a dead port could be de-soldered and replaced with a new one. The general procedure for this is discussed in [**this VEX Forum post.**](https://www.vexforum.com/t/broken-v5-ports-and-how-to-fix-them/76342)
 
 **Do note that strictly speaking, this would render the V5 brain competition illegal due to it being internally modified.**
 
