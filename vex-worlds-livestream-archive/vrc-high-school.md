@@ -97,7 +97,7 @@ Opportunity Division\
 Closing Ceremonies & Finals\
 [VRC HS Finals and Closing Ceremonies](https://www.vexworlds.tv/#/viewer/?broadcast=eol4h3fgxkzpdjikyoqe)
 
-## 2019 VRC Turning Point
+## 2019 - VRC Turning Point
 
 Opening Ceremonies\
 [VRC Parade of Nations](https://livestream.com/vrctv1/2019-vrc-freedom-hall/videos/190471729)
@@ -208,7 +208,7 @@ Divisions\
 Closing Ceremonies & Finals\
 [VRC Finals and Closing Ceremonies](https://livestream.com/vrctv1/2014-vrwc-finals-and-closing-ceremony)
 
-## 2013 - Sack Attack
+## 2013 - VRC Sack Attack
 
 Opening Ceremonies\
 [VRC Opening Ceremonies](https://livestream.com/vrctv1/2013-vrwc-opening-ceremony-friday)

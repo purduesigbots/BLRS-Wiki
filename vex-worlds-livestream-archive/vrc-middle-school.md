@@ -152,7 +152,7 @@ Divisions\
 Closing Ceremonies & Finals\
 [VRC Finals and Closing Ceremonies](https://livestream.com/vrctv1/2014-vrwc-finals-and-closing-ceremony)
 
-## 2013 - Sack Attack
+## 2013 - VRC Sack Attack
 
 Opening Ceremonies\
 [VRC Opening Ceremonies](https://livestream.com/vrctv1/2013-vrwc-opening-ceremony-friday)
