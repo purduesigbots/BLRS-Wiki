@@ -4,7 +4,7 @@ A successful robotics club is an investment that will teach members various impo
 
 ### Engineering Notebooks
 
-Not only do engineering notebooks provide documentation of your robot and [design process](../team-documentation/the-design-process.md) for judges at competitions, they also serve as knowledge bases for future teams in your organization. Well-thought-out and thorough notebooks can serve as a database for building techniques, game strategies, and programming solutions for other teams in your organization long after you've graduated. On top of the content within the notebook, the notebook itself can act as an example of how to layout and format a notebook, to continue the cycle.
+Not only do engineering notebooks provide documentation of your robot and [design process](broken-reference) for judges at competitions, they also serve as knowledge bases for future teams in your organization. Well-thought-out and thorough notebooks can serve as a database for building techniques, game strategies, and programming solutions for other teams in your organization long after you've graduated. On top of the content within the notebook, the notebook itself can act as an example of how to layout and format a notebook, to continue the cycle.
 
 ### In-House Resources
 

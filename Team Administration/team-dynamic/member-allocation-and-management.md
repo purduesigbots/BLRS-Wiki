@@ -24,7 +24,7 @@ Team leads are somewhat of a controversial subject in robotics teams, as they ha
 
 However, if a team does require a lead (such as in the case above), the best way to do leadership is from a **bottom-up** approach where the team as a whole talks through decisions and the lead is there to drive that conversation, as opposed to a traditional top-down leadership structure where the team lead is the final say in everything and their opinion reigns supreme.&#x20;
 
-**At the end of the day,** [**the engineering design**](../team-documentation/the-design-process.md) **process must be the driving force behind the teamwork, not the leader themselves.**&#x20;
+**At the end of the day,** [**the engineering design**](broken-reference) **process must be the driving force behind the teamwork, not the leader themselves.**&#x20;
 
 (Definitely easier said than done)
 

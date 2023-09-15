@@ -20,6 +20,7 @@
   * [Torque](hardware/design-fundamentals/torque.md)
   * [RPM](hardware/design-fundamentals/rpm.md)
 * [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
+  * [Page](hardware/misc.-vex-parts-1/page.md)
   * [Structure](hardware/misc.-vex-parts-1/structure/README.md)
     * [C-Channels and Angles](hardware/misc.-vex-parts-1/structure/c-channels-and-angles.md)
     * [Fasteners](hardware/misc.-vex-parts-1/structure/fasteners.md)
@@ -77,15 +78,6 @@
 * [Team Finances](<Team Administration/team-finances/README.md>)
   * [One-Year Team Financial Breakdown](<Team Administration/team-finances/one-year-team-financial-breakdown.md>)
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
-* [The Judging Process](<Team Administration/team-documentation/README.md>)
-  * [The Engineering Design Process](<Team Administration/team-documentation/the-design-process.md>)
-  * [Rubric Breakdowns](team-administration/team-documentation/rubric-breakdowns/README.md)
-    * [Engineering Notebook Rubric](team-administration/team-documentation/rubric-breakdowns/engineering-notebook-rubric.md)
-    * [Interview Rubric](team-administration/team-documentation/rubric-breakdowns/interview-rubric.md)
-  * [The Engineering Notebook](team-administration/team-documentation/how-to-start-a-notebook/README.md)
-    * [Segments of the Notebook](team-administration/team-documentation/how-to-start-a-notebook/segments-of-the-notebook.md)
-    * [Integrating Inventor Models into Documentation](team-administration/team-documentation/how-to-start-a-notebook/the-design-process.md)
-  * [The Interview](team-administration/team-documentation/the-interview.md)
 * [Hosting Competitions](team-administration/hosting-competitions/README.md)
   * [Live Streaming](team-administration/hosting-competitions/live-streaming.md)
   * [Tournament Manager](team-administration/hosting-competitions/tournament-manager/README.md)
@@ -102,6 +94,18 @@
     * [Displays](team-administration/hosting-competitions/tournament-manager/displays.md)
     * [Alliance Selection](team-administration/hosting-competitions/tournament-manager/alliance-selection.md)
   * [Additional Event Partner Resources](team-administration/hosting-competitions/additional-event-partner-resources.md)
+
+## The Judging Process
+
+* [Rubric Breakdowns](the-judging-process/rubric-breakdowns/README.md)
+  * [Engineering Notebook Rubric](the-judging-process/rubric-breakdowns/engineering-notebook-rubric.md)
+  * [Interview Rubric](the-judging-process/rubric-breakdowns/interview-rubric.md)
+* [The Engineering Design Process](the-judging-process/the-design-process/README.md)
+  * [Test and Refine](the-judging-process/the-design-process/test-and-refine.md)
+* [The Engineering Notebook](the-judging-process/how-to-start-a-notebook/README.md)
+  * [Segments of the Notebook](the-judging-process/how-to-start-a-notebook/segments-of-the-notebook.md)
+  * [Integrating Inventor Models into Documentation](the-judging-process/how-to-start-a-notebook/the-design-process.md)
+* [The Interview](the-judging-process/the-interview.md)
 
 ## Software
 
