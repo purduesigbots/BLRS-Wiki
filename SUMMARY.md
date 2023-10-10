@@ -20,7 +20,6 @@
   * [Torque](hardware/design-fundamentals/torque.md)
   * [RPM](hardware/design-fundamentals/rpm.md)
 * [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
-  * [Page](hardware/misc.-vex-parts-1/page.md)
   * [Structure](hardware/misc.-vex-parts-1/structure/README.md)
     * [C-Channels and Angles](hardware/misc.-vex-parts-1/structure/c-channels-and-angles.md)
     * [Fasteners](hardware/misc.-vex-parts-1/structure/fasteners.md)

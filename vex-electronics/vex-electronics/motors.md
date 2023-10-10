@@ -4,48 +4,88 @@ description: A VEX Motor is the primary actuator for a VEX robot.
 
 # VEX Motors
 
-[![](../../.gitbook/assets/smartmotor.png)](https://phabricator.purduesigbots.com/file/data/zj7tgci7uyl2xaycrsqx/PHID-FILE-d43ssak5kxp4ijd44vbv/vex\_motor\_393.jpg)
+## VEX V5
 
-The <img src="../../.gitbook/assets/smartmotor_icon.png" alt="" data-size="line"> VEX V5 Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-basics.md)that converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
+### V5 Smart Motor (11W)
 
-![](../../.gitbook/assets/image66.png)
+<figure><img src="../../.gitbook/assets/smartmotor.png" alt=""><figcaption></figcaption></figure>
 
-Maximum power is 11W continuous and maximum torque is 2.1 Nm. Free speed is software-limited by the motor’s processor to keep consistent performance motor-to-motor and to allow top speed under loads. Metal gears are used in all high torque locations for strength. Plastic gears are used in the low load, high speed locations for smooth and efficient operation. An internal gear cartridge is user changeable for output gear ratios of 6:1, 18:1, and 36:1. The motor’s internal circuit board has a full H-Bridge and its own Cortex M0 microcontroller to measure position, speed, direction, voltage, current and temperature. The microcontroller runs its own [PID](../../software/control-algorithms/pid-controller.md) with velocity control, position control, torque control, feedforward gain, and motion planning. [PID](../../software/control-algorithms/pid-controller.md) is internally calculated at a 10 millisecond rate. The motor’s [PID](../../software/control-algorithms/pid-controller.md) values are pre-tuned by VEX for performance across all operating conditions.
+The VEX V5 Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-basics.md)that converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/).
 
-[Stall](../../electronics/general/stalling.md) current is limited to 2.5A (typically, see [#undefined](motors.md#undefined "mention")) to keep heat under control without affecting peak power output. Limiting [stall](../../electronics/general/stalling.md) current eliminates the need for automatic resetting fuses ([PTC devices](../../electronics/general/resettable-fuse-ptc.md)) in the motor, which can cause unintended motor outages. The 2.5A limit essentially removes the undesirable region of the motor’s performance curve, ensuring users do not unintentionally create stall situations. Finally, to make sure the motor lasts, the internal temperature is monitored. If a motor is approaching an unsafe temperature, the user gets a warning. If the motor reaches its temperature limit, performance is automatically reduced to ensure no damage occurs.
+![Graph and specs from kb.vex.com](../../.gitbook/assets/image66.png)
 
-## Current Limiting
+The maximum continuous power output of the motor is 11W, and it can generate a maximum torque of 2.1 Nm. To maintain consistent performance across different motors and enable top speed even under heavy loads, the motor's free speed is software-limited by its processor. Metal gears are employed in high torque areas to ensure strength, while plastic gears are utilized in low-load, high-speed sections for smooth and efficient operation.
 
-The VEX V5 Motors have a variable current limit that is determined by VEXos. Robots that use 8 or fewer motors, the competition-legal max in VRC, will have a default current limit of 2.5A set for each motor. Robots using more than 8 motors, typical with VEXU teams, will have a lower default current limit per motor than 2.5A. That current limit is determined in VEXos by a calculation accounting for the number of motors plugged in, _and_ the user's manually set current limits. That calculation is described in [a Vex Forum post by James Pearman](https://www.vexforum.com/t/how-does-the-decreased-current-affect-the-robot-when-using-more-than-8-motors/72650/4) and used in the GUI below.&#x20;
+Users have the flexibility to change the internal gear cartridge, allowing for output gear ratios of 6:1, 18:1, and 36:1. The motor features a comprehensive internal circuit board with a full H-Bridge and its own Cortex M0 microcontroller, which monitors various parameters such as position, speed, direction, voltage, current, and temperature.
+
+The microcontroller runs its own [PID (Proportional-Integral-Derivative)](../../software/control-algorithms/pid-controller.md) control system, which includes velocity control, position control, torque control, feedforward gain, and motion planning. PID calculations are performed internally at a 10-millisecond rate. VEX has pre-tuned the motor's PID values to ensure optimal performance under all operating conditions.
+
+To manage heat and prevent unintended motor outages, the [stall](../../electronics/general/stalling.md) current is limited to 2.5A. This limitation eliminates the need for automatic resetting fuses ([PTC devices](../../electronics/general/resettable-fuse-ptc.md)) in the motor, which can disrupt operation. By restricting the stall current to 2.5A, the motor effectively avoids undesirable performance dips and ensures that users do not inadvertently cause stall situations.
+
+Furthermore, the motor's internal temperature is constantly monitored for safety. If the motor approaches an unsafe temperature, the user receives a warning. In cases where the motor reaches its temperature limit, its performance is automatically reduced to prevent any damage from occurring.
+
+#### Specs
+
+|                                       | **V5 Smart Motor Specifications**                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Speed                                 | Approximately 100, 200 or 600 rpm                                                           |
+| Peak Power                            | 11 W                                                                                        |
+| Continuous Power                      | 11 W                                                                                        |
+| Stall Torque (with 100 RPM cartridge) | 2.1 Nm                                                                                      |
+| Low Battery Performance               | 100% Power Output                                                                           |
+| Feedback                              | Position, Current, Voltage, Power, Torque, Efficiency, Temperature                          |
+| Encoder                               | 1800 ticks/rev with 36:1 gears, 900 ticks/rev with 18:1 gears, 300 ticks/rev with 6:1 gears |
+| Dimensions                            | 2.26” W x 2.82” L x 1.30” H, (57.3 mm W x 71.6 mm L x 33.0 mm H)                            |
+| Weight                                | 0.342 lbs, 155 grams                                                                        |
+
+### V5/EXP Smart Motor (5.5W)
+
+
+
+<figure><img src="../../.gitbook/assets/motor ortho2.jpg" alt=""><figcaption></figcaption></figure>
+
+The VEX V5/EXP Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-basics.md)that converts stored electrical energy from the [VEX battery](vex-battery.md) into mechanical motion, and is controlled by the [V5 Brain](vex-v5-brain/). While similar to the VEX V5 Smart Motor, the V5/EXP Smart Motor has a maximum power of 5.5W, as opposed to the 11W of the V5 Smart Motor. Otherwise, the two motors have very similar functionality.
+
+
+
+<figure><img src="../../.gitbook/assets/5.5graph.png" alt=""><figcaption><p>Graph and specs from kb.vex.com</p></figcaption></figure>
+
+The motor can deliver a continuous power output of 5.5W and produces a maximum torque of 0.5 Nm. To maintain consistent performance across different motors and ensure top-speed performance even under load, the motor's free speed is governed by its processor through software.
+
+#### Specs
+
+|                                       | **V5 Smart Motor Specifications**                                  |
+| ------------------------------------- | ------------------------------------------------------------------ |
+| Speed                                 | Approximately 200rpm                                               |
+| Peak Power                            | 5.5 W                                                              |
+| Continuous Power                      | 5.5 W                                                              |
+| Stall Torque (with 100 RPM cartridge) | 0.5 Nm                                                             |
+| Low Battery Performance               | 100% Power Output                                                  |
+| Feedback                              | Position, Current, Voltage, Power, Torque, Efficiency, Temperature |
+| Encoder                               | 900 ticks/rev                                                      |
+| Dimensions                            | 2.25” W x 2.5” L x 1.3” H, (56.8mm W x 63.4mm L x 25.1mm H)        |
+| Weight                                | 0.25 lbs, 114 grams                                                |
+
+### Troubleshooting
+
+One of the main issues that arises with the VEX V5 motors is dead motors. Many times, this means that a motor stops working often without any notice. Sometimes, the LED in the port compartment of a motor may flash red. This could be sign that the motor is dead, or there is a loose wire connection. A good idea to make sure a motor is dead is to test it with another wire and, if possible, test it with another [V5 Brain](vex-v5-brain/). If these steps are unsuccessful, there is as of right now no reproducible method of fixing a dead motor.
+
+Static buildup in motors could be a reason for them dying suddenly. When this static buildup discharges (commonly referred to as electrostatic discharge, or ESD), the connected port on the [V5 Brain](vex-v5-brain/) may be permanently damaged. Please consider using our [ESD protection boards](../v5-esd-protection-board.md) to help ensure that you do not lose any ports on the [V5 Brain](vex-v5-brain/).
+
+### Current Limiting
+
+The VEX V5 Motors have a variable current limit that is determined by VEXos. Robots that use 8 or fewer 11W motors, the competition-legal max in VRC, will have a default current limit of 2.5A set for each motor. Robots using more than 8 motors, typical with VEXU teams, will have a lower default current limit per motor than 2.5A. That current limit is determined in VEXos by a calculation accounting for the number of motors plugged in, _and_ the user's manually set current limits. That calculation is described in [a Vex Forum post by James Pearman](https://www.vexforum.com/t/how-does-the-decreased-current-affect-the-robot-when-using-more-than-8-motors/72650/4) and used in the GUI below.&#x20;
 
 The V5 Motor Current Calculator embedded below will display the VEXos current limit for each motor based on that calculation. Entering a value for the Current Limit field on any of the motors will limit that motor's current and recalculate the limits for the other motors.
 
 {% embed url="https://codepen.io/baylessj/pen/MWQVRmE" %}
 
-## Specs
+####
 
-|                                       | **V5 Smart Motor Specifications**                                                                            |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Speed                                 | Approximately 100, 200 or 600 rpm                                                                            |
-| Peak Power                            | 11 W                                                                                                         |
-| Continuous Power                      | 11 W                                                                                                         |
-| Stall Torque (with 100 RPM cartridge) | 2.1 Nm                                                                                                       |
-| Low Battery Performance               | 100% Power Output                                                                                            |
-| Feedback                              | Position Velocity (calculated) Current Voltage Power Torque (calculated) Efficiency (calculated) Temperature |
-| Encoder                               | 1800 ticks/rev with 36:1 gears 900 ticks/rev with 18:1 gears 300 ticks/rev with 6:1 gears                    |
-| Dimensions                            | 2.26” W x 2.82” L x 1.30” H 57.3 mm W x 71.6 mm L x 33.0 mm H                                                |
-| Weight                                | 0.342 lbs 155 grams                                                                                          |
-
-## Troubleshooting
-
-One on the main issues that arises with the VEX V5 motors are dead motors. Many times this means that a motor stops working often without any notice. Sometimes the led in port compartment of a motor may flash red. This could be sign that the motor is dead or there is a loose wire connection. A good idea to make sure a motor is dead is to test it with another wire and, if possible, test it with another [V5 Brain](vex-v5-brain/). If these steps are unsuccessful there is as of right now no reproducible method of fixing a dead motor.
-
-Static buildup in motors could be a reason for them dying suddenly. When this static buildup discharges (commonly referred to as electrostatic discharge, or ESD), the connected port on the [V5 Brain](vex-v5-brain/) may be permanently damaged. Please consider using our [ESD protection boards](../v5-esd-protection-board.md) to help ensure that you do not lose any ports on the [V5 Brain](vex-v5-brain/).
-
-## Old Vex Cortex Motors
+## VEX Cortex Motors
 
 {% hint style="danger" %}
-This section refers to the old VEX Cortex Motors which are no longer competitive.
+This section refers to the old VEX Cortex Motors which are no longer competition legal.
 {% endhint %}
 
 ![](../../.gitbook/assets/276-2177-2-wire-motor-393.jpg)
