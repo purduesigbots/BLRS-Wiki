@@ -113,7 +113,7 @@ In our implementation of the pure pursuit controller, the path is a 2D array rep
 
 ![](https://drive.google.com/uc?export=view\&id=1mXW5iExsInklWfwXmfW8KyGNs8JicebO)
 
-
+***
 
 ### Line-Circle Intersection
 

@@ -105,6 +105,20 @@
   * [Segments of the Notebook](the-judging-process/how-to-start-a-notebook/segments-of-the-notebook.md)
   * [Integrating Inventor Models into Documentation](the-judging-process/how-to-start-a-notebook/the-design-process.md)
 * [The Interview](the-judging-process/the-interview.md)
+* [Using Notion for a Notebook](the-judging-process/using-notion-for-a-notebook/README.md)
+  * [How to Setup a Notebook](the-judging-process/using-notion-for-a-notebook/how-to-setup-a-notebook.md)
+  * [How to Create Entries](the-judging-process/using-notion-for-a-notebook/how-to-create-entries.md)
+  * [How to Export a Notebook](the-judging-process/using-notion-for-a-notebook/how-to-export-a-notebook.md)
+  * [Purdue SIGBots Notion Template](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/README.md)
+    * [Game Analysis](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/game-analysis.md)
+    * [Identify The Problem](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/identify-the-problem.md)
+    * [Brainstorm Solution](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/brainstorm-solution.md)
+    * [Select Best Approach & Plan](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/select-best-approach-and-plan.md)
+    * [Build Log](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/build-log.md)
+    * [Programming Log](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/programming-log.md)
+    * [Testing Solution](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/testing-solution.md)
+    * [Tournament Recap](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/tournament-recap.md)
+    * [Innovative Feature](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/innovative-feature.md)
 
 ## Software
 
