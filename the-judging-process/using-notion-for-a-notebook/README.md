@@ -10,6 +10,8 @@ For Vex Robotics teams, Notion is one option for teams to manage tasks amongst m
 It has been contested how virtual notebooks will be scored for the 5 points associated with Notebook Formatting. Teams must make an effort to show that the notebook was created chronologically and in the order of the [engineering design process](../the-design-process/) alongside a table of contents and page numbers
 {% endhint %}
 
+{% embed url="https://youtu.be/LZ-TszsS_wA" %}
+
 ## Key Notion Components
 
 ### Pages
