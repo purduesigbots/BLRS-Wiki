@@ -15,5 +15,3 @@ All emojis appear as a variation of "☒☒"
 Notion Template Used throughout the following tutorials (created Dec. 2023)
 {% endembed %}
 
-How to use the database views (Properties, views, filtering, sorting, etc.)
-
