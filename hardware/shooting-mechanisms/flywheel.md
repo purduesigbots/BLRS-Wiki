@@ -29,11 +29,19 @@ Both above robots can be found in CAD designs [here](../../vex-cad/remembering-t
 
 ## Double Flywheel
 
-A Double flywheel is similar to a single flywheel but instead of a backboard has another rotating wheel. These wheels are often placed horizontally next to each other (but have also been done vertically). They are much more advanced and allow for more tuning, most commonly changing the speed of a wheel to adjust the projectile’s path. When vertical, the wheels can have different speeds that allow for more/less backspin to make the object fly at different distances. Double flywheels are larger, and heavier, but most importantly need more compression because of the reduced contact time with the ball. This means that they take longer to spin up and put more strain on the motor.&#x20;
+A Double flywheel is similar to a single flywheel but instead of a backboard has another rotating wheel. These wheels are often placed horizontally next to each other (but have also been done vertically). They are much more advanced and allow for more tuning, most commonly changing the speed of a wheel to adjust the projectile’s path. When vertical, the wheels can have different speeds that allow for more/less backspin to make the object fly at different distances. Double flywheels are larger, and heavier, but most importantly need more compression because of the reduced contact time with the ball. This means that they take longer to spin up and put more strain on the motor. Double flywheels generally consume two motors, but can also be configured to only use one motor with a clever gearing scheme.
 
 Below is VCAT Robotic’s nothing-but-net early season 15” VexU robot. It is one of the better-known double flywheels. They did however change the design soon after this to use a single flywheel.
 
 ![VCAT Early Season Nothing But Net 15" Robot](<../../.gitbook/assets/image (47).png>)
+
+## Optimization
+
+Because flywheels rotate at such high angular velocities, faults in build quality and programming will be significantly more apparent as they attempt to approach their top speed.
+
+The most widely considered method of allowing a flywheel to spin up to speed faster in terms of software is the use of a control algorithm to artificially maximize the angular velocity while it accelerates. Typically, teams will make use of a [bang-bang](../../software/control-algorithms/bang-bang.md) configuration to accomplish this. This will slightly improve acceleration times.
+
+Friction will need to be minimized in order to have a successful flywheel; the easiest way to get a sense for how parasitic the friction is on a flywheel is to analyze the wattage of the motor driving the flywheel. Generally, the less power usage, the better, since it means that the motor is not working as hard to maintain the speed of the flywheel and will thus be less likely to overheat or oscillate unpredictably in speed. Ensure that the structure of the flywheel is properly aligned, bearings are fully seated, and that no shafts are bent to establish an efficient flywheel mechanism.
 
 ### Teams Contributed to this Article:
 
