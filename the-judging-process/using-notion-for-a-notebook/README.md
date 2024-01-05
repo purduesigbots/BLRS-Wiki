@@ -12,6 +12,16 @@ It has been contested how virtual notebooks will be scored for the 5 points asso
 
 {% embed url="https://youtu.be/LZ-TszsS_wA" %}
 
+## Example Notebook using Templates
+
+{% file src="../../.gitbook/assets/Templates.pdf" %}
+Compiled Templates
+{% endfile %}
+
+{% file src="../../.gitbook/assets/Complete.pdf" %}
+Complete Example Notebook Using Templates
+{% endfile %}
+
 ## Key Notion Components
 
 ### Pages
