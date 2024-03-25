@@ -8,9 +8,7 @@ description: CAD by Zach
 
 {% embed url="https://www.youtube.com/watch?v=OqWdOM3Z4Cg" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/VwWEVwY" fullWidth="true" %}
-
-
+{% embed url="https://purdue3033.autodesk360.com/shares/public/SH9285eQTcf875d3c5391e16b3f17118f3ee?mode=embed" %}
 
 ![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 2 (1).png>)
 

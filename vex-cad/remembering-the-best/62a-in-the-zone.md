@@ -4,13 +4,9 @@ description: CAD by Max
 
 # 62A In The Zone
 
-![](../../.gitbook/assets/maxresdefault.jpg)
-
 {% embed url="https://www.youtube.com/watch?v=zSJqs1QOFOI" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/xxrqYQE" fullWidth="true" %}
-
-
+{% embed url="https://purdue3033.autodesk360.com/shares/public/SH9285eQTcf875d3c539466a3845a49a3196?mode=embed" %}
 
 ![CAD by Max(91A,BLRS), Renders by Ayush(1961Z, BLRS)](../../.gitbook/assets/untitled.329.png)
 
