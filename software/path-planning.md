@@ -32,6 +32,12 @@ Using a library like Okapilib to plan paths makes it easier than writing all of 
 * [The math involved in planning the path points and their velocities](https://squiggles.readthedocs.io/en/latest/maths.html)
 * [Finding a feedback controller to ensure that the robot follows the planned path](https://squiggles.readthedocs.io/en/latest/controller-suggestions.html)
 
+## Custom Path Planners
+
+While difficult, it is possible to create software for creating or adjusting paths. An example below was developed by OSRC1 for VEX Over Under using the Unity game engine. A path formed from a Bezier curve can be fine tuned by dragging the handles. A custom solution offers advantages such as the ability to display paths over the game field or customize the autonomous development process to suit your team's preferences.
+
+![Sample Path](../.gitbook/assets/OSRC1 path manager.png)
+
 ### Feedback Controllers
 
 Okapilib and Squiggles only provide the Path Planning part of 2D movement -- you'll most likely want to supplement that Path Planning with a feedback controller. Running a planned path with Okapilib will send the path's planned velocities to your robot with no way of determining if the robot is actually on course; it's entirely possible that obstacles like game objects, opponent robots, or overheated motors could have caused the robot to not be able to follow the expected path. Using a planned path with no feedback controller is effectively flying blind as a result. It is highly recommended to supplement your planned path with one of the feedback controllers that are designed for path following, such as the:
@@ -42,4 +48,5 @@ Okapilib and Squiggles only provide the Path Planning part of 2D movement -- you
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
+* [OSRC1](https://osurobotics.club/) (Dam Robotics)
 

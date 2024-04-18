@@ -72,4 +72,4 @@ void logToBrain(const std::string& message) {
 
 #### Contributing Teams to this Article:
 
-* OSRC1 (Dam Robotics)
+* [OSRC1](https://osurobotics.club/) (Dam Robotics)
