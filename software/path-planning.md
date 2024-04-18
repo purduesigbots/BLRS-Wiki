@@ -36,7 +36,7 @@ Using a library like Okapilib to plan paths makes it easier than writing all of 
 
 While difficult, it is possible to create software for creating or adjusting paths. An example below was developed by OSRC1 for VEX Over Under using the Unity game engine. A path formed from a Bezier curve can be fine tuned by dragging the handles. A custom solution offers advantages such as the ability to display paths over the game field or customize the autonomous development process to suit your team's preferences.
 
-![Sample Path](../.gitbook/assets/OSRC1 path manager.png)
+![Path Planner](../.gitbook/assets/OSRC1_path_manager.png)
 
 ### Feedback Controllers
 
