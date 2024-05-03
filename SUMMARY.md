@@ -133,6 +133,7 @@
   * [Curvature (Cheesy) Drive](software/competition-specific/curvature-cheesy-drive.md)
 * [General](software/general/README.md)
   * [Version Control](software/general/version-control.md)
+  * [Flywheel Velocity Control](software/general/flywheel-velocity-control.md)
   * [Stall Detection](software/general/stall-detection.md)
   * [Register Programming](software/general/register-programming.md)
   * [Sensors and Odometry in Autonomous](software/general/sensors-and-odometry-in-autonomous.md)
