@@ -103,8 +103,8 @@ int main() {
 #ifndef BAD_EXAMPLE_HPP
 #define BAD_EXAMPLE_HPP
 
-// Forget extern keyword, so every time this is included we are "redeclaring" 
-// the motor object. 
+// Forget extern keyword, so every time this is included in a src file we are 
+// "redefining" the motor object. 
 pros::Motor m1; 
 
 // Since we included this header file in both IncorrectMain.cpp and bad_example.cpp,
