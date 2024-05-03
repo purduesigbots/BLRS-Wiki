@@ -132,6 +132,28 @@ void undefinedFunction() {
 
 This code will result in a linker error because `undefinedFunction()` is implemented in `bad_example.cpp` but is not declared in `bad_example.hpp`, so `IncorrectMain.cpp` doesn't know about its existence.
 
+## Applications
+
+A common application for this is branching each of the subsystems into their own files rather than cramming all the subsystems into one.&#x20;
+
+```
+PROS Project
+│
+├── src
+│   ├── chassis.cpp
+│   ├── lift.cpp
+│   ├── flywheel.cpp
+│   └── main.cpp
+│
+└── inc
+    ├── chassis.hpp
+    ├── lift.hpp
+    └── flywheel.hpp
+```
+
+This helps making organizing and navigating code a lot easier, as each subsystem is fit nicely into its own file.&#x20;
+
 #### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
+
