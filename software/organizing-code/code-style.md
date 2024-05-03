@@ -66,7 +66,7 @@ There are many different code style standards, and the specific one you use does
 
 ## Appendix: Professional Code Style-Guides
 
-These are reference style guides that
+These are reference style guides that exhibit the traits mentioned above.&#x20;
 
 * [Google C++ Style-guide](https://google.github.io/styleguide/cppguide.html)
 * [LLVM Coding Standards](https://llvm.org/docs/CodingStandards.html)
