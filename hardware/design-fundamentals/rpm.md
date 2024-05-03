@@ -10,6 +10,14 @@ Conversely, the speed of a shaft is directly proportional to the torque applied 
 
 The RPM and torque of a shaft are important factors to consider in the design and operation of mechanical systems. Engineers must carefully balance these variables to ensure that the system operates efficiently and safely and that the shaft is able to withstand the forces acting on it.
 
+{% hint style="info" %}
+For physics analysis, it's best to convert from RPM to radians per second:&#x20;
+
+$$\Large \omega = x \, \frac{\text{revolutions}}{\text{minute}}\times \frac{2\pi \text{ radians}}{\text{revolution}} \times \frac{ \text{minute}}{60 \text{ seconds}}$$
+
+&#x20;
+{% endhint %}
+
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

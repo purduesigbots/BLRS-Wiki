@@ -6,9 +6,7 @@ description: CAD by Max
 
 {% embed url="https://www.youtube.com/watch?v=6zsKGdXAfBU" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/yLXRQOE" fullWidth="true" %}
-
-
+{% embed url="https://purdue3033.autodesk360.com/shares/public/SH9285eQTcf875d3c539967966f061e64fe0?mode=embed" %}
 
 ![CAD by Max (91A, BLRS), Renders by Zach (929u)](<../../.gitbook/assets/render 4.PNG>)
 

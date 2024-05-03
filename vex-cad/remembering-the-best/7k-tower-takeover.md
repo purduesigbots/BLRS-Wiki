@@ -6,7 +6,7 @@ description: CAD by Matthew
 
 {% embed url="https://www.youtube.com/watch?v=vGkMw4Nx-Ks&t=46s" %}
 
-{% embed url="https://codepen.io/mhjohnso-purdue/pen/WNOaYGd" fullWidth="true" %}
+{% embed url="https://purdue3033.autodesk360.com/shares/public/SH9285eQTcf875d3c539d14d6ab5390a3585?mode=embed" %}
 
 ![CAD by Matthew (1727B), Renders by Matthew (1727B)](../../.gitbook/assets/7k-1.png)
 
