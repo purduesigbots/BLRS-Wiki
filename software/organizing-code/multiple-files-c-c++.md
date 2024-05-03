@@ -34,7 +34,7 @@ Its important to ensure that headers are only included once in each source file.
 #ifndef MY_HEADER_HPP
 #define MY_HEADER_HPP
 
-// Your public definiitions go here
+// Your public definitions go here
 
 #endif//MY_HEADER_HPP
 ```
