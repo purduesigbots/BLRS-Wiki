@@ -84,6 +84,54 @@ void myFunction() {
 
 In most project layouts (such as a pros project), the **src** directory is used for storing the .cpp files, while the **inc** directory is used for storing header files.&#x20;
 
+## Bad Example Usage:
+
+**IncorrectMain.cpp**
+
+```cpp
+#include "bad_example.hpp"
+
+int main() {
+  undefinedFunction();
+  return 0;
+}
+```
+
+**bad\_example.hpp**
+
+```cpp
+#ifndef BAD_EXAMPLE_HPP
+#define BAD_EXAMPLE_HPP
+
+// Forget extern keyword, so every time this is included we are "redeclaring" 
+// the motor object. 
+pros::Motor m1; 
+
+// Since we included this header file in both IncorrectMain.cpp and bad_example.cpp,
+// we will now get a "multiple declaration error of pros::Motor m1" error when we
+// compile.  
+
+// Forgot to declare undefinedFunction here, so it's not visible to other files
+// such as Incorrectmain.cpp
+
+// (missing here)
+
+#endif // BAD_EXAMPLE_HPP
+```
+
+**bad\_example.cpp**
+
+```cpp
+#include "bad_example.hpp"
+#include <iostream>
+
+void undefinedFunction() {
+    std::cout << "This will cause a linker error since it's not declared in the header." << std::endl;
+}
+```
+
+This code will result in a linker error because `undefinedFunction()` is implemented in `bad_example.cpp` but is not declared in `bad_example.hpp`, so `IncorrectMain.cpp` doesn't know about its existence.
+
 #### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
