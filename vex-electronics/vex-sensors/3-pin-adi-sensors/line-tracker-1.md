@@ -1,8 +1,8 @@
 # LED Indicator
 
-![The LED Indicators come in red, green, and yellow.](../../../.gitbook/assets/ledindicator.jpg)
+![](../../../.gitbook/assets/LEDindicator\_render.png)
 
-The LED Indicator is a 5V LED that, unlike the other 3-pin electronics, only possesses 2 pins. However, it is still compatible with the [V5 Brain](../../vex-electronics/vex-v5-brain/), and can be connected to the brain via a 3-wire extension cable. The LED Indicator can be used for decorative purposes, or can be used functionally as a way to show software feedback.
+The LED Indicator is a 5V LED coming in red, green, or yellow that, unlike the other 3-pin electronics, only possesses 2 pins. However, it is still compatible with the [V5 Brain](../../vex-electronics/vex-v5-brain/), and can be connected to the brain via a 3-wire extension cable. The LED Indicator can be used for decorative purposes, or can be used functionally as a way to show software feedback.
 
 In [VEXcode](../../../software/vex-programming-software/vex-coding-studio-vcs.md) or [PROS](../../../software/vex-programming-software/pros/), the LED Indicator can be configured as a digital output device.
 

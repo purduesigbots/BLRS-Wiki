@@ -6,7 +6,7 @@ description: >-
 
 # VEX Controller
 
-![](../../.gitbook/assets/5\_5\_controller.png)
+![](../../.gitbook/assets/v5controller\_render.png)
 
 The <img src="../../.gitbook/assets/controller_icon.png" alt="" data-size="line"> V5 Controller has a monochrome LCD screen. The screen allows users to start and stop programs remotely, view the robot’s battery level, and see the radio’s status. During competition, drivers and tethered co-drivers can see the competition clock and game state. Programmers can send data and multilingual text to the screen for debugging and driver information.
 

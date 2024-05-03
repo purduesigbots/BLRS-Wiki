@@ -6,7 +6,7 @@ description: >-
 
 # Flex Wheels
 
-<figure><img src="../../../.gitbook/assets/flexwheel2.png" alt=""><figcaption><p>A 4 inch, 30A Flex Wheel.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4inch30Aflexwheel_render.png" alt=""><figcaption><p>A 4 inch, 30A Flex Wheel.</p></figcaption></figure>
 
 Flex Wheels, formally known as "Straight Flex Wheels" are compressible cylinders with spokes made of a blend of rubber silicone. The compressible nature of the Flex Wheels makes them versatile for many use cases, such as intakes, flywheels, and drivetrains. Additionally, because their composition includes rubber, their coefficient of friction is higher leading to a significant amount of traction.&#x20;
 

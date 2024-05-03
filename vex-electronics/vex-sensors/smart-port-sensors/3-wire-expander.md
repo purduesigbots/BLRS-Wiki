@@ -4,7 +4,7 @@ description: Use up to eight more 3-wire ports with the V5 3-Wire Expander.
 
 # 3-Wire Expander
 
-![](<../../../.gitbook/assets/3wireexpander (1).png>)
+![](../../../.gitbook/assets/3wireexpander\_render.png)
 
 ## Overview
 

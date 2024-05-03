@@ -4,7 +4,7 @@ description: The VEX Ultrasonic Range Finder helps determine how far away an obj
 
 # Ultrasonic
 
-![](../../../.gitbook/assets/ultrasonicrangefinder.jpg)
+![](../../../.gitbook/assets/ultrasonicrangefinder\_render.png)
 
 The **VEX Ultrasonic Range Finder**, or simply the **VEX Sonar**, is a rangefinding device which uses pulses of high-frequency sound to estimate the distance to an object. It connects to the [VEX Cortex](../../legacy/vex-cortex.md) or [V5 Brain](../../vex-electronics/vex-v5-brain/) using two digital ports; one port to send a sound wave, and the other to receive it. The sensor runs continuously as long as it is being powered, meaning that even if no software is requesting the sensor's distance reading, it is still active. When the sensor is active, a faint and rapid ticking noise can be heard from the sensor.
 
