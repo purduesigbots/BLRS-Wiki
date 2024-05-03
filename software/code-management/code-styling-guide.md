@@ -232,7 +232,7 @@ c
 
 ## Autoformatting
 
-These rules can be [auto-formatted](autoformatting.md).
+These rules can be [auto-formatted](../general/autoformatting.md).
 
 #### Teams Contributed to this Article:
 

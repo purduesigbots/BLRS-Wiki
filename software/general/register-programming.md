@@ -16,7 +16,7 @@ TIM4->CCMR2 = (uint16_t)0x6868;
 TIM4->CCER = (uint16_t)0x3333;
 ```
 
-This code looks very little like C; most constants are in hexadecimal, most variables have unintuitive names, and familiar constructs such as while loops are distorted to the point of confusion. Since this type of code is seldom self-documenting, good [code style](code-styling-guide.md) dictates a descriptive comment for nearly every line.
+This code looks very little like C; most constants are in hexadecimal, most variables have unintuitive names, and familiar constructs such as while loops are distorted to the point of confusion. Since this type of code is seldom self-documenting, good [code style](../code-management/code-styling-guide.md) dictates a descriptive comment for nearly every line.
 
 ### Contributing Teams to this Article:
 
