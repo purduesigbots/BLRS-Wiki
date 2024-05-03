@@ -1,6 +1,6 @@
 # Embedded Programming Tips
 
-By no means is this guide meant to be an _exhaustive_ list of all considerations when programming on an embedded system. However, these are some of the most important rules and conditions to keep in mind when writing low-level code running _"on the metal"_, along with what may be found in [Code Style](../code-management/code-styling-guide.md) and [Debugging](debugging.md):
+By no means is this guide meant to be an _exhaustive_ list of all considerations when programming on an embedded system. However, these are some of the most important rules and conditions to keep in mind when writing low-level code running _"on the metal"_, along with what may be found in [Code Style](../organizing-code/code-styling-guide.md) and [Debugging](debugging.md):
 
 **Hardware:**
 
