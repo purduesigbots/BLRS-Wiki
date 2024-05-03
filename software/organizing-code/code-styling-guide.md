@@ -1,7 +1,8 @@
 ---
 description: >-
   This guide exists to help your team standardize the look of code to prevent
-  unnecessary merge conflicts and make code easier to read and understand.
+  unnecessary merge conflicts and make code easier to read and understand. It's
+  a sample code styleguide that was used by BLRS
 ---
 
 # Code Styling Guide
@@ -14,7 +15,7 @@ Rationale: The whole idea behind indentation is to clearly define where a block 
 
 With tab characters, it is up to user preference how many characters deep indents look. No more flame wars (We're looking at you Linus. Eight characters, really?)
 
-If you choose to exclusively use tabs, it is _highly_ recommended that you modify your Atom settings to ensure that tabs are always used for indentation. This setting can be changed by modifying Settings->Editor->Tab Type to "hard". This will prevent the editor from using spaces for indentation.
+If you choose to exclusively use tabs, it is _highly_ recommended that you modify your editor settings to ensure that tabs are always used for indentation, or spaces otherwise.&#x20;
 
 The preferred way to ease multiple indentation levels in a switch statement is to align the switch and its subordinate case labels in the same column instead of double-indenting the case labels. E.g.:
 
@@ -56,7 +57,7 @@ Coding style is all about readability and maintainability using commonly availab
 
 The ideal maximum line length is 120 columns, and this is a strongly preferred limit.
 
-Statements longer than 120 columns should be broken into sensible chunks, unless exceeding 120 columns significantly increases readability and does not hide information. Descendants are always substantially shorter than the parent and are placed substantially to the right. The same applies to function headers with a long argument list. However, never break user-visible strings such as printk messages, because that breaks the ability to grep for them.
+Statements longer than 120 columns should be broken into sensible chunks, unless exceeding 120 columns significantly increases readability and does not hide information. Descendants are always substantially shorter than the parent and are placed substantially to the right. The same applies to function headers with a long argument list. However, never break user-visible strings such as printf messages, because that breaks the ability to grep for them.
 
 {% hint style="info" %}
 Note: since most people have screens that support 120+ characters across, there doesn't have to be an 80-character line length limit. However, documentation comments should strive to meet this limit for readability and everyone's sanity
@@ -126,13 +127,9 @@ _However_, while mixed-case names are frowned upon, descriptive names for global
 
 _Global_ variables (to be used only if you really need them) need to have descriptive names, as do global functions. If you have a function that counts the number of active users, you should call that `count_active_users()` or similar, you should not call it `cntusr()`.
 
-Encoding the type of a function into the name (so-called Hungarian notation) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer. No wonder MicroSoft makes buggy programs.
+_Local_ variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood with an experienced programmer. Similarly, tmp can be just about any type of variable that is used to hold a temporary value especially if it has a temporary scope.
 
-_Local_ variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
-
-If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
-
-Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE.&#x20;
+Functions and variables could be named in camelCase or snake\_case and macros using **#define** should be defined in UPPER\_SNAKE\_CASE.&#x20;
 
 ## Functions
 

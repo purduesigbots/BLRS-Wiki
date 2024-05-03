@@ -67,7 +67,7 @@ When writing code, it can sometimes be useful to leave notes to other developers
 * `// TODO: something that should be done`
 * `// NOTE: a note about something in the code`
 
-Notes starting with these keywords (case sensitive) are automatically highlighted in the PROS Editor.
+Notes starting with these keywords (case sensitive) can be automatically highlighted by installable extensions on VSCode.&#x20;
 
 #### Teams Contributed to this Article:
 
