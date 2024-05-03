@@ -128,11 +128,11 @@ _Global_ variables (to be used only if you really need them) need to have descri
 
 Encoding the type of a function into the name (so-called Hungarian notation) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer. No wonder MicroSoft makes buggy programs.
 
-LOCAL variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
+_Local_ variable names should be short, and to the point. If you have some random integer loop counter, it should probably be called i. Calling it loop\_counter is non-productive, if there is no chance of it being misunderstood. Similarly, tmp can be just about any type of variable that is used to hold a temporary value.
 
 If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
 
-Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE
+Functions and variables should be named in camelCase constants and macros should be defined in UPPER\_SNAKE\_CASE.&#x20;
 
 ## Functions
 
@@ -148,66 +148,7 @@ In source files, separate functions with one blank line. In function prototypes,
 
 ## Comments
 
-### Function-Level Comments
-
-These should be placed immediately before the function prototype they are describing in a header file.
-
-```c
-/*
- * @brief Short description of the function
- * 
- * Extended description goes here. This should explain any semantic issues that
- * may arise when using the function. Below are descriptions of the function 
- * parameters. The value in the brackets can be either `in` or `out`, and 
- * represent the direction in which the parameter goes-- for example, the `dest`
- * argument for `memcpy` would be `out`, while the `src` and `n` arguments would
- * be `in`. Also note that grouped descriptions should be avoided unless the
- * grouped parameters are intrinsically linked-- for example, (x,y,z)
- * coordinates.
- * 
- * @param[out] param0_name      param0 description
- * @param[in]  param1_name      param1 description
- * @param      arg2,arg3,arg4   description of the multiple args
- * 
- * @return Description of the return value goes here. This can be omitted if the
- *              return type is `void`. This command will end when it reaches a
- *              blank line.
- */
-```
-
-### Inline Implementation Comments
-
-Sometimes it is necessary to explain a particularly complex statement or series of statements. In this case, you should use inline comments, placed either immediately before or trailing the line or lines in question. In general, prefer placing such comments before offending lines, unless the comment is quite short. These comments should start with a // followed by a space. If they are placed trailing a line, they should be separated from the end of the line by one space.
-
-```c
-float Q_rsqrt(float number) { 
-    long i;
-    float x2, y; 
-    const float threehalfs = 1.5F; 
-    x2 = number * 0.5F; 
-    y  = number;
-    // perform some absolute magic on these numbers to get the inverse square root
-    i  = *(long*)&y; // evil floating point bit level hacking 
-    i  = 0x5f3759df - (i >> 1); // what the [heck]? 
-    y  = *(float*)&i;
-    y  = y * (threehalfs - (x2 * y * y)); // 1st iteration 
-    //y  = y * (threehalfs - (x2 * y * y)); // 2nd iteration, this can be removed 
-    return y; 
-}
-```
-
-{% hint style="info" %}
-In the above example, there is a line of code that has been commented out. This is fine to do while testing, but any commented out lines of code should be removed before any merge into the master branch takes place, unless a compelling reason can be presented for them to remain.
-{% endhint %}
-
-### Notes to Other Developers (Or Yourself)
-
-When writing code, it can sometimes be useful to leave notes to other developers or to yourself in the future. Examples of these include:
-
-* `// TODO: something that should be done`
-* `// NOTE: a note about something in the code`
-
-Notes starting with these keywords (case sensitive) are automatically highlighted in the PROS Editor.
+Comments are an integral part of having a good style guide. See our "[Writing Good Comments](writing-good-comments.md)" article for more details.&#x20;
 
 ## Miscellaneous
 
