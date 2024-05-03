@@ -132,7 +132,7 @@ void undefinedFunction() {
 
 This code will result in a linker error because `undefinedFunction()` is implemented in `bad_example.cpp` but is not declared in `bad_example.hpp`, so `IncorrectMain.cpp` doesn't know about its existence.
 
-## Applications
+## Applications for Robotics
 
 A common application for this is branching each of the subsystems into their own files rather than cramming all the subsystems into one.&#x20;
 
