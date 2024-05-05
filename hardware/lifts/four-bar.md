@@ -36,23 +36,15 @@ As a general rule of thumb, if the rubber bands ...
 
 When the robot lifts an object, the rubber bands should decrease in length with the upstroke and increase in length with the downstroke. When the robot must lift itself (ex. grabbing onto a post and lowering the lift), the rubber bands should increase in length with the upstroke and decrease in length with the downstroke.
 
-
-
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Example 1" %}
 {% embed url="https://www.desmos.com/calculator/lrm3uxxxem" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Example 2" %}
 {% embed url="https://www.desmos.com/calculator/arxl06qmap" %}
 {% endtab %}
-
-{% tab title="Thm. 1" %}
-
-{% endtab %}
 {% endtabs %}
-
-give reference gifs or embedded share links for 1,2,3.1,3.2
 
 
 
@@ -66,11 +58,7 @@ $$
 
 where $$\theta$$ is the angle between $$\overrightarrow{r}$$ and $$\overrightarrow{F}$$.
 
-Different rubber band pivot positions that provide more force perpendicular to the c-channels
-
-
-
-variables to consider changing: number of rubber bands, rubber band pivot points, length of bars, ...
+Different rubber band pivot positions that provide more force perpendicular to the c-channels. Consider changing the following variables when refining the banding of the lift: number of rubber bands, rubber band pivot points, length of bars, etc.
 
 #### Twisting
 
