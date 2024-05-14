@@ -10,11 +10,11 @@ There are many factors that come into play when deciding how many teams to creat
 
 #### Available Team Members
 
-One important thing to consider is the number of participants that will be participating on a VEX Robotics team. While team sizes can range from one to upwards of ten members, having too many or too few members per team can make progress inefficient with regards to creating a functional robot. More information on an effective team size can be found in the [Member Allocation and Management](creating-the-team.md#member-allocation-and-management) segment of this article.&#x20;
+One important thing to consider is the number of participants that will be participating on a VEX Robotics team. While team sizes can range from one to upwards of ten members, having too many or too few members per team can make progress inefficient with regards to creating a functional robot. More information on an effective team size can be found in the [Member Allocation and Management](../team-dynamic/member-allocation-and-management.md) segment of this section.&#x20;
 
 #### Budget
 
-When deciding whether or not to create additional teams within your organization, it is important to determine whether or not an additional team will factor into the budget. When starting a new team, or multiple teams at once, you are effectively doubling your startup costs with additional parts and logistical fees, among other things, that will have to be purchased. For more information on organizing a budget for your teams, please see the [Financial Breakdown](creating-the-team.md#one-year-team-financial-breakdown) segment of this document.
+When deciding whether or not to create additional teams within your organization, it is important to determine whether or not an additional team will factor into the budget. When starting a new team, or multiple teams at once, you are effectively doubling your startup costs with additional parts and logistical fees, among other things, that will have to be purchased. For more information on organizing a budget for your teams, please see the [Financial Breakdown](../team-finances/one-year-team-financial-breakdown.md) segment of this section.
 
 #### Logistics
 
