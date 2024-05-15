@@ -165,6 +165,7 @@
   * [Bit Mask](software/general/bit-mask.md)
   * [Autoformatting](software/general/autoformatting.md)
   * [Finite State Machine](software/general/finite-state-machine.md)
+  * [Data Logging](software/general/data-logging.md)
 * [Object Recognition](software/object-recognition/README.md)
   * [Red Green Buoy](software/object-recognition/red-green-buoy.md)
   * [AMS](software/object-recognition/ams.md)

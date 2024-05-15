@@ -1,22 +1,19 @@
----
-description: >-
-  Recording data as the robot operates can be very helpful in troubleshooting and tuning an autonomous or driver control program.
----
-
 # Data Logging
 
 ## To the Controller
 
-Information can be displayed on the VEX controller. This can be ideal for quick checks of variable values. 
+Information can be displayed on the VEX controller. This can be ideal for quick checks of variable values.
 
 This method does have drawbacks. There are a limited number of characters on the controller screen and a 50 millisecond delay is required between print calls.
 
 PROS C++ Example:
+
 ```cpp
 controller.clear();
 pros::delay(50);
 controller.print(0, 0, "%s", "My message");
 ```
+
 [Additional information on this example](https://pros.cs.purdue.edu/v5/api/cpp/misc.html#print)
 
 ## To a microSD Card
@@ -24,6 +21,7 @@ controller.print(0, 0, "%s", "My message");
 The VEX brain has a slot for a microSD card on the side. One way to record data is to create a text file on that microSD card, which can then be removed and inserted into a computer. If the computer does not have a microSD card slot, an adapter will be needed (such as a microSD to USB adapter).
 
 PROS C++ Example:
+
 ```cpp
 void createLogFile(){
     // creates a .txt log file for writing to
@@ -43,9 +41,10 @@ void endTxtLogging(){
 
 ## To the Brain
 
-Information can also be displayed on the brain using LVGL (Littlev Graphics Library). Version 5.3 of LVGL is included with PROS by default. Additional documentation can be found [here](https://github.com/GCEC-2918/LVGL_v5-3_Documentation_Archive). 
+Information can also be displayed on the brain using LVGL (Littlev Graphics Library). Version 5.3 of LVGL is included with PROS by default. Additional documentation can be found [here](https://github.com/GCEC-2918/LVGL\_v5-3\_Documentation\_Archive).
 
 In the following example, an auto-scrolling log screen is created and used on the brain.
+
 ```cpp
 void createTabView() {
     tabview = lv_tabview_create(lv_scr_act(), NULL);
