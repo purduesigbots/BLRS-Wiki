@@ -63,6 +63,11 @@
 * [Flip Out Mechanisms](hardware/flip-out-mechanisms.md)
 * [Defensive Mechanisms](hardware/defensive-mechanisms.md)
 * [Misc. Building Techniques](hardware/misc.-vex-parts.md)
+* [VexU](hardware/vexu/README.md)
+  * [Common Manufacturing Techniques](hardware/vexu/common-manufacturing-techniques/README.md)
+    * [3D Printing](hardware/vexu/common-manufacturing-techniques/3d-printing.md)
+  * [Custom Manufactured Parts Library](hardware/vexu/custom-manufactured-parts-library.md)
+  * [Commercial Off The Shelf Parts Library](hardware/vexu/commercial-off-the-shelf-parts-library.md)
 
 ## Team Administration
 
@@ -93,6 +98,10 @@
     * [Displays](team-administration/hosting-competitions/tournament-manager/displays.md)
     * [Alliance Selection](team-administration/hosting-competitions/tournament-manager/alliance-selection.md)
   * [Additional Event Partner Resources](team-administration/hosting-competitions/additional-event-partner-resources.md)
+* [VexU Organization Management](team-administration/vexu-organization-management/README.md)
+  * [Getting Started in VexU](team-administration/vexu-organization-management/getting-started-in-vexu.md)
+  * [Team / Personell Management](team-administration/vexu-organization-management/team-personell-management.md)
+  * [Volunteering At Local Events](team-administration/vexu-organization-management/volunteering-at-local-events.md)
 
 ## The Judging Process
 
