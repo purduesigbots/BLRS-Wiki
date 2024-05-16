@@ -19,6 +19,7 @@
   * [Internal Forces (Stress)](hardware/design-fundamentals/internal-forces-stress.md)
   * [Torque](hardware/design-fundamentals/torque.md)
   * [RPM](hardware/design-fundamentals/rpm.md)
+  * [Center of Mass](hardware/design-fundamentals/center-of-mass.md)
 * [Introduction to VEX Parts](hardware/misc.-vex-parts-1/README.md)
   * [Structure](hardware/misc.-vex-parts-1/structure/README.md)
     * [C-Channels and Angles](hardware/misc.-vex-parts-1/structure/c-channels-and-angles.md)
