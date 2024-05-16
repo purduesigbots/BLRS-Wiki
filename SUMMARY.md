@@ -101,7 +101,7 @@
   * [Additional Event Partner Resources](team-administration/hosting-competitions/additional-event-partner-resources.md)
 * [VexU Organization Management](team-administration/vexu-organization-management/README.md)
   * [Getting Started in VexU](team-administration/vexu-organization-management/getting-started-in-vexu.md)
-  * [Team / Personell Management](team-administration/vexu-organization-management/team-personell-management.md)
+  * [Team / Personnel Management](team-administration/vexu-organization-management/team-personnel-management.md)
   * [Volunteering At Local Events](team-administration/vexu-organization-management/volunteering-at-local-events.md)
 
 ## The Judging Process
