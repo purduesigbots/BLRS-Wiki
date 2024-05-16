@@ -187,6 +187,7 @@
 * [Inventor](vex-cad/inventor.md)
 * [Fusion 360](vex-cad/fusion-360.md)
 * [Solidworks](vex-cad/solidworks.md)
+* [Protobot](vex-cad/protobot.md)
 * [Making a Chassis](vex-cad/making-a-chassis/README.md)
   * [Inventor Chassis: The Basics](vex-cad/making-a-chassis/inventor-chassis/README.md)
     * [Installation](vex-cad/making-a-chassis/inventor-chassis/introduction.md)
