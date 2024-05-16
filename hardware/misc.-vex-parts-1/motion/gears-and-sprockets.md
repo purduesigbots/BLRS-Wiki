@@ -34,6 +34,14 @@ Similar to gears, sprockets can also function in a ratio. For more information o
 
 As described in the chart, sprockets are produced in a both high and low strength varieties. Unlike gears, however, low and high strength sprockets are linked with different size chains, making it impossible to mess high and low strength sprockets.
 
+## Chain Tensioners
+
+The use of chain tensioners provides additional stability to large chain routes on a robot, reducing the likelihood of chain snapping during competition.&#x20;
+
+![Chain Tensioner (94999E Change Up 2021)](../../../.gitbook/assets/Chain.jpg)
+
+Chain tensioners are often created by use of a [screw joint](../../vex-joints.md#single-bearing-screw-joint), with the exception of using free-spinning spacers instead of metal to rotate on the screw. As such, no bearing is necessary, as the screw will be stationary on the metal, and spacers require no bearings.
+
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
