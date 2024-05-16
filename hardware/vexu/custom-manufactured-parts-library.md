@@ -12,6 +12,10 @@ To export parts from OnShape, right click on the desired part, and select 'Expor
 
 ## Wheels
 
+### Purdue SIGBots Custom Omni Wheel Tutorial
+
+{% embed url="https://youtu.be/hnaj-MxNwrc?si=R8nVu9tvGsbjeKMi" %}
+
 ### 2" Omni Wheel - Purdue SIGBots
 
 This part was originally designed in 4 parts for a chassis, but then began being used for tracker wheels. There is an updated tracker wheel version with a specific insert below.&#x20;
