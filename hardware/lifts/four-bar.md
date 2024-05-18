@@ -4,6 +4,12 @@ description: The 4 bar lift, the simplest linkage for keeping both ends parallel
 
 # Four Bar
 
+{% hint style="info" %}
+This article is a Work In Progress. Please let us know how we can improve it.
+
+sig.robotics.purdue@gmail.com
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/4barCAD cropped.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 The four bar lift is one of the most used lifts in VEX Robotics competitions due to its relative simplicity and ease of building. The four bar lift is constructed using two sets of parallel bars that move up and down in unison. Two sets of vertical bars line both the front and back of the linkage, so that the lift can be attached to a robot base parallel to to object interaction mechanisms being attached.
@@ -36,6 +42,10 @@ As a general rule of thumb, if the rubber bands ...
 
 When the robot lifts an object, the rubber bands should decrease in length with the upstroke and increase in length with the downstroke. When the robot must lift itself (ex. grabbing onto a post and lowering the lift), the rubber bands should increase in length with the upstroke and decrease in length with the downstroke.
 
+#### Simulation
+
+Desmos: [https://www.desmos.com/calculator/4ydsmxymcx](https://www.desmos.com/calculator/4ydsmxymcx)
+
 {% tabs %}
 {% tab title="Example 1" %}
 {% embed url="https://www.desmos.com/calculator/lrm3uxxxem" %}
@@ -46,19 +56,13 @@ When the robot lifts an object, the rubber bands should decrease in length with 
 {% endtab %}
 {% endtabs %}
 
-
-
-[Torque](../design-fundamentals/torque.md)
-
-
+Different rubber band pivot positions provide more force perpendicular to the c-channels. The [torque](../design-fundamentals/torque.md) around the tower joints can be calculated from&#x20;
 
 $$
 \overrightarrow{\tau} = \overrightarrow{r} \times \overrightarrow{F} \\ \left|\overrightarrow{\tau}\right| = \left|\overrightarrow{r}\right| \left| \overrightarrow{F_\perp}\right| =  \left|\overrightarrow{r}\right| \left| \overrightarrow{F}\right|\sin\theta
 $$
 
-where $$\theta$$ is the angle between $$\overrightarrow{r}$$ and $$\overrightarrow{F}$$.
-
-Different rubber band pivot positions that provide more force perpendicular to the c-channels. Consider changing the following variables when refining the banding of the lift: number of rubber bands, rubber band pivot points, length of bars, etc.
+where $$\theta$$ is the angle between $$\overrightarrow{r}$$ and $$\overrightarrow{F}$$. Consider changing the following variables when refining the banding of the lift: number of rubber bands, rubber band pivot points, length of bars, etc.
 
 #### Twisting
 
