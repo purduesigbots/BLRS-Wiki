@@ -8,7 +8,9 @@ To learn more about the program used to create this notebook, read the [Using No
 
 ## Download Link
 
-{% embed url="https://drive.google.com/file/d/1GdnG..." %}
+{% embed url="https://drive.google.com/file/d/1GdnGnEY0ImQ-5ri8AZMvrpdxeO9koe6f/view?usp=sharing" %}
+BLRS2 OU Notebook Download
+{% endembed %}
 
 ## Explanation Video
 
