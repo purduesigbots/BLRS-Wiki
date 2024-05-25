@@ -83,16 +83,26 @@ For smaller Flex Wheels, a 12T Pinion is perfect as a friction fit in the hexago
 
 ### Hardware-Based Custom Adapters
 
-Various hardware components can be used to create custom adapters. These usually bring the advantage of not needing to deform the Flex Wheel unlike a press fitted custom adapter, making them easily compatible with wheels that have 60A durometer readings.&#x20;
+Various hardware components can be used to create custom adapters. These usually don't deform the Flex Wheel as much unlike a press fitted custom adapter, making them easily compatible with wheels that have a 60A durometer reading.
 
-<figure><img src="../../../.gitbook/assets/2inchflexwheel_customadapter.png" alt=""><figcaption><p>An example of a Lock Bar being used as a custom adapter.</p></figcaption></figure>
-
-Some useful components that could be used in creating a custom adapter include:
+Some useful components that could be used when creating a custom adapter include:
 
 * Lock Bars
-* Polycarbonate when used in tandem with a CNC mill
 * Steel/Aluminum Plates
+* Polycarbonate when used in tandem with a laser cutter or CNC mill&#x20;
 
-### Teams Contributed to this Article:
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Lock Bar</td><td>BLRS</td><td></td><td><a href="../../../.gitbook/assets/image (1).png">image (1).png</a></td></tr><tr><td>1x5 Flat Bar</td><td>91A</td><td></td><td><a href="../../../.gitbook/assets/IMG_7031 - Copy.JPG">IMG_7031 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>81P</td><td></td><td><a href="../../../.gitbook/assets/IMG_9706 - Copy.JPG">IMG_9706 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>9364E</td><td></td><td><a href="../../../.gitbook/assets/IMG_1563 - Copy.jpg">IMG_1563 - Copy.jpg</a></td></tr></tbody></table>
+
+## Cutting Flex Wheels
+
+3" and 4" Flex Wheels are manufactured with a 1" thickness, much too high for many use cases. Because Flex Wheels are made of silicone, they are very difficult to cut, so guides are often used to ensure a precise division and increase safety. 3D printed cutting guides for all Flex Wheel sizes can be found here: [https://github.com/owen169/Flex-Wheel-Guides](https://github.com/owen169/Flex-Wheel-Guides).&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Owen 169</p></figcaption></figure>
+
+If you don't have access to a 3D printer, try making your own guides.
+
+<figure><img src="../../../.gitbook/assets/IMG_9554 - Copy.JPG" alt="" width="375"><figcaption><p>U-channel cutting guide - 81P Spin Up</p></figcaption></figure>
+
+## Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)

@@ -22,7 +22,7 @@ Tank drives are a very popular type of drivetrain used in the VEX Robotics Compe
 
 **Advantages and Disadvantages:** The Tank Drive is very simple to build and consistently performs well. Many former world champions have used the Tank Drive for its simplicity. However, it suffers both from being able to be pushed sideways and from an inability to strafe.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>8059A TP Bling Drive</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (2).png" alt=""><figcaption><p>8059A TP Bling Drive</p></figcaption></figure>
 
 One solution to the problem of being pushed from the side utilizes [**locked omni wheels**](../defensive-mechanisms.md#defensive-wheel-setups) and is sometimes referred to as the "Bling Drive":
 
