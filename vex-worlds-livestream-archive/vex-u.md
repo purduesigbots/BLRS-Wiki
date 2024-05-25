@@ -1,5 +1,11 @@
 # VEX U
 
+{% hint style="danger" %}
+We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Stay tuned!&#x20;
+
+If you have any proposed solutions for this other than replacing the links when they break, please do!
+{% endhint %}
+
 ## 2023 - VRC Spin Up
 
 Opening Ceremonies\

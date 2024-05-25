@@ -4,3 +4,8 @@ description: This is an archive of links to the VODs of previous VEX worlds comp
 
 # VEX Worlds Livestream Archive
 
+{% hint style="danger" %}
+This section is currently broken and we are currently working on a more future proof solution for fixing these year to year. Stay tuned!&#x20;
+
+If you have any proposed solutions for this other than replacing the links when they break, please do!
+{% endhint %}
