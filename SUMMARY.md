@@ -80,6 +80,7 @@
 * [Team Dynamics](<Team Administration/team-dynamics/README.md>)
   * [Organization Structure and Longevity](<Team Administration/team-dynamics/organization-structure-and-longevity.md>)
   * [Member Allocation and Management](<Team Administration/team-dynamic/member-allocation-and-management.md>)
+  * [How \*Not\* To Run a Team](team-administration/team-dynamics/how-not-to-run-a-team.md)
 * [Team Finances](<Team Administration/team-finances/README.md>)
   * [One-Year Team Financial Breakdown](<Team Administration/team-finances/one-year-team-financial-breakdown.md>)
   * [Funding Your Teams](<Team Administration/team-finances/funding-your-teams.md>)
