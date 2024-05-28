@@ -110,7 +110,7 @@ As a mentor, the most ideal situation is to form comradery and trust between you
 
 If anything, students are even _less_ likely to be willing to try new things or be open ears to new ideas due to the animosity.&#x20;
 
-By shutting down short term discourse, you are killing long term support and discourse. Maintaining good relations with current members means willing alumni who are willing to come back to mentor and/or donate.&#x20;
+By shutting down short term discourse, you are killing long term relations and good will. Maintaining good relations with current members means willing alumni who are willing to come back to mentor and/or donate.&#x20;
 
 **What Should Be Done Instead**
 
