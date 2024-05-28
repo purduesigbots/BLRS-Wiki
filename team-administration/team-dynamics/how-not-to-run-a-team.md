@@ -37,7 +37,7 @@ Only be a certain role the fraction of a time while they are on the team. The am
 
 Furthermore, not each member is cut out or willing to do each task. Forcing somebody out of their comfort zone as a coach on a certain task is not ideal nor does it lend to an enjoyable time for either the team member or the team as a whole.&#x20;
 
-It should also go without saying, having students be lukewarm at each role also reduces the competitiveness of the team as a whole. The separation of responsibilities between team members also becomes blurred when roles are switched regularly, especially at competitions where days are .&#x20;
+It should also go without saying, having students be lukewarm at each role also reduces the competitiveness of the team as a whole. The separation of responsibilities between team members also becomes blurred when roles are switched regularly, especially at competitions where each team member's role determines what their chaotic day looks like. Switching their set of responsibilities between competitions reduces efficiency in doing these tasks and causes confusion. &#x20;
 
 **What Should Be Done Instead**
 
