@@ -62,9 +62,9 @@ Plus some parental pressure may also influence this change to occur.&#x20;
 
 In both VRC and FRC, a driver on a team ideally has had the most time and effort put into **driving** the robot outside of the technical aspects of it. This comes down to somebody who has good perception and has gotten a lot of time drive practicing the robot before the competition.&#x20;
 
-By forcing each team member to rotate the driver each match, the same issue with&#x20;
+By forcing each team member to rotate the driver each match, the same issue with rotating team roles becomes apparent. Each driver has 1 / Nth (where N is the number of the members on the team) of drive practice in the most ideal situation. In most circumstances, you end up with somebody with no drive practice driving for a qualification match. It goes without saying that this is less competitive than having one person with the entirety of the drive practice time.&#x20;
 
-This is even more of an issue when it comes to the driver skills challenge, where the competition&#x20;
+This is even more of an issue when it comes to the driver skills challenge, where dedication to practicing a set routine is paramount for success.&#x20;
 
 **What Should Be Done Instead**
 
