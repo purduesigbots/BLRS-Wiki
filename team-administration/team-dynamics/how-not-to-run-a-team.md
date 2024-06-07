@@ -48,7 +48,7 @@ If your goal is to allow students to switch roles or get a general understanding
 
 One thing that goes without saying, is that mentors should be encouraging of these roles being developed on each team rather than forcing them unnaturally onto each group.&#x20;
 
-At the end of the day, when a high school student becomes a university student, they are majoring in "General Engineering", they're going to need to find a specific discipline within the broad field of engineering and then focus it down even more. By forcing kids to have breadth instead of depth, they are less prepared than their peers who have become incredibly skilled in one specific discipline.&#x20;
+At the end of the day, when a high school student becomes a university student, they aren't going to be majoring in "General Engineering". Finding a specific discipline within the broad field of engineering and then focus it down even more is invaluable in their high school years for choosing a specific major. By forcing kids to have breadth instead of depth, they are less prepared than their peers who have become incredibly skilled or interested in one specific discipline.&#x20;
 
 ## Changing Drivers Every Match
 
