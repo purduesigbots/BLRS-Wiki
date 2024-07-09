@@ -107,16 +107,15 @@
 
 ## The Judging Process
 
-* [Rubric Breakdowns](the-judging-process/rubric-breakdowns/README.md)
-  * [Engineering Notebook Rubric](the-judging-process/rubric-breakdowns/engineering-notebook-rubric.md)
-  * [Interview Rubric](the-judging-process/rubric-breakdowns/interview-rubric.md)
 * [The Engineering Design Process](the-judging-process/the-design-process/README.md)
   * [Test and Refine](the-judging-process/the-design-process/test-and-refine.md)
 * [The Engineering Notebook](the-judging-process/how-to-start-a-notebook/README.md)
   * [Segments of the Notebook](the-judging-process/how-to-start-a-notebook/segments-of-the-notebook.md)
   * [BLRS2 '23-'24 Engineering Notebook](the-judging-process/how-to-start-a-notebook/blrs2-23-24-engineering-notebook.md)
   * [Integrating Inventor Models into Documentation](the-judging-process/how-to-start-a-notebook/the-design-process.md)
-* [The Interview](the-judging-process/the-interview.md)
+  * [Engineering Notebook Rubric Breakdown](the-judging-process/how-to-start-a-notebook/engineering-notebook-rubric.md)
+* [The Interview](the-judging-process/the-interview/README.md)
+  * [Interview Rubric Breakdown](the-judging-process/the-interview/interview-rubric.md)
 * [Using Notion for an Engineering Notebook](the-judging-process/using-notion-for-a-notebook/README.md)
   * [How to Setup a Notebook](the-judging-process/using-notion-for-a-notebook/how-to-setup-a-notebook.md)
   * [How to Create Entries](the-judging-process/using-notion-for-a-notebook/how-to-create-entries.md)
