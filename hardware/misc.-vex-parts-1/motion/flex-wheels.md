@@ -91,13 +91,13 @@ Some useful components that could be used when creating a custom adapter include
 * Steel/Aluminum Plates
 * Polycarbonate when used in tandem with a laser cutter or CNC mill&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Lock Bar</td><td>BLRS</td><td></td><td><a href="../../../.gitbook/assets/image (1).png">image (1).png</a></td></tr><tr><td>1x5 Flat Bar</td><td>91A</td><td></td><td><a href="../../../.gitbook/assets/IMG_7031 - Copy.JPG">IMG_7031 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>81P</td><td></td><td><a href="../../../.gitbook/assets/IMG_9706 - Copy.JPG">IMG_9706 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>9364E</td><td></td><td><a href="../../../.gitbook/assets/IMG_1563 - Copy.jpg">IMG_1563 - Copy.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Lock Bar</td><td>BLRS</td><td></td><td><a href="../../../.gitbook/assets/image (1) (1).png">image (1) (1).png</a></td></tr><tr><td>1x5 Flat Bar</td><td>91A</td><td></td><td><a href="../../../.gitbook/assets/IMG_7031 - Copy.JPG">IMG_7031 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>81P</td><td></td><td><a href="../../../.gitbook/assets/IMG_9706 - Copy.JPG">IMG_9706 - Copy.JPG</a></td></tr><tr><td>Polycarbonate</td><td>9364E</td><td></td><td><a href="../../../.gitbook/assets/IMG_1563 - Copy.jpg">IMG_1563 - Copy.jpg</a></td></tr></tbody></table>
 
 ## Cutting Flex Wheels
 
 3" and 4" Flex Wheels are manufactured with a 1" thickness, much too high for many use cases. Because Flex Wheels are made of silicone, they are very difficult to cut, so guides are often used to ensure a precise division and increase safety. 3D printed cutting guides for all Flex Wheel sizes can be found here: [https://github.com/owen169/Flex-Wheel-Guides](https://github.com/owen169/Flex-Wheel-Guides).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Owen 169</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Owen 169</p></figcaption></figure>
 
 If you don't have access to a 3D printer, try making your own guides.
 

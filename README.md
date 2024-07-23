@@ -20,7 +20,7 @@ If you are interested in contributing to the wiki feel free to open a pull reque
 
 If you would like to discuss or bring up an issue with the wiki without fixing it yourself, feel free to open up an issue on the aforementioned [wiki repo](https://github.com/purduesigbots/BLRS-Wiki).
 
-<figure><img src=".gitbook/assets/52053752357_eccd2393c9_o.jpeg" alt=""><figcaption><p>2022 Robot Skills World Champions</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_6768.JPG" alt=""><figcaption><p>2024 World Champions</p></figcaption></figure>
 
 As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com)
 

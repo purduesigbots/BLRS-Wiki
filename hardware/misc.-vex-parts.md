@@ -27,7 +27,23 @@ Using plastic to create custom gussets or brackets can be very beneficial when c
 
 <figure><img src="../.gitbook/assets/87b94d42-e430-473a-a308-65423d623d7f.jpg" alt=""><figcaption><p>5225A Change Up Intake</p></figcaption></figure>
 
+## Connecting Gears to Wheels
 
+Oftentimes, especially in drive trains, wheels are driven from gears, but the use of axles, or screw joints tends to allow for slop that is not wanted. To overcome this, it is a common practice to use additional bracing & hardware to attach the wheels & gears with improved rigidity in the joint.&#x20;
+
+{% hint style="info" %}
+Vex has released new wheels which contain standard 0.5" spaced holes allowing for far easier attachment. This article portion will focus on alternative needs
+
+![](https://www.vexrobotics.com/media/mageworx/optionfeatures/product/option/value/2/7/276-8107.png)
+{% endhint %}
+
+Using stand-offs, it is possible to brace the core of most wheels against various gears. As shown below, 2 stand-offs act to apply torque directly to the wheel off of the face of the gear. These two points, along with the shaft itself, will reduce the slop in rotation.
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Zip ties can be used, and are most commonly used with flex wheels. Making sure to evenly distribute zip ties & to overlap where possible will create the best outcome. Zip ties are not limited to only flex wheels & were a common way to reduce slop pre-V5
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Teams Contributed to this Article:
 

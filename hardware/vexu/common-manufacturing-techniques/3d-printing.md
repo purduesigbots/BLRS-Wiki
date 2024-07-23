@@ -2,18 +2,13 @@
 
 3D printing is one of the most common advanced manufacturing technique that is used in VexU allowing teams to make complex parts to suit use cases. This technology allows for rapid prototyping, giving competitors the flexibility to iterate on designs quickly and affordably. Not only does this enhance the capability to fine-tune robots for optimal performance, but it also allows for low cost manufacturing.&#x20;
 
-## Common Uses
-
-* Gears
-* Brackets
-
 ## Best Practices
 
 ### Perimeters & Infill
 
 <mark style="color:yellow;">**Perimeters**</mark> are the outermost layers of a 3D printed object, providing the shape and are crucial for the object's strength. Increasing the number of perimeters enhances the part's durability and impact resistance.
 
-A minimum of 3 perimeters is reccommended for any piece that will be under continuous strain or experience impact.&#x20;
+A minimum of 3 perimeters is recommended for any piece that will be under continuous strain or experience impact.&#x20;
 
 <mark style="color:yellow;">**Infill**</mark> refers to the internal structure that occupies the space inside a 3D printed object. It adds strength and rigidity while minimizing material usage and print time. The infill percentage and pattern can be adjusted depending on the application.
 
