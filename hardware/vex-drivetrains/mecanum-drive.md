@@ -1,6 +1,12 @@
 # Mecanum Drive
 
-The Mecanum Drive is just as simple to build as the Tank Drive, but has the ability to drive sideways. It uses VEX mecanum wheels in order to drive, turn, and strafe.
+## Possible Movement Vectors
+
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+
+## Advantages / Disadvantages
+
+The Mecanum Drive is just as simple to build as the Tank Drive, but has the ability to drive sideways. It uses VEX [mecanum wheels](../misc.-vex-parts-1/motion/mecanum-wheels.md) in order to drive, turn, and strafe.
 
 <table><thead><tr><th>Pros</th><th>Cons</th><th data-hidden></th></tr></thead><tbody><tr><td>High forward traction</td><td>Slow compared to tank drive</td><td></td></tr><tr><td>Ability to strafe</td><td>Innefficient strafing</td><td></td></tr><tr><td></td><td>Space innefficient </td><td></td></tr></tbody></table>
 
