@@ -10,6 +10,10 @@ description: >-
 
 **Mecanum wheels** are advanced wheels used widely in the scope of robotics and often in compeitive robotics due to their ability to introduce fully omnidirectional movement onto a drivetrain. These wheels take advantage of angled rollers which restrict their degrees of freedom onto one axis, allowing them to move freely diagonally. When spun in a uniform direction, the mecanum wheel functions as a typical wheel and propels a drivetrain forwards. However, when spun in conflicting directions with the wheel adjacent from it (in terms of a four wheel drivetrain), the robot begins to strafe thanks to its angled rollers.&#x20;
 
+## Possible Movement Vectors
+
+<figure><img src="../../../.gitbook/assets/image (255).png" alt="" width="534"><figcaption></figcaption></figure>
+
 ## Variations
 
 In VRC, there are only two legal sizes of mecanum wheels: 2 inch and 4 inch. Each size has two variations which are crucial to the functionality of the drivetrain: a left and a right variant. The difference between those two variants is that the rollers angle themselves inherently differently.
