@@ -8,7 +8,7 @@ Tank drives are a very popular type of drivetrain used in the VEX Robotics Compe
 
 | 4 Omni Wheels         | 6 Omni Wheels                            | 4 Omni Wheels, 2 Traction Wheels      |
 | --------------------- | ---------------------------------------- | ------------------------------------- |
-| Space efficient       | High forwards rraction                   | High forwards traction                |
+| Space efficient       | High forwards traction                   | High forwards traction                |
 | High maneuverability  | Reduces compression due to each wheel    | High horizontal traction              |
 |                       | Can add traction wheels later if desired | Reduces compression due to each wheel |
 
