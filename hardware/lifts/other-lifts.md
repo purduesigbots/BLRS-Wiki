@@ -58,6 +58,8 @@ Example: NorCal 2021 Robot (View in .5x or full screen):
 
 {% embed url="https://codepen.io/willxucodes/pen/MWmZjyO" %}
 
+Example: [Jpearman Prototype](https://jpearman.smugmug.com/Robotics/NewTrippleLift)
+
 ### Description
 
 A cascade or elevator lift is a lift that provides an immense amount of height, while taking not a lot of space. It utilizes c-channels, sprockets, and chain to connect each bar together. These bars run parallel to the structural frame of the lift, which is connected to the chassis of the robot. Issues that are prevalent among cascade lifts is the lack of support found on the lift, as when fully extended, the linear characteristic of the cascade lift could cause issues in preventing the lift from failing. In addition, the difficulty in tuning and repairing cascade lifts due to its compactness makes it difficult for quick repairs or adjustments when failures do occur.
