@@ -7,7 +7,7 @@ description: >-
 # Solidworks Chassis, Chain, and Custom Plastic
 
 {% embed url="https://www.youtube.com/watch?v=HTXlYZr-BKo" %}
-Chassis Tutorial Videoo
+Chassis Tutorial Video
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=7oSZwV6BuRg" %}
