@@ -183,7 +183,7 @@
     * [Model Browser Folder (Right)](vex-cad/making-a-chassis/inventor-chassis-best-practices/untitled-5.md)
     * [Main Assembly](vex-cad/making-a-chassis/inventor-chassis-best-practices/placing-chassis-in-main.md)
   * [Fusion 360 Chassis](vex-cad/making-a-chassis/fusion-360-chassis.md)
-  * [Solidworks Chassis](vex-cad/making-a-chassis/solidworks-chassis.md)
+  * [Solidworks Chassis, Chain, and Custom Plastic](vex-cad/making-a-chassis/solidworks-chassis.md)
 * [Remembering The Best](vex-cad/remembering-the-best/README.md)
   * [62A Skyrise](vex-cad/remembering-the-best/62a-skyrise.md)
   * [400X Nothing But Net](vex-cad/remembering-the-best/400x-nothing-but-net.md)
