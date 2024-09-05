@@ -20,4 +20,4 @@ Chain and Assembly Rendering Tutorial Videos
 
 ### Teams Contributed to this Article:
 
-* [6627](https://www.foothillrobotics.org/) [(Foothill VEX Robotics)](https://www.foothillrobotics.org/)
+* 6627 Knight Time Bots - [(Foothill VEX Robotics)](https://www.foothillrobotics.org/)
