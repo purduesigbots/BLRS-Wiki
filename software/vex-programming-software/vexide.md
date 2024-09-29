@@ -25,7 +25,7 @@ vexide handles low-level operations like task scheduling, memory allocation, com
 * Minimal Runtime Overhead
 * Hardware-optimized VFPv3 Math Operations
 * Error handling features for devices.
-* Supports compiling to WASM and running locally in a [simulated enviornment](https://github.com/vexide/v5wasm).
+* Supports compiling to WASM and running locally in a [WASM simulator](https://github.com/vexide/v5wasm) or [QEMU emulator](https://github.com/vexide/vex-v5-qemu).
 * Graphics drivers for [Slint](https://slint.dev/) and [embedded-graphics](https://crates.io/crates/embedded-graphics).
 * Works with the `cargo`/[crates.io](https://crates.io/) package management/dependency ecosystem.
 * Dedicated [`cargo-v5`](https://github.com/vexide/cargo-v5) CLI tool for uploading.
