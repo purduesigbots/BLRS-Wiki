@@ -233,6 +233,7 @@
 * [VEX Programming Software](software/vex-programming-software/README.md)
   * [PROS](software/vex-programming-software/pros/README.md)
     * [OkapiLib](software/vex-programming-software/pros/okapilib.md)
+  * [vexide](software/vex-programming-software/vexide.md)
   * [Robot Mesh Studio (RMS)](software/vex-programming-software/robot-mesh-studios.md)
   * [EasyC](software/vex-programming-software/easyc.md)
   * [RobotC](software/vex-programming-software/robotc.md)
