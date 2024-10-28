@@ -12,7 +12,7 @@ Triggering it requires a reasonable amount of force, so don’t plan to use this
 
 There also used to be an older model that works the same exact way, but with a smaller button.
 
-![Older Bump Switch Model](<../../../.gitbook/assets/image (9) (1).png>)
+![Older Bump Switch Model](<../../../.gitbook/assets/image (171).png>)
 
 ## Teams Contributed to this Article:
 

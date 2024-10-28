@@ -12,4 +12,4 @@ description: CAD by Zach
 
 ![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 2.png>)
 
-![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 3 (2).png>)
+![CAD by Zach(929u), Renders by Zach(929u)](<../../.gitbook/assets/Render 3.PNG>)

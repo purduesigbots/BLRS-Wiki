@@ -6,7 +6,7 @@ description: >-
 
 # Optical Sensor
 
-![V5 Optical Sensor](../../../.gitbook/assets/opticalsensor.png)
+![V5 Optical Sensor](<../../../.gitbook/assets/opticalsensor (1).png>)
 
 The <img src="../../../.gitbook/assets/opticalsensor_icon.png" alt="" data-size="line"> **VEX V5 Optical** **Sensor** can be used to determine the color of an object or to detect gestures. It connects to the [V5 Brain](../../vex-electronics/vex-v5-brain/) through a Smart Port located at the top of the sensor.
 

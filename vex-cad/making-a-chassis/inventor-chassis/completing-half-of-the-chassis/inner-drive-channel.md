@@ -14,11 +14,11 @@ Reference the inventor basics connecting two c-channels tutorial if you need mor
 
 This gets constrained with the same constraints we used for the outer drive channel, one insert and one mate constraint.  Except now that we know about constraint parameters, we are going to offset the insert constraint by 0.5" before pressing `Apply`.&#x20;
 
-![Insert Constraint on Inner Drive Channel](<../../../../.gitbook/assets/image (217).png>)
+![Insert Constraint on Inner Drive Channel](<../../../../.gitbook/assets/image (46).png>)
 
 After adding the mate constraint to another hole, this inner drive channel is fully constrained!
 
-![Mate Constraint on Inner Drive Channel](<../../../../.gitbook/assets/image (194).png>)
+![Mate Constraint on Inner Drive Channel](<../../../../.gitbook/assets/image (173).png>)
 
 {% hint style="info" %}
 Remember to save!

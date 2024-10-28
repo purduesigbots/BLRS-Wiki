@@ -1416,13 +1416,13 @@ plt.close()
 
 As mentioned above, the original pure pursuit controller calculates angular velocity in a different way. The robot is expected to travel an arc that intersects both its current position and the goal point, with an additional constraint that the arc has to be tangent to the line connecting the front and back wheel of the robot. During the process of traveling this arc, the robot's angular velocity stays constant. In our implementation above, for the robot to reach the goal point, its angular velocity changes as turn error changes. The difference is illustrated in the picture below:
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (238).png>)
 
 To adapt this arc traveling behavior into differential drive robots, consider the following question: assume the robot's linear velocity stays constant and the robot width is known, what velocity difference does the left and right side of the robot need to have to produce this arc trajectory?
 
 In order to compute the appropriate turn velocity, we first need to find the radius of the arc we want the robot to travel (denoted as $$R$$ in the picture below).
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 This is easy to compute using trigonometry. Using the right triangle on the bottom, we can obtain:
 
@@ -1433,7 +1433,7 @@ Next, consider the diagram below:
 \
 
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (202).png>)
 
 Denote the distance traveled by the left side of the robot as $$Ll$$ and the distance traveled by the right side of the robot as $$Lr$$. Assume the robot finishes traveling the arc after time $$Δt$$. Since the left side of the robot has velocity `linearVel - turnVel` and the right side of the robot has velocity `linearVel + turnVel`, we can obtain the following equations:
 

@@ -8,13 +8,13 @@ description: In this page, we'll be going over how to constrain sprockets to whe
 
 First we need to place them.  We can find them in `Motion/Sprockets/HS 18T Sprocket, square.ipt`.  This will get constrained with one insert constraint to the wheel, with an offset of 0.3125". &#x20;
 
-![Insert Constraint between Sprocket and Wheel](<../../../../.gitbook/assets/image (109).png>)
+![Insert Constraint between Sprocket and Wheel](<../../../../.gitbook/assets/image (226).png>)
 
-![Completed Sprocket](<../../../../.gitbook/assets/image (169).png>)
+![Completed Sprocket](<../../../../.gitbook/assets/image (156).png>)
 
 After placing a sprocket on each wheel it should look like this.
 
-![Completed Sprockets](<../../../../.gitbook/assets/image (64).png>)
+![Completed Sprockets](<../../../../.gitbook/assets/image (253).png>)
 
 {% hint style="info" %}
 Remember to save!

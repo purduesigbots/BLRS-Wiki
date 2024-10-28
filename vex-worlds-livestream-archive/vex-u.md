@@ -1,10 +1,28 @@
 # VEX U
 
 {% hint style="danger" %}
-We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Stay tuned!&#x20;
+We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Currently, Worlds 2024 links still work. Stay tuned!&#x20;
 
 If you have any proposed solutions for this other than replacing the links when they break, please do!
 {% endhint %}
+
+## 2024 - VURC Over Under
+
+Opening Ceremonies\
+[VURC, V5RC (MS), and JROTC Opening Ceremonies](https://www.vexworlds.tv/#/viewer/broadcasts/opening-ceremonies-vrc-ms--jrotc--vex-u-cj1hcmaw9w3xaczcs6ah/wzlpdy1wp384slc4wf8b)
+
+Innovate Division\
+[Qualification Matches (Day 1) ](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-innovate-yxlmbfpfa3oj275czjmf/ulkuufu5cam4s06gdim3)\
+[Qualification Matches (Day 2)](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-innovate-elk09hemvm4c9ewwwevn/o0pngqswkl9vdmx59rwp)\
+[Qualification, Playoffs, & Awards](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-innovate-pqsqpx5qx9ejnwpgk6zn/ngnvh73ovzgrtrnut9er)
+
+Spirit Division\
+[Qualification Matches (Day 1)](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-spirit-bks4dwmaojh4l7cc7wlt/xhyp2qwflsg28wm51nmm)\
+[Qualification Matches (Day 2)](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-spirit-vd1vfoam5siudkhaybee/jckbjikfujhkqst9csfs)\
+[Qualification, Playoffs, & Awards](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-spirit-jcubwhkeyqgzljyukpmp/fsyi5ixmcu99jgfkx9oj)
+
+Closing Ceremonies & Finals\
+[VURC, V5RC (MS), and JROTC Closing Ceremonies and Finals](https://www.vexworlds.tv/#/viewer/broadcasts/finals-closing-ceremonies-vrc-game-unveil-vrc-ms--jrotc--vex-u-mt5ri7afaajpl17vmldh/erywhicljb52t0vemmtb)
 
 ## 2023 - VRC Spin Up
 
@@ -38,7 +56,7 @@ Technology Division\
 Closing Ceremonies & Finals\
 [VEX U, VRC Middle School, and JROTC Closing Ceremonies and Finals](https://www.vexworlds.tv/#/viewer/?broadcast=pfrg9oxuyodlpi2nopib)
 
-## 2019 - VRC Tipping Point
+## 2019 - VRC Turning Point
 
 Opening Ceremonies\
 [VRC Parade of Nations](https://livestream.com/vrctv1/2019-vrc-freedom-hall/videos/190471729)

@@ -12,15 +12,15 @@ Starstruck was a game that required a flip-out mech for the popular claw design.
 
 One example of several flip-out mechanisms being utilized on one robot was [97934V's Starstruck Deploy](https://www.youtube.com/watch?v=u9XEYpPA-H4). Most notably, its claw was held behind its lift tower until the lift was raised.
 
-![97934V's Starstruck Deploy](../.gitbook/assets/97934vs-starstruck-deploy.png)
+![97934V's Starstruck Deploy](<../.gitbook/assets/97934V's Starstruck Deploy.png>)
 
 Another successful flip-out mechanism was the [2019 Ri3D team's intake flipout](https://youtu.be/BC4ZlIcBB7I?t=145). It utilized a standoff to hold in the intakes until the lift was raised. Then, the intakes flipped out and locked with another standoff.
 
-![2019 SoCal RI3D Intake Flipout](../.gitbook/assets/bens-intake-flipout.png)
+![2019 SoCal RI3D Intake Flipout](<../.gitbook/assets/Ben's Intake Flipout.png>)
 
 This mechanism was not a "flip-out" mechanism in the conventional way, but [Antichamber's Modular Cone Launcher](https://www.youtube.com/watch?v=zHS9VIAxNNM) was certainly interesting. In Vex In the Zone, several teams utilized their preload by launching it across the field to block another teams autonomous function. This was one particular mechanism for doing so.
 
-![Antichamber's Modular Cone Launcher](<../.gitbook/assets/antichambers-modular-cone-launcher (2) (2) (1) (1).png>)
+![Antichamber's Modular Cone Launcher](<../.gitbook/assets/antichambers-modular-cone-launcher (2) (2) (1).png>)
 
 ## Contributing Teams to this Article:
 

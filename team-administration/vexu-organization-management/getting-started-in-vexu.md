@@ -42,7 +42,7 @@ Look for space in research focused buildings on a univeristy campus, or often ti
 
 * [ ] Find funding
 
-Reach out to university alumni, local companies, and STEM education programs for funding. Learn more about budgeting and funding options in our [Team Finances](<../../Team Administration/team-finances/>) articles.
+Reach out to university alumni, local companies, and STEM education programs for funding. Learn more about budgeting and funding options in our [Team Finances](../team-finances/) articles.
 
 * [ ] Register on [RobotEvents.com](https://www.robotevents.com)
 

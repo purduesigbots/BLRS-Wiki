@@ -95,17 +95,17 @@ In this segment, one effective way to format information is using an already est
 
 This segment is the place to document all of the progress in programming for the robot. It is important to show the process that was followed in development, and shows that all code was developed by the team, or references outside resources such as [Okapi](../../software/vex-programming-software/pros/okapilib.md), [PROS](../../software/vex-programming-software/pros/), [Pilons' Odometry Document](../../software/odometry.md), etc. It is also recommended that the team heavily annotates all code in the notebook so that judges with little to no experience can understand it, and more experienced judges can better appreciate it. Because of all these factors, in addition to the fact that code development is largely separated from mechanics and general entries, mean that it is common for teams to create a separate notebook or binder just for programming documentation.
 
-![Topics in 95E's Tipping Point Code Documentation](<../../.gitbook/assets/image (29).png>)
+![Topics in 95E's Tipping Point Code Documentation](<../../.gitbook/assets/image (175).png>)
 
 In documenting your program, it is important to write about all facets of the code, describing the reasoning behind decisions using the Engineering Design Process in much the same fashion as mechanics entries. In addition to including a fully commented print of the code in the notebook, it is even more important to describe and highlight important pieces of the notebook separately, as well as describing the rational behind them. As an aside, main autonomous route planning, done with a specific robot in mind, should be included chronologically within the main notebook - separated entries should mainly be reserved for backend development on complex algorithms.
 
-![Design Process Used in 91A's Code Documentation](<../../.gitbook/assets/image (6).png>)
+![Design Process Used in 91A's Code Documentation](<../../.gitbook/assets/image (235).png>)
 
 ### Recording Testing Data
 
 One of the most overlooked areas in writing a competitive notebook, testing the changes made to a robot is an oft-completed task for any team, yet still needs to be effectively documented in the notebook. Documenting the testing data for a robot or program helps to showcase various areas for improvement, as well as illustrating a tangible record of improvement throughout the notebook. While testing may have its own entry in the notebook, the vast majority of testing will be done in conjunction with changes to the robot, and included within those entries. As such, it is important to establish a baseline procedure for documenting all testing early in your development process, recording this procedure in the notebook. An established procedure for performing and recording testing helps to ensure that all testing is consistent, accurate, and reflected well within documentation.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (217).png>)
 
 As for how testing should be documented, that is largely specific to the subject of such testing. There are many different testing methods that can be researched and used, the main important things being that the process used for testing is documented in the notebook, and the process is used consistently to gather effective data. One way to help make the testing process more efficient is to make sure that the metrics used to test are real use-cases, and things that would need to be tested anyways. For instance, testing the speed at which a lift operates, or how fast an object cycles through the robot, are both easy to test and things that have a real impact on a robot's performance.
 

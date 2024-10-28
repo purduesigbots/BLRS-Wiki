@@ -14,13 +14,13 @@ Of more importance to the user of a screw is the drive style and its specialty f
 
 #### Star/Torx Drive
 
-![](<../../../.gitbook/assets/image (2) (2) (1).png>)
+![](<../../../.gitbook/assets/image (107).png>)
 
 Star Drive, otherwise known by its trade name as "Torx" Drive, is the most common drive style in VEX. It offers the advantage of being generally more resistant to stripping than its hexagonal predecessor, but has the tradeoff of being difficult to purchase at a hardware store. Convenient sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html), [Robosource](https://www.robosource.net/star-drive-screws-steel), and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size\~8-32/drive-style\~torx/).
 
 #### Hex Drive
 
-![](<../../../.gitbook/assets/image (5) (2).png>)
+![](<../../../.gitbook/assets/image (92).png>)
 
 Hex Drive was widely used in previous seasons of VRC, but has since been mostly eclipsed by Star Drive screws. Hex Drive is now largely unpopular due to the fact that it is notorious for stripping easily. Additionally, similar to the Star Drive style, it is difficult to find commercially. Potential sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html) and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size\~8-32/drive-style\~hex/).
 
@@ -36,19 +36,19 @@ Most screws will be normal screws that have no additional benefit. However, ther
 
 #### Shoulder Screws
 
-![](<../../../.gitbook/assets/image (15) (2).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 Shoulder screws are screws which are not threaded near the head. Usually, this lack of thread, referred to as the "shoulder", has a length that spans no more than 1/8 of an inch. The benefit of using a shoulder screw is that the shoulder is larger than the diameter of the threading. This means that, when passed through the hole of a C-channel or angle, the screw will always be nearly perfectly centered in the hole. This is excellent for any structural purpose, and should especially be utilized when constructing drivetrains to ensure that the drivetrain is "square" and aligned properly. Shoulder screws can be purchased in the Hex Drive variant from the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html) or in the Star Drive variant from [Robosource](https://www.robosource.net/shoulder-screws).
 
 #### Locking Screws
 
-![](<../../../.gitbook/assets/image (11) (1).png>)
+![](<../../../.gitbook/assets/image (122).png>)
 
 Locking screws are normal #8-32 screws that have thread locker brushed onto the ends of the screw's threading. They bring the added benefit of making the screw resistant to vibration, meaning that the screw cannot loosen unless a screwdriver interacts with it. They can be purchased from the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html) with thread locker already brushed onto them, or they can be made by brushing any commercial thread locker, such as Loctite, onto an #8-32 screw.
 
 #### Thumbscrews
 
-![](<../../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (163).png>)
 
 While not particularly useful, VEX's thumbscrews offer a simplistic way to tighten screws. The method of tightening these screws is as the name suggests: they can be tightened by hand using the knurled head. One benefit that competitors have found within the thumbscrew is the fact that it is made of plastic compared to the typical stainless steel. This would make it a lightweight alternative to using any other screw. They can only be purchased from the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html).
 
@@ -80,7 +80,7 @@ Most commonly used in Screw Joints, as it is not advisable to tighten the outer 
 
 Standoffs are a fairly common part with a wide variety of use-cases in the VEX Robotics Competition.
 
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 Comprised of a long, threaded interior formed into a hexagonal shape, standoffs are often used to space pieces of structure over long dimensions, as screws can be threaded into either end of the cylinder. Due to their versatile dimensions, standoffs are often used in bracing components of a robot, and are sometimes used as main structural components themselves.&#x20;
 

@@ -14,7 +14,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 
 ## LattePanda V1.0
 
-![LattePanda V1.0](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![LattePanda V1.0](<../../../.gitbook/assets/image (197).png>)
 
 ## **Specifications:**
 
@@ -33,7 +33,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 | Board Size           | 88 x 70mm / 3.46 x 2.76"                                                                                                                                            |
 | Board Weight         | 55 grams                                                                                                                                                            |
 
-![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (1).png>)
+![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (2).png>)
 
 ## LattePanda Alpha Series
 
@@ -43,7 +43,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 **"Alpha Edition** - Generally refers to the leader in a wolf pack, α / Alpha. It will also be the leader in the LattePanda series, the most powerful in performance. Known as the leader of the Pandas, or "AlphaPanda" for short.**"**
 
-![LattePanda Alpha Series](<../../../.gitbook/assets/image (11).png>)
+![LattePanda Alpha Series](<../../../.gitbook/assets/image (19).png>)
 
 ## **Specifications:**
 
@@ -68,7 +68,7 @@ The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identi
 
 **"** **Delta Edition -** Mathematical Character △; a triangle. In terms of product design, performance, and price, it signals a compromise between the three. It keeps the perfect balancing, while balancing best reflects the beauty of engineering.**"**
 
-![LattePanda Delta 432](<../../../.gitbook/assets/image (10).png>)
+![LattePanda Delta 432](<../../../.gitbook/assets/image (66).png>)
 
 | Specification        |  **Delta 432**                                                                                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,10 +1,48 @@
-# VRC Middle School
+# V5RC Middle School
 
 {% hint style="danger" %}
-We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Stay tuned!&#x20;
+We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Currently, Worlds 2024 links still work. Stay tuned!&#x20;
 
 If you have any proposed solutions for this other than replacing the links when they break, please do!
 {% endhint %}
+
+## 2024 - V5RC Over Under
+
+Opening Ceremonies\
+[VURC, V5RC MS, and JROTC Opening Ceremonies](https://www.vexworlds.tv/#/viewer/broadcasts/opening-ceremonies-vrc-ms--jrotc--vex-u-cj1hcmaw9w3xaczcs6ah/wzlpdy1wp384slc4wf8b)
+
+Arts Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-arts-xwofs8kfbgtzoromp7tx/etbvqyqvfjurheuolrbk)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-arts-mdwgthfn5lnbzl2njklp/nypuets6ju387df1ab91) (Day 1)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-arts-lujgteuypvtjg1wk0zch/ffwf1wwjpuvupca8vzc3) (Day 2)&#x20;
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-design-a1oehnluxbjghtwtgpbt/oiskvdlnowpc39aifue9)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-design-vwxamrs9i83nozalsw0w/pe3xpqucnilrhltact00) (Day 1)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-design-dttihxnmnunpmuvq2h9q/vc8tpnmeib2w5xv1jjsc) (Day 2)&#x20;
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-engineering-i3si41t99iwhmyghfwtt/lnpj5wwz1yjqoluikhy2)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-engineering-valez5497asrgnovjavt/ciiissc094ggv0g5qncx) (Day 1)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-engineering-mh0xrva1t6erwwr9a8tr/q18gzebtwq5sx0nx569x) (Day 2)&#x20;
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-math-qupd2orzhulivzm2oyfd/p6zzbiahghlkltavh2of)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-math-ullegzobqamseztj1jiy/f3npmupgq10difia4ymj) (Day 1)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-math-iitjr3hemik4wxetrti1/rbzhrvhhgthzibohuyq3) (Day 2)&#x20;
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-science-gmohuq1woa0ivmibk5ji/bwokz5l4ttugh9fqbmoe)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-science-agxki81kprt55s2cpi4l/ytvkcwj8xzuwv3dk7zbs) (Day 1)\
+[Qualification Matches ](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-science-c3eiol6zkly5gdcbtviz/pwaqzsoxsgroqholdzxb)(Day 2)&#x20;
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-technology-xf35k7730vlz9w9kb2rj/fh5q0ask0buhzaukjh4q)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-technology-sffjehod845wavkcc3ne/ghkfahcypify0axpjzau) (Day 1)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-technology-ii9hub4gykfkwt3tsvhi/xk58szsbluriesmtf7om) (Day 2)&#x20;
+
+Closing Ceremonies & Finals\
+[VURC, V5RC MS, and JROTC Closing Ceremonies and Finals](https://www.vexworlds.tv/#/viewer/broadcasts/finals-closing-ceremonies-vrc-game-unveil-vrc-ms--jrotc--vex-u-mt5ri7afaajpl17vmldh/erywhicljb52t0vemmtb)
 
 ## 2023 - VRC Spin Up
 
@@ -13,7 +51,8 @@ Opening Ceremonies\
 
 Arts Division\
 [Practice & Qualification Matches\
-](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-arts-s4v6kl4ip952ibdbbonv)[Qualification, Playoffs, & Awards](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-playoffs--awards-opportunity-emolrujc4qytevom1p6j)
+](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-arts-s4v6kl4ip952ibdbbonv)\
+[Qualification, Playoffs, & Awards](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-playoffs--awards-opportunity-emolrujc4qytevom1p6j)
 
 Engineering Division\
 [Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-engineering-efkel625lnl1mcqkxsvq)\

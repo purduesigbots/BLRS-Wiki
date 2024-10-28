@@ -2,7 +2,7 @@
 
 ## Possible Movement Vectors
 
-<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
 ## Advantages / Disadvantages
 

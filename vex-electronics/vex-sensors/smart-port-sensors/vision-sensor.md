@@ -28,13 +28,13 @@ The Vision Sensor combines a dual ARM Cortex M4+M0 processor, color camera, WiFi
 
 ## Vision Utility
 
-![The Vision Utility recognizing a red gear's color signature, creating a white rectangular overlay to show object recognition.](<../../../.gitbook/assets/image (13) (4).png>)
+![The Vision Utility recognizing a red gear's color signature, creating a white rectangular overlay to show object recognition.](<../../../.gitbook/assets/image (101).png>)
 
 The Vision Utility is the primary tool used to calibrate the Vision Sensor such that it will be able to locate objects of a particular color. The user-calibrated color that the Vision Sensor tries to locate is known as a "signature". The Vision Sensor can store seven signatures total. To use the Vision Utility, the Vision Sensor must be plugged into a computer via a mini-USB cable. Then, after opening the Vision Utility, the sensor's camera should become active, and should relay the video feed to the Vision Utility window.
 
 To generate a color signature, freeze the on-screen image. Then, hold down the left mouse button to create a rectangular area to cover. The area covered will represent the color signature. After releasing the left mouse button, the area will be set. From there, the "set" button can be pressed on the right of the window for any of the seven signatures. This will generate a signature in the given signature slot. These steps can be repeated to generate as many color signatures as possible.
 
-<img src="../../../.gitbook/assets/image (28) (2).png" alt="" data-size="line"> Pressing the blue copy button on the bottom right of the window will copy all of the signatures in [VEXcode](../../../software/vex-programming-software/vex-coding-studio-vcs.md) syntax. This means that the signatures will be competition-ready as soon as it is pasted into VEXcode. In terms of [PROS](../../../software/vex-programming-software/pros/), the VEXcode syntax copied from the Vision Utility will not function on its own, but the signatures can be properly generated using the "[signature\_from_\__utility](https://pros.cs.purdue.edu/v5/api/cpp/vision.html#signature-from-utility)" method.
+<img src="../../../.gitbook/assets/image (246).png" alt="" data-size="line"> Pressing the blue copy button on the bottom right of the window will copy all of the signatures in [VEXcode](../../../software/vex-programming-software/vex-coding-studio-vcs.md) syntax. This means that the signatures will be competition-ready as soon as it is pasted into VEXcode. In terms of [PROS](../../../software/vex-programming-software/pros/), the VEXcode syntax copied from the Vision Utility will not function on its own, but the signatures can be properly generated using the "[signature\_from_\__utility](https://pros.cs.purdue.edu/v5/api/cpp/vision.html#signature-from-utility)" method.
 
 ### Teams Contributed to this Article:
 

@@ -6,7 +6,7 @@ The center of mass significantly impacts the robot's maneuverability. Make sure 
 
 The [center of mass](https://en.wikipedia.org/wiki/Center\_of\_mass) (COM) or center of gravity (COG) of a robot is the mean location of all the mass of a robot.
 
-<figure><img src="../../.gitbook/assets/image (260).png" alt="" width="375"><figcaption><p>Robot in 3D Cartesian Coordinate System</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (312).png" alt="" width="375"><figcaption><p>Robot in 3D Cartesian Coordinate System</p></figcaption></figure>
 
 ## Measuring COM Position
 
@@ -34,7 +34,7 @@ To mitigate jerking ...
 
 ### Turning
 
-<figure><img src="../../.gitbook/assets/image (262).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (314).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The [turning center](../../software/odometry.md#tracking-theory-aka-odometry) of the robot is less predictable if the COM (in the horizontal plane) is far from the midpoint of all the wheels. Keeping the COM centered side-to-side and front-to-back ensures more stable and predictable turning.
 
@@ -42,7 +42,7 @@ The [turning center](../../software/odometry.md#tracking-theory-aka-odometry) of
 
 | Robot Hanging                                                                                                                                                                       | Simplified Diagram                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <p><img src="../../.gitbook/assets/image (259).png" alt="" data-size="original"><br><a href="https://youtu.be/IVRtz8LhicI?si=SgqCc8fkVBB924wO">RI3D for Over Under by JHAWK</a></p> | <img src="../../.gitbook/assets/image (258).png" alt="" data-size="original"> |
+| <p><img src="../../.gitbook/assets/image (311).png" alt="" data-size="original"><br><a href="https://youtu.be/IVRtz8LhicI?si=SgqCc8fkVBB924wO">RI3D for Over Under by JHAWK</a></p> | <img src="../../.gitbook/assets/image (310).png" alt="" data-size="original"> |
 
 The end effector used during a hang is typically implemented with a joint. If the horizontal COM is offset from the point where the robot hangs, the robot will tilt until the COM aligns directly beneath the hanging point.
 

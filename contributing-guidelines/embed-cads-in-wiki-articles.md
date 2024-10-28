@@ -18,7 +18,7 @@ First, upload your CAD file to Fusion 360, and follow this guide below to retrie
 
 The code to copy should be located here.
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 ### 2. Paste the Code in a [CodePen](https://codepen.io/) Project
 
@@ -26,7 +26,7 @@ Sign up for [CodePen](https://codepen.io/), and paste the code under the "HTML" 
 
 If this wasn't cleaer enough, this is what we mean:
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (152).png>)
 
 ### 3. Paste the link URL from your browser into these locations:
 

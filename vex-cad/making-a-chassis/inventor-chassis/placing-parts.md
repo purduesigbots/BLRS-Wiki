@@ -8,7 +8,7 @@ description: In this page, we'll be going over how to place parts in your assemb
 
 Make sure you're on the `Assemble` tab on the ribbon at the top left corner.  Under `File`, click the text `Place from Content Center`.  This is what it defaults to, but we want it to say `Place`.  Select `Place`.&#x20;
 
-![Default Place Button](<../../../.gitbook/assets/image (160).png>)
+![Default Place Button](<../../../.gitbook/assets/image (51).png>)
 
 The `Place Component` window will pop up.  Navigate to the CAD folder that we created previously.  It's best practice to use the button circled in red to go up a directory when navigating.
 
@@ -20,11 +20,11 @@ After selecting the part you want to place, the part appears slightly transparen
 
 Once your part is in the correct orientation, `Left Click` to place your part.  If you want more then one of this part, `Left Click` again.  Once you have all of your parts, press `Escape` on your keyboard.
 
-![Rotate Parts before Placing](<../../../.gitbook/assets/image (114).png>)
+![Rotate Parts before Placing](<../../../.gitbook/assets/image (55).png>)
 
 When done, this is what you should see:
 
-![Final Placed Part](<../../../.gitbook/assets/image (141).png>)
+![Final Placed Part](<../../../.gitbook/assets/image (159).png>)
 
 {% hint style="info" %}
 Remember to save!

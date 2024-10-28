@@ -86,13 +86,13 @@ This is a terrible idea for many reasons, as reality really hits hard against th
 
 For starters, mechanical fatigue and general maintenance tends to get worse the longer you keep a robot around. Shaft collars inserts wear out, screws get loose, and after competitions metal tends to be weaker. For this reason, some teams (time willing) will do rebuilds (not redesigns) between lulls in competitions to prevent mechanical wear and tear becoming a major issue.&#x20;
 
-Another issue is the fact that [chassis](../../hardware/vex-drivetrains.md) design year to year may vary greatly. Different games may have different obstacles and hazards for robots to climb or navigate across.&#x20;
+Another issue is the fact that [chassis](../../hardware/vex-drivetrains/) design year to year may vary greatly. Different games may have different obstacles and hazards for robots to climb or navigate across.&#x20;
 
 Here are a couple of examples:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption><p>Sample Tank Drive by Xenon27 on the VEX Forum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption><p>Sample Tank Drive by Xenon27 on the VEX Forum</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption><p>Simpler X-Drive - Codec</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption><p>Simpler X-Drive - Codec</p></figcaption></figure>
 
 Even if the games might be similar enough, the tolerances, foundations, and mounting points for different subsystems between games are crucial for success in robotics. To modify an existing design with intended features will always be harder and less competitively effective than building a purpose made design from the ground up. This also robs a learning opportunity from newer team members who do not have the chance to build a chassis from the ground up that year.&#x20;
 
@@ -104,7 +104,7 @@ As an adult mentor or coach, you're always right! Especially if you have an engi
 
 **In Practice**
 
-<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption><p>"The Adult is Always Right" in Practice</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption><p>"The Adult is Always Right" in Practice</p></figcaption></figure>
 
 As a mentor, the most ideal situation is to form comradery and trust between you and your students. Talking down to students does not do anything constructive and only creates animosity that can't be solved in the short term unless there is a massive change in behavior.&#x20;
 

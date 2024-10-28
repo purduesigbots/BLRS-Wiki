@@ -1,10 +1,58 @@
-# VRC High School
+# V5RC High School
 
 {% hint style="danger" %}
-We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Stay tuned!&#x20;
+We are aware that these links do not work anymore and we are currently working on a more future proof solution for fixing these year to year. Currently, Worlds 2024 links still work. Stay tuned!&#x20;
 
 If you have any proposed solutions for this other than replacing the links when they break, please do!
 {% endhint %}
+
+## 2024 - V5RC Over Under
+
+Opening Ceremonies\
+[V5RC (HS) Opening Ceremonies](https://www.vexworlds.tv/#/viewer/broadcasts/opening-ceremonies-vrc-hs-kuthutfz53yqdb79ckqu/nrdvhenflowlgjsclo96)
+
+Science Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-science-reuqlakfg5hmfpeazkp0/fad71z5jlowm0sqb0nsv)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-science-mw6c4ff52arc5xbkzcwi/izrtnic7b2avhdr1ket3)
+
+Technology Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-technology-cxecjzmwxaewat4xx7v3/x5u5brzepq2pqriuxzg9)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-technology-qfei3ajlq0oh7vdtkeb0/kmjkkxwrkqkjbb8lsl2y)
+
+Engineering Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-engineering-fgtlmiuvqbjhbyadikfc/g8f6dbgfqknqvgx8kzkt)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-engineering-dnghftbfskxtenr4mtdg/xeghtqanfi7cdemppsqs)
+
+Arts Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-arts-udwis5i8snds1ckiwqwx/ro2nhrxbij6mgopjpncp)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-arts-tskyqjly19gy7nwnli7a/oqxxys3pqzzrkwaw30yx)
+
+Math Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-math-czsfu5i4oknhx0gbrrne/hs8wnhobx7ezmshjdjr2)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-math-skhqejxnfsvce2cgqp7l/gfv80uw0djdwsc0xwm0w)
+
+Design Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-design-apuqarjpwhstji1rpijh/gnqjxdavnjaidlg8iaw8)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-design-wqtgkrsejobbbw9vceks/wc66bbialtwirfj19a9n)
+
+Research Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-research-aqxx1rllkjrwvgokqqsv/fenel9jffukwnraf3qis)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-research-iuzocyy1ord9dq2uo8wg/hmb1ii4c6gibfzpv3j7i)
+
+Innovate Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-innovate-j3pe5ytqduw7a8djxgnx/ddzngpxhn6h33xrrh9s3)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-innovate-xgmnrqkso1nbqjoaorun/hbo4saezfkcbrzd8icuf)
+
+Spirit Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-spirit-izywmtirz614wygf67eh/iqwh66ycdugcl31f2plv)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-spirit-jjxvdkijp04axgz9qaud/b3b4txp4mgsdzasyqe4g)
+
+Opportunity Division\
+[Practice & Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/practice--qualification-matches-opportunity-lqgeyulbiwnggyzqyeef/klkilqq98xnp0nkcjhmg)\
+[Qualification Matches](https://www.vexworlds.tv/#/viewer/broadcasts/qualification-matches-opportunity-jymdjn7uwtrahqsjhtsc/ky1bjkgg0mleec5cxbya)
+
+Closing Ceremonies & Finals\
+[Finals, Closing Ceremonies, VRC Game Unveil](https://www.vexworlds.tv/#/viewer/broadcasts/finals-closing-ceremonies-vrc-game-unveil-vrc-hs-qh2ui82iiszgezombbui/fu1nqfc44bn9hssuvw99)
 
 ## 2023 - VRC Spin Up
 

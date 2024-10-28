@@ -38,7 +38,7 @@ Unlike with sprockets, the teeth on high and low strength gears are the same siz
 
 Dissimilar to sprockets, there is not so much a clear cut boundary of when to use high and low strength gears. In higher torque situations, using high strength gears is advisable, as the extra thickness reduces the odds of the gear snapping. In lower torque areas, or in places where space is a concern, using low strength gears may be a better option.&#x20;
 
-Due to the popular use of [gears in a drivetrain](../../vex-drivetrains.md#tank-drive), it is worthwhile to note that low and high strength gears can be alternated in the gear chain. This is a good balance between the risk of gears snapping in an all low strength gear drive and the bulkiness of an all high strength gear drive.
+Due to the popular use of [gears in a drivetrain](../../vex-drivetrains/#tank-drive), it is worthwhile to note that low and high strength gears can be alternated in the gear chain. This is a good balance between the risk of gears snapping in an all low strength gear drive and the bulkiness of an all high strength gear drive.
 
 
 

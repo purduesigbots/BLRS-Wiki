@@ -12,11 +12,11 @@ In the previous tutorial, we put standoff bracing between the drive channels.  B
 
 ## Standoff Brace
 
-![Selected Standoff Brace from Previous Robot](<../../../../.gitbook/assets/image (206).png>)
+![Selected Standoff Brace from Previous Robot](<../../../../.gitbook/assets/image (204).png>)
 
-![Insert Constraint between Washer and C-Channel](<../../../../.gitbook/assets/image (172).png>)
+![Insert Constraint between Washer and C-Channel](<../../../../.gitbook/assets/image (37).png>)
 
-![Completed Standoff Braces](<../../../../.gitbook/assets/image (165).png>)
+![Completed Standoff Braces](<../../../../.gitbook/assets/image (27).png>)
 
 {% hint style="info" %}
 Remember to save!

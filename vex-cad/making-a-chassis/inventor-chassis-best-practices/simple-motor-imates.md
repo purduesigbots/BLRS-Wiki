@@ -12,23 +12,23 @@ Place a simple motor from `Electronics/V5 Simple Motor.ipt`.&#x20;
 
 We will use an insert constraint to constrain the simple motor to our drive channel.  First left click the motor so the iMates show, then insert constrain to one of the iMates (white circles). &#x20;
 
-![iMate Insert Selection](<../../../.gitbook/assets/image (195).png>)
+![iMate Insert Selection](<../../../.gitbook/assets/image (14).png>)
 
 For the second selection, select the c-channel hole you want. &#x20;
 
-![Construction Cylinder Insert Selection](<../../../.gitbook/assets/image (65).png>)
+![Construction Cylinder Insert Selection](<../../../.gitbook/assets/image (224).png>)
 
 For the second constraint we will use another insert constraint with the remainder iMate.&#x20;
 
-![Insert Constraint between iMate and C-Channel](<../../../.gitbook/assets/image (82) (1).png>)
+![Insert Constraint between iMate and C-Channel](<../../../.gitbook/assets/image (124).png>)
 
 The simple motor is constrained with iMates!
 
-![One Constrained Simple Motor](<../../../.gitbook/assets/image (185).png>)
+![One Constrained Simple Motor](<../../../.gitbook/assets/image (60).png>)
 
 And do it once more for the back,
 
-![Completed Simple Motors](<../../../.gitbook/assets/image (210).png>)
+![Completed Simple Motors](<../../../.gitbook/assets/image (74).png>)
 
 {% hint style="info" %}
 Remember to save!
