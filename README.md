@@ -22,7 +22,7 @@ If you would like to discuss or bring up an issue with the wiki without fixing i
 
 <figure><img src=".gitbook/assets/IMG_6768.JPG" alt=""><figcaption><p>2024 World Champions</p></figcaption></figure>
 
-As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com)
+As always if you have any questions or concerns feel free to contact us at: [sig.robotics.purdue@gmail.com](mailto:Sig.robotics.purdue@gmail.com). Please CC your coach in the email to help us assist you more effectively.
 
 ![](<.gitbook/assets/image (251).png>)
 
