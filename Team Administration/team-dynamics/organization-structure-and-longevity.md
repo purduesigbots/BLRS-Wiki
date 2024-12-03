@@ -16,7 +16,7 @@ Code libraries are very helpful in organizations to assist in the start-up proce
 
 Past robot libraries, displays, and notebook libraries are also helpful. Similar to the shared drive mentioned earlier, this is a great way to document designs, mechanisms, and build techniques. The easiest way to teach robotics is to show someone a past robot. If it is possible, displaying some past robots (ones that have done well for example) in the club meeting space helps to show a team close up how robots work. Some teams like [SJTU](https://github.com/organizations/SJTU-VEX) have CAD models of their past robots as well. And notebook libraries can just be a shelf in a meeting space that show past notebooks that people can look through as needed.
 
-At Purdue, the BLRS Wiki is in itself a form of an In-House Resource. Team members are asked to document knowledge that they have gained from VEX. This covers so much from organization creation, to build techniques. For BLRS, it is all published, however, this is not required. Resources like this are a great way to document learnings across an organization.&#x20;
+At Purdue, the BLRS Wiki is in itself a form of an In-House Resource. Team members are asked to document knowledge that they have gained from VEX. This covers so much from organization creation, to build techniques. For BLRS, it is all published; however, this is not required. Resources like this are a great way to document learnings across an organization.&#x20;
 
 ### Interaction Between Teams
 
@@ -24,9 +24,7 @@ Mentorship between the more experienced teams in an organization and the less ex
 
 To take mentorship to the next level as a VRC team, working alongside other teams in your organization can help develop multiple competitive teams at the same time. This has many benefits, such as mutual improvement of each team, better drive practice (viable 1v1's and practice matches), and the ability to coordinate alliance selections. Many top-tier organizations have employed this strategy throughout many seasons with great success, such as [169 ](https://youtu.be/Wm7X3IUz6ok)and [8059](https://youtu.be/NX6mLf8iO34).&#x20;
 
-Another great thing to look into is communication with other teams across regions and the world. The [Vex forum](https://www.vexforum.com) for example has thousands of teams communicating daily and is a great place to ask questions and share knowledge. Similarly, Youtube has hundreds of Vex-related videos from reveals to tutorials. Many regions also have Discord servers. With parent permission, these are a great way to get involved in the VEX community. The largest server is [Vex Robotics Competition (VTOW](https://discord.gg/Z89rYfgWG8), this is an unofficial discord not affiliated with VEX) which has teams from around the world. Talk to teams in different regions though to find out if there is a local Discord Server.
-
-
+Another great thing to look into is communication with other teams across regions and the world. The [VEX forum](https://www.vexforum.com/) for example has thousands of teams communicating daily and is a great place to ask questions and share knowledge. Similarly, YouTube has hundreds of VRC-related videos from reveals to tutorials. Many regions also have Discord servers. Talk to teams in different regions though to find out if there is a local Discord Server. With parent permission, these are a great way to get involved in the VEX community. The largest server is [VEX Robotics Competition](https://discord.com/invite/vrc) (formerly VEX Teams of the World AKA VTOW). This is an unofficial discord not affiliated with VEX which has teams from around the world.
 
 ### Teams Contributed to this Article:
 

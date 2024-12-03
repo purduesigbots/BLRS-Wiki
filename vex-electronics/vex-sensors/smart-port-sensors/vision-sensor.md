@@ -4,7 +4,7 @@ description: The Vision Sensor tells you where colored objects are located.
 
 # Vision Sensor
 
-![](../../../.gitbook/assets/visionsensor\_render.png)
+![](../../../.gitbook/assets/visionsensor_render.png)
 
 ## Features
 
@@ -34,9 +34,9 @@ The Vision Utility is the primary tool used to calibrate the Vision Sensor such 
 
 To generate a color signature, freeze the on-screen image. Then, hold down the left mouse button to create a rectangular area to cover. The area covered will represent the color signature. After releasing the left mouse button, the area will be set. From there, the "set" button can be pressed on the right of the window for any of the seven signatures. This will generate a signature in the given signature slot. These steps can be repeated to generate as many color signatures as possible.
 
-<img src="../../../.gitbook/assets/image (246).png" alt="" data-size="line"> Pressing the blue copy button on the bottom right of the window will copy all of the signatures in [VEXcode](../../../software/vex-programming-software/vex-coding-studio-vcs.md) syntax. This means that the signatures will be competition-ready as soon as it is pasted into VEXcode. In terms of [PROS](../../../software/vex-programming-software/pros/), the VEXcode syntax copied from the Vision Utility will not function on its own, but the signatures can be properly generated using the "[signature\_from_\__utility](https://pros.cs.purdue.edu/v5/api/cpp/vision.html#signature-from-utility)" method.
+<img src="../../../.gitbook/assets/image (246).png" alt="" data-size="line"> Pressing the blue copy button on the bottom right of the window will copy all of the signatures in [VEXcode](../../../software/vex-programming-software/vex-coding-studio-vcs.md) syntax. This means that the signatures will be competition-ready as soon as it is pasted into VEXcode. In terms of [PROS](../../../software/vex-programming-software/pros/), the VEXcode syntax copied from the Vision Utility will not function on its own, but the signatures can be properly generated using the "[signature\_fro&#x6D;_\__&#x75;tility](https://pros.cs.purdue.edu/v5/api/cpp/vision.html#signature-from-utility)" method.
 
 ### Teams Contributed to this Article:
 
 * [BLRS](https://purduesigbots.com/) (Purdue SIGBots)
-* [904U](https://www.youtube.com/channel/UCKvtsL9hJ\_x7bqrpl3nJ3Gg/) (B.E.S.T.I.E. Robotics)
+* [904U](https://www.youtube.com/channel/UCKvtsL9hJ_x7bqrpl3nJ3Gg/) (B.E.S.T.I.E. Robotics)

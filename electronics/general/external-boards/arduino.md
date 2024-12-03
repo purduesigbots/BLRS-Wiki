@@ -11,7 +11,7 @@ Featuring 5-volt operation and impressive [Output Drive](../output-drive.md), th
 
 ## Arduino Uno
 
-![](../../../.gitbook/assets/a000066\_featured\_5.jpg)
+![](../../../.gitbook/assets/a000066_featured_5.jpg)
 
 | **Architecture:** 8-bit Atmel AVR                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,24 +49,24 @@ Getting used to programming on the confines of an Arduino steeps one's understan
 
 ## Arduino Leonardo
 
-[![](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor\_arduino\_leonardo.jpg)](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor\_arduino\_leonardo.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor_arduino_leonardo.jpg)](https://phabricator.purduesigbots.com/file/data/ouywihroyrgzvjqbi3y7/PHID-FILE-rk4z6d5hciyjbx6kg3kd/processor_arduino_leonardo.jpg)
 
-| **Architecture:** 8-bit Atmel AVR                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Processor:** [ATmega32U4](http://arduino.cc/en/Main/ArduinoBoardLeonardo/)                                                                            |
-| **Languages:** C ([Arduino IDE](https://www.arduino.cc/en/main/software))                                                                               |
-| **Clock:** 16 MHz                                                                                                                                       |
-| **Vcore:** 5.0 V                                                                                                                                        |
-| **Vio:** 5.0 V                                                                                                                                          |
-| **Power:** 100 mW                                                                                                                                       |
-| **Flash:** 28 KB                                                                                                                                        |
-| **RAM:** 2 KB                                                                                                                                           |
-| **GPIO:** 23                                                                                                                                            |
-| **Peripherals:**12x [Analog-Digital Converter](../analog-digital-converter.md) _(5.0 V, 10-bit)_ [UART](../uart.md), [SPI](../spi.md), [I2C](../i2c.md) |
+| **Architecture:** 8-bit Atmel AVR                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Processor:** [ATmega32U4](http://arduino.cc/en/Main/ArduinoBoardLeonardo/)                                                                                 |
+| **Languages:** C ([Arduino IDE](https://www.arduino.cc/en/main/software))                                                                                    |
+| **Clock:** 16 MHz                                                                                                                                            |
+| **Vcore:** 5.0 V                                                                                                                                             |
+| **Vio:** 5.0 V                                                                                                                                               |
+| **Power:** 100 mW                                                                                                                                            |
+| **Flash:** 28 KB                                                                                                                                             |
+| **RAM:** 2 KB                                                                                                                                                |
+| **GPIO:** 23                                                                                                                                                 |
+| **Peripherals:**&#x31;2x [Analog-Digital Converter](../analog-digital-converter.md) _(5.0 V, 10-bit)_ [UART](../uart.md), [SPI](../spi.md), [I2C](../i2c.md) |
 
 ## Arduino Mega
 
-[![](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor\_arduino\_mega.jpg)](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor\_arduino\_mega.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor_arduino_mega.jpg)](https://phabricator.purduesigbots.com/file/data/tpu3rueuzkwjspqa2xzv/PHID-FILE-nclcbqoraveubpd544bb/processor_arduino_mega.jpg)
 
 | **Architecture:** 8-bit Atmel AVR                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

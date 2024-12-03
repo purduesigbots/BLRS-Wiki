@@ -79,7 +79,7 @@
   * [Attending Competitions](team-administration/new-team-resources/attending-competitions/README.md)
     * [Elimination Bracket](team-administration/new-team-resources/attending-competitions/elimination-bracket.md)
 * [Team Dynamics](team-administration/team-dynamics/README.md)
-  * [Organization Structure and Longevity](team-administration/team-dynamics/organization-structure-and-longevity.md)
+  * [Organization Structure and Longevity](<Team Administration/team-dynamics/organization-structure-and-longevity.md>)
   * [Member Allocation and Management](team-administration/team-dynamics/member-allocation-and-management.md)
   * [How \*Not\* To Run a Team](team-administration/team-dynamics/how-not-to-run-a-team.md)
 * [Team Finances](team-administration/team-finances/README.md)

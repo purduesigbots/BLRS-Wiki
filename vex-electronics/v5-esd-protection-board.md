@@ -8,7 +8,7 @@ description: An ESD Protection board for the V5 Brain
 
 Electrostatic Discharge (ESD) is a widely accepted problem amongst the VEX community, as it results in permanent damage and disabling of ports on the [V5 Brain](vex-electronics/vex-v5-brain/). ESD protection boards, while **not competition legal as of the publishing of this article**, help solve this issue.&#x20;
 
-Each V5 Smart cable contains four wires that connect devices, such as [motors](vex-electronics/motors.md) and [sensors](vex-sensors/), to the [V5 Brain](vex-electronics/vex-v5-brain/). Two of these wires provide power to the device and can withstand high voltages. However, the other two wires transfer data and are not able to withstand high voltages**.** Static buildup can rapidly release thousands of volts of electricity. If this static goes across one of the data lines, it may cause permanent damage to the port and make it unusable.&#x20;
+Each V5 Smart cable contains four wires that connect devices, such as [motors](vex-electronics/motors.md) and [sensors](vex-sensors/), to the [V5 Brain](vex-electronics/vex-v5-brain/). Two of these wires provide power to the device and can withstand high voltages. However, the other two wires transfer data and are not able to withstand high voltage&#x73;**.** Static buildup can rapidly release thousands of volts of electricity. If this static goes across one of the data lines, it may cause permanent damage to the port and make it unusable.&#x20;
 
 The ESD protection board contains TVS diodes on the two data lines between the connected device and [V5 Brain](vex-electronics/vex-v5-brain/). A good way to visualize how the TVS diode works is by thinking of it as a pipe system with a valve. Normally, the valve to the ground line is closed. However, when a large voltage comes along the data line, the electrostatic pressure from it forces the valve open, allowing the voltage to be grounded instead of flow along the data line.&#x20;
 
@@ -106,7 +106,7 @@ The first step is to place the R9 Jacks onto the marked locations on the ESD pro
 
 The second step is to solder the 4 connections on each R9 Jack onto the ESD protection board. Your board should appear similar to the picture below when you are done. Please confirm that the solder job was done correctly before proceeding to the next step.
 
-![ESD Protection Board with R9 jacks soldered on.](../.gitbook/assets/IMG\_6009.jpg)
+![ESD Protection Board with R9 jacks soldered on.](../.gitbook/assets/IMG_6009.jpg)
 
 The third step is to place the ESD protection boards into their case. Ensure that the screw holes in the center of the case and board are aligned.
 
