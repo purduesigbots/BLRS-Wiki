@@ -38,7 +38,6 @@
 * [Robot Decorations](hardware/robot-decorations/README.md)
   * [Part Dyeing](hardware/robot-decorations/part-dyeing.md)
   * [Metal Coloring](hardware/robot-decorations/metal-coloring.md)
-  * [Custom Plastic](hardware/robot-decorations/custom-plastic.md)
   * [License Plate Holders](hardware/robot-decorations/license-plate-holders.md)
 * [Lifts](hardware/lifts/README.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)

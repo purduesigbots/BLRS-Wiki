@@ -10,7 +10,7 @@ There are many different varieties of Gusset available to use in the VEX Robotic
 
 ### Angle Gussets
 
-The primary purpose of Angle Gussets is to mount main structural components at an angle to each other, with one notable example being the use of triangle bracing. Metal Angle Gussets are available in a variety of different sizes and angles from [vexrobotics.com](https://www.vexrobotics.com/gussets.html), in addition to custom-made [plastic](../../robot-decorations/custom-plastic.md) gussets being used by many teams for angles unique to individual robots.
+The primary purpose of Angle Gussets is to mount main structural components at an angle to each other, with one notable example being the use of triangle bracing. Metal Angle Gussets are available in a variety of different sizes and angles from [vexrobotics.com](https://www.vexrobotics.com/gussets.html), in addition to custom-made [plastic](broken-reference) gussets being used by many teams for angles unique to individual robots.
 
 <figure><img src="../../../.gitbook/assets/image (274).png" alt=""><figcaption><p>(Left to Right) Top: 45 Degree Gusset, 90 Degree Gusset Angle, Angle Gusset, Angle Corner Gusset<br>Bottom: Pivot Gusset, Plus Gusset, 90 Degree Gusset</p></figcaption></figure>
 
@@ -42,4 +42,4 @@ Brackets are a relatively uncommon part used in the VEX Robotics Competition, ma
 
 <figure><img src="../../../.gitbook/assets/image (277).png" alt=""><figcaption><p>(Left to Right) Top: Bevel Gearbox Bracket, Rack Gearbox Bracket, Swerve Bracket<br>Bottom: Winch Bracket, Worm Gearbox Bracket</p></figcaption></figure>
 
-With their relatively large profile and strict purposes, the various different Brackets rarely see much use, in favor of custom [plastic](../../robot-decorations/custom-plastic.md) components and use of more efficient mounting solutions. Brackets are more commonly used to cut into unique bracing and custom metal components, as they have a relatively large amount of material to work with. All brackets can be found on [vexrobotics.com](https://www.vexrobotics.com/advanced-gearbox-brackets.html).
+With their relatively large profile and strict purposes, the various different Brackets rarely see much use, in favor of custom [plastic](broken-reference) components and use of more efficient mounting solutions. Brackets are more commonly used to cut into unique bracing and custom metal components, as they have a relatively large amount of material to work with. All brackets can be found on [vexrobotics.com](https://www.vexrobotics.com/advanced-gearbox-brackets.html).
