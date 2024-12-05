@@ -5,15 +5,21 @@ description: PROS Robotics Operating System (Yes it's recursive)
 # PROS
 
 {% hint style="info" %}
-
+PROS is Open Source C/C++ Development for VEX V5 and VEX Cortex made by SIGBots. To learn more about PROS head over to the [PROS Website](https://pros.cs.purdue.edu/)
 {% endhint %}
+
+Platforms:
+
+* Windows
+* macOS
+* Linux
 
 Features:
 
 * Open source
 * Native C/C++
 * Cross-platform
-*
+* Integrated with [VSCode](https://marketplace.visualstudio.com/items?itemName=sigbots.pros)
 * Developed by students
 * CLI Available
 
