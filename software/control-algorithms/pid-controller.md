@@ -59,9 +59,15 @@ It must be noted that while these are not completely accurate descriptions of wh
   * For other mechanisms that may be velocity controlled, first start with P, then I, and then D.&#x20;
   * Remember, you may not use all three constants. Sometimes a P, PD, or PI combination may be enough to achieve quick and consistent motion.&#x20;
 
-## Example:
+## Examples
 
 Check out this [VEX Forum thread](https://www.vexforum.com/t/a-pid-controller-in-robotc/20105) for generalized PID code made in RobotC.
+
+George Gillard has a [paper](https://georgegillard.com/resources/documents) explaining the concepts with example code.
+
+Purdue SIGbots made a basic implementation of PID in PROS below.
+
+{% @github-files/github-code-block url="https://github.com/purduesigbots/PIDLib/blob/main/PIDlib_project/src/pid/pidController.c" %}
 
 ## Refinements
 
