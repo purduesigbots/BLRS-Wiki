@@ -23,9 +23,9 @@ Robots may use custom-made parts cut from certain types of non-shattering plasti
 
 Plastic parts do not have to be literally cut from the same original 12” x 24” sheet. However, all individual parts must be able to “nest” or rearrange into a 12” x 24” area.&#x20;
 
-Legal plastic (**functional or decoration**) types include polycarbonate (Lexan), acetal monopolymer (Delrin), acetal copolymer (Acetron GP), POM (acetal), ABS, PEEK, PET, HDPE, LDPE, Nylon (all grades), Polypropylene, and FEP.
+Legal plastic (**functional or decoration**) types include polycarbonate (Lexan), acetal monopolymer (Delrin), acetal copolymer (Acetron GP), POM (acetal), ABS, PEEK, PET, HDPE, LDPE, Nylon (all grades), Polypropylene, and FEP. Shattering plastic (like acrylic) is generally not allowed.
 
-Robosource - [https://www.robosource.net/plastic-sheets](https://www.robosource.net/plastic-sheets)
+RoboSource - [https://www.robosource.net/plastic-sheets](https://www.robosource.net/plastic-sheets)
 
 VEX - [https://web.archive.org/web/20240725100611/https://www.vexrobotics.com/polycarbonate.html](https://web.archive.org/web/20240725100611/https://www.vexrobotics.com/polycarbonate.html)
 
@@ -47,6 +47,14 @@ Use a Dremel, Hack-saw, Band-saw, or Scroll-saw to cut the plastic & a drill pre
 
 If the part, or entire robot, is being designed in a CAD program, then the face of the part can be exported, printed, and traced onto components. This is a great way to make more precise designs than may be possible with a pencil on paper, but without the need for additional tools like a laser cutter.
 
+#### Nesting
+
+Nesting is the process of arranging multiple parts efficiently on a sheet of material to minimize waste, reduce cutting time, and optimize material usage. This is especially useful for fitting parts within a 12” x 24” area. However, maintaining proper spacing between parts is important to minimize thermal distortion or cutting defects.
+
+Tutorial for Fusion 360 Extensions: Nesting and Fabrication - [https://youtu.be/rVq4IdzaFlw?si=BEZIHB0E-Av\_Fkcy](https://youtu.be/rVq4IdzaFlw?si=BEZIHB0E-Av_Fkcy)
+
+Specialized Software - [https://deepnest.io/](https://deepnest.io/), [https://nestingcenter.com/](https://nestingcenter.com/)
+
 #### Laser Cutting
 
 {% hint style="info" %}
@@ -55,7 +63,13 @@ Laser Cutting is a legal technique in VRC & VURC as long as the material being c
 
 #### Bending
 
-To bend plastic, use a [heat gun](https://a.co/d/hgvAxRp), first, securely clamp the plastic sheet along the desired bend line, ensuring it remains stationary. Gradually heat the bending area with the heat gun, moving it back and forth evenly until the plastic becomes pliable. Once softened, gently bend the sheet to the desired angle and hold it in place until it cools and solidifies in the new shape. The basic process steps are also shown here:
+To bend plastic, use a [heat gun](https://a.co/d/hgvAxRp), first, securely clamp the plastic sheet along the desired bend line, ensuring it remains stationary. Gradually heat the bending area with the heat gun, moving it back and forth evenly until the plastic becomes pliable. Once softened, gently bend the sheet to the desired angle and hold it in place until it cools and solidifies in the new shape.
+
+{% hint style="info" %}
+For polycarbonate and ABS, bend beyond desired angle as it will cool and settle into a lower angle.
+{% endhint %}
+
+The basic process steps are also shown here:
 
 {% embed url="https://youtu.be/65Dcz1m8IPs?si=WQQRfD3zz3CVjtTv" fullWidth="false" %}
 
