@@ -24,7 +24,7 @@ The following variables are used in this document to represent physical paramete
 
 * $$s_L$$ is the left-right distance from the tracking center to the left tracking wheel&#x20;
 * $$s_R$$ is the left-right distance from the tracking center to the right tracking wheel&#x20;
-* $$s_S$$is the forward-backward distance from the tracking center to the back tracking wheel
+* $$s_S$$ is the forward-backward distance from the tracking center to the back tracking wheel
 * $$\overrightarrow{d_0}$$ is the previous global position vector&#x20;
 * $$\theta_0$$ is the previous global orientation &#x20;
 * $$\theta_r$$ is the global orientation at last reset
@@ -75,11 +75,11 @@ Also based on this arc, the translation (change in position) can be calculated. 
 
 A local coordinate system is also needed. Theoretically, any will work, but one that makes the math easier is such that the straight line path from the initial position to the final position is in the positive y direction; this is an offset from the robot's initial "forward" by $$\frac{\theta}{2}$$. Using this convention, the local translation x-coordinate is zero (as we are still ignoring the back wheel), while the y-coordinate is the chord length. The chord length (the straight-line distance between the two endpoints of the arc) is based on the radius and angle change; both are known, therefore the local y-axis translation can be calculated:&#x20;
 
-​                                                    ​       $$\Delta\overrightarrow{d_{ly}} =$$ $${0}\brack{2sin\frac{\Delta\theta}{2}\times(\frac{\Delta R}{\Delta\theta}+s_R)}$$                                                         (5)
+&#x20; $$\Delta\overrightarrow{d_{ly}} = {0 \brack 2\sin\frac{\Delta\theta}{2}\times(\frac{\Delta R}{\Delta\theta}+s_R)}$$ (5)
 
 Now, it is important to consider what happens if the robot strays from the arc somewhat, resulting in additional translation. This forms a second arc, representing a second component of the robot's movement. This time, the axis is offset from the robot's initial "right" by 𝜃 2 , making it perpendicular to our y component (and thus representative of our local x axis). This arc's radius and chord length can be calculated in much the same as the y component, giving our complete local translation vector:&#x20;
 
-&#x20;                                                          $$\Delta\overrightarrow{d_t}=2sin\frac{\theta}{2} \times{\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$                                                          (6)​
+&#x20; $$\Delta\overrightarrow{d_l} = 2\sin\frac{\Delta\theta}{2} \times {\frac{\Delta S}{\Delta\theta}+s_S \brack \frac{\Delta R}{\Delta\theta}+s_R}$$ (6)​
 
 This coordinate system is offset by $$\theta_0+\frac{\Delta\theta}{2}$$ from the global coordinate system. Therefore, by rotating $$\Delta\overrightarrow{d_l}$$ back by that amount, the global translation vector can be calculated. The current position at any time is simply the starting position, plus the summation of all global translation vectors up to that time.&#x20;
 
@@ -117,10 +117,10 @@ The algorithm itself consists of a single procedure to perform calculations, whi
 4. Calculate the total change in the left and right encoder values since the last reset, and convert to distance of wheel travel; call these $$\Delta L_r$$ and $$\Delta R_r$$
 5. Calculate new absolute orientation $$\theta_1=\theta_r+\frac{\Delta L_r-\Delta R_r}{s_L+s_R}$$ ; please note that the second term will be in radians, regardless of the units of other variables&#x20;
 6. Calculate the change in angle $$\Delta\theta=\theta_1-\theta_0$$&#x20;
-7. If $$\Delta\theta=0$$ (i.e. $$\Delta L=\Delta R$$), then calculate the local offset $$\Delta\overrightarrow{d_t}=$$$${\Delta S}\brack{\Delta R}$$
-8. Otherwise, calculate the local offset $$\Delta {\overrightarrow{d_t}}=2sin\frac{\Delta\theta}{2}\times{\frac{\Delta S}{\Delta\theta}+s_S}\brack{\frac{\Delta R}{\Delta\theta}+s_R}$$(Equation 6)
+7. If $$\Delta\theta=0$$ (i.e. $$\Delta L=\Delta R$$), then calculate the local offset $$\Delta\overrightarrow{d_l}= {\Delta S \brack \Delta R}$$
+8. Otherwise, calculate the local offset $$\Delta\overrightarrow{d_l}=2\sin\frac{\Delta\theta}{2} \times {\frac{\Delta S}{\Delta\theta}+s_S \brack \frac{\Delta R}{\Delta\theta}+s_R}$$ (Equation 6)
 9. Calculate the average orientation $$\theta_m=\theta_0+\frac{\Delta\theta}{2}$$
-10. Calculate global offset $$\Delta{\overrightarrow{d}}$$ as $$\Delta{\overrightarrow{d_l}}$$rotated by $$-\theta_m$$; this can be done by converting your existing Cartesian coordinates to polar coordinates, changing the angle, then converting back
+10. Calculate global offset $$\Delta\overrightarrow{d}$$ as $$\Delta\overrightarrow{d_l}$$ rotated by $$-\theta_m$$; this can be done by converting your existing Cartesian coordinates to polar coordinates, changing the angle, then converting back
 11. Calculate new absolute position  $$\overrightarrow{d_1}=\overrightarrow{d_0}+\Delta\overrightarrow{d}$$
 
 ## Writing Motion Algorithms&#x20;
