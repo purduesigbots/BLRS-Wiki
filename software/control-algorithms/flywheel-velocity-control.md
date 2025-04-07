@@ -29,7 +29,7 @@ There are three primary things we want our flywheel control to do:
 2. Maintain a close rpm to our desired speed.
 3. Self-correct the flywheel's true speed to minimize error.
 
-We can use a different control algorithm to accomplish each of these goals. Those algorithms are [Bang Bang](../control-algorithms/bang-bang.md), Feedforward, and [PID](../control-algorithms/pid-controller.md), respectively.
+We can use a different control algorithm to accomplish each of these goals. Those algorithms are [Bang Bang](bang-bang.md), Feedforward, and [PID](pid-controller.md), respectively.
 
 #### Implementation of Bang Bang control for Flywheels
 
@@ -39,6 +39,7 @@ In this case, we will use a Bang Bang controller to accelerate quickly to our ta
 {% tab title="PROS" %}
 ### _Example Bang Bang implementation in PROS_
 
+{% code lineNumbers="true" %}
 ```cpp
 pros::Motor flywheel_motor(10); // flywheel in port 10
 int threshold = 5;              // range to determine if we should use Bang Bang
@@ -53,14 +54,16 @@ void move_rpm(int target_speed) {
     }
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="VEXCode V5 Pro" %}
 ### _Example Bang Bang implementation in VEXCode V5 Pro_
 
+{% code lineNumbers="true" %}
 ```cpp
 vex::motor flywheel_motor(10); // flywheel in port 10
-int threshold = 5;              // range to determine if we should use Bang Bang
+int threshold = 5;             // range to determine if we should use Bang Bang
 
 void move_rpm(int target_speed) {
     int current_velocity = flywheel_motor.velocity(velocityUnits::rpm); // get current rpm
@@ -72,10 +75,7 @@ void move_rpm(int target_speed) {
     }
 }
 ```
-{% endtab %}
-
-{% tab title="VEXCode V5 Blocks" %}
-### _Example Bang Bang implementation in VEXCode V5 Blocks_
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -89,29 +89,28 @@ Feedforward is, put simply, an approximation to convert an input into an output 
 {% tab title="PROS" %}
 ### _Example Feedforward implementation in PROS_
 
-{% code lineNumbers="true" %}
-```cpp
-pros::Motor flywheel_motor(10); // flywheel in port 10
-float kF =60;                    //conversion constant from rpm to voltage.
+<pre class="language-cpp" data-line-numbers><code class="lang-cpp"><strong>pros::Motor flywheel_motor(10); // flywheel in port 10
+</strong>float kF = 60;                  //conversion constant from rpm to voltage.
 void move_rpm(int target_speed) {
     int output_voltage = target_speed * kF; // convert our rpm to voltage
     flywheel_motor.move_voltage(output_voltage);
 }
-```
-{% endcode %}
+</code></pre>
 {% endtab %}
 
 {% tab title="VEXCode V5 Pro" %}
 ### _Example Feedforward implementation in VEXCode V5 Pro_
 
+{% code lineNumbers="true" %}
 ```cpp
-vex::otor flywheel_motor(10); // flywheel in port 10
-float kF =60;                   //conversion constant from rpm to voltage.
+vex::motor flywheel_motor(10); // flywheel in port 10
+float kF = 60;                 //conversion constant from rpm to voltage.
 void move_rpm(int target_speed) {
     int output_voltage = target_speed * kF; // convert our rpm to voltage
     flywheel_motor.spin(directionType::left, output_voltage, voltageUnits::mV);
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -149,13 +148,15 @@ void move_rpm(int target_speed) {
 {% tab title="VEXCode V5 Pro" %}
 ### _Example Bang Bang + Feedforward + P control implementation in VEXCode V5 Pro_
 
+{% code lineNumbers="true" %}
 ```cpp
-vex::otor flywheel_motor(10); // flywheel in port 10
-float kF =60;                //conversion constant from rpm to voltage.
+vex::motor flywheel_motor(10); // flywheel in port 10
+float kF = 60;                 //conversion constant from rpm to voltage.
 void move_rpm(int target_speed) {
     float output_voltage = target_speed * kF; // convert our rpm to voltage
     flywheel_motor.spin(directionType::left, output_voltage, voltageUnits::mV);
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
