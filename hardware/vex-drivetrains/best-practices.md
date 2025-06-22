@@ -8,7 +8,7 @@ This video does a great job show casing some of the best practices when building
 
 **Bearing Blocks**
 
-When installed, the bearing flats are mounted directly onto the VEX V5 structure and provide a stable and secure platform for the shaft to rotate. The shaft is inserted through the center of the bearing flats and is held in place by the flats, which prevent the shaft from shifting or moving out of position.They are used to drastically reduce friction when shafts and screws are used.
+When installed, the bearing flats are mounted directly onto the VEX V5 structure and provide a stable and secure platform for the shaft to rotate. The shaft is inserted through the center of the bearing flats and is held in place by the flats, which prevent the shaft from shifting or moving out of position. They are used to drastically reduce friction when shafts and screws are used.
 
 **Stand Offs**
 
