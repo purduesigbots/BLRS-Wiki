@@ -62,6 +62,8 @@ int main() {
 #ifndef MY_FUNCTIONS_HPP
 #define MY_FUNCTIONS_HPP
 
+#include "pros/motors.hpp"
+
 void myFunction();
 
 extern pros::Motor m1; 
@@ -74,7 +76,8 @@ extern pros::Motor m1;
 #include "my_functions.hpp"
 #include <iostream>
 
-pros::Motor m1;
+std::int8_t mtr_port = 1;
+pros::Motor m1(mtr_port);
 
 void myFunction() {
   m1.move(127); 
