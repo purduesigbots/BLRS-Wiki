@@ -28,13 +28,19 @@ In the case of the 4 inch omnidirectional wheel, the anti-static version is genu
 
 The original 3.25 inch omnidirectional wheels have been less favored by the VRC community because they are the only set of wheels which utilize plastic rollers rather than rubber rollers. This leads to an immense loss of traction, making it less reliable when facing off against defense or in the instance of a platform needing to be climbed, like in Turning Point and especially Tipping Point. However, these wheels do have their advantages. They are the thinnest of the original trio of omnidirectional wheels, coming in at the same width as the anti-static wheels, and it is also possible that the plastic rollers may bring less frictional losses when used on a holonomic drivetrain like an X-drive.&#x20;
 
+### 2" Omni Clocking Positions
+
+For specifically 2" omnidirectional wheels, follow the instructions found [here](https://www.vexforum.com/t/new-products-january-2024-2-wheels/120490/34) to create 15 and 30 degree clocking positions.
+
+<figure><img src="../../../.gitbook/assets/2 inch omni wheel.jpeg" alt="" width="512"><figcaption></figcaption></figure>
+
 ## Usage
 
 <figure><img src="../../../.gitbook/assets/5225drivetrain.png" alt=""><figcaption><p>Omnidirectional wheels used on <a href="../../../vex-cad/remembering-the-best/5225a-tower-takeover.md">5225A's X-drive in Tower Takeover.</a></p></figcaption></figure>
 
 Omnidirectional wheels have been commonplace on VRC drivetrains since their creation. They are especially useful when creating [X-drives](../../vex-drivetrains/) or "Kiwi" (three wheel holonomic) drives because of their ability to expand the amount of degrees of freedom the drivetrain has. When the wheels are arranged diagonally, the robot is still able to move smoothly because as it moves in any direction, the wheel's rollers spin along with the wheel, accounting for the movement in both the sideways and forwards direction.
 
-2.75" omnidirectional wheels can make great tracker wheels for odometry purposes due to their small diameter. In fact, 2.75" omnidirectional wheels used to only be used for odometry, until more recent seasons in which teams have begun to get more creative with their drivetrain gear ratios.&#x20;
+2.75" omnidirectional wheels can make great tracker wheels for odometry purposes due to their small diameter. In fact, 2.75" omnidirectional wheels used to only be used for odometry, until more recent seasons in which teams have begun to get more creative with their drivetrain gear ratios.
 
 ### Teams Contributed to this Article:
 

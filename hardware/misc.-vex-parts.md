@@ -98,11 +98,11 @@ Vex has released new wheels which contain standard 0.5" spaced holes allowing fo
 
 Using stand-offs, it is possible to brace the core of most wheels against various gears. As shown below, 2 stand-offs act to apply torque directly to the wheel off of the face of the gear. These two points, along with the shaft itself, will reduce the slop in rotation.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Zip ties can be used, and are most commonly used with flex wheels. Making sure to evenly distribute zip ties & to overlap where possible will create the best outcome. Zip ties are not limited to only flex wheels & were a common way to reduce slop pre-V5
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Teams Contributed to this Article:
 
