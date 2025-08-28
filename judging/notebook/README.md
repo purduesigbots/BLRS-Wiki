@@ -5,7 +5,7 @@ description: >-
   robot.
 ---
 
-# The Engineering Design Process
+# The Engineering Notebook
 
 <figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption><p>The Engineering Design Process</p></figcaption></figure>
 
@@ -15,7 +15,7 @@ There are different variations of the Engineering Design Process (EDP), as it is
 
 ## Following the Steps:
 
-#### 1. Define the Problem
+#### [1. Define the Problem](identify.md)
 
 > Objectives & Constraints
 
@@ -23,13 +23,13 @@ Simply put, this step consists of stating, clarifying, or determining the proble
 
 Following the Engineering Notebook Rubric, it is crucial to define challenges at the start of each cycle. Both words and pictures may be used to depict this step.
 
-#### 2. Research
+#### [2. Research](brainstorm.md)
 
 > How are objectives accomplished?&#x20;
 
 Understanding the logic behind the game objective can further assist in how it may be conceptualized. In addition to coming up with original ideas, researching for potential design ideas is essential. Many great designs from previous seasons can serve as inspiration for new ideas in the current season, and it is always worth knowing what other teams might end up doing.&#x20;
 
-#### 3. Identify Possible Solutions
+#### [3. Identify Possible Solutions](brainstorm.md)
 
 > How can this game be played?
 
@@ -37,7 +37,7 @@ Starting this step can consist of creating a list of a handful of designs or sol
 
 Again denoted by the Engineering Notebook Rubric, three or more possible solutions to the challenge should be portrayed with labeled diagrams.&#x20;
 
-#### 4. Choose the Best Solution
+#### [4. Choose the Best Solution](select.md)
 
 > How do you want to play this game?
 
@@ -45,7 +45,7 @@ Exploiting the information gathered and compiled in previous steps, it is now ti
 
 &#x20;In this stage of the design process, the team’s objectives are to reach a conclusion regarding the challenges posed by this season’s game.
 
-#### 5. Prototype and Design
+#### [5. Prototype and Design](build.md)
 
 > Prototype designs based on strategies
 
@@ -53,13 +53,13 @@ In this step, primary actions will be designing and planning out the solution in
 
 In terms of robot construction, [CAD software](../../vex-cad/making-a-chassis/) can help to construct a fully virtual rendition of a prototype, before spending time and resources building it with real parts. &#x20;
 
-#### [6. Test and Refine](test-and-refine.md)
+#### [6. Test and Refine](test.md)
 
 > Does it work?
 
 With the completed design or solution, testing is now required to make sure it works. When testing, recording both qualitative data, such as whether or not the robot can score, and quantitative data, such as whether the robot functions consistently, helps to recognize any failure points or inconsistencies to refine. Ideally, repeat this step until every recorded data-point is optimal.
 
-#### 7. Repeat
+#### [7. Repeat](management.md)
 
 > Optimization
 

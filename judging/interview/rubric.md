@@ -1,7 +1,14 @@
-# Interview Rubric
+---
+description: >-
+  An integral component in the tournament judging process, the Design Interview
+  is a great way for teams to grow public speaking skills while discussing
+  robotics in a friendly environment.
+---
+
+# Rubric Breakdown
 
 {% hint style="warning" %}
-This analysis uses the up-to-date rubrics as of September 2023. As new versions of each rubric are announced, this article will be updated shortly following. The up-to-date rubrics can be found in this article and on the [RECF website](https://kb.roboticseducation.org/hc/en-us/categories/4421404969111-Volunteers?sc=judging).
+This analysis uses the up-to-date rubrics as of August 2025. As new versions of each rubric are announced, this article will be updated shortly following. The up-to-date rubrics can be found in this article and on the [RECF website](https://kb.roboticseducation.org/hc/en-us/categories/4421404969111-Volunteers?sc=judging).
 {% endhint %}
 
 ## Design Interview Rubric
@@ -12,7 +19,7 @@ This analysis uses the up-to-date rubrics as of September 2023. As new versions 
 Team shows evidence of independent inquiry from the beginning stages of their design process. This includes brainstorming, testing, and exploring alternative solutions.
 {% endhint %}
 
-When considering this step of the interview, it is important to reference the [Engineering Design Process](../the-design-process/) recorded in the [Engineering Notebook](../how-to-start-a-notebook/) throughout the entire interview. Structuring the interview around each step of the Design Process and talking through how the team implemented each step can be an efficient way to ensure this criteria is accomplished while providing structure to the interview.
+When considering this step of the interview, it is important to reference the [Engineering Design Process](../notebook/) recorded in the [Engineering Notebook](broken-reference) throughout the entire interview. Structuring the interview around each step of the Design Process and talking through how the team implemented each step can be an efficient way to ensure this criteria is accomplished while providing structure to the interview.
 
 Additionally, it is important to reference how each step of the Design Process was used and repeated throughout the season so far. Rather than just mentioning each step, describing the implementation shows a much more in-depth understanding of the Design Process.
 
@@ -54,7 +61,17 @@ Similar to Criteria 3, it is important to highlight the evolution of the program
 
 Describing how programming development was tracked using timelines and set goals, similar to what is used in the Engineering Notebook, will go a long way towards improving rubric scores for this criteria.
 
-### Criteria 6: Team and Project Management
+### Criteria 6: Creativity / Originality
+
+{% hint style="info" %}
+Team can describe creative aspect(s) of their robot with clarity and detail.
+{% endhint %}
+
+This criteria focuses on a subsystem or aspect of a team's robot that may be considered creative or innovative. A potential solution does not need to be a creative overall design, but could be a smaller but unique implementation of a specific subsystem.&#x20;
+
+An effective way to achieve this criteria could be to save the creative solution and not talk about it during the build section, either slotting it into a prepared plan with emphasis on the creativity, or bringing up the solution when asked. The actual implementation of this criteria does not need to differ from Criteria 4.
+
+### Criteria 7: Team and Project Management
 
 {% hint style="info" %}
 Team can explain how team progress was tracked against an overall project timeline, team can explain management of material and personnel resources.
@@ -64,7 +81,7 @@ Though this criteria should have been touched upon in previous steps of the inte
 
 Additionally, referencing how various roles and projects were split among the team, as well as any specific time constraints beyond set deadlines, should be brought up to meet the second half of the criteria. Management of materials through tracking available parts and use of parts on various designs or prototypes is another beneficial process to explain.
 
-### Criteria 7: Teamwork, Communication, Professionalism
+### Criteria 8: Teamwork, Communication, Professionalism
 
 {% hint style="info" %}
 Most or all team members contribute to explanations of the design process, game strategy, and other work done by the team.
@@ -74,7 +91,7 @@ This criteria can be accomplished without much specific explanation by having ea
 
 Additionally, practicing the interview prior to competition can help to ensure each team member knows when to speak their part of the interview, ensuring that all team members are able to answer their segment or question without difficulty or influence.
 
-### Criteria 8: Respect, Courtesy, Positivity
+### Criteria 9: Respect, Courtesy, Positivity
 
 {% hint style="info" %}
 Team consistently interacts respectfully, courteously, and positively in their interview.

@@ -1,4 +1,4 @@
-# Team / Personell Management
+# Team / Personnel Management
 
 ## Club Organization
 
@@ -28,7 +28,7 @@ There are 2 structures that need to be setup for a VexU team to be successful. F
 
 ### Organization Platforms
 
-This should be a highly organized place for documenting what is most important to the organization as a whole, and likely where a team's [Engineering Notebook](../../the-judging-process/how-to-start-a-notebook/) can be written & stored. The Purdue SIGBots has had success with using a combination of Google Drive & Notion.&#x20;
+This should be a highly organized place for documenting what is most important to the organization as a whole, and likely where a team's [Engineering Notebook](broken-reference) can be written & stored. The Purdue SIGBots has had success with using a combination of Google Drive & Notion.&#x20;
 
 <mark style="color:yellow;">**Notion**</mark> is a great way to organize information in series of databases, and nested pages. This allows for an organization to host living documents that need to be both edited & read (e.g. club bylaws & weekly meeting notes) alongside many other features that help with team organization, onboarding, and sharing resources.&#x20;
 

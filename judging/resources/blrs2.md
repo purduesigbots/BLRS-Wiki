@@ -3,7 +3,7 @@
 This notebook is a good example of key necessary components but is not an end-all be-all solution. This notebook won numerous awards through-out the Over Under season culminating in a Design Award at the World Championship.
 
 {% hint style="info" %}
-To learn more about the program used to create this notebook, read the [Using Notion for an Engineering Notebook](../using-notion-for-a-notebook/) article
+To learn more about the program used to create this notebook, read the [Using Notion for an Engineering Notebook](../notion/) article
 {% endhint %}
 
 ## Download Link

@@ -5,9 +5,11 @@ description: >-
   robotics in a friendly environment.
 ---
 
-# The Interview
+# General Advice
 
 There are two main types of interviews, both equally important, that will take place at a competition. The first are pit interviews, where all teams will speak to the judges either in the pits or in a dedicated judging room, where the team will present their robot and overall design process. Additionally, some teams will receive a secondary interview, where judges will ask specific questions pertaining to specific aspects of a team's performance.
+
+Please note: **although this advice is given from our team of experienced competitors and Judges, this is not a rule or breakdown of such!** This advice may not represent exactly what an interview may look like, as there is always some variance.
 
 ### Pit Interviews
 
@@ -20,9 +22,9 @@ Pit interviews are the first type of interview that teams will experience at a c
 * Plan ahead for roles during the interview.
   * Every team member should be talking during the interview, in order to show that the whole team is actively involved in the design process.&#x20;
   * Be sure to practice transitioning topics from one team member to the next!
-* Use the [Engineering Design Process (EDP)](broken-reference) to describe the journey to the current robot.
+* Use the Engineering Design Process (EDP) to describe the journey to the current robot.
   * In addition to scoring points on the rubric, tying the EDP into the progression of your interview helps to establish a flow and logical progression through your interview.
-  * As an example, starting off the interview with [Step 1](broken-reference) of the EDP could elaborate on the specific game challenges a robot could be trying to solve, with [Steps 2](broken-reference) and [3](broken-reference) leading into the team's research of which designs could end up being pursued. [Step 6](broken-reference) could be used to describe previous iterations of the robot that [led up to a current design](broken-reference).&#x20;
+  * As an example, starting off the interview with initial stages of the EDP could elaborate on the specific game challenges a robot could be trying to solve, with further steps leading into the team's research of which designs could end up being pursued. Later steps could be used to describe previous iterations of the robot that led up to a current design.&#x20;
 * Plan around being adaptable.
   * Not every judging process will be the same - some judges will opt to solely listen to teams, allowing for teams to give a "presentation" of sorts. Other judges, however, will ask specific questions about the team, in order to score and note down any notable responses.&#x20;
   * While it's good to have a plan and practice going into the pit interview at a competition, it's always a bonus to keep flexibility in mind as well. Whether the interview is in a presentation or question and answer format, the team should be ready to adapt their responses to fit any way the judges may require - getting all intended information across regardless.
@@ -49,6 +51,7 @@ Top contenders from the pit interviews and Engineering Notebook rubrics, at most
   * Being able to show off various features of the robot working effectively during an interview is an easy way for the judges to see interesting, unique, or effective parts of the robot that have been called into prominence during the secondary interview.&#x20;
   * For instance, a demonstration relating to the Think Award could be demonstrating a small, point to point movement algorithm that has been used in the larger autonomous code. In addition to receiving a detailed, well thought out answer verbally, the judges are able to see tangible proof of the team's effectiveness in action.&#x20;
   * Referring to specific pages in the Engineering Design Notebook is a good way to call back to more in-depth explanations that have been written in the past. This way, the judges are able to see evidence that the team's answers have been thought through based on true experience, rather than making things up on the spot to seem more knowledgeable.
+  * Note: poster boards are not allowed per the Guide to Judging! Make sure anything you have to show is directly relating to your robot or notebook.
 * Make sure to switch between speaking team members often and act as if it is a conversation over a presentation.&#x20;
   * In addition to covering more in-depth material, secondary interviews are a way for judges to get a better read on the team themselves. It is still good to carry a professional manner, but don't let that get in the way of letting the conversation flow effectively. The judges are there to learn more about the team, and an effective way to accomplish that is for teams to talk with them, rather than "at them."
 

@@ -1,13 +1,13 @@
-# Using Notion for a Notebook
+# Using Notion for an Engineering Notebook
 
 ## What Is Notion
 
 {% embed url="https://www.youtube.com/watch?v=gp2yhkVw0z4" %}
 
-For Vex Robotics teams, Notion is one option for teams to manage tasks amongst members, and to create an [Engineering Notebook](../how-to-start-a-notebook/). It has lots of additional features for advanced users but can be very difficult for beginners.&#x20;
+For Vex Robotics teams, Notion is one option for teams to manage tasks amongst members, and to create an [Engineering Notebook](broken-reference). It has lots of additional features for advanced users but can be very difficult for beginners.&#x20;
 
 {% hint style="info" %}
-It has been contested how virtual notebooks will be scored for the 5 points associated with Notebook Formatting. Teams must make an effort to show that the notebook was created chronologically and in the order of the [engineering design process](../the-design-process/) alongside a table of contents and page numbers
+It has been contested how virtual notebooks will be scored for the 5 points associated with Notebook Formatting. Teams must make an effort to show that the notebook was created chronologically and in the order of the [engineering design process](../notebook/) alongside a table of contents and page numbers
 {% endhint %}
 
 {% embed url="https://youtu.be/LZ-TszsS_wA" %}

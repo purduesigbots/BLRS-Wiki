@@ -6,7 +6,7 @@ description: Welcome to the public Purdue SIGBots wiki and knowledge base!
 
 ## Get ready for Push Back!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>VEX Drivetrains</td><td></td><td><a href=".gitbook/assets/drive.JPG">drive.JPG</a></td><td><a href="hardware/vex-drivetrains/">vex-drivetrains</a></td></tr><tr><td></td><td>Odometry</td><td></td><td><a href=".gitbook/assets/track.jpg">track.jpg</a></td><td><a href="software/odometry.md">odometry.md</a></td></tr><tr><td></td><td>Game Analysis</td><td></td><td><a href=".gitbook/assets/high stake.webp">high stake.webp</a></td><td><a href="the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/game-analysis.md">game-analysis.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>VEX Drivetrains</td><td></td><td><a href=".gitbook/assets/drive.JPG">drive.JPG</a></td><td><a href="hardware/vex-drivetrains/">vex-drivetrains</a></td></tr><tr><td></td><td>Odometry</td><td></td><td><a href=".gitbook/assets/track.jpg">track.jpg</a></td><td><a href="software/odometry.md">odometry.md</a></td></tr><tr><td></td><td>Game Analysis</td><td></td><td><a href=".gitbook/assets/high stake.webp">high stake.webp</a></td><td><a href="judging/notion/purdue-sigbots-notion-template/game-analysis.md">game-analysis.md</a></td></tr></tbody></table>
 
 ## Getting started with VEX Robotics?
 

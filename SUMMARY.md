@@ -12,7 +12,7 @@
   * [VIQRC Elementary School](vex-worlds-livestream-archive/viqc-elementary-school.md)
   * [JROTC](vex-worlds-livestream-archive/jrotc.md)
 
-## ⚙️ Hardware
+## Hardware
 
 * [Design Fundamentals](hardware/design-fundamentals/README.md)
   * [Gear Ratios](hardware/design-fundamentals/gear-ratios.md)
@@ -70,7 +70,7 @@
   * [Custom Manufactured Parts Library](hardware/vexu/custom-manufactured-parts-library.md)
   * [Commercial Off The Shelf Parts Library](hardware/vexu/commercial-off-the-shelf-parts-library.md)
 
-## 👑 Team Administration
+## Team Administration
 
 * [New Team Resources](team-administration/new-team-resources/README.md)
   * [Creating The Team](team-administration/new-team-resources/creating-the-team.md)
@@ -105,33 +105,40 @@
   * [Team / Personnel Management](team-administration/vexu-organization-management/team-personnel-management.md)
   * [Volunteering At Local Events](team-administration/vexu-organization-management/volunteering-at-local-events.md)
 
-## 📚 The Judging Process
+## The Judging Process <a href="#judging" id="judging"></a>
 
-* [The Engineering Design Process](the-judging-process/the-design-process/README.md)
-  * [Test and Refine](the-judging-process/the-design-process/test-and-refine.md)
-* [The Engineering Notebook](the-judging-process/how-to-start-a-notebook/README.md)
-  * [Segments of the Notebook](the-judging-process/how-to-start-a-notebook/segments-of-the-notebook.md)
-  * [BLRS2 '23-'24 Engineering Notebook](the-judging-process/how-to-start-a-notebook/blrs2-23-24-engineering-notebook.md)
-  * [Integrating Inventor Models into Documentation](the-judging-process/how-to-start-a-notebook/the-design-process.md)
-  * [Engineering Notebook Rubric Breakdown](the-judging-process/how-to-start-a-notebook/engineering-notebook-rubric.md)
-* [The Interview](the-judging-process/the-interview/README.md)
-  * [Interview Rubric Breakdown](the-judging-process/the-interview/interview-rubric.md)
-* [Using Notion for an Engineering Notebook](the-judging-process/using-notion-for-a-notebook/README.md)
-  * [How to Setup a Notebook](the-judging-process/using-notion-for-a-notebook/how-to-setup-a-notebook.md)
-  * [How to Create Entries](the-judging-process/using-notion-for-a-notebook/how-to-create-entries.md)
-  * [How to Export a Notebook](the-judging-process/using-notion-for-a-notebook/how-to-export-a-notebook.md)
-  * [Purdue SIGBots Notion Template](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/README.md)
-    * [Game Analysis](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/game-analysis.md)
-    * [Identify The Problem](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/identify-the-problem.md)
-    * [Brainstorm Solution](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/brainstorm-solution.md)
-    * [Select Best Approach & Plan](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/select-best-approach-and-plan.md)
-    * [Build Log](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/build-log.md)
-    * [Programming Log](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/programming-log.md)
-    * [Testing Solution](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/testing-solution.md)
-    * [Tournament Recap](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/tournament-recap.md)
-    * [Innovative Feature](the-judging-process/using-notion-for-a-notebook/purdue-sigbots-notion-template/innovative-feature.md)
+* [What is Judging?](judging/why.md)
+* [The Engineering Notebook](judging/notebook/README.md)
+  * [Identify the Problem](judging/notebook/identify.md)
+  * [Brainstorm Solutions](judging/notebook/brainstorm.md)
+  * [Select Best Solution](judging/notebook/select.md)
+  * [Build and Program](judging/notebook/build.md)
+  * [Original Testing of Solutions](judging/notebook/test.md)
+  * [Other Rubric Categories](judging/notebook/other.md)
+  * [Team and Project Management](judging/notebook/management.md)
+* [The Interview](judging/interview/README.md)
+  * [Rubric Breakdown](judging/interview/rubric.md)
+  * [General Advice](judging/interview/advice.md)
+* [Resources](judging/resources/README.md)
+  * [BLRS2 '23-'24 Engineering Notebook](judging/resources/blrs2.md)
+  * [Integrating Inventor Models into Documentation](judging/resources/inventor.md)
+  * [Community Resources](judging/resources/community.md)
+* [Using Notion for an Engineering Notebook](judging/notion/README.md)
+  * [How to Setup a Notebook](judging/notion/setup.md)
+  * [How to Create Entries](judging/notion/entries.md)
+  * [How to Export a Notebook](judging/notion/export.md)
+  * [Purdue SIGBots Notion Template](judging/notion/purdue-sigbots-notion-template/README.md)
+    * [Game Analysis](judging/notion/purdue-sigbots-notion-template/game-analysis.md)
+    * [Identify The Problem](judging/notion/purdue-sigbots-notion-template/identify-the-problem.md)
+    * [Brainstorm Solution](judging/notion/purdue-sigbots-notion-template/brainstorm-solution.md)
+    * [Select Best Approach & Plan](judging/notion/purdue-sigbots-notion-template/select-best-approach-and-plan.md)
+    * [Build Log](judging/notion/purdue-sigbots-notion-template/build-log.md)
+    * [Programming Log](judging/notion/purdue-sigbots-notion-template/programming-log.md)
+    * [Testing Solution](judging/notion/purdue-sigbots-notion-template/testing-solution.md)
+    * [Tournament Recap](judging/notion/purdue-sigbots-notion-template/tournament-recap.md)
+    * [Innovative Feature](judging/notion/purdue-sigbots-notion-template/innovative-feature.md)
 
-## 🖥️ VEX CAD
+## VEX CAD
 
 * [CAD Programs](vex-cad/cad-programs/README.md)
   * [Inventor](vex-cad/cad-programs/inventor.md)
@@ -198,7 +205,7 @@
   * [62A Change Up](vex-cad/remembering-the-best/62a-change-up.md)
 * [Scuff Controller](vex-cad/scuff-controller.md)
 
-## 💻 Software
+## Software
 
 * [Odometry](software/odometry.md)
 * [Path Planning](software/path-planning.md)
@@ -254,9 +261,9 @@
   * [AMS](software/object-recognition/ams.md)
   * [OpenCV](software/object-recognition/opencv.md)
   * [OpenNI](software/object-recognition/openni.md)
-* [🤖 AI in VRC: Pac-Man Pete](software/ai-in-vrc-pac-man-pete.md)
+* [AI in VRC: Pac-Man Pete](software/ai-in-vrc-pac-man-pete.md)
 
-## ⚡ VEX Electronics
+## VEX Electronics
 
 * [V5 ESD Protection Board](vex-electronics/v5-esd-protection-board.md)
 * [VEX Electronics](vex-electronics/vex-electronics/README.md)
