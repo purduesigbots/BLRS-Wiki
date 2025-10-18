@@ -54,7 +54,7 @@ This has been used in sets of tracker wheels for odometry. There is some changes
 
 ## Miscellaneous&#x20;
 
-### 9x95mm Linear Rail & Carraige - Purdue SIGBots
+### 9x95mm Linear Rail & Carriage - Purdue SIGBots
 
 This has been used in a set of tracker wheels for odometry. It used M3 screws to attach.
 

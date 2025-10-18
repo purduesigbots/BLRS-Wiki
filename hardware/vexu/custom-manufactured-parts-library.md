@@ -34,7 +34,7 @@ This part was originally designed in 4 parts for a chassis, but then began being
 
 ### 9mm Linear Rail Tracking Wheels - Purdue SIGBots
 
-These were designed to use the [2" Omni Wheel \[Encoder Insert\]](custom-manufactured-parts-library.md#id-2-omni-wheel-encoder-insert-purdue-sigbots) with a set of additional 3D printed brackets to mount the AMT-102v encoder & house everything together. This also uses 9x95mm linear rails.&#x20;
+These were designed to use the [2" Omni Wheel \[Encoder Insert\]](custom-manufactured-parts-library.md#id-2-omni-wheel-encoder-insert-purdue-sigbots) with a set of additional 3D printed brackets to mount the AMT-102v encoder & house everything together. This also uses [9x95mm linear rails](commercial-off-the-shelf-parts-library.md#id-9x95mm-linear-rail-and-carraige-purdue-sigbots).&#x20;
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/LinearSlideTrackers02.png">LinearSlideTrackers02.png</a></td></tr><tr><td></td><td></td><td></td><td><a href="../../.gitbook/assets/LinearSlideTrackers02Back.png">LinearSlideTrackers02Back.png</a></td></tr></tbody></table>
 
