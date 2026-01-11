@@ -9,7 +9,7 @@ For more in-depth documentation and tutorials on vexide, head over to their [web
 
 vexide is a community-maintained Rust runtime for VEX V5 robots. It allows you to write and run Rust code for the V5 Brain and control V5 devices like motors and sensors. You can think of it as an alternative to PROS or VEXcode, but for the Rust programming language (rather than C++).
 
-The framework benfits from Rust's simple toolchain and dependency management, comprehensive standard library, and consistent, modern design. Many mistakes that would be left unchecked in PROS or VEXcode are detected before users upload their programs. It's likely that if one's code compiles, it will do what they expect.
+The framework benfits from Rust's simple toolchain and dependency management, comprehensive standard library, and consistent, modern design. Many mistakes that would be left unchecked in PROS or VEXcode are detected before users upload their programs. For instance, all data aborts and prefetch errors are completely eliminated from vexide programs that use safe Rust.
 
 vexide handles low-level operations like task scheduling, memory allocation, competition state, etc… allowing user code written on top of it to run seamlessly and fast. It heavily leans into Rust's async features for multitasking, providing its own lightweight cooperative scheduler for asynchonous operations.
 
