@@ -27,8 +27,8 @@ vexide handles low-level operations like task scheduling, memory allocation, com
 * Cross-platform development
 * Strong, consistent type system prevents mistakes early
 * Minimal runtime overhead: vexide programs are small and upload fast
-* Easy to handle device errors and understand why your program isn't working
-* Test your code and algorithms without a robot by running vexide programs on your PC
+* Easy to handle device [errors](https://doc.rust-lang.org/book/ch09-00-error-handling.html) and understand why your program isn't working
+* Test your code and algorithms without a robot by running vexide programs [on your PC](https://vexide.dev/blog/posts/thanksgiving-update-25/#host-compilation--unit-testing)
 * Graphics drivers for [Slint](https://slint.dev/) and [embedded-graphics](https://crates.io/crates/embedded-graphics).
 * Designed for the `cargo`/[crates.io](https://crates.io/) package manager/dependency ecosystem
 * Dedicated [`cargo-v5`](https://github.com/vexide/cargo-v5) CLI tool for uploading.
