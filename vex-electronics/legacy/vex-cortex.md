@@ -4,10 +4,10 @@ description: The VEX Cortex is the older microcontroller that was used in VRC an
 
 # VEX Cortex
 
-[![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor\_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor\_cortex.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)](https://phabricator.purduesigbots.com/file/data/johapek6bam5nvrvh4cc/PHID-FILE-y3t3zedljmnwm3fgkkni/processor_cortex.jpg)
 
 {% hint style="danger" %}
-This article is about the VEX Cortex, which is the legacy microcontroller for VRC and is no longer competitive
+This article is about the VEX Cortex, which is the legacy microcontroller for VRC and is no longer legal in competition.
 {% endhint %}
 
 The **VEX Cortex** is the older microcontroller legal for use in VRC. It is a 32-bit ARM Cortex-M3 processor with support for [PROS](../../software/vex-programming-software/pros/), [Easyc](../../software/vex-programming-software/easyc.md), and [Robotc](../../software/vex-programming-software/robotc.md). It features ten motor outputs which can deliver up to 8 A _combined_ of current (12 A with a [VEX Power Expander](power-expander.md)), twelve digital inputs/outputs, eight analog inputs, and three communication interfaces.
@@ -80,7 +80,7 @@ If VEX releases a firmware update, or the Cortex is acting in an erratic manner,
 
 ### External pinout
 
-[![](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor\_cortex\_pinout.png)](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor\_cortex\_pinout.png)
+[![](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)](https://phabricator.purduesigbots.com/file/data/vupanpq7mh6icsh2fx6x/PHID-FILE-2nw2xendnrfqqmtndghl/processor_cortex_pinout.png)
 
 The **VEX Cortex** external pin layout
 
@@ -88,11 +88,11 @@ The **VEX Cortex** external pin layout
 
 ### GPIO Pin Mapping
 
-[![](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor\_cortex\_internals\_top.jpg)](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor\_cortex\_internals\_top.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)](https://phabricator.purduesigbots.com/file/data/dxfbqfhigju6ibmj4cwy/PHID-FILE-eox23fnz7z5yp4qswb2y/processor_cortex_internals_top.jpg)
 
 Inside of a **VEX Cortex** microcontroller
 
-[![](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor\_cortex\_internals\_bottom.jpg)](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor\_cortex\_internals\_bottom.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)](https://phabricator.purduesigbots.com/file/data/4n3n3wi4xtzns2pzdiqn/PHID-FILE-pihnl7ztr3d5dhqg3cbd/processor_cortex_internals_bottom.jpg)
 
 Ditto, bottom view
 
