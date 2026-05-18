@@ -1,5 +1,7 @@
 # Metal Coloring
 
+{% hint style="danger" %} In 2026-27, for VEX Override, coloring metals is illegal accoring to <R23a> "Anodizing, painting, dyeing or changing the color of any legal VEX part is prohibited" {% endhint %}
+
 ### Painting
 
 Painting of VEX metal is legal and is a relatively quick way to add some color to a robot. All that is needed is a safe (Well Ventilated) area and a can of spray paint ([Rust-Oleum Enamel](https://amzn.to/3TbVPQM) is well tested).

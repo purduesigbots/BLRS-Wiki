@@ -7,6 +7,8 @@ description: >-
 
 # Part Dyeing
 
+{% hint style="danger" %} In 2026-27, for VEX Override, Dyeing vex parts is illegal accoring to <R23a> "Anodizing, painting, dyeing or changing the color of any legal VEX part is prohibited" {% endhint %}
+
 {% embed url="https://www.youtube.com/watch?v=C4ltH6-34Ps" %}
 60470S plastic dyeing tutorial
 {% endembed %}
