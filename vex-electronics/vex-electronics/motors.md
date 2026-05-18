@@ -14,7 +14,7 @@ The VEX V5 Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-basic
 
 ![Graph and specs from kb.vex.com](../../.gitbook/assets/image66.png)
 
-The maximum continuous power output of the motor is 11W, and it can generate a maximum torque of 2.1 Nm. To maintain consistent performance across different motors and enable top speed even under heavy loads, the motor's free speed is software-limited by its processor. Metal gears are employed in high torque areas to ensure strength, while plastic gears are utilized in low-load, high-speed sections for smooth and efficient operation.
+The maximum continuous power output of the motor is 11W, and it can generate a maximum torque of 2.1 Nm. To maintain consistent performance across different motors and enable top speed even under heavy loads, the motor's free speed in velocity control mode is software-limited by its processor. Metal gears are employed in high torque areas to ensure strength, while plastic gears are utilized in low-load, high-speed sections for smooth and efficient operation.
 
 Users have the flexibility to change the internal gear cartridge, allowing for output gear ratios of 6:1, 18:1, and 36:1. The motor features a comprehensive internal circuit board with a full H-Bridge and its own Cortex M0 microcontroller, which monitors various parameters such as position, speed, direction, voltage, current, and temperature.
 
@@ -50,7 +50,7 @@ The VEX V5/EXP Smart Motor is a [DC Motor ](../../electronics/general/dc-motor-b
 
 <figure><img src="../../.gitbook/assets/5.5graph.png" alt=""><figcaption><p>Graph and specs from kb.vex.com</p></figcaption></figure>
 
-The motor can deliver a continuous power output of 5.5W and produces a maximum torque of 0.5 Nm. To maintain consistent performance across different motors and ensure top-speed performance even under load, the motor's free speed is governed by its processor through software.
+The motor can deliver a continuous power output of 5.5W and produces a maximum torque of 0.5 Nm. To maintain consistent performance across different motors and ensure top-speed performance even under load, the motor's free speed in velocity control mode is governed by its processor through software.
 
 #### Specs
 
@@ -59,7 +59,7 @@ The motor can deliver a continuous power output of 5.5W and produces a maximum t
 | Speed                                 | Approximately 200rpm                                               |
 | Peak Power                            | 5.5 W                                                              |
 | Continuous Power                      | 5.5 W                                                              |
-| Stall Torque (with 100 RPM cartridge) | 0.5 Nm                                                             |
+| Stall Torque                          | 0.5 Nm                                                             |
 | Low Battery Performance               | 100% Power Output                                                  |
 | Feedback                              | Position, Current, Voltage, Power, Torque, Efficiency, Temperature |
 | Encoder                               | 900 ticks/rev                                                      |
