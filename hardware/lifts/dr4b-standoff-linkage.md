@@ -121,4 +121,4 @@ throughout its range of motion.
 Article written by @saturnyx.
 
 This article is based on the original Standoff Linkage DR4B design developed by
-members of 8059 Blank.
+members of [8059 Blank](https://8059blank.github.io/).
