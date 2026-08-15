@@ -73,18 +73,18 @@ well:
 To ensure linear motion of the Standoff Linkage DR4B, there are a few rules that need to be
 satisfied. These rules require 3 critical measurements:
 
-* $H$ (Pivot Gap): The fixed vertical distance between the upper 4-bar's top pivot and the lower
+* $$H$$ (Pivot Gap): The fixed vertical distance between the upper 4-bar's top pivot and the lower
     4-bar's bottom pivot on the middle plate.
-* $R$ (The Radius/Extension): The distance from each 4-bar's main pivot to the point where the
+* $$R$$ (The Radius/Extension): The distance from each 4-bar's main pivot to the point where the
     standoff linkage attaches.
-* $L$ (The Linkage Length): The center-to-center length of the standoff linkage.
+* $$L$$ (The Linkage Length): The center-to-center length of the standoff linkage.
 
 To achieve a perfect 1:1 inverse angular movement without binding, the structure must satisfy
 these rules:
 
-1. $L = H$: The length of the standoff linkage bar ($L$) must exactly equal the vertical distance
-    between the two main pivots on the middle plate ($H$).
-2. $R_{upper} = R_{lower}$: The distance from the upper pivot to the top linkage mount must exactly
+1. $$L = H$$: The length of the standoff linkage bar ($$L$$) must exactly equal the vertical distance
+    between the two main pivots on the middle plate ($$H$$).
+2. $$R_{upper} = R_{lower}$$: The distance from the upper pivot to the top linkage mount must exactly
     equal the distance from the lower pivot to the bottom linkage mount.
 3. Use Crossed Alignment: The top mount must be a straight extension behind the upper pivot (forming
     a tail), while the bottom mount must be a straight extension in front of the lower pivot. This
@@ -100,8 +100,8 @@ these rules:
 These rules assume that the upper 4-bar is identical to the lower 4-bar. This is an important
 assumption; without it, perfect linear motion cannot be achieved. If you have
 non-identical 4-bars (where each is of a different length), you will have to change the extensions
-to match the lengths of each 4-bar. In other words, the ratio $R_{upper}/R_{lower}$ should equal the
-ratio $L_{upper}/L_{lower}$. However, the transmission ratio changes slightly
+to match the lengths of each 4-bar. In other words, the ratio $$R_{upper}/R_{lower}$$ should equal the
+ratio $$L_{upper}/L_{lower}$$. However, the transmission ratio changes slightly
 depending on the height of the lift. Because the linkage angle shifts as the lift rises, an
 asymmetric standoff DR4B will never be perfectly linear across its entire path. It will track
 straight at the bottom and top, but might bow slightly outward in the middle.
