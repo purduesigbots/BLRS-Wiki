@@ -41,6 +41,7 @@
   * [License Plate Holders](hardware/robot-decorations/license-plate-holders.md)
 * [Lifts](hardware/lifts/README.md)
   * [Double Reverse Four Bar (DR4B or RD4B)](hardware/lifts/dr4b.md)
+  * [Standoff Linkage DR4B](hardware/lifts/dr4b-standoff-linkage.md)
   * [Four Bar](hardware/lifts/four-bar.md)
   * [Scissor Lift](hardware/lifts/scissor-lift.md)
   * [Six Bar](hardware/lifts/six-bar.md)
