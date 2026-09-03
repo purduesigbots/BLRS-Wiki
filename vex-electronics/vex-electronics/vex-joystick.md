@@ -6,11 +6,11 @@ description: >-
 
 # VEX Controller
 
-![](../../.gitbook/assets/v5controller\_render.png)
+![](../../.gitbook/assets/v5controller_render.png)
 
 The <img src="../../.gitbook/assets/controller_icon.png" alt="" data-size="line"> V5 Controller has a monochrome LCD screen. The screen allows users to start and stop programs remotely, view the robot’s battery level, and see the radio’s status. During competition, drivers and tethered co-drivers can see the competition clock and game state. Programmers can send data and multilingual text to the screen for debugging and driver information.
 
-![The Controller Screen UI](<../../.gitbook/assets/image71 (1).png>)
+![The Controller Screen UI](../../.gitbook/assets/image71.png)
 
 The Controller uses an internal rechargeable battery with a 10 hour run time. Charging is done via a micro USB cable, and takes about 1 hour.
 
@@ -48,7 +48,7 @@ Some of the known issues with the V5 Controller are disconnects and freezes. In 
 This section refers to the old VEX Cortex Controller which is no longer competitive.
 {% endhint %}
 
-[![](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex\_joystick.jpg)](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex\_joystick.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex_joystick.jpg)](https://phabricator.purduesigbots.com/file/data/ly7yucqhszjr3pxkrjc7/PHID-FILE-4uk5xzlbi7mh3d42syuz/vex_joystick.jpg)
 
 The **VEX Joystick** is the principal human interface for a VEX robot since the introduction of [VEXnet](vexnet.md). It replaces the bulky 75 MHz transmitter module with a smaller controller resembling a typical PC joystick.
 
@@ -56,7 +56,7 @@ The **VEX Joystick** is the principal human interface for a VEX robot since the 
 
 Two directional thumb sticks, a three-axis accelerometer, and up to twelve buttons are available for the user in [Operator Control](../../software/competition-specific/operator-control.md) mode. Each thumb stick is composed of two axes which return numbers from -127 to 127 with a resolution of two to three units, and two sets of four buttons along with two dual triggers return 1 if pressed and 0 if not pressed. Joystick inputs are still transmitted (but are usually restricted by the firmware) during the autonomous mode.
 
-[![](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power\_curve\_nimh.jpg)](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power\_curve\_nimh.jpg)
+[![](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power_curve_nimh.jpg)](https://phabricator.purduesigbots.com/file/data/wsbbw3mrhdc4ovirzxfu/PHID-FILE-gybmx2dqir46so35wite/power_curve_nimh.jpg)
 
 NiMH rechargeable batteries perform much better than alkaline batteries in high-current applications like the **VEX Joystick**
 

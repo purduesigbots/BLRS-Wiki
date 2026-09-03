@@ -11,7 +11,7 @@ description: >-
 
 Box Bracing is a form of bracing that strengthens a subsystem comprised of c-channels, reducing slop, flexibility, and bending in the aforementioned bars. Box Bracing is composed of two c-channels, facing inwards towards each other, and attached together with a long screw running between both c-channels.
 
-![An example of Box Bracing](<../.gitbook/assets/Boxed C-Channel.PNG>)
+<figure><img src="../.gitbook/assets/IMG_2798.jpeg" alt=""><figcaption><p>Example of 3 types of Box Bracing</p></figcaption></figure>
 
 The space between the two c-channels should be filled with spacers wherever a screw runs between the c-channels in order to prevent over-tightening, which can deform the metal. Box Bracing is often used in coordination with other bracing techniques, which can be found [here](lifts/best-practices.md).
 
@@ -21,7 +21,7 @@ According to the current VRC rulebook, teams are allowed a certain amount of non
 
 Robots may use custom-made parts cut from certain types of non-shattering plastic. It must be possible to have cut all of the plastic parts on the Robot from a single 12” x 24” sheet, up to 0.070” thick.
 
-Plastic parts do not have to be literally cut from the same original 12” x 24” sheet. However, all individual parts must be able to “nest” or rearrange into a 12” x 24” area.&#x20;
+Plastic parts do not have to be literally cut from the same original 12” x 24” sheet. However, all individual parts must be able to “nest” or rearrange into a 12” x 24” area.
 
 Legal plastic (**functional or decoration**) types include polycarbonate (Lexan), acetal monopolymer (Delrin), acetal copolymer (Acetron GP), POM (acetal), ABS, PEEK, PET, HDPE, LDPE, Nylon (all grades), Polypropylene, and FEP. Shattering plastic (like acrylic) is generally not allowed.
 
@@ -37,12 +37,12 @@ As rules can change from year to year, it is recommended that you check the rule
 
 #### Templating
 
-Templating can be done in 2 ways but is critical for ensuring that custom plastic parts will fit well into the greater robot design.&#x20;
+Templating can be done in 2 ways but is critical for ensuring that custom plastic parts will fit well into the greater robot design.
 
-Manual templating can be done on a sheet of graph paper where key aspects of the design are sketched out (cuts, bends, holes, etc.) and the overall outline is cut from the paper and measured against an existing mechanism. The template can then be traced onto a sheet of plastic & cut.&#x20;
+Manual templating can be done on a sheet of graph paper where key aspects of the design are sketched out (cuts, bends, holes, etc.) and the overall outline is cut from the paper and measured against an existing mechanism. The template can then be traced onto a sheet of plastic & cut.
 
 {% hint style="info" %}
-Use a Dremel, Hack-saw, Band-saw, or Scroll-saw to cut the plastic & a drill press for any holes.&#x20;
+Use a Dremel, Hack-saw, Band-saw, or Scroll-saw to cut the plastic & a drill press for any holes.
 {% endhint %}
 
 If the part, or entire robot, is being designed in a CAD program, then the face of the part can be exported, printed, and traced onto components. This is a great way to make more precise designs than may be possible with a pencil on paper, but without the need for additional tools like a laser cutter.
@@ -88,12 +88,12 @@ Using plastic to create custom gussets or brackets can be very beneficial when c
 
 ## Connecting Gears to Wheels
 
-Oftentimes, especially in drive trains, wheels are driven from gears, but the use of axles, or screw joints tends to allow for slop that is not wanted. To overcome this, it is a common practice to use additional bracing & hardware to attach the wheels & gears with improved rigidity in the joint.&#x20;
+Oftentimes, especially in drive trains, wheels are driven from gears, but the use of axles, or screw joints tends to allow for slop that is not wanted. To overcome this, it is a common practice to use additional bracing & hardware to attach the wheels & gears with improved rigidity in the joint.
 
 {% hint style="info" %}
 Vex has released new wheels which contain standard 0.5" spaced holes allowing for far easier attachment. This article portion will focus on alternative needs
 
-![](https://www.vexrobotics.com/media/mageworx/optionfeatures/product/option/value/2/7/276-8107.png)
+<img src="https://www.vexrobotics.com/media/mageworx/optionfeatures/product/option/value/2/7/276-8107.png" alt="" data-size="original">
 {% endhint %}
 
 Using stand-offs, it is possible to brace the core of most wheels against various gears. As shown below, 2 stand-offs act to apply torque directly to the wheel off of the face of the gear. These two points, along with the shaft itself, will reduce the slop in rotation.

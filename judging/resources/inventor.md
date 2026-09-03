@@ -31,17 +31,17 @@ One valuable feature of Autodesk Inventor is being able to import assemblies and
 
 ![A multi-view drawing generated from a full robot assembly.](../../.gitbook/assets/inventormultiviewdrawing.png)
 
-In order to create a drawing of a part or model, a DWG file or IDW file needs to be created. Inventor's default extension for drawing files is DWG, but there are few distinguishable differences between the two file extensions.&#x20;
+In order to create a drawing of a part or model, a DWG file or IDW file needs to be created. Inventor's default extension for drawing files is DWG, but there are few distinguishable differences between the two file extensions.
 
-Once the drawing file has been created,  the "Default Border" and "ANSI - Large" objects from the explorer can be deleted, unless it is preferred for a school or organization to use them as part of the drawing.
+Once the drawing file has been created, the "Default Border" and "ANSI - Large" objects from the explorer can be deleted, unless it is preferred for a school or organization to use them as part of the drawing.
 
-To import a model, click "Base" at the top of the window (under the "Place Views" tab). Another window will open which will ask to specify the file to generate a drawing for, the style of the drawing, and the scale of the drawing.&#x20;
+To import a model, click "Base" at the top of the window (under the "Place Views" tab). Another window will open which will ask to specify the file to generate a drawing for, the style of the drawing, and the scale of the drawing.
 
 ![](../../.gitbook/assets/drawingbaseviewprompt.png)
 
 First, select the file to display in the drawing file. Then, change the scale of the object accordingly. Usually, it is best to increase the ratio of small objects and decrease the ratio of large objects in order for them to take up a reasonable amount of space, although Inventor will try to do this automatically. Finally, the style of the drawing is dependent on what is being displayed; including hidden lines is potentially useful in the context of a small, simple part, but would make the entire drawing file look cluttered if enabled for a large, complex assembly like a robot, hence presenting a good reason to use the "Hidden Line Removed" option. Whether the drawing is shaded or not is up to preference, although it is usually good practice to leave the drawing unshaded. This option will not affect hidden lines. Clicking "OK" should close this window and generate the drawing of the base view.
 
-![](<../../.gitbook/assets/mecanumwheelbaseview (1).png>)
+![](../../.gitbook/assets/mecanumwheelbaseview.png)
 
 When importing the model, keep in mind that the base view should always be the flat view that shows the most features on the object. In this case, the top view of this mecanum wheel would be the base view. Once the base view is placed, the multi-view layout can now be generated. To do so, click "Projected" at the top of the Inventor window under the "Place Views" tab. Then, click on the base view. Once the cursor is moved away from the base view, an image of the model will appear. Moving the mouse along different axes will display a different view. Moving the mouse directly up will create a top view of the model. Moving the mouse to the right or left will create a side view of the model. Finally, moving the mouse diagonally from the model will create an isometric view of the model. Once it is determined that the optimal position of the projected view, left-click to place the view. Repeat this until there is a top view, side view, and isometric view present. Then right-click, and drag the mouse towards "Create" and let go once it's highlighted. This will complete the multi-view drawing.
 

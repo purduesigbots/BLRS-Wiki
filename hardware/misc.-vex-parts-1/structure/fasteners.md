@@ -14,15 +14,15 @@ Of more importance to the user of a screw is the drive style and its specialty f
 
 #### Star/Torx Drive
 
-![](<../../../.gitbook/assets/image (107).png>)
+![](<../../../.gitbook/assets/image (10).png>)
 
-Star Drive, otherwise known by its trade name as "Torx" Drive, is the most common drive style in VEX. It offers the advantage of being generally more resistant to stripping than its hexagonal predecessor, but has the tradeoff of being difficult to purchase at a hardware store. Convenient sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html), [Robosource](https://www.robosource.net/star-drive-screws-steel), and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size\~8-32/drive-style\~torx/).
+Star Drive, otherwise known by its trade name as "Torx" Drive, is the most common drive style in VEX. It offers the advantage of being generally more resistant to stripping than its hexagonal predecessor, but has the tradeoff of being difficult to purchase at a hardware store. Convenient sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html), [Robosource](https://www.robosource.net/star-drive-screws-steel), and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size~8-32/drive-style~torx/).
 
 #### Hex Drive
 
 ![](<../../../.gitbook/assets/image (92).png>)
 
-Hex Drive was widely used in previous seasons of VRC, but has since been mostly eclipsed by Star Drive screws. Hex Drive is now largely unpopular due to the fact that it is notorious for stripping easily. Additionally, similar to the Star Drive style, it is difficult to find commercially. Potential sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html) and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size\~8-32/drive-style\~hex/).
+Hex Drive was widely used in previous seasons of VRC, but has since been mostly eclipsed by Star Drive screws. Hex Drive is now largely unpopular due to the fact that it is notorious for stripping easily. Additionally, similar to the Star Drive style, it is difficult to find commercially. Potential sources of these types of screws include the [VEX Robotics website](https://www.vexrobotics.com/all-screws.html) and [McMaster-Carr](https://www.mcmaster.com/screws/thread-size~8-32/drive-style~hex/).
 
 #### Phillips Head
 
@@ -82,9 +82,9 @@ Standoffs are a fairly common part with a wide variety of use-cases in the VEX R
 
 <figure><img src="../../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
-Comprised of a long, threaded interior formed into a hexagonal shape, standoffs are often used to space pieces of structure over long dimensions, as screws can be threaded into either end of the cylinder. Due to their versatile dimensions, standoffs are often used in bracing components of a robot, and are sometimes used as main structural components themselves.&#x20;
+Comprised of a long, threaded interior formed into a hexagonal shape, standoffs are often used to space pieces of structure over long dimensions, as screws can be threaded into either end of the cylinder. Due to their versatile dimensions, standoffs are often used in bracing components of a robot, and are sometimes used as main structural components themselves.
 
-In the VEX Robotics Competition rules, there is a maximum length of 2.5 inches (63.5mm) for any commercially available standoff. Common sources of standoffs include the [VEX Robotics website](https://www.vexrobotics.com/standoffs-8-32.html), [RoboSource](https://www.robosource.net/screws-hardware), and [McMaster-Carr](https://www.mcmaster.com/products/spacers/female-threaded-hex-standoffs-6/thread-size\~8-32/hex-size\~1-4-1/).
+In the VEX Robotics Competition rules, there is a maximum length of 2.5 inches (63.5mm) for any commercially available standoff. Common sources of standoffs include the [VEX Robotics website](https://www.vexrobotics.com/standoffs-8-32.html), [RoboSource](https://www.robosource.net/screws-hardware), and [McMaster-Carr](https://www.mcmaster.com/products/spacers/female-threaded-hex-standoffs-6/thread-size~8-32/hex-size~1-4-1/).
 
 ### Teams Contributed to this Article:
 

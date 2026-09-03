@@ -6,7 +6,7 @@ description: >-
 
 # Autoformatting
 
-{% file src="../../.gitbook/assets/clang-format.bin" %}
+{% file src="../../.gitbook/assets/clang-format" %}
 clang-format Download
 {% endfile %}
 

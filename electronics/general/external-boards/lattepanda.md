@@ -33,7 +33,7 @@ Although it might be overkill for most usages in VRC and VEXU, its still worth d
 | Board Size           | 88 x 70mm / 3.46 x 2.76"                                                                                                                                            |
 | Board Weight         | 55 grams                                                                                                                                                            |
 
-![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (2).png>)
+![LattePanda V1.0 Port Layout](<../../../.gitbook/assets/image (3) (1).png>)
 
 ## LattePanda Alpha Series
 
@@ -47,7 +47,7 @@ The LattePanda Alpha series comes in the 800s and 864s variants, with the 864s h
 
 ## **Specifications:**
 
-| Specification        |  **Alpha 800s**                                                                                                                           | Alpha 864s                                                                                                                                |
+| Specification        | **Alpha 800s**                                                                                                                            | Alpha 864s                                                                                                                                |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | RAM:                 | 8 GB LPDDR3                                                                                                                               | 8 GB LPDDR3                                                                                                                               |
 | Storage:             | 0 GB                                                                                                                                      | 64 GB                                                                                                                                     |
@@ -70,7 +70,7 @@ The LattePanda Delta series comes in the 432 \_\*\*\_model, and is nearly identi
 
 ![LattePanda Delta 432](<../../../.gitbook/assets/image (66).png>)
 
-| Specification        |  **Delta 432**                                                                                                                                               |
+| Specification        | **Delta 432**                                                                                                                                                |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | RAM                  | 4 GB LPDDR4 2400MHz Dual-Channel                                                                                                                             |
 | Memory               | 32GB eMMC V5.0l                                                                                                                                              |

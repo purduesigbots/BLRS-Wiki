@@ -4,7 +4,7 @@ description: Mitigate the effects of opposing defense with traction wheels.
 
 # Traction Wheels
 
-<figure><img src="../../../.gitbook/assets/tractionwheelprogression (1).png" alt=""><figcaption><p>From left to right: 2.75", 3.25", and 4" Anti-Static Wheels </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tractionwheelprogression.png" alt=""><figcaption><p>From left to right: 2.75", 3.25", and 4" Anti-Static Wheels</p></figcaption></figure>
 
 **Traction wheels**, mostly only referred to plainly as "wheels" by VEX, are the simplest wheel type offered in the VEX Robotics Competition, only having one degree of freedom (forward and backward). They are made up of two simple parts: an acetal frame and a tire that fits around said frame, typically made of rubber or a material similar to rubber. They are typically used in the center of drivetrains to restrict unwanted sideways movement (such as from defense).
 
@@ -18,7 +18,7 @@ Although all anti-static wheels perform identically, the original wheels and tra
 
 <figure><img src="../../../.gitbook/assets/2.75antistaticwheel.png" alt=""><figcaption><p>A 2.75" anti-static wheel.</p></figcaption></figure>
 
-Anti-static wheels have a high amount of traction and, unlike their predecessors, have a uniform width and tire shape. Although they are wider than the original wheels, this is actually an advantage rather than a detriment since the larger tire surface area increases the odds that the wheel will make contact with the field tiles, allowing the tire's traction to have a larger effect on the wheel's overall performance. Additionally, the width for all three sizes only comes out to be 1 inch, a compact wheel in comparison to the various wheels VEX Robotics has manufactured.&#x20;
+Anti-static wheels have a high amount of traction and, unlike their predecessors, have a uniform width and tire shape. Although they are wider than the original wheels, this is actually an advantage rather than a detriment since the larger tire surface area increases the odds that the wheel will make contact with the field tiles, allowing the tire's traction to have a larger effect on the wheel's overall performance. Additionally, the width for all three sizes only comes out to be 1 inch, a compact wheel in comparison to the various wheels VEX Robotics has manufactured.
 
 Conveniently, the hubs of the wheels come with many mounting holes which allows the user to fasten gears or other relevant motion objects onto the hub.
 
@@ -36,7 +36,7 @@ These wheels have tires with special properties that prevent the accumulation of
 
 <figure><img src="../../../.gitbook/assets/4inchwheels.png" alt=""><figcaption><p>A 4" wheel with a high traction tire (left) and base tire (right)</p></figcaption></figure>
 
-4" traction wheels have the unique property of having interchangeable tires, being the only wheel where this is an intended feature. There are two possible tires: the base tire and the high traction tire. The base tire lacks traction almost entirely and takes up a strange pattern of triangle and lines in an attempt to mimic car tire tread. The high traction tire has significantly more traction, but suffers from the same issue as the 2.75" wheel, in which the filleted tire causes the contact area of the tire to be very small.&#x20;
+4" traction wheels have the unique property of having interchangeable tires, being the only wheel where this is an intended feature. There are two possible tires: the base tire and the high traction tire. The base tire lacks traction almost entirely and takes up a strange pattern of triangle and lines in an attempt to mimic car tire tread. The high traction tire has significantly more traction, but suffers from the same issue as the 2.75" wheel, in which the filleted tire causes the contact area of the tire to be very small.
 
 ### Teams Contributed to this Article:
 
