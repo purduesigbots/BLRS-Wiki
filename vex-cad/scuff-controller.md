@@ -10,7 +10,7 @@ Below is a list of newer versions that can be [3D printed](../hardware/vexu/comm
 
 {% embed url="https://www.printables.com/model/392038-vex-scuff-controller-v2" %}
 
-{% embed url="https://georgegillard.com/resources/cad-files" %}
+{% embed url="https://georgegillard.com/resources/" %}
 
 {% embed url="https://www.thingiverse.com/thing:5583268" %}
 
